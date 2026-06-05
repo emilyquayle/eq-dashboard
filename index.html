@@ -292,11 +292,11 @@ function getEventCategory(title) {
   const t = (title||'').toLowerCase();
   if (/\bflight\b|\bunited airlines\b|\bdelta airlines\b|\bamerican airlines\b|\bsouthwest\b|\b(ua|aa|dl|wn|b6|f9)\s*\d{3,4}\b/.test(t)) return 'ev-travel';
   if (/\bstay at\b|\bhotel\b|\bwestin\b|\bmarriott\b|\bhilton\b|\bhyatt\b|\bairbnb\b/.test(t)) return 'ev-travel';
-  if (/^\s*(nyc|naples|paris|london|miami|charleston|rome|boston|austin|denver)\s*$/.test(t)) return 'ev-travel';
-  if (/\bsolidcore\b|\bgym\b|\bworkout\b|\bpilates\b|\byoga\b|\bbarre\b|\borangetheory\b|\bf45\b|\bcrossfit\b|\brun club\b/.test(t)) return 'ev-workout';
-  if (/\bnails\b|\bmanicure\b|\bpedicure\b|\bbrow\b|\bwax\b|\blash\b|\bfacial\b|\bmicroneedling\b|\bhaircut\b|\bdentist\b|\bdoctor\b|\btherapy\b|\bmassage\b|\bappt\b|\bdr\.\s*appt\b/.test(t)) return 'ev-appointment';
-  if (/\bdinner\b|\blunch\b|\bbrunch\b|\breservation\b|\bopentable\b|\bresy\b|\bhappy hour\b|\bdrinks\b/.test(t)) return 'ev-dining';
-  if (/\bconcert\b|\bshow\b|\bgame\b|\bfestival\b|\bcomedy\b|\btheatre\b|\bparty\b|\bbirthday\b|\bwedding\b|\bbassment\b|\btrivia\b|\bmovie\b/.test(t)) return 'ev-fun';
+  if (/^\s*(nyc|naples|paris|london|miami|charleston|rome|boston|austin|denver|aruba|kiawah|upstate)\s*$/.test(t)) return 'ev-travel';
+  if (/\bsolidcore\b|\bsignature50\b|\bgym\b|\bworkout\b|\bpilates\b|\byoga\b|\bbarre\b|\borangetheory\b|\bf45\b|\bcrossfit\b|\brun club\b/.test(t)) return 'ev-workout';
+  if (/\bnails?\b|\bmanicure\b|\bpedicure\b|\bbrow\b|\bwax\b|\blash\b|\bfacial\b|\bmicroneedling\b|\bhaircut\b|\bdentist\b|\bdoctor\b|\btherapy\b|\bmassage\b|\bappt\b|\bdr\.\s*appt\b|\bgyno\b|\bderm\b/.test(t)) return 'ev-appointment';
+  if (/\bdinner\b|\blunch\b|\bbrunch\b|\breservation\b|\bopentable\b|\bresy\b|\bhappy hour\b|\bdrinks\b|\bcuisine queens?\b/.test(t)) return 'ev-dining';
+  if (/\bconcert\b|\bshow\b|\bgame\b|\bfestival\b|\bcomedy\b|\btheatre\b|\bparty\b|\bbirthday\b|\bwedding\b|\bbassment\b|\btrivia\b|\bmovie\b|\btable\b/.test(t)) return 'ev-fun';
   if (/\bbowl\b|\bchampionship\b|\bvs\.?\s|\bsuper bowl\b/.test(t)) return 'ev-fun';
   if (/\bbach\b|\bski\s*(day|trip)\b|\bboat\s*day\b|\bhot springs\b|\bafghan night\b|\b\w+ night\b/.test(t)) return 'ev-fun';
   return 'ev-default';
@@ -304,7 +304,11 @@ function getEventCategory(title) {
 const CAT_COLORS = { 'ev-travel':'#be92e8','ev-workout':'#7cdea0','ev-appointment':'#f9ad76','ev-dining':'#94abdb','ev-fun':'#e694bd','ev-default':'#a09880' };
 
 function cleanTitle(t, cat) {
+  // Solidcore: normalize all class names to "[solidcore]"
+  if (/\bsolidcore\b|\bsignature50\b/i.test(t)) return '[solidcore]';
+  // Appointments: strip "w/ Person" suffix
   if (cat === 'ev-appointment') t = t.replace(/\s+w\/.*$/i,'').trim();
+  // Strip reservation prefixes and booking platform suffixes
   t = t.replace(/^reservation at\s+/i,'').replace(/\s*[-–]\s*(opentable|resy)$/i,'').replace(/\s*\(opentable\)$/i,'');
   return t;
 }
@@ -329,7 +333,10 @@ function shortenLocation(loc, title) {
   if (/\bCHS\b/i.test(l)||/charleston.*airport/i.test(l)) return 'Charleston (CHS)';
   if (/\bJFK\b/i.test(l)) return 'JFK'; if (/\bLAX\b/i.test(l)) return 'LAX';
   if (/zoom\.us/i.test(l)) return 'Zoom'; if (/meet\.google/i.test(l)) return 'Google Meet';
-  if (/solidcore/i.test(tl)) { const cs=l.match(/,\s*([A-Za-z\s]+),\s*([A-Z]{2})/); return cs?`${cs[1].trim()}, ${cs[2]}`:l.slice(0,28); }
+  if (/solidcore|signature50/i.test(tl)) return 'Chicago, IL';
+  if (/benefit cosmetics/i.test(l)) return 'Benefit Cosmetics';
+  if (/northwestern/i.test(l)) return 'Northwestern Hospital';
+  if (/sky restaurant|s\.k\.y\./i.test(l)) return 'S.K.Y.';
   const lines=l.split(/\n/); if (lines.length>1&&!/^\d+\s/.test(lines[0])) return lines[0].trim().slice(0,28);
   const parts=l.split(','); if (parts.length>1&&!/^\d+\s/.test(parts[0])&&/^\s*\d+\s/.test(parts[1])) return parts[0].trim().slice(0,28);
   if (/^\d+\s/.test(l)) { const cs=l.match(/,\s*([A-Za-z\s]+),\s*([A-Z]{2})/); return cs?`${cs[1].trim()}, ${cs[2]}`:''; }
