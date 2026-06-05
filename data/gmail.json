@@ -1,61 +1,68 @@
 {
-  "updated": "2026-06-05T12:30:00Z",
+  "updated": "2026-06-05T16:25:00Z",
   "messages": [
     {
-      "sender": "customerservice@jonathanadler.com",
-      "subject": "SUMMER FRIDAYS",
-      "snippet": "Start warm-weather weekends with a soirée.",
+      "sender": "CFAInstitute@mail.cfainstitute.org",
+      "subject": "401(k) alts, AI in finance, and member milestones",
+      "snippet": "This week: retirement risk, wealth transfer, AI skills, and member moves In this issue 5 June 2026",
       "isUnread": true,
-      "date": "2026-06-05T12:15:33Z"
+      "date": "2026-06-05T16:18:39Z"
     },
     {
-      "sender": "notifications@united.com",
-      "subject": "What to know about your trip to Newark",
-      "snippet": "United Airlines MileagePlus Flight itinerary Destination: Newark Reservation number: G4EJT6 Departs: June 8, 2026 Emily, it's almost time for your trip!",
+      "sender": "gap@gap.narvar.com",
+      "subject": "Your order has arrived.",
+      "snippet": "Thank you for your order! Order #: 1QY4TXM | Order date: May 28, 2026 Your package has arrived!",
       "isUnread": true,
-      "date": "2026-06-05T11:05:57Z"
+      "date": "2026-06-05T16:22:03Z"
     },
     {
-      "sender": "news@execsum.co",
-      "subject": "It's Musks Moment for Markets",
-      "snippet": "Fidelity will allow broke people to invest in SpaceX's IPO, Goldman and Morgan Stanley are beefing over SpaceX IPO bragging rights, S&P will not quicken index inclusion for SpaceX",
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Cucumber, tomato, red onion, herbs, lime and olive oil",
+      "snippet": "Salad-e Shirazi, and more of the week's most popular recipes. The Best of the Week in Cooking",
       "isUnread": true,
-      "date": "2026-06-05T10:46:37Z"
+      "date": "2026-06-05T15:01:21Z"
+    },
+    {
+      "sender": "newsletter@kith.com",
+      "subject": "Kith for Taxi Driver & Tribeca Festival",
+      "snippet": "Available Now",
+      "isUnread": true,
+      "date": "2026-06-05T15:01:51Z"
     },
     {
       "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Senate Republicans push through immigration crackdown bill",
-      "snippet": "It was a victory for President Trump, but it also exposed fissures in the party.",
+      "subject": "Breaking news: Veteran character actor stabbed to death",
+      "snippet": "James Handy had parts in \"Top Gun: Maverick\" and \"Arachnophobia.\" June 5, 2026, 10:55 am ET BREAKING NEWS",
       "isUnread": true,
-      "date": "2026-06-05T09:29:47Z"
+      "date": "2026-06-05T14:57:40Z"
     },
     {
-      "sender": "mail@mail.creditkarma.com",
-      "subject": "Does this information look right, Emily?",
-      "snippet": "Check your accounts and make sure everything looks right.",
+      "sender": "info@analuisa.com",
+      "subject": "New In: Soft:Sharp Collection",
+      "snippet": "Give your uniform some edge.",
       "isUnread": true,
-      "date": "2026-06-04T17:58:30Z"
+      "date": "2026-06-05T14:08:03Z"
     },
     {
-      "sender": "noreply@united.com",
-      "subject": "United Airlines Flight UA 1647 BOS to EWR at 17:44 PM - 19:15 PM (local time)",
-      "snippet": "United Airlines Flight Information. Confirmation number: G4EJT6. Flight: UA 1647 Depart: BOS - Boston on Mon, Jun 08 2026",
+      "sender": "bankofamerica@emcom.bankofamerica.com",
+      "subject": "Compare accounts for teens and kids",
+      "snippet": "Choose a banking account with features for students and young adults or one with parental controls that's great for kids.",
+      "isUnread": true,
+      "date": "2026-06-05T14:00:46Z"
+    },
+    {
+      "sender": "noreply@github.com",
+      "subject": "[GitHub] Please verify your device",
+      "snippet": "Hey emilyquayle! A sign in attempt requires further verification because we did not recognize your device.",
       "isUnread": false,
-      "date": "2026-06-05T00:41:00Z"
+      "date": "2026-06-05T13:56:20Z"
     },
     {
-      "sender": "noreply@united.com",
-      "subject": "United Airlines Flight UA 661 EWR to ORD at 16:45 PM - 18:34 PM (local time)",
-      "snippet": "United Airlines Flight Information. Confirmation number: G4EJT6. Flight: UA 661 Depart: EWR - Newark on Wed, Jun 10 2026",
+      "sender": "announcements@jimmyjohns.com",
+      "subject": "New Reward! $5 off your next $20+ digital order",
+      "snippet": "Use this deal to try the fan-favorite Thai Chicken Wrap. New Reward Alert! $5 off $20+ Digital Exclusive",
       "isUnread": true,
-      "date": "2026-06-05T00:41:01Z"
-    },
-    {
-      "sender": "noreply@united.com",
-      "subject": "United Airlines Flight UA 1186 ORD to BOS at 6:05 AM - 9:29 AM (local time)",
-      "snippet": "United Airlines Flight Information. Confirmation number: G4EJT6. Flight: UA 1186 Depart: ORD - Chicago on Mon, Jun 08 2026",
-      "isUnread": true,
-      "date": "2026-06-05T00:41:00Z"
+      "date": "2026-06-05T13:08:56Z"
     }
   ]
 }
