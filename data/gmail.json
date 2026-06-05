@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-05T13:00:00Z",
+  "updated": "2026-06-05T12:30:00Z",
   "messages": [
+    {
+      "sender": "customerservice@jonathanadler.com",
+      "subject": "SUMMER FRIDAYS",
+      "snippet": "Start warm-weather weekends with a soirée.",
+      "isUnread": true,
+      "date": "2026-06-05T12:15:33Z"
+    },
+    {
+      "sender": "notifications@united.com",
+      "subject": "What to know about your trip to Newark",
+      "snippet": "United Airlines MileagePlus Flight itinerary Destination: Newark Reservation number: G4EJT6 Departs: June 8, 2026 Emily, it's almost time for your trip!",
+      "isUnread": true,
+      "date": "2026-06-05T11:05:57Z"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "It's Musks Moment for Markets",
+      "snippet": "Fidelity will allow broke people to invest in SpaceX's IPO, Goldman and Morgan Stanley are beefing over SpaceX IPO bragging rights, S&P will not quicken index inclusion for SpaceX",
+      "isUnread": true,
+      "date": "2026-06-05T10:46:37Z"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Senate Republicans push through immigration crackdown bill",
+      "snippet": "It was a victory for President Trump, but it also exposed fissures in the party.",
+      "isUnread": true,
+      "date": "2026-06-05T09:29:47Z"
+    },
     {
       "sender": "mail@mail.creditkarma.com",
       "subject": "Does this information look right, Emily?",
@@ -11,44 +39,23 @@
     {
       "sender": "noreply@united.com",
       "subject": "United Airlines Flight UA 1647 BOS to EWR at 17:44 PM - 19:15 PM (local time)",
-      "snippet": "Confirmation number: G4EJT6 View trip details Flight: UA 1647 Depart: BOS - Boston on Mon, Jun 08 2026",
+      "snippet": "United Airlines Flight Information. Confirmation number: G4EJT6. Flight: UA 1647 Depart: BOS - Boston on Mon, Jun 08 2026",
       "isUnread": false,
       "date": "2026-06-05T00:41:00Z"
     },
     {
       "sender": "noreply@united.com",
       "subject": "United Airlines Flight UA 661 EWR to ORD at 16:45 PM - 18:34 PM (local time)",
-      "snippet": "Confirmation number: G4EJT6 View trip details Flight: UA 661 Depart: EWR - Newark on Wed, Jun 10 2026",
+      "snippet": "United Airlines Flight Information. Confirmation number: G4EJT6. Flight: UA 661 Depart: EWR - Newark on Wed, Jun 10 2026",
       "isUnread": true,
       "date": "2026-06-05T00:41:01Z"
     },
     {
       "sender": "noreply@united.com",
       "subject": "United Airlines Flight UA 1186 ORD to BOS at 6:05 AM - 9:29 AM (local time)",
-      "snippet": "Confirmation number: G4EJT6 View trip details Flight: UA 1186 Depart: ORD - Chicago on Mon, Jun 08 2026",
+      "snippet": "United Airlines Flight Information. Confirmation number: G4EJT6. Flight: UA 1186 Depart: ORD - Chicago on Mon, Jun 08 2026",
       "isUnread": true,
       "date": "2026-06-05T00:41:00Z"
-    },
-    {
-      "sender": "Business552763@mindbodyonline.com",
-      "subject": "Emily, you're CONFIRMED. ✔️",
-      "snippet": "Get ready to sweat, Emily.",
-      "isUnread": true,
-      "date": "2026-06-05T00:36:25Z"
-    },
-    {
-      "sender": "no-reply@e.benefitcosmetics.com",
-      "subject": "Hey Emily! Your appointment at Benefit Cosmetics Boutique Southport is confirmed.",
-      "snippet": "Service: Brow Thread, Brow Tint & Lash Tint 03:45 PM (30 minutes) With: Nina Symone",
-      "isUnread": true,
-      "date": "2026-06-05T00:35:46Z"
-    },
-    {
-      "sender": "gap@gap.narvar.com",
-      "subject": "Your order has arrived.",
-      "snippet": "Order #: 1QY4TXM | Order date: May 28, 2026 Your package has arrived! Thank you for shopping with Gap.",
-      "isUnread": true,
-      "date": "2026-06-05T00:02:12Z"
     }
   ]
 }
