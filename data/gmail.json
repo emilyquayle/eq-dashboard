@@ -1,24 +1,59 @@
 {
-  "updated": "2026-06-05T16:25:00Z",
+  "updated": "2026-06-05T21:55:00Z",
   "messages": [
+    {
+      "sender": "no-reply@rentcafe.com",
+      "subject": "Pergola Project Completed",
+      "snippet": "Dear Residents, We're excited to share that the pergola project has been completed! With these improvements in place, the pool's",
+      "isUnread": true,
+      "date": "2026-06-05T21:52:20Z"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: “Ted Lasso” and “Buffy the Vampire Slayer” actor dies at 72",
+      "snippet": "Anthony Head was a mainstay of influential television shows.",
+      "isUnread": true,
+      "date": "2026-06-05T21:05:02Z"
+    },
+    {
+      "sender": "no.reply.alerts@chase.com",
+      "subject": "Your Chase Sapphire Preferred Visa automatic payment is scheduled",
+      "snippet": "Payment reminder: Your upcoming automatic payment is scheduled. We'll pay the amount you scheduled from your account on your due date.",
+      "isUnread": true,
+      "date": "2026-06-05T17:56:21Z"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Judge says Trump officials must restart asylum and immigration processing",
+      "snippet": "The order invalidated policies the Trump administration enacted last year.",
+      "isUnread": true,
+      "date": "2026-06-05T17:46:01Z"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Weekend: This Clothing Brand Does Home?",
+      "snippet": "But first: the wardrobe basics our editors swear by — Check out what we Skimm'd for you today June 5, 2026",
+      "isUnread": true,
+      "date": "2026-06-05T17:00:59Z"
+    },
     {
       "sender": "CFAInstitute@mail.cfainstitute.org",
       "subject": "401(k) alts, AI in finance, and member milestones",
-      "snippet": "This week: retirement risk, wealth transfer, AI skills, and member moves In this issue 5 June 2026",
+      "snippet": "This week: retirement risk, wealth transfer, AI skills, and member moves. CFA Institute was cited in a Reuters article.",
       "isUnread": true,
       "date": "2026-06-05T16:18:39Z"
     },
     {
       "sender": "gap@gap.narvar.com",
       "subject": "Your order has arrived.",
-      "snippet": "Thank you for your order! Order #: 1QY4TXM | Order date: May 28, 2026 Your package has arrived!",
+      "snippet": "Your package has arrived! Hi Emily, Thank you for shopping with Gap. Order #: 1QY4TXM | Order date: May 28, 2026",
       "isUnread": true,
       "date": "2026-06-05T16:22:03Z"
     },
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "Cucumber, tomato, red onion, herbs, lime and olive oil",
-      "snippet": "Salad-e Shirazi, and more of the week's most popular recipes. The Best of the Week in Cooking",
+      "snippet": "Salad-e Shirazi, and more of the week's most popular recipes.",
       "isUnread": true,
       "date": "2026-06-05T15:01:21Z"
     },
@@ -32,37 +67,9 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Veteran character actor stabbed to death",
-      "snippet": "James Handy had parts in \"Top Gun: Maverick\" and \"Arachnophobia.\" June 5, 2026, 10:55 am ET BREAKING NEWS",
+      "snippet": "James Handy had parts in \"Top Gun: Maverick\" and \"Arachnophobia.\"",
       "isUnread": true,
       "date": "2026-06-05T14:57:40Z"
-    },
-    {
-      "sender": "info@analuisa.com",
-      "subject": "New In: Soft:Sharp Collection",
-      "snippet": "Give your uniform some edge.",
-      "isUnread": true,
-      "date": "2026-06-05T14:08:03Z"
-    },
-    {
-      "sender": "bankofamerica@emcom.bankofamerica.com",
-      "subject": "Compare accounts for teens and kids",
-      "snippet": "Choose a banking account with features for students and young adults or one with parental controls that's great for kids.",
-      "isUnread": true,
-      "date": "2026-06-05T14:00:46Z"
-    },
-    {
-      "sender": "noreply@github.com",
-      "subject": "[GitHub] Please verify your device",
-      "snippet": "Hey emilyquayle! A sign in attempt requires further verification because we did not recognize your device.",
-      "isUnread": false,
-      "date": "2026-06-05T13:56:20Z"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "New Reward! $5 off your next $20+ digital order",
-      "snippet": "Use this deal to try the fan-favorite Thai Chicken Wrap. New Reward Alert! $5 off $20+ Digital Exclusive",
-      "isUnread": true,
-      "date": "2026-06-05T13:08:56Z"
     }
   ]
 }
