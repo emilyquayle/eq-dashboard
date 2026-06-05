@@ -406,8 +406,8 @@ async function loadCalendar() {
     let allEvents;
 
     if (IN_COWORK) {
-      const rangeStart = new Date(new Date().getFullYear(), 0, 1); // Jan 1 of current year
-      const rangeEnd   = new Date(new Date().getFullYear(), 11, 31, 23, 59, 59); // Dec 31
+      const rangeStart = new Date(); rangeStart.setDate(rangeStart.getDate() - 14); rangeStart.setHours(0,0,0,0);
+      const rangeEnd   = new Date(); rangeEnd.setDate(rangeEnd.getDate() + 28); rangeEnd.setHours(23,59,59,0);
       const results = await Promise.all(CALENDAR_IDS.map(id =>
         window.cowork.callMcpTool('mcp__7c7db348-3842-4334-acf5-2c525cfe072c__list_events', {
           calendarId: id,
