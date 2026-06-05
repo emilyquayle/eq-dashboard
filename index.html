@@ -4,7 +4,6 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>EQ Dashboard</title>
-<script src="https://accounts.google.com/gsi/client" async></script>
 <style>
   :root { color-scheme: light; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -90,6 +89,19 @@
   /* Refresh btn */
   .refresh-btn { background: none; border: none; cursor: pointer; font-size: 0.75rem; color: #a09880; margin-left: auto; display: flex; align-items: center; gap: 4px; }
   .refresh-btn:hover { color: #4a7c59; }
+
+  /* Settings panel */
+  #settings-panel { display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.4); z-index:10000; align-items:center; justify-content:center; }
+  #settings-panel.open { display:flex; }
+  .settings-box { background:#f5f3ed; border-radius:16px; padding:24px; width:460px; max-width:90vw; border:1px solid #d6d0c4; }
+  .settings-box h3 { font-family:'Lora',serif; color:#4a7c59; font-size:1rem; margin-bottom:4px; }
+  .settings-box p { font-size:0.78rem; color:#7a7060; margin-bottom:12px; }
+  .settings-box textarea { width:100%; height:100px; font-size:0.72rem; font-family:monospace; border:1px solid #d6d0c4; border-radius:8px; padding:8px; background:white; resize:vertical; }
+  .settings-actions { display:flex; gap:8px; margin-top:10px; }
+  .settings-btn { font-size:0.78rem; font-weight:600; padding:6px 16px; border-radius:20px; border:none; cursor:pointer; }
+  .settings-btn.primary { background:#4a7c59; color:white; }
+  .settings-btn.secondary { background:#d6d0c4; color:#2e2a22; }
+  .settings-btn.danger { background:#f2d9d3; color:#b7472a; }
 </style>
 </head>
 <body>
@@ -100,9 +112,28 @@
     <h1>Hey, Emily 👋</h1>
     <p id="date-label">Loading date...</p>
   </div>
-  <div class="header-right">
+  <div class="header-right" style="display:flex;flex-direction:column;align-items:flex-end;gap:4px;">
     <div class="clock" id="clock">--:--</div>
-    <div class="date-label">Local time</div>
+    <div style="display:flex;align-items:center;gap:10px;">
+      <div class="date-label">Local time</div>
+      <button onclick="openSettings()" style="background:rgba(255,255,255,0.2);border:1px solid rgba(255,255,255,0.3);color:#f5f3ed;border-radius:8px;padding:2px 8px;font-size:0.72rem;cursor:pointer;">⚙ Settings</button>
+    </div>
+  </div>
+</div>
+
+<!-- SETTINGS PANEL -->
+<div id="settings-panel">
+  <div class="settings-box">
+    <h3>Color override settings</h3>
+    <p>Copy this JSON to import your color settings on another device, or paste JSON from another device to import here.</p>
+    <textarea id="settings-json" placeholder="Your color overrides will appear here..."></textarea>
+    <div class="settings-actions">
+      <button class="settings-btn primary" onclick="importSettings()">Import & apply</button>
+      <button class="settings-btn secondary" onclick="copySettings()">Copy to clipboard</button>
+      <button class="settings-btn danger" onclick="clearSettings()">Clear all overrides</button>
+      <button class="settings-btn secondary" onclick="closeSettings()" style="margin-left:auto;">Close</button>
+    </div>
+    <div id="settings-msg" style="font-size:0.75rem;color:#4a7c59;margin-top:8px;min-height:16px;"></div>
   </div>
 </div>
 
@@ -198,15 +229,23 @@
 
 <script>
 // ── Config ────────────────────────────────────────────────
-const GOOGLE_CLIENT_ID = '7201608517-rp76of6b3rjeuur03hlhnacskin72aqh.apps.googleusercontent.com';
-const SPOTIFY_CLIENT_ID = '42ceb90049cd4b0e9d7179fd0b7fe455';
-const REDIRECT_URI = 'https://emilyquayle.github.io/eq-dashboard/';
-const GOOGLE_SCOPES = 'https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/gmail.readonly';
-const CALENDAR_IDS = [
-  'primary',
-  'mn0dnmqhekjl3rdm6skc5fvcv0@group.calendar.google.com',
-  'en.usa#holiday@group.v.calendar.google.com'
-];
+const DATA_BASE = 'https://emilyquayle.github.io/eq-dashboard';
+
+// ── Data loading ──────────────────────────────────────────
+async function loadJSON(path) {
+  try {
+    const r = await fetch(`${DATA_BASE}/${path}`, { cache: 'no-store' });
+    if (!r.ok) return null;
+    return await r.json();
+  } catch { return null; }
+}
+
+// ── Local storage (color overrides only) ─────────────────
+const LS = {
+  get: k => { try { return localStorage.getItem(k); } catch(e) { return null; } },
+  set: (k, v) => { try { localStorage.setItem(k, v); } catch(e) {} },
+  del: k => { try { localStorage.removeItem(k); } catch(e) {} }
+};
 
 // ── Clock ─────────────────────────────────────────────────
 function updateClock() {
@@ -221,152 +260,6 @@ function updateClock() {
 updateClock();
 setInterval(updateClock, 10000);
 
-// ── Token helpers ─────────────────────────────────────────
-const LS = {
-  get: k => { try { return localStorage.getItem(k); } catch(e) { return null; } },
-  set: (k, v) => { try { localStorage.setItem(k, v); } catch(e) {} },
-  del: k => { try { localStorage.removeItem(k); } catch(e) {} }
-};
-const isGoogleValid = () => LS.get('g_token') && Date.now() < parseInt(LS.get('g_expiry') || '0') - 30000;
-const isSpotifyValid = () => LS.get('sp_token') && Date.now() < parseInt(LS.get('sp_expiry') || '0') - 30000;
-const hasTodoist = () => !!LS.get('todoist_token');
-const hasSpotify = () => !!LS.get('sp_refresh');
-
-// ── Google OAuth (GIS) ────────────────────────────────────
-let gTokenClient;
-
-function initGIS() {
-  if (!window.google?.accounts?.oauth2) { setTimeout(initGIS, 150); return; }
-  gTokenClient = google.accounts.oauth2.initTokenClient({
-    client_id: GOOGLE_CLIENT_ID,
-    scope: GOOGLE_SCOPES,
-    callback: resp => {
-      if (resp.error) return;
-      LS.set('g_token', resp.access_token);
-      LS.set('g_expiry', Date.now() + resp.expires_in * 1000);
-      updateSetupBanner();
-      loadCalendar();
-      loadGmail();
-    }
-  });
-  if (!isGoogleValid()) {
-    gTokenClient.requestAccessToken({ prompt: '' });
-  } else {
-    loadCalendar();
-    loadGmail();
-  }
-}
-
-function connectGoogle() {
-  if (!gTokenClient) return;
-  gTokenClient.requestAccessToken({ prompt: 'consent' });
-}
-
-async function getGoogleToken() {
-  if (isGoogleValid()) return LS.get('g_token');
-  return new Promise((resolve, reject) => {
-    const tc = google.accounts.oauth2.initTokenClient({
-      client_id: GOOGLE_CLIENT_ID, scope: GOOGLE_SCOPES,
-      callback: r => r.error ? reject(new Error(r.error)) : (
-        LS.set('g_token', r.access_token),
-        LS.set('g_expiry', Date.now() + r.expires_in * 1000),
-        resolve(r.access_token)
-      )
-    });
-    tc.requestAccessToken({ prompt: '' });
-  });
-}
-
-// ── Spotify PKCE ──────────────────────────────────────────
-function b64url(buf) {
-  return btoa(String.fromCharCode(...new Uint8Array(buf))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=/g,'');
-}
-function genVerifier() { const a = new Uint8Array(32); crypto.getRandomValues(a); return b64url(a.buffer); }
-async function genChallenge(v) { return b64url(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(v))); }
-
-async function connectSpotify() {
-  const v = genVerifier();
-  const c = await genChallenge(v);
-  LS.set('sp_verifier', v);
-  location.href = 'https://accounts.spotify.com/authorize?' + new URLSearchParams({
-    client_id: SPOTIFY_CLIENT_ID, response_type: 'code',
-    redirect_uri: REDIRECT_URI, code_challenge_method: 'S256',
-    code_challenge: c, scope: 'user-top-read user-read-recently-played', state: 'sp'
-  });
-}
-
-async function handleSpotifyCallback(code) {
-  const v = LS.get('sp_verifier');
-  if (!v) return;
-  const r = await fetch('https://accounts.spotify.com/api/token', {
-    method: 'POST', headers: {'Content-Type':'application/x-www-form-urlencoded'},
-    body: new URLSearchParams({ client_id: SPOTIFY_CLIENT_ID, grant_type: 'authorization_code',
-      code, redirect_uri: REDIRECT_URI, code_verifier: v })
-  });
-  const d = await r.json();
-  if (d.access_token) {
-    LS.set('sp_token', d.access_token);
-    LS.set('sp_refresh', d.refresh_token);
-    LS.set('sp_expiry', Date.now() + d.expires_in * 1000);
-    LS.del('sp_verifier');
-    history.replaceState({}, '', REDIRECT_URI);
-    updateSetupBanner();
-    loadSpotify();
-  }
-}
-
-async function refreshSpotify() {
-  const r = await fetch('https://accounts.spotify.com/api/token', {
-    method: 'POST', headers: {'Content-Type':'application/x-www-form-urlencoded'},
-    body: new URLSearchParams({ grant_type: 'refresh_token', refresh_token: LS.get('sp_refresh'), client_id: SPOTIFY_CLIENT_ID })
-  });
-  const d = await r.json();
-  if (!d.access_token) throw new Error('Spotify refresh failed');
-  LS.set('sp_token', d.access_token);
-  LS.set('sp_expiry', Date.now() + d.expires_in * 1000);
-  if (d.refresh_token) LS.set('sp_refresh', d.refresh_token);
-  return d.access_token;
-}
-
-async function getSpotifyToken() {
-  return isSpotifyValid() ? LS.get('sp_token') : await refreshSpotify();
-}
-
-// ── Todoist setup ─────────────────────────────────────────
-function showTodoistInput() {
-  document.getElementById('todoist-setup').style.display = 'flex';
-  document.getElementById('setup-todoist-btn').style.display = 'none';
-}
-function saveTodoistToken() {
-  const t = document.getElementById('todoist-token-input').value.trim();
-  if (!t) return;
-  LS.set('todoist_token', t);
-  updateSetupBanner();
-  loadTodos();
-}
-
-// ── Setup banner ──────────────────────────────────────────
-function updateSetupBanner() {
-  const banner = document.getElementById('setup-banner');
-  const gOk = isGoogleValid() || LS.get('g_token');
-  const sOk = hasSpotify();
-  const tOk = hasTodoist();
-
-  document.getElementById('setup-google').innerHTML = gOk
-    ? '<button class="connect-btn done">✓ Google</button>'
-    : '<button class="connect-btn google" onclick="connectGoogle()">Connect Google</button>';
-
-  document.getElementById('setup-spotify').innerHTML = sOk
-    ? '<button class="connect-btn done">✓ Spotify</button>'
-    : '<button class="connect-btn spotify" onclick="connectSpotify()">Connect Spotify</button>';
-
-  if (tOk) {
-    document.getElementById('setup-todoist-wrap').innerHTML = '<button class="connect-btn done">✓ Todoist</button>';
-  }
-
-  banner.style.display = (gOk && sOk && tOk) ? 'none' : 'flex';
-}
-
 // ── Helpers ───────────────────────────────────────────────
 function formatTime(iso) {
   if (!iso) return 'All day';
@@ -380,12 +273,8 @@ function isoDate(d) {
   const p = n => n.toString().padStart(2,'0');
   return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}`;
 }
-function isoDateTime(d) { return d.toISOString().slice(0,19); }
-function gFetch(url) {
-  return fetch(url, { headers: { Authorization: 'Bearer ' + LS.get('g_token') } }).then(r => r.json());
-}
 
-// ── Event helpers (same logic as Cowork version) ──────────
+// ── Event helpers ─────────────────────────────────────────
 function getEventCategory(title) {
   const t = (title||'').toLowerCase();
   if (/\bflight\b|\bunited airlines\b|\bdelta airlines\b|\bamerican airlines\b|\bsouthwest\b|\b(ua|aa|dl|wn|b6|f9)\s*\d{3,4}\b/.test(t)) return 'ev-travel';
@@ -494,124 +383,101 @@ async function loadCalendar() {
   const sub  = document.getElementById('cal-subtitle');
   body.innerHTML = '<div class="loading"><div class="spinner"></div> Fetching events...</div>';
 
-  if (!LS.get('g_token')) {
-    body.innerHTML = '<div class="empty">Connect Google above to see your calendar.</div>';
+  const d = await loadJSON('data/calendar.json');
+  if (!d) {
+    body.innerHTML = '<div class="empty">No calendar data yet — check back soon.</div>';
     return;
   }
 
   const {mon, sun} = getWeekBounds();
+  const monStr = isoDate(mon), sunStr = isoDate(sun);
   const DAYS = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
   const todayStr = isoDate(new Date());
   sub.textContent = `${mon.toLocaleDateString('en-US',{month:'short',day:'numeric'})} – ${sun.toLocaleDateString('en-US',{month:'short',day:'numeric'})}`;
 
-  try {
-    const token = await getGoogleToken();
-    const params = `timeMin=${mon.toISOString()}&timeMax=${sun.toISOString()}&singleEvents=true&orderBy=startTime&maxResults=50`;
+  const allEvents = (d.events || []).sort((a,b) =>
+    new Date(a.start?.dateTime||a.start?.date) - new Date(b.start?.dateTime||b.start?.date));
 
-    const results = await Promise.all(CALENDAR_IDS.map(id =>
-      fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(id)}/events?${params}`,
-        { headers: { Authorization: 'Bearer '+token } })
-        .then(r => r.json()).catch(() => null)
-    ));
-
-    const events = results.flatMap(r => r?.items || [])
-      .sort((a,b) => new Date(a.start?.dateTime||a.start?.date) - new Date(b.start?.dateTime||b.start?.date));
-
-    const byDay = {};
-    for (let i=0; i<7; i++) { const d=new Date(mon); d.setDate(mon.getDate()+i); byDay[isoDate(d)]={date:d,events:[]}; }
-
-    events.forEach(e => {
-      if (!e.start?.dateTime && e.start?.date) {
-        const s=(e.start.date||'').slice(0,10), en=(e.end?.date||e.start.date).slice(0,10);
-        Object.keys(byDay).forEach(k => { if(k>=s && k<en) byDay[k].events.push(e); });
-      } else {
-        const k=(e.start?.dateTime||'').slice(0,10);
-        if(byDay[k]) byDay[k].events.push(e);
-      }
-    });
-
-    const days = Object.values(byDay);
-
-    function renderDay({date, events:evs}, minH) {
-      const dk=isoDate(date), isToday=dk===todayStr, label=DAYS[date.getDay()], num=date.getDate();
-      const allDay=evs.filter(e=>!e.start?.dateTime), timed=evs.filter(e=>e.start?.dateTime);
-      const adHTML = allDay.length
-        ? `<div style="display:flex;flex-direction:column;align-items:flex-end;gap:2px;margin-left:auto;">${
-            allDay.map(e=>`<span style="font-size:0.52rem;font-weight:600;color:#4a7c59;background:#d6e8dc;border-radius:4px;padding:1px 5px;white-space:nowrap;display:inline-block;">${e.summary||'Event'}</span>`).join('')
-          }</div>` : '';
-
-      let html = `<div style="min-height:${minH}px;padding:8px 10px;border-radius:10px;background:${isToday?'#edf5f0':'transparent'};">
-        <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;">
-          <div style="width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:0.72rem;font-weight:700;flex-shrink:0;background:${isToday?'#4a7c59':'#d6d0c4'};color:${isToday?'#f5f3ed':'#6a6050'};">${num}</div>
-          <span style="font-size:0.75rem;font-weight:700;color:${isToday?'#4a7c59':'#6a6050'};text-transform:uppercase;letter-spacing:0.5px;">${label}</span>
-          ${isToday?'<span style="font-size:0.62rem;background:#f9a620;color:#5a3a00;padding:1px 6px;border-radius:8px;font-weight:700;">TODAY</span>':''}
-          ${adHTML?`<div style="margin-left:auto;display:flex;flex-wrap:wrap;gap:3px;justify-content:flex-end;">${adHTML}</div>`:''}
-        </div>`;
-
-      if (!timed.length) {
-        html += `<div style="font-size:0.62rem;color:#b0a898;padding-left:36px;font-style:italic;">No events</div>`;
-      } else {
-        timed.forEach(e => {
-          const time=formatTime(e.start.dateTime), raw=e.summary||'Untitled';
-          const autoCat=getEventCategory(raw), cat=getOverride(raw)||autoCat;
-          let title=cleanTitle(raw,cat), locSrc=e.location||'';
-          if(cat==='ev-dining'){const n=normalizeDining(title,locSrc);title=n.title;locSrc=n.location;}
-          const loc=shortenLocation(locSrc,raw), locH=loc?` <span style="color:#b0a898;">· ${loc}</span>`:'';
-          const color=CAT_COLORS[cat]||'#a09880';
-          const st=raw.replace(/'/g,"\\'").replace(/"/g,'&quot;');
-          html += `<div style="display:flex;align-items:center;gap:6px;padding:3px 0 3px 36px;position:relative;"
-            onmouseenter="showColorPicker(this,'${st}')" onmouseleave="hideColorPicker()">
-            <div style="width:7px;height:7px;border-radius:50%;background:${color};flex-shrink:0;"></div>
-            <span style="font-size:0.58rem;font-weight:700;color:${color};min-width:34px;flex-shrink:0;">${time}</span>
-            <span style="font-size:0.65rem;font-weight:600;color:#2e2a22;">${title}${locH}</span>
-          </div>`;
-        });
-      }
-      html += '</div>'; return html;
-    }
-
-    const L=days.slice(0,4).map(d=>renderDay(d,80)).join('<div style="height:1px;background:#d6d0c4;margin:2px 0;"></div>');
-    const R=days.slice(4).map((d,i)=>renderDay(d,i===0?80:110)).join('<div style="height:1px;background:#d6d0c4;margin:2px 0;"></div>');
-    body.innerHTML = `<div style="display:grid;grid-template-columns:1fr 1fr;gap:0;"><div style="border-right:1px solid #d6d0c4;padding-right:12px;">${L}</div><div style="padding-left:12px;">${R}</div></div>`;
-  } catch(err) {
-    body.innerHTML = `<div class="empty">Could not load calendar.<br><small>${err.message||''}</small></div>`;
+  const byDay = {};
+  for (let i=0; i<7; i++) {
+    const dt=new Date(mon); dt.setDate(mon.getDate()+i);
+    byDay[isoDate(dt)] = {date:dt, events:[]};
   }
+
+  allEvents.forEach(e => {
+    if (!e.start?.dateTime && e.start?.date) {
+      const s=(e.start.date||'').slice(0,10), en=(e.end?.date||e.start.date).slice(0,10);
+      Object.keys(byDay).forEach(k => { if(k>=s && k<en) byDay[k].events.push(e); });
+    } else {
+      const k=(e.start?.dateTime||'').slice(0,10);
+      if(byDay[k]) byDay[k].events.push(e);
+    }
+  });
+
+  const days = Object.values(byDay);
+
+  function renderDay({date, events:evs}, minH) {
+    const dk=isoDate(date), isToday=dk===todayStr, label=DAYS[date.getDay()], num=date.getDate();
+    const allDay=evs.filter(e=>!e.start?.dateTime), timed=evs.filter(e=>e.start?.dateTime);
+    const adHTML = allDay.length
+      ? `<div style="display:flex;flex-direction:column;align-items:flex-end;gap:2px;margin-left:auto;">${
+          allDay.map(e=>`<span style="font-size:0.52rem;font-weight:600;color:#4a7c59;background:#d6e8dc;border-radius:4px;padding:1px 5px;white-space:nowrap;display:inline-block;">${e.summary||'Event'}</span>`).join('')
+        }</div>` : '';
+
+    let html = `<div style="min-height:${minH}px;padding:8px 10px;border-radius:10px;background:${isToday?'#edf5f0':'transparent'};">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;">
+        <div style="width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:0.72rem;font-weight:700;flex-shrink:0;background:${isToday?'#4a7c59':'#d6d0c4'};color:${isToday?'#f5f3ed':'#6a6050'};">${num}</div>
+        <span style="font-size:0.75rem;font-weight:700;color:${isToday?'#4a7c59':'#6a6050'};text-transform:uppercase;letter-spacing:0.5px;">${label}</span>
+        ${isToday?'<span style="font-size:0.62rem;background:#f9a620;color:#5a3a00;padding:1px 6px;border-radius:8px;font-weight:700;">TODAY</span>':''}
+        ${adHTML?`<div style="margin-left:auto;display:flex;flex-wrap:wrap;gap:3px;justify-content:flex-end;">${adHTML}</div>`:''}
+      </div>`;
+
+    if (!timed.length) {
+      html += `<div style="font-size:0.62rem;color:#b0a898;padding-left:36px;font-style:italic;">No events</div>`;
+    } else {
+      timed.forEach(e => {
+        const time=formatTime(e.start.dateTime), raw=e.summary||'Untitled';
+        const autoCat=getEventCategory(raw), cat=getOverride(raw)||autoCat;
+        let title=cleanTitle(raw,cat), locSrc=e.location||'';
+        if(cat==='ev-dining'){const n=normalizeDining(title,locSrc);title=n.title;locSrc=n.location;}
+        const loc=shortenLocation(locSrc,raw), locH=loc?` <span style="color:#b0a898;">· ${loc}</span>`:'';
+        const color=CAT_COLORS[cat]||'#a09880';
+        const st=raw.replace(/'/g,"\\'").replace(/"/g,'&quot;');
+        html += `<div style="display:flex;align-items:center;gap:6px;padding:3px 0 3px 36px;position:relative;"
+          onmouseenter="showColorPicker(this,'${st}')" onmouseleave="hideColorPicker()">
+          <div style="width:7px;height:7px;border-radius:50%;background:${color};flex-shrink:0;"></div>
+          <span style="font-size:0.58rem;font-weight:700;color:${color};min-width:34px;flex-shrink:0;">${time}</span>
+          <span style="font-size:0.65rem;font-weight:600;color:#2e2a22;">${title}${locH}</span>
+        </div>`;
+      });
+    }
+    html += '</div>'; return html;
+  }
+
+  const L=days.slice(0,4).map(d=>renderDay(d,80)).join('<div style="height:1px;background:#d6d0c4;margin:2px 0;"></div>');
+  const R=days.slice(4).map((d,i)=>renderDay(d,i===0?80:110)).join('<div style="height:1px;background:#d6d0c4;margin:2px 0;"></div>');
+  body.innerHTML = `<div style="display:grid;grid-template-columns:1fr 1fr;gap:0;"><div style="border-right:1px solid #d6d0c4;padding-right:12px;">${L}</div><div style="padding-left:12px;">${R}</div></div>`;
 }
 
 // ── Gmail ─────────────────────────────────────────────────
 async function loadGmail() {
   const body = document.getElementById('gmail-body');
   body.innerHTML = '<div class="loading"><div class="spinner"></div> Fetching emails...</div>';
-  if (!LS.get('g_token')) { body.innerHTML='<div class="empty">Connect Google above to see your inbox.</div>'; return; }
-  try {
-    const token = await getGoogleToken();
-    const q = encodeURIComponent('in:inbox is:important -category:promotions -category:social');
-    const list = await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages?q=${q}&maxResults=8`,
-      {headers:{Authorization:'Bearer '+token}}).then(r=>r.json());
-
-    const msgs = list.messages||[];
-    if (!msgs.length) { body.innerHTML='<div class="empty">✨ Inbox zero! Nothing important right now.</div>'; return; }
-
-    const details = await Promise.all(msgs.map(m =>
-      fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${m.id}?format=metadata&metadataHeaders=From&metadataHeaders=Subject`,
-        {headers:{Authorization:'Bearer '+token}}).then(r=>r.json())
-    ));
-
-    body.innerHTML = details.map(msg => {
-      const hdrs = msg.payload?.headers||[];
-      const from = (hdrs.find(h=>h.name==='From')?.value||'Unknown').replace(/<.*>/,'').replace(/"/g,'').trim();
-      const subj = hdrs.find(h=>h.name==='Subject')?.value||'(no subject)';
-      const unread = (msg.labelIds||[]).includes('UNREAD');
-      const snippet = (msg.snippet||'').replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/&amp;/g,'&').slice(0,80);
-      return `<div class="email-item">
-        <div class="email-from">${unread?'<span class="unread-dot"></span>':''}${from}</div>
-        <div class="email-subject">${subj}</div>
-        ${snippet?`<div class="email-snippet">${snippet}...</div>`:''}
-      </div>`;
-    }).join('');
-  } catch(err) {
-    body.innerHTML=`<div class="empty">Could not load Gmail.<br><small>${err.message||''}</small></div>`;
-  }
+  const d = await loadJSON('data/gmail.json');
+  if (!d) { body.innerHTML = '<div class="empty">No email data yet — check back soon.</div>'; return; }
+  const msgs = (d.messages || []).slice(0, 8);
+  if (!msgs.length) { body.innerHTML = '<div class="empty">✨ Inbox zero! Nothing important right now.</div>'; return; }
+  body.innerHTML = msgs.map(msg => {
+    const from = (msg.sender || msg.from || '').replace(/<.*>/,'').replace(/"/g,'').trim() || 'Unknown';
+    const subj = msg.subject || '(no subject)';
+    const unread = msg.isUnread || false;
+    const snippet = (msg.snippet || '').replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/&amp;/g,'&').slice(0,80);
+    return `<div class="email-item">
+      <div class="email-from">${unread?'<span class="unread-dot"></span>':''}${from}</div>
+      <div class="email-subject">${subj}</div>
+      ${snippet?`<div class="email-snippet">${snippet}...</div>`:''}
+    </div>`;
+  }).join('');
 }
 
 // ── Spotify ───────────────────────────────────────────────
@@ -625,53 +491,44 @@ const GENRE_MAP = {'drake':'Hip-hop · rap','noah kahan':'Indie folk','kygo':'El
 async function loadSpotify() {
   const body = document.getElementById('spotify-body');
   body.innerHTML='<div class="loading"><div class="spinner"></div> Reading your taste...</div>';
-  if (!hasSpotify()) { body.innerHTML='<div class="empty">Connect Spotify above to see your top artists.</div>'; return; }
-  try {
-    const token = await getSpotifyToken();
-    const data = await fetch('https://api.spotify.com/v1/me/top/artists?time_range=short_term&limit=5',
-      {headers:{Authorization:'Bearer '+token}}).then(r=>r.json());
-    const artists = data.items||[];
-    if (!artists.length) { body.innerHTML='<div class="empty">No listening data found.</div>'; return; }
-    const bars=[100,82,64,46,28];
-    body.innerHTML = artists.map((a,i) => {
-      const s=ARTIST_STYLES[i];
-      const genre=(a.genres||[]).slice(0,2).join(' · ')||GENRE_MAP[a.name.toLowerCase()]||'Music';
-      const initials=a.name.split(' ').map(w=>w[0]).join('').slice(0,2).toUpperCase();
-      const img=a.images?.[1]?.url||a.images?.[0]?.url;
-      const ii=`ai${i}`, av=`av${i}`;
-      return `<div class="artist-row">
-        <span class="artist-rank" style="color:${s.fill}">${i+1}</span>
-        <div style="position:relative;width:36px;height:36px;flex-shrink:0;">
-          ${img?`<img id="${ii}" src="${img}" style="width:36px;height:36px;border-radius:50%;object-fit:cover;display:block;" onerror="this.style.display='none';document.getElementById('${av}').style.display='flex';" />`:''}
-          <div id="${av}" class="artist-avatar" style="background:${s.bg};color:${s.text};position:absolute;top:0;left:0;width:36px;height:36px;display:${img?'none':'flex'};">${initials}</div>
-        </div>
-        <div class="artist-info"><div class="artist-name">${a.name}</div><div class="artist-genre">${genre}</div></div>
-        <div class="artist-bar-track" style="background:${s.bg}"><div class="artist-bar-fill" style="width:${bars[i]}%;background:${s.fill}"></div></div>
-      </div>`;
-    }).join('');
-  } catch(err) {
-    body.innerHTML=`<div class="empty">Could not load Spotify.<br><small>${err.message||''}</small></div>`;
-  }
+  const d = await loadJSON('data/spotify.json');
+  if (!d) { body.innerHTML='<div class="empty">No Spotify data yet — check back soon.</div>'; return; }
+  const artists = (d.artists || []).slice(0, 5);
+  if (!artists.length) { body.innerHTML='<div class="empty">No listening data found.</div>'; return; }
+  const bars=[100,82,64,46,28];
+  body.innerHTML = artists.map((a,i) => {
+    const s=ARTIST_STYLES[i];
+    const genre=(a.genres||[]).slice(0,2).join(' · ')||GENRE_MAP[(a.name||'').toLowerCase()]||'Music';
+    const initials=(a.name||'?').split(' ').map(w=>w[0]).join('').slice(0,2).toUpperCase();
+    const img = a.image || (a.images && (a.images[1]?.url || a.images[0]?.url));
+    const ii=`ai${i}`, av=`av${i}`;
+    return `<div class="artist-row">
+      <span class="artist-rank" style="color:${s.fill}">${i+1}</span>
+      <div style="position:relative;width:36px;height:36px;flex-shrink:0;">
+        ${img?`<img id="${ii}" src="${img}" style="width:36px;height:36px;border-radius:50%;object-fit:cover;display:block;" onerror="this.style.display='none';document.getElementById('${av}').style.display='flex';" />`:''}
+        <div id="${av}" class="artist-avatar" style="background:${s.bg};color:${s.text};position:absolute;top:0;left:0;width:36px;height:36px;display:${img?'none':'flex'};">${initials}</div>
+      </div>
+      <div class="artist-info"><div class="artist-name">${a.name}</div><div class="artist-genre">${genre}</div></div>
+      <div class="artist-bar-track" style="background:${s.bg}"><div class="artist-bar-fill" style="width:${bars[i]}%;background:${s.fill}"></div></div>
+    </div>`;
+  }).join('');
 }
 
 // ── Todoist ───────────────────────────────────────────────
 async function loadTodoList(panelId, projectId, subtitleId) {
   const body=document.getElementById(`${panelId}-body`), sub=document.getElementById(subtitleId);
   body.innerHTML='<div class="loading"><div class="spinner"></div> Fetching...</div>';
-  if (!hasTodoist()) { sub.textContent='Not connected'; body.innerHTML='<div class="empty">Connect Todoist above to see your tasks.</div>'; return; }
-  try {
-    const r=await fetch(`https://api.todoist.com/rest/v2/tasks?project_id=${projectId}`,
-      {headers:{Authorization:'Bearer '+LS.get('todoist_token')}});
-    const tasks=await r.json();
-    sub.textContent=tasks.length?`${tasks.length} task${tasks.length!==1?'s':''}`:'Empty';
-    if (!tasks.length) { body.innerHTML='<div class="empty">Nothing here yet!</div>'; return; }
-    body.innerHTML=tasks.slice(0,10).map(t=>`<div class="todo-item">
-      <div class="todo-check"></div>
-      <div><div class="todo-text">${t.content||'Task'}</div>${t.due?.string?`<div class="todo-due">Due: ${t.due.string}</div>`:''}</div>
-    </div>`).join('');
-  } catch(err) {
-    body.innerHTML=`<div class="empty">Could not load tasks.<br><small>${err.message||''}</small></div>`;
-  }
+  const d = await loadJSON('data/todoist.json');
+  if (!d) { sub.textContent='No data'; body.innerHTML='<div class="empty">No task data yet.</div>'; return; }
+  const proj = d.projects?.[projectId];
+  if (!proj) { sub.textContent='Empty'; body.innerHTML='<div class="empty">Nothing here yet!</div>'; return; }
+  const tasks = proj.tasks || [];
+  sub.textContent = tasks.length ? `${tasks.length} task${tasks.length!==1?'s':''}` : 'Empty';
+  if (!tasks.length) { body.innerHTML='<div class="empty">Nothing here yet!</div>'; return; }
+  body.innerHTML = tasks.slice(0,10).map(t=>`<div class="todo-item">
+    <div class="todo-check"></div>
+    <div><div class="todo-text">${t.content||'Task'}</div>${t.due?.string?`<div class="todo-due">Due: ${t.due.string}</div>`:''}</div>
+  </div>`).join('');
 }
 function loadTodos() {
   loadTodoList('todo1','6gmwFHF7543h5PRM','todo1-subtitle');
@@ -679,24 +536,73 @@ function loadTodos() {
   loadTodoList('todo3','6gmwFHCXcf87696H','todo3-subtitle');
 }
 
-// ── Auto-refresh ──────────────────────────────────────────
+// ── Settings export/import ────────────────────────────────
+function getAllOverrides() {
+  const out = {};
+  try {
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith('eq_cal_')) out[k] = localStorage.getItem(k);
+    }
+  } catch(e) {}
+  return out;
+}
+function openSettings() {
+  const overrides = getAllOverrides();
+  document.getElementById('settings-json').value = JSON.stringify(overrides, null, 2);
+  document.getElementById('settings-msg').textContent = Object.keys(overrides).length
+    ? `${Object.keys(overrides).length} override(s) found.` : 'No overrides set yet.';
+  document.getElementById('settings-panel').classList.add('open');
+}
+function closeSettings() { document.getElementById('settings-panel').classList.remove('open'); }
+function copySettings() {
+  navigator.clipboard.writeText(document.getElementById('settings-json').value).then(() => {
+    document.getElementById('settings-msg').textContent = '✓ Copied to clipboard!';
+  });
+}
+function importSettings() {
+  try {
+    const data = JSON.parse(document.getElementById('settings-json').value);
+    let count = 0;
+    Object.entries(data).forEach(([k, v]) => { if (k.startsWith('eq_cal_')) { LS.set(k, v); count++; } });
+    document.getElementById('settings-msg').textContent = `✓ Imported ${count} override(s). Reloading calendar...`;
+    setTimeout(() => { closeSettings(); loadCalendar(); }, 1000);
+  } catch(e) {
+    document.getElementById('settings-msg').textContent = '✗ Invalid JSON.';
+  }
+}
+function clearSettings() {
+  try {
+    const keys = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith('eq_cal_')) keys.push(k);
+    }
+    keys.forEach(k => LS.del(k));
+    document.getElementById('settings-json').value = '{}';
+    document.getElementById('settings-msg').textContent = `✓ Cleared ${keys.length} override(s).`;
+  } catch(e) {}
+}
+document.getElementById('settings-panel').addEventListener('click', e => {
+  if (e.target.id === 'settings-panel') closeSettings();
+});
+
+// ── Hide setup banner (no auth needed) ────────────────────
+document.getElementById('setup-banner').style.display = 'none';
+
+// ── Auto-refresh every 10 min ─────────────────────────────
 const TEN_MIN = 10*60*1000;
-setInterval(loadGmail, TEN_MIN);
 setInterval(loadCalendar, TEN_MIN);
+setInterval(loadGmail, TEN_MIN);
+setInterval(loadSpotify, TEN_MIN);
 setInterval(loadTodos, TEN_MIN);
 
 // ── Init ──────────────────────────────────────────────────
-// Handle Spotify redirect callback
-const urlP = new URLSearchParams(location.search);
-if (urlP.get('code') && urlP.get('state')==='sp') {
-  handleSpotifyCallback(urlP.get('code'));
-}
-
-// Start
-updateSetupBanner();
-initGIS();
+loadCalendar();
+loadGmail();
 loadSpotify();
 loadTodos();
 </script>
+
 </body>
 </html>
