@@ -130,7 +130,8 @@
     <div class="settings-actions">
       <button class="settings-btn primary" onclick="importSettings()">Import & apply</button>
       <button class="settings-btn secondary" onclick="copySettings()">Copy to clipboard</button>
-      <button class="settings-btn danger" onclick="clearSettings()">Clear all overrides</button>
+      <button class="settings-btn danger" onclick="clearSettings()">Clear color overrides</button>
+      <button class="settings-btn danger" onclick="restoreDeletedEvents()" title="Restore events hidden with ✕">Restore hidden events</button>
       <button class="settings-btn secondary" onclick="closeSettings()" style="margin-left:auto;">Close</button>
     </div>
     <div id="settings-msg" style="font-size:0.75rem;color:#4a7c59;margin-top:8px;min-height:16px;"></div>
@@ -253,12 +254,26 @@ async function loadJSON(path) {
   } catch { return null; }
 }
 
-// ── Local storage (color overrides only) ─────────────────
+// ── Local storage ─────────────────────────────────────────
 const LS = {
   get: k => { try { return localStorage.getItem(k); } catch(e) { return null; } },
   set: (k, v) => { try { localStorage.setItem(k, v); } catch(e) {} },
   del: k => { try { localStorage.removeItem(k); } catch(e) {} }
 };
+
+// ── Deleted events ────────────────────────────────────────
+const DELETED = new Set(JSON.parse(LS.get('eq_deleted_events') || '[]'));
+function deleteEvent(id) {
+  if (!id) return;
+  DELETED.add(id);
+  LS.set('eq_deleted_events', JSON.stringify([...DELETED]));
+  loadCalendar();
+}
+function restoreDeletedEvents() {
+  DELETED.clear();
+  LS.del('eq_deleted_events');
+  loadCalendar();
+}
 
 // ── Clock ─────────────────────────────────────────────────
 function updateClock() {
@@ -430,8 +445,9 @@ async function loadCalendar() {
       allEvents = d?.events || [];
     }
 
-    const events = allEvents.sort((a,b) =>
-      new Date(a.start?.dateTime||a.start?.date) - new Date(b.start?.dateTime||b.start?.date));
+    const events = allEvents
+      .filter(e => !DELETED.has(e.id))
+      .sort((a,b) => new Date(a.start?.dateTime||a.start?.date) - new Date(b.start?.dateTime||b.start?.date));
 
     const byDay = {};
     for (let i=0; i<7; i++) {
@@ -475,11 +491,16 @@ async function loadCalendar() {
           const loc=shortenLocation(locSrc,raw), locH=loc?` <span style="color:#b0a898;">· ${loc}</span>`:'';
           const color=CAT_COLORS[cat]||'#a09880';
           const st=raw.replace(/'/g,"\\'").replace(/"/g,'&quot;');
+          const eid=(e.id||'').replace(/'/g,"\\'");
           html += `<div style="display:flex;align-items:center;gap:6px;padding:3px 0 3px 36px;position:relative;"
-            onmouseenter="showColorPicker(this,'${st}')" onmouseleave="hideColorPicker()">
+            onmouseenter="showColorPicker(this,'${st}');this.querySelector('.ev-del').style.opacity='1'"
+            onmouseleave="hideColorPicker();this.querySelector('.ev-del').style.opacity='0'">
             <div style="width:7px;height:7px;border-radius:50%;background:${color};flex-shrink:0;"></div>
             <span style="font-size:0.58rem;font-weight:700;color:${color};min-width:34px;flex-shrink:0;">${time}</span>
             <span style="font-size:0.65rem;font-weight:600;color:#2e2a22;">${title}${locH}</span>
+            <button class="ev-del" onclick="event.stopPropagation();deleteEvent('${eid}')"
+              style="opacity:0;transition:opacity 0.15s;margin-left:auto;background:none;border:none;cursor:pointer;color:#b0a898;font-size:0.72rem;padding:0 2px;line-height:1;flex-shrink:0;"
+              title="Hide event">✕</button>
           </div>`;
         });
       }
