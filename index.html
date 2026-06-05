@@ -230,8 +230,21 @@
 <script>
 // ── Config ────────────────────────────────────────────────
 const DATA_BASE = 'https://emilyquayle.github.io/eq-dashboard';
+const IN_COWORK = typeof window.cowork !== 'undefined';
+// callMcpTool returns {content:[{type:"text",text:"...JSON..."}]}
+function parseMcp(r) {
+  if (!r) return null;
+  const text = r?.content?.[0]?.text ?? (typeof r === 'string' ? r : null);
+  if (text) { try { return JSON.parse(text); } catch { return null; } }
+  return r;
+}
+const CALENDAR_IDS = [
+  'primary',
+  'mn0dnmqhekjl3rdm6skc5fvcv0@group.calendar.google.com',
+  'en.usa#holiday@group.v.calendar.google.com'
+];
 
-// ── Data loading ──────────────────────────────────────────
+// ── Data loading (GitHub Pages) ───────────────────────────
 async function loadJSON(path) {
   try {
     const r = await fetch(`${DATA_BASE}/${path}`, { cache: 'no-store' });
@@ -383,104 +396,157 @@ async function loadCalendar() {
   const sub  = document.getElementById('cal-subtitle');
   body.innerHTML = '<div class="loading"><div class="spinner"></div> Fetching events...</div>';
 
-  const d = await loadJSON('data/calendar.json');
-  if (!d) {
-    body.innerHTML = '<div class="empty">No calendar data yet — check back soon.</div>';
-    return;
-  }
-
   const {mon, sun} = getWeekBounds();
   const monStr = isoDate(mon), sunStr = isoDate(sun);
   const DAYS = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
   const todayStr = isoDate(new Date());
   sub.textContent = `${mon.toLocaleDateString('en-US',{month:'short',day:'numeric'})} – ${sun.toLocaleDateString('en-US',{month:'short',day:'numeric'})}`;
 
-  const allEvents = (d.events || []).sort((a,b) =>
-    new Date(a.start?.dateTime||a.start?.date) - new Date(b.start?.dateTime||b.start?.date));
+  try {
+    let allEvents;
 
-  const byDay = {};
-  for (let i=0; i<7; i++) {
-    const dt=new Date(mon); dt.setDate(mon.getDate()+i);
-    byDay[isoDate(dt)] = {date:dt, events:[]};
-  }
-
-  allEvents.forEach(e => {
-    if (!e.start?.dateTime && e.start?.date) {
-      const s=(e.start.date||'').slice(0,10), en=(e.end?.date||e.start.date).slice(0,10);
-      Object.keys(byDay).forEach(k => { if(k>=s && k<en) byDay[k].events.push(e); });
+    if (IN_COWORK) {
+      const rangeStart = new Date(new Date().getFullYear(), 0, 1); // Jan 1 of current year
+      const rangeEnd   = new Date(new Date().getFullYear(), 11, 31, 23, 59, 59); // Dec 31
+      const results = await Promise.all(CALENDAR_IDS.map(id =>
+        window.cowork.callMcpTool('mcp__7c7db348-3842-4334-acf5-2c525cfe072c__list_events', {
+          calendarId: id,
+          startTime: rangeStart.toISOString(),
+          endTime:   rangeEnd.toISOString(),
+          orderBy:   'startTime',
+          pageSize:  100
+        }).then(r => parseMcp(r) || {events:[]}).catch(() => ({events:[]}))
+      ));
+      allEvents = results.flatMap(r => r?.events || []);
     } else {
-      const k=(e.start?.dateTime||'').slice(0,10);
-      if(byDay[k]) byDay[k].events.push(e);
+      const d = await loadJSON('data/calendar.json');
+      allEvents = d?.events || [];
     }
-  });
 
-  const days = Object.values(byDay);
+    const events = allEvents.sort((a,b) =>
+      new Date(a.start?.dateTime||a.start?.date) - new Date(b.start?.dateTime||b.start?.date));
 
-  function renderDay({date, events:evs}, minH) {
-    const dk=isoDate(date), isToday=dk===todayStr, label=DAYS[date.getDay()], num=date.getDate();
-    const allDay=evs.filter(e=>!e.start?.dateTime), timed=evs.filter(e=>e.start?.dateTime);
-    const adHTML = allDay.length
-      ? `<div style="display:flex;flex-direction:column;align-items:flex-end;gap:2px;margin-left:auto;">${
-          allDay.map(e=>`<span style="font-size:0.52rem;font-weight:600;color:#4a7c59;background:#d6e8dc;border-radius:4px;padding:1px 5px;white-space:nowrap;display:inline-block;">${e.summary||'Event'}</span>`).join('')
-        }</div>` : '';
+    const byDay = {};
+    for (let i=0; i<7; i++) {
+      const dt=new Date(mon); dt.setDate(mon.getDate()+i);
+      byDay[isoDate(dt)] = {date:dt, events:[]};
+    }
+    events.forEach(e => {
+      if (!e.start?.dateTime && e.start?.date) {
+        const s=(e.start.date||'').slice(0,10), en=(e.end?.date||e.start.date).slice(0,10);
+        Object.keys(byDay).forEach(k => { if(k>=s && k<en) byDay[k].events.push(e); });
+      } else {
+        const k=(e.start?.dateTime||'').slice(0,10);
+        if(byDay[k]) byDay[k].events.push(e);
+      }
+    });
 
-    let html = `<div style="min-height:${minH}px;padding:8px 10px;border-radius:10px;background:${isToday?'#edf5f0':'transparent'};">
-      <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;">
-        <div style="width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:0.72rem;font-weight:700;flex-shrink:0;background:${isToday?'#4a7c59':'#d6d0c4'};color:${isToday?'#f5f3ed':'#6a6050'};">${num}</div>
-        <span style="font-size:0.75rem;font-weight:700;color:${isToday?'#4a7c59':'#6a6050'};text-transform:uppercase;letter-spacing:0.5px;">${label}</span>
-        ${isToday?'<span style="font-size:0.62rem;background:#f9a620;color:#5a3a00;padding:1px 6px;border-radius:8px;font-weight:700;">TODAY</span>':''}
-        ${adHTML?`<div style="margin-left:auto;display:flex;flex-wrap:wrap;gap:3px;justify-content:flex-end;">${adHTML}</div>`:''}
-      </div>`;
+    const days = Object.values(byDay);
 
-    if (!timed.length) {
-      html += `<div style="font-size:0.62rem;color:#b0a898;padding-left:36px;font-style:italic;">No events</div>`;
-    } else {
-      timed.forEach(e => {
-        const time=formatTime(e.start.dateTime), raw=e.summary||'Untitled';
-        const autoCat=getEventCategory(raw), cat=getOverride(raw)||autoCat;
-        let title=cleanTitle(raw,cat), locSrc=e.location||'';
-        if(cat==='ev-dining'){const n=normalizeDining(title,locSrc);title=n.title;locSrc=n.location;}
-        const loc=shortenLocation(locSrc,raw), locH=loc?` <span style="color:#b0a898;">· ${loc}</span>`:'';
-        const color=CAT_COLORS[cat]||'#a09880';
-        const st=raw.replace(/'/g,"\\'").replace(/"/g,'&quot;');
-        html += `<div style="display:flex;align-items:center;gap:6px;padding:3px 0 3px 36px;position:relative;"
-          onmouseenter="showColorPicker(this,'${st}')" onmouseleave="hideColorPicker()">
-          <div style="width:7px;height:7px;border-radius:50%;background:${color};flex-shrink:0;"></div>
-          <span style="font-size:0.58rem;font-weight:700;color:${color};min-width:34px;flex-shrink:0;">${time}</span>
-          <span style="font-size:0.65rem;font-weight:600;color:#2e2a22;">${title}${locH}</span>
+    function renderDay({date, events:evs}, minH) {
+      const dk=isoDate(date), isToday=dk===todayStr, label=DAYS[date.getDay()], num=date.getDate();
+      const allDay=evs.filter(e=>!e.start?.dateTime), timed=evs.filter(e=>e.start?.dateTime);
+      const adHTML = allDay.length
+        ? `<div style="display:flex;flex-direction:column;align-items:flex-end;gap:2px;margin-left:auto;">${
+            allDay.map(e=>`<span style="font-size:0.52rem;font-weight:600;color:#4a7c59;background:#d6e8dc;border-radius:4px;padding:1px 5px;white-space:nowrap;display:inline-block;">${e.summary||'Event'}</span>`).join('')
+          }</div>` : '';
+      let html = `<div style="min-height:${minH}px;padding:8px 10px;border-radius:10px;background:${isToday?'#edf5f0':'transparent'};">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;">
+          <div style="width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:0.72rem;font-weight:700;flex-shrink:0;background:${isToday?'#4a7c59':'#d6d0c4'};color:${isToday?'#f5f3ed':'#6a6050'};">${num}</div>
+          <span style="font-size:0.75rem;font-weight:700;color:${isToday?'#4a7c59':'#6a6050'};text-transform:uppercase;letter-spacing:0.5px;">${label}</span>
+          ${isToday?'<span style="font-size:0.62rem;background:#f9a620;color:#5a3a00;padding:1px 6px;border-radius:8px;font-weight:700;">TODAY</span>':''}
+          ${adHTML?`<div style="margin-left:auto;display:flex;flex-wrap:wrap;gap:3px;justify-content:flex-end;">${adHTML}</div>`:''}
         </div>`;
-      });
+      if (!timed.length) {
+        html += `<div style="font-size:0.62rem;color:#b0a898;padding-left:36px;font-style:italic;">No events</div>`;
+      } else {
+        timed.forEach(e => {
+          const time=formatTime(e.start.dateTime), raw=e.summary||'Untitled';
+          const autoCat=getEventCategory(raw), cat=getOverride(raw)||autoCat;
+          let title=cleanTitle(raw,cat), locSrc=e.location||'';
+          if(cat==='ev-dining'){const n=normalizeDining(title,locSrc);title=n.title;locSrc=n.location;}
+          const loc=shortenLocation(locSrc,raw), locH=loc?` <span style="color:#b0a898;">· ${loc}</span>`:'';
+          const color=CAT_COLORS[cat]||'#a09880';
+          const st=raw.replace(/'/g,"\\'").replace(/"/g,'&quot;');
+          html += `<div style="display:flex;align-items:center;gap:6px;padding:3px 0 3px 36px;position:relative;"
+            onmouseenter="showColorPicker(this,'${st}')" onmouseleave="hideColorPicker()">
+            <div style="width:7px;height:7px;border-radius:50%;background:${color};flex-shrink:0;"></div>
+            <span style="font-size:0.58rem;font-weight:700;color:${color};min-width:34px;flex-shrink:0;">${time}</span>
+            <span style="font-size:0.65rem;font-weight:600;color:#2e2a22;">${title}${locH}</span>
+          </div>`;
+        });
+      }
+      html += '</div>'; return html;
     }
-    html += '</div>'; return html;
-  }
 
-  const L=days.slice(0,4).map(d=>renderDay(d,80)).join('<div style="height:1px;background:#d6d0c4;margin:2px 0;"></div>');
-  const R=days.slice(4).map((d,i)=>renderDay(d,i===0?80:110)).join('<div style="height:1px;background:#d6d0c4;margin:2px 0;"></div>');
-  body.innerHTML = `<div style="display:grid;grid-template-columns:1fr 1fr;gap:0;"><div style="border-right:1px solid #d6d0c4;padding-right:12px;">${L}</div><div style="padding-left:12px;">${R}</div></div>`;
+    const L=days.slice(0,4).map(d=>renderDay(d,80)).join('<div style="height:1px;background:#d6d0c4;margin:2px 0;"></div>');
+    const R=days.slice(4).map((d,i)=>renderDay(d,i===0?80:110)).join('<div style="height:1px;background:#d6d0c4;margin:2px 0;"></div>');
+    body.innerHTML = `<div style="display:grid;grid-template-columns:1fr 1fr;gap:0;"><div style="border-right:1px solid #d6d0c4;padding-right:12px;">${L}</div><div style="padding-left:12px;">${R}</div></div>`;
+  } catch(err) {
+    body.innerHTML = `<div class="empty">Could not load calendar.<br><small>${err.message||''}</small></div>`;
+  }
 }
 
 // ── Gmail ─────────────────────────────────────────────────
 async function loadGmail() {
   const body = document.getElementById('gmail-body');
   body.innerHTML = '<div class="loading"><div class="spinner"></div> Fetching emails...</div>';
-  const d = await loadJSON('data/gmail.json');
-  if (!d) { body.innerHTML = '<div class="empty">No email data yet — check back soon.</div>'; return; }
-  const msgs = (d.messages || []).slice(0, 8);
-  if (!msgs.length) { body.innerHTML = '<div class="empty">✨ Inbox zero! Nothing important right now.</div>'; return; }
-  body.innerHTML = msgs.map(msg => {
-    const from = (msg.sender || msg.from || '').replace(/<.*>/,'').replace(/"/g,'').trim() || 'Unknown';
-    const subj = msg.subject || '(no subject)';
-    const unread = msg.isUnread || false;
-    const snippet = (msg.snippet || '').replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/&amp;/g,'&').slice(0,80);
-    return `<div class="email-item">
-      <div class="email-from">${unread?'<span class="unread-dot"></span>':''}${from}</div>
-      <div class="email-subject">${subj}</div>
-      ${snippet?`<div class="email-snippet">${snippet}...</div>`:''}
-    </div>`;
-  }).join('');
+
+  try {
+    let messages;
+
+    if (IN_COWORK) {
+      let result;
+      try {
+        const rawGmail = await window.cowork.callMcpTool(
+          'mcp__ab574c51-8c34-47cc-bca5-5ee1e51200ac__search_threads',
+          { query: 'in:inbox is:important -category:promotions -category:social', pageSize: 10 }
+        );
+        result = parseMcp(rawGmail);
+      } catch(gmailErr) {
+        body.innerHTML = '<div class="empty" style="font-size:0.7rem;text-align:left;padding:12px;">'
+          + 'Gmail error: ' + gmailErr.message + '<br>'
+          + 'cowork: ' + (!!window.cowork) + ' / callMcpTool: ' + (!!window.cowork?.callMcpTool)
+          + '</div>';
+        return;
+      }
+      const SKIP = /todoist\.com|github\.com|sudo|personal access token/i;
+      messages = (result?.threads || [])
+        .map(t => {
+          const msg = t.messages?.[t.messages.length-1] || {};
+          return {
+            sender:   msg.sender || '',
+            subject:  msg.subject || '(no subject)',
+            snippet:  msg.snippet || '',
+            isUnread: (msg.labelIds||[]).includes('UNREAD'),
+            date:     msg.date || ''
+          };
+        })
+        .filter(m => !SKIP.test(m.sender) && !SKIP.test(m.subject));
+    } else {
+      const d = await loadJSON('data/gmail.json');
+      messages = d?.messages || [];
+    }
+
+    if (!messages.length) { body.innerHTML = '<div class="empty">✨ Inbox zero! Nothing important right now.</div>'; return; }
+
+    body.innerHTML = messages.slice(0,8).map(msg => {
+      const from = msg.sender.replace(/<.*>/,'').replace(/"/g,'').trim() || 'Unknown';
+      const snippet = msg.snippet.replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/&amp;/g,'&').slice(0,80);
+      return `<div class="email-item">
+        <div class="email-from">${msg.isUnread?'<span class="unread-dot"></span>':''}${from}</div>
+        <div class="email-subject">${msg.subject}</div>
+        ${snippet?`<div class="email-snippet">${snippet}...</div>`:''}
+      </div>`;
+    }).join('');
+  } catch(err) {
+    body.innerHTML = `<div class="empty">Could not load Gmail.<br><small>${err.message||''}</small></div>`;
+  }
 }
 
 // ── Spotify ───────────────────────────────────────────────
+// Cowork: data embedded by spotify-daily-refresh task as window.__SPOTIFY__
+// GitHub Pages: fetched from data/spotify.json
 const ARTIST_STYLES = [
   {bg:'#d6e8dc',fill:'#4a7c59',text:'#2a4a34'},{bg:'#fef0cc',fill:'#c98a10',text:'#7a5206'},
   {bg:'#f2d9d3',fill:'#b7472a',text:'#7a2d18'},{bg:'#e4ede6',fill:'#3d6b4a',text:'#22402b'},
@@ -491,44 +557,69 @@ const GENRE_MAP = {'drake':'Hip-hop · rap','noah kahan':'Indie folk','kygo':'El
 async function loadSpotify() {
   const body = document.getElementById('spotify-body');
   body.innerHTML='<div class="loading"><div class="spinner"></div> Reading your taste...</div>';
-  const d = await loadJSON('data/spotify.json');
-  if (!d) { body.innerHTML='<div class="empty">No Spotify data yet — check back soon.</div>'; return; }
-  const artists = (d.artists || []).slice(0, 5);
-  if (!artists.length) { body.innerHTML='<div class="empty">No listening data found.</div>'; return; }
-  const bars=[100,82,64,46,28];
-  body.innerHTML = artists.map((a,i) => {
-    const s=ARTIST_STYLES[i];
-    const genre=(a.genres||[]).slice(0,2).join(' · ')||GENRE_MAP[(a.name||'').toLowerCase()]||'Music';
-    const initials=(a.name||'?').split(' ').map(w=>w[0]).join('').slice(0,2).toUpperCase();
-    const img = a.image || (a.images && (a.images[1]?.url || a.images[0]?.url));
-    const ii=`ai${i}`, av=`av${i}`;
-    return `<div class="artist-row">
-      <span class="artist-rank" style="color:${s.fill}">${i+1}</span>
-      <div style="position:relative;width:36px;height:36px;flex-shrink:0;">
-        ${img?`<img id="${ii}" src="${img}" style="width:36px;height:36px;border-radius:50%;object-fit:cover;display:block;" onerror="this.style.display='none';document.getElementById('${av}').style.display='flex';" />`:''}
-        <div id="${av}" class="artist-avatar" style="background:${s.bg};color:${s.text};position:absolute;top:0;left:0;width:36px;height:36px;display:${img?'none':'flex'};">${initials}</div>
-      </div>
-      <div class="artist-info"><div class="artist-name">${a.name}</div><div class="artist-genre">${genre}</div></div>
-      <div class="artist-bar-track" style="background:${s.bg}"><div class="artist-bar-fill" style="width:${bars[i]}%;background:${s.fill}"></div></div>
-    </div>`;
-  }).join('');
+
+  try {
+    let d;
+    if (IN_COWORK) {
+      d = window.__SPOTIFY__ || null;
+      if (!d) { body.innerHTML='<div class="empty">Spotify data will appear after 8am today.</div>'; return; }
+    } else {
+      d = await loadJSON('data/spotify.json');
+      if (!d) { body.innerHTML='<div class="empty">No Spotify data yet — check back soon.</div>'; return; }
+    }
+
+    const artists = (d.artists || []).slice(0,5);
+    if (!artists.length) { body.innerHTML='<div class="empty">No listening data found.</div>'; return; }
+    const bars=[100,82,64,46,28];
+    body.innerHTML = artists.map((a,i) => {
+      const s=ARTIST_STYLES[i];
+      const genre=(a.genres||[]).slice(0,2).join(' · ')||GENRE_MAP[(a.name||'').toLowerCase()]||'Music';
+      const initials=(a.name||'?').split(' ').map(w=>w[0]).join('').slice(0,2).toUpperCase();
+      const img = a.image_b64 || a.image || (a.images&&(a.images[1]?.url||a.images[0]?.url));
+      const ii=`ai${i}`, av=`av${i}`;
+      return `<div class="artist-row">
+        <span class="artist-rank" style="color:${s.fill}">${i+1}</span>
+        <div style="position:relative;width:36px;height:36px;flex-shrink:0;">
+          ${img?`<img id="${ii}" src="${img}" style="width:36px;height:36px;border-radius:50%;object-fit:cover;display:block;" onerror="this.style.display='none';document.getElementById('${av}').style.display='flex';" />`:''}
+          <div id="${av}" class="artist-avatar" style="background:${s.bg};color:${s.text};position:absolute;top:0;left:0;width:36px;height:36px;display:${img?'none':'flex'};">${initials}</div>
+        </div>
+        <div class="artist-info"><div class="artist-name">${a.name}</div><div class="artist-genre">${genre}</div></div>
+        <div class="artist-bar-track" style="background:${s.bg}"><div class="artist-bar-fill" style="width:${bars[i]}%;background:${s.fill}"></div></div>
+      </div>`;
+    }).join('');
+  } catch(err) {
+    body.innerHTML=`<div class="empty">Could not load Spotify.<br><small>${err.message||''}</small></div>`;
+  }
 }
 
 // ── Todoist ───────────────────────────────────────────────
 async function loadTodoList(panelId, projectId, subtitleId) {
   const body=document.getElementById(`${panelId}-body`), sub=document.getElementById(subtitleId);
   body.innerHTML='<div class="loading"><div class="spinner"></div> Fetching...</div>';
-  const d = await loadJSON('data/todoist.json');
-  if (!d) { sub.textContent='No data'; body.innerHTML='<div class="empty">No task data yet.</div>'; return; }
-  const proj = d.projects?.[projectId];
-  if (!proj) { sub.textContent='Empty'; body.innerHTML='<div class="empty">Nothing here yet!</div>'; return; }
-  const tasks = proj.tasks || [];
-  sub.textContent = tasks.length ? `${tasks.length} task${tasks.length!==1?'s':''}` : 'Empty';
-  if (!tasks.length) { body.innerHTML='<div class="empty">Nothing here yet!</div>'; return; }
-  body.innerHTML = tasks.slice(0,10).map(t=>`<div class="todo-item">
-    <div class="todo-check"></div>
-    <div><div class="todo-text">${t.content||'Task'}</div>${t.due?.string?`<div class="todo-due">Due: ${t.due.string}</div>`:''}</div>
-  </div>`).join('');
+
+  try {
+    let tasks;
+    if (IN_COWORK) {
+      const rawTodo = await window.cowork.callMcpTool(
+        'mcp__e9179ebd-7ead-4358-ba2b-eca24f641d87__find-tasks',
+        { projectId, limit: 50 }
+      );
+      const result = parseMcp(rawTodo);
+      tasks = result?.tasks || [];
+    } else {
+      const d = await loadJSON('data/todoist.json');
+      tasks = d?.projects?.[projectId]?.tasks || [];
+    }
+
+    sub.textContent = tasks.length ? `${tasks.length} task${tasks.length!==1?'s':''}` : 'Empty';
+    if (!tasks.length) { body.innerHTML='<div class="empty">Nothing here yet!</div>'; return; }
+    body.innerHTML = tasks.slice(0,10).map(t=>`<div class="todo-item">
+      <div class="todo-check"></div>
+      <div><div class="todo-text">${t.content||'Task'}</div>${t.due?.string?`<div class="todo-due">Due: ${t.due.string}</div>`:''}</div>
+    </div>`).join('');
+  } catch(err) {
+    body.innerHTML=`<div class="empty">Could not load tasks.<br><small>${err.message||''}</small></div>`;
+  }
 }
 function loadTodos() {
   loadTodoList('todo1','6gmwFHF7543h5PRM','todo1-subtitle');
@@ -575,8 +666,7 @@ function clearSettings() {
   try {
     const keys = [];
     for (let i = 0; i < localStorage.length; i++) {
-      const k = localStorage.key(i);
-      if (k && k.startsWith('eq_cal_')) keys.push(k);
+      const k = localStorage.key(i); if (k && k.startsWith('eq_cal_')) keys.push(k);
     }
     keys.forEach(k => LS.del(k));
     document.getElementById('settings-json').value = '{}';
@@ -587,7 +677,7 @@ document.getElementById('settings-panel').addEventListener('click', e => {
   if (e.target.id === 'settings-panel') closeSettings();
 });
 
-// ── Hide setup banner (no auth needed) ────────────────────
+// ── Hide setup banner ─────────────────────────────────────
 document.getElementById('setup-banner').style.display = 'none';
 
 // ── Auto-refresh every 10 min ─────────────────────────────
@@ -597,12 +687,15 @@ setInterval(loadGmail, TEN_MIN);
 setInterval(loadSpotify, TEN_MIN);
 setInterval(loadTodos, TEN_MIN);
 
+window.__SPOTIFY__ = {"updated":"2026-06-04T18:54:30.720677","range":"Last 4 weeks","artists":[{"name":"Drake","genres":[],"image":"https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9","image_b64":"data:image/jpeg;base64,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"},{"name":"Noah Kahan","genres":[],"image":"https://i.scdn.co/image/ab6761610000e5eb5b141d30d14fb78458dac5ce","image_b64":"data:image/jpeg;base64,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"},{"name":"Charli xcx","genres":[],"image":"https://i.scdn.co/image/ab6761610000e5eb6fa76436a2bba83b9f1d6fd1","image_b64":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCABIAEgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD23xP4shnj+zafA5jbhpGGOPYV87fHf4ka/wCFNRi0rQTFbR3dhIs0rwByS5ABjY/cdQMgjkbq+oZ/AOjSQSxqskIUgo/mFvrwT07V4rpFxaeMvivc+ApdGtB4c8K65Ne3F85EjSOQQq/OPlUbXyQfuoD1ArNAeRaxbR/DL4aJcKrHxZri4lu3zviVxuZVJ54B5PUk5rxdTuYE/Mxr039pjxhpHirx2E8PI6aPp0XkW7PnMvOS/sD29sV5ajHPHU8CqQGhb3k8EymyjaSUD03AfQU6eTWLtGa4kmY55ByMV6t8IPBE17FbIIgJ7p+S69Ae5PpXsEvwg02Z2ikfzhjljGF5zjAouB8exxTSEZVjjvWna6jcafYy2xSTL8xEHhSRhs+oI7V9jaP8H/CUNo0DWQIc4kOOa+fPjr4BfwvqzyRKxtGlYRtjp3wffBouB5LznIoqZwuxgBz1ooA/U7xBfafoWjXmtanN5FlaxGW4kZshVB/yK+JvjF8ZrLXvFN5qvhSKWyhu7O4tZldFViph8lWOP4iJZvwIr6a/aufyP2f/ABRcp+8xDAp57GePNfnZPP5k0sioIw7EhR0AzSSATUJC9yxznJ/SpNBEB1GJ7ptsSsCxxmqMkgLMeT2rt/hzrI8NeZePpEN+0wIUTx7kAAySfWmB9W/Ayw0vWEgvrG8gmSJMAI4OzjGCOxr1m+t0jl2lgFCgNj/GvkrwU2n6jrVnqvgu6bwlq1wWVTEzGxuXGC0ZDfdPPYkfQ19Lafc339g202slIr0gLMY+VZgfvD2PWpYF2/8AMjcyoRGB1I6GvL/jLaR634Pv7e5UOxQuHxyrDo1WfGHxv8N6LfPpj22p6hLGcN9ltwVz6ZJ5Nef+KfifZ6paTpNo+q6fE4I33FuVAyO9OwHzZcDy3dOAQSOKKS/dWvJiOhkJFFMD9H/2gNJuvEfwW8W6VawNLdNpskkESjl2QiQAD1+WvzWkB2gupQ+hGK/Sn4veJ4bXRb+0LP8AZoIGlvnjbBdR0t1PXLn7x7KG9a/O/wAZXkt/rdxd3DhriWR3kwAACW6AdgOn0ApIDDhj8yWOMdWcD619XeDPh3pl14T0xmCI0cZLE9SxHOfr6V8sWJA1K0z08xf5197fCqFZ/Dlq7KphWJSMDk8dDTYHnV34a1NmsNKubtI9C0pi9pDHEsexic5AA5J7k12XjHVdRsfCWnw4YPc4jikJHOT/AIV0+s2trea9bW0gtYIJDht8m2R/9lR74rI+NdpGH0hbeCTy7eZSVjBOFPG7n0OKQHzfqEfi3VPHkVomoxWNqLgq00jlIrSMN98kdTt/HPFVvEvjvX5rfUvDV7ef2rGshjhumBw6dM884PXnmvp0eE1imW5ntYWd0Acheue+a8m+NmmaNpGh3E62kEc5zhkXqf8AGmB8v3XyXDpn7pxRVO8mMlxIw5BaimB9wfFiyvLXwdM1+/nzXUiySJEwAK7suT1boAOeOTXxt4k3prF2ki7CsjfL6V9c/GjxLEvh65jN7FHcNlRtx+4UHO3PU8fqK+OdQn867lk3MxZy2T1Oe9SgG5Md3CSehBODX3T8MtVtE+HNpciR0h8hTIUUyN0zjA5NfB87YcMTk+tfSX7Pni/7ZoS6L9pRJUbhHbt/hTYHqlh8RfDWrXbvZ3dndSQKdiudsidgSCMio7rUbbUdVjvZdSkMrwmKQ7zyPTkkYrE17wDpNzI801iJWkzh4mKsp/3hXPQfDaWz1Q3aXmp2VsTvJW6b5iPrmpA99l1SJPD4kYsGiTGD14r48/aI8ZPqWpy2UE5eIN0/lXsnxR8bW2g+EDbi5JvZI+dxOSMYyTXx9q+oy6nqslxIxbLE5poCoqnaCep5op7kcc9aKoDt/E/iK51OYTyMxUKY1DHJxjlj71xrNunbHIoooAbc4GPpWj4S1a60nUory0k2Sxtkeh9jRRQB9O+EvjtoJ0qKLXrWa2uUXDNGNyt9Mc/nWL49+OVjPZGDRLSWVj915RtA4oopWA8C8XeINT1qdpb6cszHO0dKwYkIBPrRRTQD+Sw+lFFFID//2Q=="},{"name":"Slayyyter","genres":[],"image":"https://i.scdn.co/image/ab6761610000e5ebd475efee7c254f7e77a2d306","image_b64":"data:image/jpeg;base64,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"},{"name":"Ethel Cain","genres":[],"image":"https://i.scdn.co/image/ab6761610000e5eb3bbecf739fb7198dffd61795","image_b64":"data:image/jpeg;base64,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"}],"tracks":[{"title":"CRANK","artist":"Slayyyter"},{"title":"BBW","artist":"Drake"},{"title":"Janice STFU","artist":"Drake"},{"title":"Road Trips","artist":"Drake"},{"title":"Which One (feat. Central Cee)","artist":"Drake, Central Cee"}]};
+
 // ── Init ──────────────────────────────────────────────────
 loadCalendar();
 loadGmail();
 loadSpotify();
 loadTodos();
 </script>
+
 
 </body>
 </html>
