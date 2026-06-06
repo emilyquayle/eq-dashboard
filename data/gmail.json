@@ -1,10 +1,74 @@
 {
-  "updated": "2026-06-06T15:10:00Z",
+  "updated": "2026-06-06T16:20:00Z",
   "messages": [
+    {
+      "sender": "info@analuisa.com",
+      "subject": "SPIN TO WIN: 24 HRS ONLY",
+      "snippet": "The odds are very much in your favor.",
+      "isUnread": true,
+      "date": "2026-06-06T16:11:33Z",
+      "threadId": "19e9db583c568e16"
+    },
+    {
+      "sender": "Business552763@mindbodyonline.com",
+      "subject": "Don't forget! You've got Signature50: Full Body at 5:30pm on 6/7/2026 at IL, Lincoln Park.",
+      "snippet": "Emily, It's time to feel that strength. You're booked for your Signature50: Full Body class with Gabriele Thompson at IL, Lincoln Park on 6/7/2026 at 5:30pm.",
+      "isUnread": true,
+      "date": "2026-06-06T15:19:25Z",
+      "threadId": "19e9d8481876d29a"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "It's gazpacho time",
+      "snippet": "Here's our (accurately titled) best gazpacho. Good morning! Today we have for you: Julia Moskin's best gazpacho, a one-pot chicken...",
+      "isUnread": true,
+      "date": "2026-06-06T15:03:09Z",
+      "threadId": "19e9d7e8c61d136a"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Cookies, I didn't forget about you",
+      "snippet": "I'm giving the GOAT treat the limelight this week. Four frosted sugar cookies and one unfrosted sugar cookie...",
+      "isUnread": true,
+      "date": "2026-06-06T14:00:34Z",
+      "threadId": "19e9d3c9d831dd03"
+    },
+    {
+      "sender": "orders-1@tickpick.com",
+      "subject": "You Purchased Tickets on TickPick (Order Number 1071953245)",
+      "snippet": "Mumford and Sons, Caamp & Dylan Gossett Thu Jun 11, 2026 6:30PM @ Wrigley Field Order: #1071953245",
+      "isUnread": true,
+      "date": "2026-06-06T13:33:50Z",
+      "threadId": "19e9d23d46d10ee4"
+    },
+    {
+      "sender": "noreply-accounts@google.com",
+      "subject": "You shared some Google Account data with TickPick",
+      "snippet": "You're receiving this email because you used Sign in with Google to sign in to TickPick on June 6 at 8:33 AM.",
+      "isUnread": true,
+      "date": "2026-06-06T13:33:28Z",
+      "threadId": "19e9d238049a5025"
+    },
+    {
+      "sender": "announcements@jimmyjohns.com",
+      "subject": "Don't miss out on your $5.99 Favorite Sandwich reward",
+      "snippet": "You deserve a rewarding lunch. Get the lowest menu prices any time you order directly on Jimmy John's web or app.",
+      "isUnread": true,
+      "date": "2026-06-06T13:20:08Z",
+      "threadId": "19e9d174a54c691c"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Sorry, But No One Likes Your Husband",
+      "snippet": "But first: an unexpected destination for cute, affordable clothes — Check out what we Skimm'd for you today.",
+      "isUnread": true,
+      "date": "2026-06-06T13:03:25Z",
+      "threadId": "19e9d080203788ff"
+    },
     {
       "sender": "notice@eml.ecobee.com",
       "subject": "Service reminder: It's time for an air filter change.",
-      "snippet": "Hi Emily, You have a message from your thermostat: My ecobee (My Home). A friendly reminder that your last air filter change",
+      "snippet": "Hi Emily, You have a message from your thermostat: My ecobee (My Home). A friendly reminder that your last air filter change was on November...",
       "isUnread": true,
       "date": "2026-06-06T05:01:11Z",
       "threadId": "19e9b4e81b27e7ea"
@@ -12,74 +76,10 @@
     {
       "sender": "noreply@email.apple.com",
       "subject": "Your iCloud storage is full.",
-      "snippet": "Hello Emily Quayle, Your iCloud storage is full. Because you've exceeded your storage plan, your documents, contacts, mail,",
+      "snippet": "Hello Emily Quayle, Your iCloud storage is full. Your documents, contacts, mail, and device data are no longer backing up to iCloud.",
       "isUnread": true,
       "date": "2026-06-06T04:56:45Z",
       "threadId": "19e9b4a6fc0c779b"
-    },
-    {
-      "sender": "notice@eml.ecobee.com",
-      "subject": "Service reminder: time to inspect your HVAC system.",
-      "snippet": "It's time to inspect your HVAC system. Dear Emily, Your thermostat My ecobee in My Home is reminding you that it's time to",
-      "isUnread": true,
-      "date": "2026-06-06T01:49:13Z",
-      "threadId": "19e9a9eb6b95316f"
-    },
-    {
-      "sender": "invoice+statements@mail.anthropic.com",
-      "subject": "Your receipt from Anthropic, PBC #2900-5989-2579",
-      "snippet": "Your receipt from Anthropic, PBC #2900-5989-2579",
-      "isUnread": true,
-      "date": "2026-06-06T01:41:10Z",
-      "threadId": "19e9a975aa0c1a4e"
-    },
-    {
-      "sender": "noreply@uber.com",
-      "subject": "[Personal] Your Friday evening trip with Uber",
-      "snippet": "Thanks for riding, Emily. We hope you enjoyed your ride this evening. Total $41.64. Estimated fare: $34.97.",
-      "isUnread": true,
-      "date": "2026-06-06T10:40:11Z",
-      "threadId": "19e9a530bbd9e0b4"
-    },
-    {
-      "sender": "marriottbonvoy@email-marriott.com",
-      "subject": "A Quiet Luxury Escape in Tokyo: Urban Serenity Awaits",
-      "snippet": "MARRIOTT BONVOY: Stay & Savour — Enjoy up to ¥90,000 Credit. Plan your next getaway at The Westin Tokyo.",
-      "isUnread": true,
-      "date": "2026-06-05T22:36:04Z",
-      "threadId": "19e99edec8ec782c"
-    },
-    {
-      "sender": "Congressman.Quigley@mail.house.gov",
-      "subject": "Catching Up with Quigley: Week in Review",
-      "snippet": "Here are three things I did in Washington this week to represent you.",
-      "isUnread": true,
-      "date": "2026-06-05T22:33:32Z",
-      "threadId": "19e99eb91e34a486"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "Pergola Project Completed",
-      "snippet": "Dear Residents, We're excited to share that the pergola project has been completed! The pool's south gate will now serve as",
-      "isUnread": true,
-      "date": "2026-06-05T21:52:20Z",
-      "threadId": "19e99c5d8b6cba14"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: \"Ted Lasso\" and \"Buffy the Vampire Slayer\" actor dies at 72",
-      "snippet": "Anthony Head was a mainstay of influential television shows. June 5, 2026.",
-      "isUnread": false,
-      "date": "2026-06-05T21:05:02Z",
-      "threadId": "19e999ac2b287557"
-    },
-    {
-      "sender": "no.reply.alerts@chase.com",
-      "subject": "Your Chase Sapphire Preferred Visa automatic payment is scheduled",
-      "snippet": "Payment reminder: Your upcoming automatic payment is scheduled. We'll pay the amount from your account on your due date.",
-      "isUnread": true,
-      "date": "2026-06-05T17:56:21Z",
-      "threadId": "19e98edd1f8c28e7"
     }
   ]
 }
