@@ -61,7 +61,8 @@
   .empty { color: #a09880; font-size: 0.82rem; text-align: center; padding: 28px 0; }
 
   /* Gmail */
-  .email-item { padding: 9px 0; border-bottom: 1px solid #d6d0c4; }
+  .email-item { padding: 9px 0; border-bottom: 1px solid #d6d0c4; cursor: pointer; border-radius: 6px; transition: background 0.1s; }
+  .email-item:hover { background: #edeae2; padding-left: 6px; padding-right: 6px; }
   .email-item:last-child { border-bottom: none; }
   .email-from { font-size: 0.78rem; font-weight: 700; color: #4a7c59; }
   .email-subject { font-size: 0.82rem; color: #2e2a22; margin-top: 2px; font-weight: 600; }
@@ -547,7 +548,8 @@ async function loadGmail() {
             subject:  msg.subject || '(no subject)',
             snippet:  msg.snippet || '',
             isUnread: (msg.labelIds||[]).includes('UNREAD'),
-            date:     msg.date || ''
+            date:     msg.date || '',
+            threadId: t.id || msg.id || ''
           };
         })
         .filter(m => !SKIP.test(m.sender) && !SKIP.test(m.subject));
@@ -561,11 +563,14 @@ async function loadGmail() {
     body.innerHTML = messages.slice(0,8).map(msg => {
       const from = msg.sender.replace(/<.*>/,'').replace(/"/g,'').trim() || 'Unknown';
       const snippet = msg.snippet.replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/&amp;/g,'&').slice(0,80);
-      return `<div class="email-item">
+      const href = msg.threadId
+        ? `https://mail.google.com/mail/u/0/#inbox/${msg.threadId}`
+        : 'https://mail.google.com/mail/u/0/#inbox';
+      return `<a href="${href}" target="_blank" rel="noopener" style="display:block;text-decoration:none;color:inherit;" class="email-item">
         <div class="email-from">${msg.isUnread?'<span class="unread-dot"></span>':''}${from}</div>
         <div class="email-subject">${msg.subject}</div>
         ${snippet?`<div class="email-snippet">${snippet}...</div>`:''}
-      </div>`;
+      </a>`;
     }).join('');
   } catch(err) {
     body.innerHTML = `<div class="empty">Could not load Gmail.<br><small>${err.message||''}</small></div>`;
