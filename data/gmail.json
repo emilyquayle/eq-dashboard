@@ -1,18 +1,42 @@
 {
-  "updated": "2026-06-06T00:30:00Z",
+  "updated": "2026-06-06T05:01:07Z",
   "messages": [
+    {
+      "sender": "noreply@email.apple.com",
+      "subject": "Your iCloud storage is full.",
+      "snippet": "Your iCloud storage is full. Because you've exceeded your storage plan, your documents, contacts, mail, and device data are no",
+      "isUnread": true,
+      "date": "2026-06-06T04:56:45Z",
+      "threadId": "19e9b4a6fc0c779b"
+    },
+    {
+      "sender": "notice@eml.ecobee.com",
+      "subject": "Service reminder: time to inspect your HVAC system.",
+      "snippet": "Find professional help instantly. It's time to inspect your HVAC system. Dear Emily, Your thermostat My ecobee in My Home is r",
+      "isUnread": true,
+      "date": "2026-06-06T01:49:13Z",
+      "threadId": "19e9a9eb6b95316f"
+    },
+    {
+      "sender": "invoice+statements@mail.anthropic.com",
+      "subject": "Your receipt from Anthropic, PBC #2900-5989-2579",
+      "snippet": "Your receipt from Anthropic, PBC #2900-5989-2579",
+      "isUnread": true,
+      "date": "2026-06-06T01:41:10Z",
+      "threadId": "19e9a975aa0c1a4e"
+    },
     {
       "sender": "noreply@uber.com",
       "subject": "[Personal] Your Friday evening trip with Uber",
-      "snippet": "Jun 5, 2026 6:40 PM Jun 5, 2026 , 6:40 PM This is your charge summary This document acknowledges your trip completion. T",
+      "snippet": "Jun 5, 2026 10:27 PM — This is your charge summary. Trip completion. Total $26.65. This is not a payment receipt.",
       "isUnread": true,
-      "date": "2026-06-06T00:26:33Z",
+      "date": "2026-06-06T03:57:06Z",
       "threadId": "19e9a530bbd9e0b4"
     },
     {
       "sender": "marriottbonvoy@email-marriott.com",
       "subject": "A Quiet Luxury Escape in Tokyo: Urban Serenity Awaits",
-      "snippet": "See more details. MARRIOTT BONVOY® » My Account » Find & Reserve MARRIOTT BONVOY® My Account TYOWI Stay & Savour: Enjoy ",
+      "snippet": "MARRIOTT BONVOY — TYOWI Stay & Savour: Enjoy up to ¥90000 Credit. Plan your next getaway at The Westin Tokyo.",
       "isUnread": true,
       "date": "2026-06-05T22:36:04Z",
       "threadId": "19e99edec8ec782c"
@@ -28,7 +52,7 @@
     {
       "sender": "no-reply@rentcafe.com",
       "subject": "Pergola Project Completed",
-      "snippet": "the-apartments-at-lincoln-common Dear Residents, We're excited to share that the pergola project has been completed! Wit",
+      "snippet": "Dear Residents, We're excited to share that the pergola project has been completed! With these improvements, the pool's south g",
       "isUnread": true,
       "date": "2026-06-05T21:52:20Z",
       "threadId": "19e99c5d8b6cba14"
@@ -36,15 +60,15 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: \"Ted Lasso\" and \"Buffy the Vampire Slayer\" actor dies at 72",
-      "snippet": "Anthony Head was a mainstay of influential television shows. View in browser The New York Times The New York Times June ",
-      "isUnread": true,
+      "snippet": "Anthony Head was a mainstay of influential television shows. The New York Times — June 5, 2026.",
+      "isUnread": false,
       "date": "2026-06-05T21:05:02Z",
       "threadId": "19e999ac2b287557"
     },
     {
       "sender": "no.reply.alerts@chase.com",
       "subject": "Your Chase Sapphire Preferred Visa automatic payment is scheduled",
-      "snippet": "Payment reminder Your upcoming automatic payment is scheduled We'll pay the amount you scheduled from your account on yo",
+      "snippet": "Payment reminder: Your upcoming automatic payment is scheduled. We'll pay the amount from your account on your due date.",
       "isUnread": true,
       "date": "2026-06-05T17:56:21Z",
       "threadId": "19e98edd1f8c28e7"
@@ -52,34 +76,10 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Judge says Trump officials must restart asylum and immigration processing",
-      "snippet": "The order invalidated policies the Trump administration enacted last year. View in browser The New York Times The New Yo",
+      "snippet": "The order invalidated policies the Trump administration enacted last year. The New York Times — June 5, 2026.",
       "isUnread": true,
       "date": "2026-06-05T17:46:01Z",
       "threadId": "19e98e45f616b2f8"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Weekend: This Clothing Brand Does Home? 🤯",
-      "snippet": "But first: the wardrobe basics our editors swear by — Check out what we Skimm'd for you today June 5, 2026 Subscribe Rea",
-      "isUnread": true,
-      "date": "2026-06-05T17:00:59Z",
-      "threadId": "19e98bb33158aa25"
-    },
-    {
-      "sender": "CFAInstitute@mail.cfainstitute.org",
-      "subject": "401(k) alts, AI in finance, and member milestones",
-      "snippet": "This week: retirement risk, wealth transfer, AI skills, and member moves In this issue 5 June 2026 Media mentions Member",
-      "isUnread": true,
-      "date": "2026-06-05T16:18:39Z",
-      "threadId": "19e989e15cbc5d86"
-    },
-    {
-      "sender": "gap@gap.narvar.com",
-      "subject": "Your order has arrived.",
-      "snippet": "Thank you for your order! women MEN GIRLS BOYS TODDLER BABY Order #: 1QY4TXM | Order date: May 28, 2026 Your package has",
-      "isUnread": true,
-      "date": "2026-06-05T16:22:03Z",
-      "threadId": "19e98977896bb16c"
     }
   ]
 }
