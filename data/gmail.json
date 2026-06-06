@@ -1,6 +1,78 @@
 {
-  "updated": "2026-06-06T16:20:00Z",
+  "updated": "2026-06-06T21:09:35Z",
   "messages": [
+    {
+      "sender": "no-reply@e.benefitcosmetics.com",
+      "subject": "Your appointment at Benefit Cosmetics Boutique Southport is coming up",
+      "snippet": "It's almost time! Can't see the pretty pictures? View in browser. Benefit Cosmetics Logo Service: Brow Thread, Brow Tint",
+      "isUnread": true,
+      "date": "2026-06-06T20:45:04Z",
+      "threadId": "19e9eaea32371adb"
+    },
+    {
+      "sender": "orders-2@tickpick.com",
+      "subject": "Your Tickets Are Ready For Delivery (Order Number 1071953245)",
+      "snippet": "Delivery Instructions 1. Download the MLB Ballpark App on your smartphone. 2. Register with the same email used for your",
+      "isUnread": true,
+      "date": "2026-06-06T20:30:44Z",
+      "threadId": "19e9ea183ae63477"
+    },
+    {
+      "sender": "tickets@tickets.mlb.com",
+      "subject": "You have just been forwarded tickets for Mumford & Sons",
+      "snippet": "You have just been forwarded tickets for Mumford & Sons cubs.com Tickets The following is a summary of the ticket(s) for",
+      "isUnread": true,
+      "date": "2026-06-06T20:28:18Z",
+      "threadId": "19e9e9f447b7f89e"
+    },
+    {
+      "sender": "noreply@uber.com",
+      "subject": "[Personal] Your Saturday afternoon order with Uber Eats",
+      "snippet": "Jun 6, 2026 1:09 PM Tip Jun 6, 2026 , 1:09 PM Thanks for tipping, Emily Here's your receipt for North Buena Deli (Uptown",
+      "isUnread": true,
+      "date": "2026-06-06T20:20:45Z",
+      "threadId": "19e9e985ccf4ad28"
+    },
+    {
+      "sender": "noreply@email.openai.com",
+      "subject": "Action Required: Important security update for OpenAI macOS apps",
+      "snippet": "Please update any OpenAI macOS apps before June 12, 2026 to avoid disruption of access. Important security update for Op",
+      "isUnread": true,
+      "date": "2026-06-06T20:07:24Z",
+      "threadId": "19e9e8c2905dfa15"
+    },
+    {
+      "sender": "uber@uber.com",
+      "subject": "Get 20% off (up to $20) on your next $20+ alcohol order",
+      "snippet": "Skip the trip and get beer, wine, and spirits delivered.",
+      "isUnread": true,
+      "date": "2026-06-06T19:21:11Z",
+      "threadId": "19e9e61d25b96bb5"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Pentagon raises spying threat assessment for Israel",
+      "snippet": "American intelligence reports say Israel has stepped up efforts to eavesdrop on US-Iran talks. View in browser The New Y",
+      "isUnread": true,
+      "date": "2026-06-06T19:20:45Z",
+      "threadId": "19e9e618ad310e75"
+    },
+    {
+      "sender": "contact@email.cbssports.com",
+      "subject": "The Stars are Out at the Memorial Tournament 🌟⛳ Watch Live on CBS!",
+      "snippet": "Watch the PGA Tour on CBS and Streaming on P+ You are receiving this email because you are a registered member of a CBS ",
+      "isUnread": true,
+      "date": "2026-06-06T18:10:50Z",
+      "threadId": "19e9e21b35d5f070"
+    },
+    {
+      "sender": "update@emaildl.att-mail.com",
+      "subject": "Your AT&T online bill is ready to be viewed",
+      "snippet": "myAT&T Your online AT&T bill is ready, EMILY. Hi EMILY, Your new AT&T bill is available now at myAT&T. Service: Internet",
+      "isUnread": true,
+      "date": "2026-06-06T18:03:45Z",
+      "threadId": "19e9e1db738600c3"
+    },
     {
       "sender": "info@analuisa.com",
       "subject": "SPIN TO WIN: 24 HRS ONLY",
@@ -8,78 +80,6 @@
       "isUnread": true,
       "date": "2026-06-06T16:11:33Z",
       "threadId": "19e9db583c568e16"
-    },
-    {
-      "sender": "Business552763@mindbodyonline.com",
-      "subject": "Don't forget! You've got Signature50: Full Body at 5:30pm on 6/7/2026 at IL, Lincoln Park.",
-      "snippet": "Emily, It's time to feel that strength. You're booked for your Signature50: Full Body class with Gabriele Thompson at IL, Lincoln Park on 6/7/2026 at 5:30pm.",
-      "isUnread": true,
-      "date": "2026-06-06T15:19:25Z",
-      "threadId": "19e9d8481876d29a"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "It's gazpacho time",
-      "snippet": "Here's our (accurately titled) best gazpacho. Good morning! Today we have for you: Julia Moskin's best gazpacho, a one-pot chicken...",
-      "isUnread": true,
-      "date": "2026-06-06T15:03:09Z",
-      "threadId": "19e9d7e8c61d136a"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Cookies, I didn't forget about you",
-      "snippet": "I'm giving the GOAT treat the limelight this week. Four frosted sugar cookies and one unfrosted sugar cookie...",
-      "isUnread": true,
-      "date": "2026-06-06T14:00:34Z",
-      "threadId": "19e9d3c9d831dd03"
-    },
-    {
-      "sender": "orders-1@tickpick.com",
-      "subject": "You Purchased Tickets on TickPick (Order Number 1071953245)",
-      "snippet": "Mumford and Sons, Caamp & Dylan Gossett Thu Jun 11, 2026 6:30PM @ Wrigley Field Order: #1071953245",
-      "isUnread": true,
-      "date": "2026-06-06T13:33:50Z",
-      "threadId": "19e9d23d46d10ee4"
-    },
-    {
-      "sender": "noreply-accounts@google.com",
-      "subject": "You shared some Google Account data with TickPick",
-      "snippet": "You're receiving this email because you used Sign in with Google to sign in to TickPick on June 6 at 8:33 AM.",
-      "isUnread": true,
-      "date": "2026-06-06T13:33:28Z",
-      "threadId": "19e9d238049a5025"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "Don't miss out on your $5.99 Favorite Sandwich reward",
-      "snippet": "You deserve a rewarding lunch. Get the lowest menu prices any time you order directly on Jimmy John's web or app.",
-      "isUnread": true,
-      "date": "2026-06-06T13:20:08Z",
-      "threadId": "19e9d174a54c691c"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Sorry, But No One Likes Your Husband",
-      "snippet": "But first: an unexpected destination for cute, affordable clothes — Check out what we Skimm'd for you today.",
-      "isUnread": true,
-      "date": "2026-06-06T13:03:25Z",
-      "threadId": "19e9d080203788ff"
-    },
-    {
-      "sender": "notice@eml.ecobee.com",
-      "subject": "Service reminder: It's time for an air filter change.",
-      "snippet": "Hi Emily, You have a message from your thermostat: My ecobee (My Home). A friendly reminder that your last air filter change was on November...",
-      "isUnread": true,
-      "date": "2026-06-06T05:01:11Z",
-      "threadId": "19e9b4e81b27e7ea"
-    },
-    {
-      "sender": "noreply@email.apple.com",
-      "subject": "Your iCloud storage is full.",
-      "snippet": "Hello Emily Quayle, Your iCloud storage is full. Your documents, contacts, mail, and device data are no longer backing up to iCloud.",
-      "isUnread": true,
-      "date": "2026-06-06T04:56:45Z",
-      "threadId": "19e9b4a6fc0c779b"
     }
   ]
 }
