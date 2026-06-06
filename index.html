@@ -551,6 +551,7 @@ async function loadGmail() {
           + '</div>';
         return;
       }
+      if (!result?.threads) console.warn('[Gmail] unexpected parseMcp result:', JSON.stringify(result)?.slice(0,300));
       const SKIP = /todoist\.com|github\.com|sudo|personal access token/i;
       messages = (result?.threads || [])
         .map(t => {
@@ -565,6 +566,11 @@ async function loadGmail() {
           };
         })
         .filter(m => !SKIP.test(m.sender) && !SKIP.test(m.subject));
+      // Fallback to static JSON if live call returned nothing
+      if (!messages.length) {
+        const d = await loadJSON('data/gmail.json');
+        messages = d?.messages || [];
+      }
     } else {
       const d = await loadJSON('data/gmail.json');
       messages = d?.messages || [];
