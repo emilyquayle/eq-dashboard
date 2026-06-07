@@ -1,10 +1,42 @@
 {
-  "updated": "2026-06-07T05:04:43Z",
+  "updated": "2026-06-07T13:15:00Z",
   "messages": [
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Your Middle-School Swimsuit Is Back 🏖️",
+      "snippet": "But first: proof that comfy and cute can coexist — Check out what we Skimm'd for you today June 7, 2026",
+      "isUnread": true,
+      "date": "2026-06-07T13:01:14Z",
+      "threadId": "19ea22c5a2d8fa85"
+    },
+    {
+      "sender": "customerservice@jonathanadler.com",
+      "subject": "For Your Favorite Dads & Dudes",
+      "snippet": "Up to 65% OFF MARKDOWNS continues.",
+      "isUnread": true,
+      "date": "2026-06-07T12:15:45Z",
+      "threadId": "19ea202b4ec32769"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Gameplay: Solve the Sunday Crossword",
+      "snippet": "The nature of relaxing in New York City. Gameplay June 7, 2026 — Solve the Sunday Crossword. Today's grid by Isaac Aronow.",
+      "isUnread": true,
+      "date": "2026-06-07T11:02:37Z",
+      "threadId": "19ea1bff814aeb42"
+    },
+    {
+      "sender": "newsletter@farnamstreetblog.com",
+      "subject": "Brain Food: A Thousand Compromises",
+      "snippet": "Distilling the best thinking in the world ...",
+      "isUnread": true,
+      "date": "2026-06-07T09:32:45Z",
+      "threadId": "19ea16d76b2ec5b9"
+    },
     {
       "sender": "calendar-notification@google.com",
       "subject": "Notification: Dinner w/ V + Nick + Woj @ Sat Jun 6, 2026 5:30pm - 8:30pm (CDT)",
-      "snippet": "Dinner w/ V + Nick + Woj You have been invited by Emily Quayle to attend an event on Saturday Jun 6, 2026 5:30pm – 8:30pm (CDT).",
+      "snippet": "You have been invited by Emily Quayle to attend Dinner w/ V + Nick + Woj on Saturday Jun 6, 2026 5:30pm – 8:30pm (Chicago).",
       "isUnread": true,
       "date": "2026-06-06T22:00:14Z",
       "threadId": "19e9ef370f778a2f"
@@ -12,7 +44,7 @@
     {
       "sender": "no-reply@e.benefitcosmetics.com",
       "subject": "Your appointment at Benefit Cosmetics Boutique Southport is coming up",
-      "snippet": "Service: Brow Thread, Brow Tint & Lash Tint 03:45 PM (30 minutes) With: Nina Symone. Sunday appointment reminder.",
+      "snippet": "It's almost time! Service: Brow Thread, Brow Tint & Lash Tint 03:45 PM (30 minutes) With: Nina Symone. When: Sunday.",
       "isUnread": true,
       "date": "2026-06-06T20:45:04Z",
       "threadId": "19e9eaea32371adb"
@@ -20,7 +52,7 @@
     {
       "sender": "orders-2@tickpick.com",
       "subject": "Your Tickets Are Ready For Delivery (Order Number 1071953245)",
-      "snippet": "Download the MLB Ballpark App on your smartphone. Register with the same email used for your TickPick purchase and verify.",
+      "snippet": "Delivery Instructions: Download the MLB Ballpark App, register with the same email used for your TickPick purchase.",
       "isUnread": true,
       "date": "2026-06-06T20:30:44Z",
       "threadId": "19e9ea183ae63477"
@@ -28,7 +60,7 @@
     {
       "sender": "tickets@tickets.mlb.com",
       "subject": "You have just been forwarded tickets for Mumford & Sons",
-      "snippet": "Ticket Details: 2026-06-11 Mumford & Sons 6:30 PM CT. Tickets forwarded to you via cubs.com.",
+      "snippet": "You have just been forwarded tickets for Mumford & Sons. Ticket Details: 2026-06-11, Mumford & Sons, 6:30 PM CT.",
       "isUnread": true,
       "date": "2026-06-06T20:28:18Z",
       "threadId": "19e9e9f447b7f89e"
@@ -36,7 +68,7 @@
     {
       "sender": "noreply@uber.com",
       "subject": "[Personal] Your Saturday afternoon order with Uber Eats",
-      "snippet": "Jun 6, 2026 1:09 PM — Thanks for tipping, Emily. Receipt for North Buena Deli (Uptown). Total $25.33.",
+      "snippet": "Thanks for tipping, Emily. Here's your receipt for North Buena Deli (Uptown). Total $25.33.",
       "isUnread": true,
       "date": "2026-06-06T20:20:45Z",
       "threadId": "19e9e985ccf4ad28"
@@ -48,38 +80,6 @@
       "isUnread": true,
       "date": "2026-06-06T20:07:24Z",
       "threadId": "19e9e8c2905dfa15"
-    },
-    {
-      "sender": "uber@uber.com",
-      "subject": "Get 20% off (up to $20) on your next $20+ alcohol order",
-      "snippet": "Skip the trip and get beer, wine, and spirits delivered.",
-      "isUnread": true,
-      "date": "2026-06-06T19:21:11Z",
-      "threadId": "19e9e61d25b96bb5"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Pentagon raises spying threat assessment for Israel",
-      "snippet": "American intelligence reports say Israel has stepped up efforts to eavesdrop on US-Iran talks. NYT Breaking News, June 6.",
-      "isUnread": true,
-      "date": "2026-06-06T19:20:45Z",
-      "threadId": "19e9e618ad310e75"
-    },
-    {
-      "sender": "contact@email.cbssports.com",
-      "subject": "The Stars are Out at the Memorial Tournament 🌟⛳ Watch Live on CBS!",
-      "snippet": "Watch the PGA Tour on CBS and Streaming on Paramount+. The Memorial Tournament is live.",
-      "isUnread": true,
-      "date": "2026-06-06T18:10:50Z",
-      "threadId": "19e9e21b35d5f070"
-    },
-    {
-      "sender": "update@emaildl.att-mail.com",
-      "subject": "Your AT&T online bill is ready to be viewed",
-      "snippet": "Your new AT&T bill is available. Service: Internet. Account: 325098126. Payment due: 07/01/2026.",
-      "isUnread": true,
-      "date": "2026-06-06T18:03:45Z",
-      "threadId": "19e9e1db738600c3"
     }
   ]
 }
