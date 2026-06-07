@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-06T22:15:00Z",
+  "updated": "2026-06-07T05:04:43Z",
   "messages": [
     {
       "sender": "calendar-notification@google.com",
       "subject": "Notification: Dinner w/ V + Nick + Woj @ Sat Jun 6, 2026 5:30pm - 8:30pm (CDT)",
-      "snippet": "You have been invited by Emily Quayle to attend Dinner w/ V + Nick + Woj on Saturday Jun 6, 2026 5:30pm - 8:30pm (CDT).",
+      "snippet": "Dinner w/ V + Nick + Woj You have been invited by Emily Quayle to attend an event on Saturday Jun 6, 2026 5:30pm – 8:30pm (CDT).",
       "isUnread": true,
       "date": "2026-06-06T22:00:14Z",
       "threadId": "19e9ef370f778a2f"
@@ -12,7 +12,7 @@
     {
       "sender": "no-reply@e.benefitcosmetics.com",
       "subject": "Your appointment at Benefit Cosmetics Boutique Southport is coming up",
-      "snippet": "Service: Brow Thread, Brow Tint & Lash Tint 03:45 PM (30 minutes) With: Nina Symone. Sunday appointment coming up.",
+      "snippet": "Service: Brow Thread, Brow Tint & Lash Tint 03:45 PM (30 minutes) With: Nina Symone. Sunday appointment reminder.",
       "isUnread": true,
       "date": "2026-06-06T20:45:04Z",
       "threadId": "19e9eaea32371adb"
@@ -20,7 +20,7 @@
     {
       "sender": "orders-2@tickpick.com",
       "subject": "Your Tickets Are Ready For Delivery (Order Number 1071953245)",
-      "snippet": "Delivery Instructions: Download the MLB Ballpark App on your smartphone. Register with the same email used for your TickPick purchase.",
+      "snippet": "Download the MLB Ballpark App on your smartphone. Register with the same email used for your TickPick purchase and verify.",
       "isUnread": true,
       "date": "2026-06-06T20:30:44Z",
       "threadId": "19e9ea183ae63477"
@@ -28,7 +28,7 @@
     {
       "sender": "tickets@tickets.mlb.com",
       "subject": "You have just been forwarded tickets for Mumford & Sons",
-      "snippet": "You have just been forwarded tickets for Mumford & Sons. Ticket Details: 2026-06-11, 6:30 PM CT at Wrigley Field.",
+      "snippet": "Ticket Details: 2026-06-11 Mumford & Sons 6:30 PM CT. Tickets forwarded to you via cubs.com.",
       "isUnread": true,
       "date": "2026-06-06T20:28:18Z",
       "threadId": "19e9e9f447b7f89e"
@@ -36,7 +36,7 @@
     {
       "sender": "noreply@uber.com",
       "subject": "[Personal] Your Saturday afternoon order with Uber Eats",
-      "snippet": "Jun 6, 2026 1:09 PM - Thanks for tipping, Emily. Here's your receipt for North Buena Deli (Uptown). Total $25.33.",
+      "snippet": "Jun 6, 2026 1:09 PM — Thanks for tipping, Emily. Receipt for North Buena Deli (Uptown). Total $25.33.",
       "isUnread": true,
       "date": "2026-06-06T20:20:45Z",
       "threadId": "19e9e985ccf4ad28"
@@ -44,7 +44,7 @@
     {
       "sender": "noreply@email.openai.com",
       "subject": "Action Required: Important security update for OpenAI macOS apps",
-      "snippet": "Please update any OpenAI macOS apps before June 12, 2026 to avoid disruption of access. Important security update.",
+      "snippet": "Please update any OpenAI macOS apps before June 12, 2026 to avoid disruption of access.",
       "isUnread": true,
       "date": "2026-06-06T20:07:24Z",
       "threadId": "19e9e8c2905dfa15"
@@ -60,15 +60,15 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Pentagon raises spying threat assessment for Israel",
-      "snippet": "American intelligence reports say Israel has stepped up efforts to eavesdrop on US-Iran talks. June 6, 2026.",
+      "snippet": "American intelligence reports say Israel has stepped up efforts to eavesdrop on US-Iran talks. NYT Breaking News, June 6.",
       "isUnread": true,
       "date": "2026-06-06T19:20:45Z",
       "threadId": "19e9e618ad310e75"
     },
     {
       "sender": "contact@email.cbssports.com",
-      "subject": "The Stars are Out at the Memorial Tournament - Watch Live on CBS!",
-      "snippet": "Watch the PGA Tour on CBS and Streaming on Paramount+. Stars are out at the Memorial Tournament.",
+      "subject": "The Stars are Out at the Memorial Tournament 🌟⛳ Watch Live on CBS!",
+      "snippet": "Watch the PGA Tour on CBS and Streaming on Paramount+. The Memorial Tournament is live.",
       "isUnread": true,
       "date": "2026-06-06T18:10:50Z",
       "threadId": "19e9e21b35d5f070"
@@ -76,7 +76,7 @@
     {
       "sender": "update@emaildl.att-mail.com",
       "subject": "Your AT&T online bill is ready to be viewed",
-      "snippet": "Your new AT&T bill is available. Service: Internet, Account: 325098126, Payment due: 07/01/2026.",
+      "snippet": "Your new AT&T bill is available. Service: Internet. Account: 325098126. Payment due: 07/01/2026.",
       "isUnread": true,
       "date": "2026-06-06T18:03:45Z",
       "threadId": "19e9e1db738600c3"
