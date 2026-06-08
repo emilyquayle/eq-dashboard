@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-08T17:03:06Z",
+  "updated": "2026-06-08T21:10:00Z",
   "messages": [
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Trump nominates Todd Blanche for attorney general",
+      "snippet": "The nomination of his former personal lawyer elevates a loyal and trusted ally.",
+      "isUnread": true,
+      "date": "2026-06-08T21:04:21Z",
+      "threadId": "19ea90d0acc8aa88"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Judge rejects Trump policy of $100,000 fees for skilled worker visas",
+      "snippet": "The policy left many foreign workers stranded and unable to find companies to sponsor them.",
+      "isUnread": true,
+      "date": "2026-06-08T19:26:15Z",
+      "threadId": "19ea8b358d29bd8c"
+    },
     {
       "sender": "uber@uber.com",
       "subject": "Choose Uber Black or Uber Comfort",
@@ -20,7 +36,7 @@
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "Mushroom-stuffed plantains, filling and fun",
-      "snippet": "The sweet, starchy canoes make perfect vessels for mushrooms and onions in a spiced tomato sauce. View in browser|nytime",
+      "snippet": "The sweet, starchy canoes make perfect vessels for mushrooms and onions in a spiced tomato sauce.",
       "isUnread": true,
       "date": "2026-06-08T15:03:04Z",
       "threadId": "19ea7c4543600a53"
@@ -36,7 +52,7 @@
     {
       "sender": "bankofamerica@emcom.bankofamerica.com",
       "subject": "Start your savings now with a Bank of America Advantage Savings account, EMILY",
-      "snippet": "Open an Advantage Savings account to help you start saving, grow your savings and stay on track. Bank of America logo Op",
+      "snippet": "Open an Advantage Savings account to help you start saving, grow your savings and stay on track.",
       "isUnread": true,
       "date": "2026-06-08T14:12:48Z",
       "threadId": "19ea79440e148aff"
@@ -51,8 +67,8 @@
     },
     {
       "sender": "announcements@jimmyjohns.com",
-      "subject": "NEW Meal Deal for only $8.99 😌🤌",
-      "snippet": "Get a Vito® , Turkey Tom® or The Pepe® with Chips and a Drink for only $8.99 Display images to show real-time content Sa",
+      "subject": "NEW Meal Deal for only $8.99",
+      "snippet": "Get a Vito, Turkey Tom or The Pepe with Chips and a Drink for only $8.99",
       "isUnread": true,
       "date": "2026-06-08T13:56:06Z",
       "threadId": "19ea784f40fbac4c"
@@ -60,26 +76,10 @@
     {
       "sender": "Receipts@united.com",
       "subject": "Thanks for your purchase with United",
-      "snippet": "Mon, Jun 08, 2026 Thank you for choosing United. A receipt of your purchase is shown below. Please retain this email rec",
+      "snippet": "Mon, Jun 08, 2026 - Thank you for choosing United. A receipt of your purchase is shown below.",
       "isUnread": true,
       "date": "2026-06-08T11:37:35Z",
       "threadId": "19ea7061d4cc6126"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Gameplay: Jokes and Crossword Clues",
-      "snippet": "Plus, solve a special Saturday puzzle. View in browser|nytimes.com Ad Ad Gameplay June 8, 2026 Ad Author Headshot By Sea",
-      "isUnread": true,
-      "date": "2026-06-08T11:02:49Z",
-      "threadId": "19ea6e69a1f90be9"
-    },
-    {
-      "sender": "news@execsum.co",
-      "subject": "SpaceX Steals the Show",
-      "snippet": "US stocks erased over $1.5T in market value in a massive chip stocks-led selloff on Friday. Also, SpaceX is set to secur",
-      "isUnread": true,
-      "date": "2026-06-08T10:45:51Z",
-      "threadId": "19ea6d6be4f06d36"
     }
   ]
 }
