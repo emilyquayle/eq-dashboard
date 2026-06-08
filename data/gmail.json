@@ -1,10 +1,66 @@
 {
-  "updated": "2026-06-08T12:00:00Z",
+  "updated": "2026-06-08T17:03:06Z",
   "messages": [
+    {
+      "sender": "uber@uber.com",
+      "subject": "Choose Uber Black or Uber Comfort",
+      "snippet": "Take a classy ride worthy of your business trip.",
+      "isUnread": true,
+      "date": "2026-06-08T16:51:38Z",
+      "threadId": "19ea8259e90d18e5"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "A Long Weekend In The Hamptons",
+      "snippet": "Pairs for your Hamptons plans.",
+      "isUnread": true,
+      "date": "2026-06-08T16:00:55Z",
+      "threadId": "19ea7f73b1be5c64"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Mushroom-stuffed plantains, filling and fun",
+      "snippet": "The sweet, starchy canoes make perfect vessels for mushrooms and onions in a spiced tomato sauce. View in browser|nytime",
+      "isUnread": true,
+      "date": "2026-06-08T15:03:04Z",
+      "threadId": "19ea7c4543600a53"
+    },
+    {
+      "sender": "newsletter@kith.com",
+      "subject": "Monday Program™",
+      "snippet": "Kith & '47 for the MLB Raffia Franchise LS",
+      "isUnread": true,
+      "date": "2026-06-08T15:00:42Z",
+      "threadId": "19ea7c0124a5b241"
+    },
+    {
+      "sender": "bankofamerica@emcom.bankofamerica.com",
+      "subject": "Start your savings now with a Bank of America Advantage Savings account, EMILY",
+      "snippet": "Open an Advantage Savings account to help you start saving, grow your savings and stay on track. Bank of America logo Op",
+      "isUnread": true,
+      "date": "2026-06-08T14:12:48Z",
+      "threadId": "19ea79440e148aff"
+    },
+    {
+      "sender": "info@analuisa.com",
+      "subject": "Jewelry That Can Handle the Heat",
+      "snippet": "If you're reading this it's finally summer.",
+      "isUnread": true,
+      "date": "2026-06-08T14:03:14Z",
+      "threadId": "19ea78b727dcd97c"
+    },
+    {
+      "sender": "announcements@jimmyjohns.com",
+      "subject": "NEW Meal Deal for only $8.99 😌🤌",
+      "snippet": "Get a Vito® , Turkey Tom® or The Pepe® with Chips and a Drink for only $8.99 Display images to show real-time content Sa",
+      "isUnread": true,
+      "date": "2026-06-08T13:56:06Z",
+      "threadId": "19ea784f40fbac4c"
+    },
     {
       "sender": "Receipts@united.com",
       "subject": "Thanks for your purchase with United",
-      "snippet": "Mon, Jun 08, 2026 Thank you for choosing United. A receipt of your purchase is shown below. Please retain this email receipt for your records.",
+      "snippet": "Mon, Jun 08, 2026 Thank you for choosing United. A receipt of your purchase is shown below. Please retain this email rec",
       "isUnread": true,
       "date": "2026-06-08T11:37:35Z",
       "threadId": "19ea7061d4cc6126"
@@ -12,7 +68,7 @@
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "Gameplay: Jokes and Crossword Clues",
-      "snippet": "Plus, solve a special Saturday puzzle. Gameplay June 8, 2026 By Sean McGowan I had been writing and pitching jokes for years before I tried writing",
+      "snippet": "Plus, solve a special Saturday puzzle. View in browser|nytimes.com Ad Ad Gameplay June 8, 2026 Ad Author Headshot By Sea",
       "isUnread": true,
       "date": "2026-06-08T11:02:49Z",
       "threadId": "19ea6e69a1f90be9"
@@ -20,66 +76,10 @@
     {
       "sender": "news@execsum.co",
       "subject": "SpaceX Steals the Show",
-      "snippet": "US stocks erased over $1.5T in market value in a massive chip stocks-led selloff on Friday. SpaceX is set to secure a $1.75T valuation with its IPO already 2x oversubscribed.",
+      "snippet": "US stocks erased over $1.5T in market value in a massive chip stocks-led selloff on Friday. Also, SpaceX is set to secur",
       "isUnread": true,
       "date": "2026-06-08T10:45:51Z",
       "threadId": "19ea6d6be4f06d36"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "The Morning: Costs of war",
-      "snippet": "Plus, Middle East updates, the NBA finals and Tony winners. June 8, 2026 By Sam Sifton Good morning from New York, where the city is vibrating.",
-      "isUnread": true,
-      "date": "2026-06-08T10:38:18Z",
-      "threadId": "19ea6d052c892b3e"
-    },
-    {
-      "sender": "calendar-notification@google.com",
-      "subject": "Notification: Flight to Boston (UA 1186) @ Mon Jun 8, 2026 6:05am - 8:29am (CDT) (Emily Quayle)",
-      "snippet": "Flight to Boston (UA 1186) — Monday Jun 8, 2026, 6:05am-8:29am (Central Time - Chicago). You have an event.",
-      "isUnread": true,
-      "date": "2026-06-08T10:35:15Z",
-      "threadId": "19ea6cd0944a3ae9"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "A sleep scientist's summer bedtime rules",
-      "snippet": "But first: nice men's clothes he'll actually wear — Check out what we Skimm'd for you today June 8, 2026",
-      "isUnread": true,
-      "date": "2026-06-08T10:12:01Z",
-      "threadId": "19ea6b7e58aec7f9"
-    },
-    {
-      "sender": "noreply@uber.com",
-      "subject": "[Business] Your Monday morning trip with Uber",
-      "snippet": "Jun 8, 2026 4:21 AM — Thanks for tipping, Emily. Total $85.99. Trip fare $78.99, Tip $7.00. $4.74 Uber One credits earned.",
-      "isUnread": true,
-      "date": "2026-06-08T10:30:48Z",
-      "threadId": "19ea6aa6a8059baf"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Israel says it struck military targets in Iran",
-      "snippet": "The attack came hours after Iran retaliated for an Israeli attack in Lebanon. June 7, 2026, 10:50 pm ET BREAKING NEWS",
-      "isUnread": true,
-      "date": "2026-06-08T02:52:14Z",
-      "threadId": "19ea525510145a7f"
-    },
-    {
-      "sender": "noreply@uber.com",
-      "subject": "[Personal] Your Sunday evening order with Uber Eats",
-      "snippet": "Jun 7, 2026 6:49 PM — Thanks for tipping, Emily. Here's your receipt for Mixteco Grill (Lakeview). Total $44.52",
-      "isUnread": true,
-      "date": "2026-06-08T01:42:10Z",
-      "threadId": "19ea4e4faba4b417"
-    },
-    {
-      "sender": "onlinebanking@ealerts.bankofamerica.com",
-      "subject": "Your statement is available",
-      "snippet": "Your statement is available. Account: ADV PLUS BANKING 6914. View statement. Ask Erica, \"View my statement\"",
-      "isUnread": true,
-      "date": "2026-06-08T00:14:23Z",
-      "threadId": "19ea494bca82ab42"
     }
   ]
 }
