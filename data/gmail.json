@@ -1,10 +1,66 @@
 {
-  "updated": "2026-06-08T08:00:00Z",
+  "updated": "2026-06-08T12:00:00Z",
   "messages": [
+    {
+      "sender": "Receipts@united.com",
+      "subject": "Thanks for your purchase with United",
+      "snippet": "Mon, Jun 08, 2026 Thank you for choosing United. A receipt of your purchase is shown below. Please retain this email receipt for your records.",
+      "isUnread": true,
+      "date": "2026-06-08T11:37:35Z",
+      "threadId": "19ea7061d4cc6126"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Gameplay: Jokes and Crossword Clues",
+      "snippet": "Plus, solve a special Saturday puzzle. Gameplay June 8, 2026 By Sean McGowan I had been writing and pitching jokes for years before I tried writing",
+      "isUnread": true,
+      "date": "2026-06-08T11:02:49Z",
+      "threadId": "19ea6e69a1f90be9"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "SpaceX Steals the Show",
+      "snippet": "US stocks erased over $1.5T in market value in a massive chip stocks-led selloff on Friday. SpaceX is set to secure a $1.75T valuation with its IPO already 2x oversubscribed.",
+      "isUnread": true,
+      "date": "2026-06-08T10:45:51Z",
+      "threadId": "19ea6d6be4f06d36"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "The Morning: Costs of war",
+      "snippet": "Plus, Middle East updates, the NBA finals and Tony winners. June 8, 2026 By Sam Sifton Good morning from New York, where the city is vibrating.",
+      "isUnread": true,
+      "date": "2026-06-08T10:38:18Z",
+      "threadId": "19ea6d052c892b3e"
+    },
+    {
+      "sender": "calendar-notification@google.com",
+      "subject": "Notification: Flight to Boston (UA 1186) @ Mon Jun 8, 2026 6:05am - 8:29am (CDT) (Emily Quayle)",
+      "snippet": "Flight to Boston (UA 1186) — Monday Jun 8, 2026, 6:05am-8:29am (Central Time - Chicago). You have an event.",
+      "isUnread": true,
+      "date": "2026-06-08T10:35:15Z",
+      "threadId": "19ea6cd0944a3ae9"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "A sleep scientist's summer bedtime rules",
+      "snippet": "But first: nice men's clothes he'll actually wear — Check out what we Skimm'd for you today June 8, 2026",
+      "isUnread": true,
+      "date": "2026-06-08T10:12:01Z",
+      "threadId": "19ea6b7e58aec7f9"
+    },
+    {
+      "sender": "noreply@uber.com",
+      "subject": "[Business] Your Monday morning trip with Uber",
+      "snippet": "Jun 8, 2026 4:21 AM — Thanks for tipping, Emily. Total $85.99. Trip fare $78.99, Tip $7.00. $4.74 Uber One credits earned.",
+      "isUnread": true,
+      "date": "2026-06-08T10:30:48Z",
+      "threadId": "19ea6aa6a8059baf"
+    },
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Israel says it struck military targets in Iran",
-      "snippet": "The attack came hours after Iran retaliated for an Israeli attack in Lebanon.",
+      "snippet": "The attack came hours after Iran retaliated for an Israeli attack in Lebanon. June 7, 2026, 10:50 pm ET BREAKING NEWS",
       "isUnread": true,
       "date": "2026-06-08T02:52:14Z",
       "threadId": "19ea525510145a7f"
@@ -12,7 +68,7 @@
     {
       "sender": "noreply@uber.com",
       "subject": "[Personal] Your Sunday evening order with Uber Eats",
-      "snippet": "Thanks for tipping, Emily. Here's your receipt for Mixteco Grill (Lakeview). Total $44.52",
+      "snippet": "Jun 7, 2026 6:49 PM — Thanks for tipping, Emily. Here's your receipt for Mixteco Grill (Lakeview). Total $44.52",
       "isUnread": true,
       "date": "2026-06-08T01:42:10Z",
       "threadId": "19ea4e4faba4b417"
@@ -20,66 +76,10 @@
     {
       "sender": "onlinebanking@ealerts.bankofamerica.com",
       "subject": "Your statement is available",
-      "snippet": "Your statement is available. Account: ADV PLUS BANKING 6914. View statement.",
+      "snippet": "Your statement is available. Account: ADV PLUS BANKING 6914. View statement. Ask Erica, \"View my statement\"",
       "isUnread": true,
       "date": "2026-06-08T00:14:23Z",
       "threadId": "19ea494bca82ab42"
-    },
-    {
-      "sender": "no-reply@e.benefitcosmetics.com",
-      "subject": "Your Post-Brow Tint Care Guide",
-      "snippet": "Open me for tint tips!",
-      "isUnread": true,
-      "date": "2026-06-07T21:43:02Z",
-      "threadId": "19ea40a1004221cc"
-    },
-    {
-      "sender": "donotreply@gopassport.com",
-      "subject": "Parking Receipt - ParkChicago",
-      "snippet": "Thanks for paying for parking with ParkChicago. Zone: 3521 N Southport Ave. License Plate: IL AP99577.",
-      "isUnread": true,
-      "date": "2026-06-07T21:37:32Z",
-      "threadId": "19ea40505bec85d2"
-    },
-    {
-      "sender": "calendar-notification@google.com",
-      "subject": "Notification: Boston @ Mon Jun 8, 2026 (equayle93@gmail.com)",
-      "snippet": "You have been invited by Emily Quayle to attend an event named Boston on Monday Jun 8, 2026.",
-      "isUnread": true,
-      "date": "2026-06-07T21:34:32Z",
-      "threadId": "19ea40245e5a76ee"
-    },
-    {
-      "sender": "notifications@united.com",
-      "subject": "What to know about your trip to Chicago",
-      "snippet": "United Airlines MileagePlus. Destination: Chicago. Reservation: G4EJT6. Departs: June 10, 2026.",
-      "isUnread": true,
-      "date": "2026-06-07T20:45:29Z",
-      "threadId": "19ea3d55ee6a6a94"
-    },
-    {
-      "sender": "Walgreens@ecs.walgreens.com",
-      "subject": "Thank you for shopping at Walgreens.",
-      "snippet": "Your purchase receipt. Walgreens Store #1173, 1520 W Fullerton Ave, Chicago, IL. June 07, 2026. You saved $11.00.",
-      "isUnread": true,
-      "date": "2026-06-07T20:08:41Z",
-      "threadId": "19ea3b821df63ad5"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Iran fires missiles at Israel for first time since April cease-fire",
-      "snippet": "Iran had threatened to retaliate after Israel attacked the outskirts of Beirut, Lebanon.",
-      "isUnread": true,
-      "date": "2026-06-07T19:47:59Z",
-      "threadId": "19ea3a0c880bea3a"
-    },
-    {
-      "sender": "rewards@customer-mail.smile.io",
-      "subject": "You've earned 130 Points!",
-      "snippet": "Nice work! You placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park. You have 4043 Points!",
-      "isUnread": true,
-      "date": "2026-06-07T17:28:21Z",
-      "threadId": "19ea320e2cc87176"
     }
   ]
 }
