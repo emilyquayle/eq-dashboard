@@ -1,10 +1,42 @@
 {
-  "updated": "2026-06-07T20:50:00Z",
+  "updated": "2026-06-08T01:30:59Z",
   "messages": [
+    {
+      "sender": "onlinebanking@ealerts.bankofamerica.com",
+      "subject": "Your statement is available",
+      "snippet": "Your statement is available Account: ADV PLUS BANKING 6914 View statement Ask Erica, \"View my statement\" We'll never ask",
+      "isUnread": true,
+      "date": "2026-06-08T00:14:23Z",
+      "threadId": "19ea494bca82ab42"
+    },
+    {
+      "sender": "no-reply@e.benefitcosmetics.com",
+      "subject": "Your Post-Brow Tint Care Guide",
+      "snippet": "Open me for tint tips! Can't see the pretty pictures? View in browser. Benefit Cosmetics Logo © Benefit Cosmetics, LLC, ",
+      "isUnread": true,
+      "date": "2026-06-07T21:43:02Z",
+      "threadId": "19ea40a1004221cc"
+    },
+    {
+      "sender": "donotreply@gopassport.com",
+      "subject": "Parking Receipt - ParkChicago",
+      "snippet": "Thanks for paying for parking with ParkChicago ® Below is a receipt of your parking stay details: Session Number: 794403",
+      "isUnread": true,
+      "date": "2026-06-07T21:37:32Z",
+      "threadId": "19ea40505bec85d2"
+    },
+    {
+      "sender": "calendar-notification@google.com",
+      "subject": "Notification: Boston @ Mon Jun 8, 2026 (equayle93@gmail.com)",
+      "snippet": "Boston You have been invited by Emily Quayle to attend an event named Boston on Monday Jun 8, 2026. You have an upcoming",
+      "isUnread": true,
+      "date": "2026-06-07T21:34:32Z",
+      "threadId": "19ea40245e5a76ee"
+    },
     {
       "sender": "notifications@united.com",
       "subject": "What to know about your trip to Chicago",
-      "snippet": "United Airlines MileagePlus Flight itinerary - Destination: Chicago, Reservation: G4EJT6, Departs: June 10, 2026. It's almost time for your trip!",
+      "snippet": "United Airlines MileagePlus # XXXXX105 Flight itinerary Destination: Chicago Reservation number: G4EJT6 Departs: June 10",
       "isUnread": true,
       "date": "2026-06-07T20:45:29Z",
       "threadId": "19ea3d55ee6a6a94"
@@ -12,7 +44,7 @@
     {
       "sender": "Walgreens@ecs.walgreens.com",
       "subject": "Thank you for shopping at Walgreens.",
-      "snippet": "Thank you for shopping at Walgreens. Store #1173, 1520 W FULLERTON AVE Chicago, IL. June 07, 2026 - Transaction ID: 8359. You saved $11.00",
+      "snippet": "Thank you for shopping at Walgreens. Your purchase receipt Walgreens Store #1173 1520 W FULLERTON AVE Chicago, IL 60614 ",
       "isUnread": true,
       "date": "2026-06-07T20:08:41Z",
       "threadId": "19ea3b821df63ad5"
@@ -20,7 +52,7 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Iran fires missiles at Israel for first time since April cease-fire",
-      "snippet": "Iran had threatened to retaliate after Israel attacked the outskirts of Beirut, Lebanon.",
+      "snippet": "Iran had threatened to retaliate after Israel attacked the outskirts of Beirut, Lebanon. View in browser The New York Ti",
       "isUnread": true,
       "date": "2026-06-07T19:47:59Z",
       "threadId": "19ea3a0c880bea3a"
@@ -28,7 +60,7 @@
     {
       "sender": "rewards@customer-mail.smile.io",
       "subject": "You've earned 130 Points!",
-      "snippet": "Nice work! You Placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park. You have 4043 Points!",
+      "snippet": "Nice work! You Placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park logo You have 4043 Points!",
       "isUnread": true,
       "date": "2026-06-07T17:28:21Z",
       "threadId": "19ea320e2cc87176"
@@ -36,7 +68,7 @@
     {
       "sender": "orders@2501halsted.com",
       "subject": "Order 71617HAL confirmed",
-      "snippet": "Order 71617HAL - Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has been sent.",
+      "snippet": "Order 71617HAL Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has be",
       "isUnread": true,
       "date": "2026-06-07T17:28:18Z",
       "threadId": "19ea320dd7e02baa"
@@ -48,38 +80,6 @@
       "isUnread": true,
       "date": "2026-06-07T17:05:48Z",
       "threadId": "19ea30c3c4e66595"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "Last call for $5 off $20+ ⏰",
-      "snippet": "Use this deal to try the fan-favorite Thai Chicken Wrap. Don't Miss Out! $5 off $20+ Digital Exclusive. Order online or in the app.",
-      "isUnread": true,
-      "date": "2026-06-07T16:26:07Z",
-      "threadId": "19ea2e7ea2d3d9e9"
-    },
-    {
-      "sender": "venmo@venmo.com",
-      "subject": "Nick Siderys requests $135.75",
-      "snippet": "Nick Siderys requests $135.75 - Gibsons (343) + carmines (201). Requested by @Nick-Siderys from @Emily-Quayle.",
-      "isUnread": true,
-      "date": "2026-06-07T16:25:53Z",
-      "threadId": "19ea2e7b2c148c19"
-    },
-    {
-      "sender": "info@analuisa.com",
-      "subject": "25% Off All Hoops With Luxe",
-      "snippet": "This weekend only. 25% Off All Hoops With Luxe.",
-      "isUnread": true,
-      "date": "2026-06-07T16:20:21Z",
-      "threadId": "19ea2e2a0b16c555"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Sheet-pan party cake!",
-      "snippet": "This big vanilla cake is easy to love (and easy to transport). Cooking - June 7, 2026. A vanilla sheet-pan party cake for grads.",
-      "isUnread": true,
-      "date": "2026-06-07T15:04:07Z",
-      "threadId": "19ea2a0bcc9efb0a"
     }
   ]
 }
