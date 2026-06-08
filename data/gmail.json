@@ -1,10 +1,34 @@
 {
-  "updated": "2026-06-07T17:35:00Z",
+  "updated": "2026-06-07T20:50:00Z",
   "messages": [
+    {
+      "sender": "notifications@united.com",
+      "subject": "What to know about your trip to Chicago",
+      "snippet": "United Airlines MileagePlus Flight itinerary - Destination: Chicago, Reservation: G4EJT6, Departs: June 10, 2026. It's almost time for your trip!",
+      "isUnread": true,
+      "date": "2026-06-07T20:45:29Z",
+      "threadId": "19ea3d55ee6a6a94"
+    },
+    {
+      "sender": "Walgreens@ecs.walgreens.com",
+      "subject": "Thank you for shopping at Walgreens.",
+      "snippet": "Thank you for shopping at Walgreens. Store #1173, 1520 W FULLERTON AVE Chicago, IL. June 07, 2026 - Transaction ID: 8359. You saved $11.00",
+      "isUnread": true,
+      "date": "2026-06-07T20:08:41Z",
+      "threadId": "19ea3b821df63ad5"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Iran fires missiles at Israel for first time since April cease-fire",
+      "snippet": "Iran had threatened to retaliate after Israel attacked the outskirts of Beirut, Lebanon.",
+      "isUnread": true,
+      "date": "2026-06-07T19:47:59Z",
+      "threadId": "19ea3a0c880bea3a"
+    },
     {
       "sender": "rewards@customer-mail.smile.io",
       "subject": "You've earned 130 Points!",
-      "snippet": "Nice work! You Placed an order and earned 130 Points. You have 4043 Points! More ways to earn points available.",
+      "snippet": "Nice work! You Placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park. You have 4043 Points!",
       "isUnread": true,
       "date": "2026-06-07T17:28:21Z",
       "threadId": "19ea320e2cc87176"
@@ -12,7 +36,7 @@
     {
       "sender": "orders@2501halsted.com",
       "subject": "Order 71617HAL confirmed",
-      "snippet": "Order 71617HAL Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has been sent.",
+      "snippet": "Order 71617HAL - Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has been sent.",
       "isUnread": true,
       "date": "2026-06-07T17:28:18Z",
       "threadId": "19ea320dd7e02baa"
@@ -28,7 +52,7 @@
     {
       "sender": "announcements@jimmyjohns.com",
       "subject": "Last call for $5 off $20+ ⏰",
-      "snippet": "Use this deal to try the fan-favorite Thai Chicken Wrap. Don't Miss Out! $5 off $20+ Digital Exclusive — order online or in the app.",
+      "snippet": "Use this deal to try the fan-favorite Thai Chicken Wrap. Don't Miss Out! $5 off $20+ Digital Exclusive. Order online or in the app.",
       "isUnread": true,
       "date": "2026-06-07T16:26:07Z",
       "threadId": "19ea2e7ea2d3d9e9"
@@ -36,7 +60,7 @@
     {
       "sender": "venmo@venmo.com",
       "subject": "Nick Siderys requests $135.75",
-      "snippet": "Nick Siderys requests $135.75 — Gibsons (343) + Carmines (201). Requested by @Nick-Siderys from @Emily-Quayle.",
+      "snippet": "Nick Siderys requests $135.75 - Gibsons (343) + carmines (201). Requested by @Nick-Siderys from @Emily-Quayle.",
       "isUnread": true,
       "date": "2026-06-07T16:25:53Z",
       "threadId": "19ea2e7b2c148c19"
@@ -44,7 +68,7 @@
     {
       "sender": "info@analuisa.com",
       "subject": "25% Off All Hoops With Luxe",
-      "snippet": "This weekend only — 25% Off All Hoops With Luxe.",
+      "snippet": "This weekend only. 25% Off All Hoops With Luxe.",
       "isUnread": true,
       "date": "2026-06-07T16:20:21Z",
       "threadId": "19ea2e2a0b16c555"
@@ -52,34 +76,10 @@
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "Sheet-pan party cake!",
-      "snippet": "This big vanilla cake is easy to love (and easy to transport). A vanilla sheet-pan party cake for grads — NYT Cooking, June 7, 2026.",
+      "snippet": "This big vanilla cake is easy to love (and easy to transport). Cooking - June 7, 2026. A vanilla sheet-pan party cake for grads.",
       "isUnread": true,
       "date": "2026-06-07T15:04:07Z",
       "threadId": "19ea2a0bcc9efb0a"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "This Week at Kith",
-      "snippet": "Kith & '47 for the MLB Raffia Franchise LS — see what's new this week at Kith.",
-      "isUnread": true,
-      "date": "2026-06-07T15:01:05Z",
-      "threadId": "19ea29a157bd0bd6"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "This new tofu dinner already has five stars",
-      "snippet": "Hetty Lui McKinnon's chile tofu pairs the mild protein with a bold, punchy sauce. A meatless dinner that really satisfies.",
-      "isUnread": true,
-      "date": "2026-06-07T13:03:20Z",
-      "threadId": "19ea23a0daf7c753"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Your Middle-School Swimsuit Is Back 🏖️",
-      "snippet": "But first: proof that comfy and cute can coexist — check out what we Skimm'd for you today, June 7, 2026.",
-      "isUnread": true,
-      "date": "2026-06-07T13:01:14Z",
-      "threadId": "19ea22c5a2d8fa85"
     }
   ]
 }
