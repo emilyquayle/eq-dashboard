@@ -1,10 +1,26 @@
 {
-  "updated": "2026-06-08T01:30:59Z",
+  "updated": "2026-06-08T08:00:00Z",
   "messages": [
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Israel says it struck military targets in Iran",
+      "snippet": "The attack came hours after Iran retaliated for an Israeli attack in Lebanon.",
+      "isUnread": true,
+      "date": "2026-06-08T02:52:14Z",
+      "threadId": "19ea525510145a7f"
+    },
+    {
+      "sender": "noreply@uber.com",
+      "subject": "[Personal] Your Sunday evening order with Uber Eats",
+      "snippet": "Thanks for tipping, Emily. Here's your receipt for Mixteco Grill (Lakeview). Total $44.52",
+      "isUnread": true,
+      "date": "2026-06-08T01:42:10Z",
+      "threadId": "19ea4e4faba4b417"
+    },
     {
       "sender": "onlinebanking@ealerts.bankofamerica.com",
       "subject": "Your statement is available",
-      "snippet": "Your statement is available Account: ADV PLUS BANKING 6914 View statement Ask Erica, \"View my statement\" We'll never ask",
+      "snippet": "Your statement is available. Account: ADV PLUS BANKING 6914. View statement.",
       "isUnread": true,
       "date": "2026-06-08T00:14:23Z",
       "threadId": "19ea494bca82ab42"
@@ -12,7 +28,7 @@
     {
       "sender": "no-reply@e.benefitcosmetics.com",
       "subject": "Your Post-Brow Tint Care Guide",
-      "snippet": "Open me for tint tips! Can't see the pretty pictures? View in browser. Benefit Cosmetics Logo © Benefit Cosmetics, LLC, ",
+      "snippet": "Open me for tint tips!",
       "isUnread": true,
       "date": "2026-06-07T21:43:02Z",
       "threadId": "19ea40a1004221cc"
@@ -20,7 +36,7 @@
     {
       "sender": "donotreply@gopassport.com",
       "subject": "Parking Receipt - ParkChicago",
-      "snippet": "Thanks for paying for parking with ParkChicago ® Below is a receipt of your parking stay details: Session Number: 794403",
+      "snippet": "Thanks for paying for parking with ParkChicago. Zone: 3521 N Southport Ave. License Plate: IL AP99577.",
       "isUnread": true,
       "date": "2026-06-07T21:37:32Z",
       "threadId": "19ea40505bec85d2"
@@ -28,7 +44,7 @@
     {
       "sender": "calendar-notification@google.com",
       "subject": "Notification: Boston @ Mon Jun 8, 2026 (equayle93@gmail.com)",
-      "snippet": "Boston You have been invited by Emily Quayle to attend an event named Boston on Monday Jun 8, 2026. You have an upcoming",
+      "snippet": "You have been invited by Emily Quayle to attend an event named Boston on Monday Jun 8, 2026.",
       "isUnread": true,
       "date": "2026-06-07T21:34:32Z",
       "threadId": "19ea40245e5a76ee"
@@ -36,7 +52,7 @@
     {
       "sender": "notifications@united.com",
       "subject": "What to know about your trip to Chicago",
-      "snippet": "United Airlines MileagePlus # XXXXX105 Flight itinerary Destination: Chicago Reservation number: G4EJT6 Departs: June 10",
+      "snippet": "United Airlines MileagePlus. Destination: Chicago. Reservation: G4EJT6. Departs: June 10, 2026.",
       "isUnread": true,
       "date": "2026-06-07T20:45:29Z",
       "threadId": "19ea3d55ee6a6a94"
@@ -44,7 +60,7 @@
     {
       "sender": "Walgreens@ecs.walgreens.com",
       "subject": "Thank you for shopping at Walgreens.",
-      "snippet": "Thank you for shopping at Walgreens. Your purchase receipt Walgreens Store #1173 1520 W FULLERTON AVE Chicago, IL 60614 ",
+      "snippet": "Your purchase receipt. Walgreens Store #1173, 1520 W Fullerton Ave, Chicago, IL. June 07, 2026. You saved $11.00.",
       "isUnread": true,
       "date": "2026-06-07T20:08:41Z",
       "threadId": "19ea3b821df63ad5"
@@ -52,7 +68,7 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Iran fires missiles at Israel for first time since April cease-fire",
-      "snippet": "Iran had threatened to retaliate after Israel attacked the outskirts of Beirut, Lebanon. View in browser The New York Ti",
+      "snippet": "Iran had threatened to retaliate after Israel attacked the outskirts of Beirut, Lebanon.",
       "isUnread": true,
       "date": "2026-06-07T19:47:59Z",
       "threadId": "19ea3a0c880bea3a"
@@ -60,26 +76,10 @@
     {
       "sender": "rewards@customer-mail.smile.io",
       "subject": "You've earned 130 Points!",
-      "snippet": "Nice work! You Placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park logo You have 4043 Points!",
+      "snippet": "Nice work! You placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park. You have 4043 Points!",
       "isUnread": true,
       "date": "2026-06-07T17:28:21Z",
       "threadId": "19ea320e2cc87176"
-    },
-    {
-      "sender": "orders@2501halsted.com",
-      "subject": "Order 71617HAL confirmed",
-      "snippet": "Order 71617HAL Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has be",
-      "isUnread": true,
-      "date": "2026-06-07T17:28:18Z",
-      "threadId": "19ea320dd7e02baa"
-    },
-    {
-      "sender": "uber@uber.com",
-      "subject": "See what's trending at Tony's Fresh Market and more!",
-      "snippet": "Plus, get $0 Delivery Fee on eligible orders.",
-      "isUnread": true,
-      "date": "2026-06-07T17:05:48Z",
-      "threadId": "19ea30c3c4e66595"
     }
   ]
 }
