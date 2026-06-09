@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-08T21:10:00Z",
+  "updated": "2026-06-08T21:50:00Z",
   "messages": [
+    {
+      "sender": "Sphere@email1.msg.com",
+      "subject": "New Shows Added – The Wizard of Oz at Sphere",
+      "snippet": "Experience Sphere This Summer – NEW SHOWS ADDED FOR SUMMER. Due to overwhelming demand, we've added additional 2:00pm showtimes.",
+      "isUnread": true,
+      "date": "2026-06-08T21:35:56Z",
+      "threadId": "19ea92e8e67b041f"
+    },
+    {
+      "sender": "calendar-notification@google.com",
+      "subject": "Notification: NYC @ Tue Jun 9 - Wed Jun 10, 2026 (equayle93@gmail.com)",
+      "snippet": "NYC – You have been invited by Emily Quayle to attend an event on Tuesday Jun 9 – Wednesday Jun 10, 2026.",
+      "isUnread": true,
+      "date": "2026-06-08T21:26:30Z",
+      "threadId": "19ea9214455d7ad7"
+    },
+    {
+      "sender": "calendar-notification@google.com",
+      "subject": "Notification: Flight to Newark (UA 1647) @ Mon Jun 8, 2026 4:44pm - 6:15pm (CDT)",
+      "snippet": "Flight to Newark (UA 1647) – You have been invited by Emily Quayle. Mon Jun 8, 2026 4:44pm – 6:15pm (Central Time).",
+      "isUnread": true,
+      "date": "2026-06-08T21:13:56Z",
+      "threadId": "19ea915c47130096"
+    },
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Trump nominates Todd Blanche for attorney general",
@@ -56,30 +80,6 @@
       "isUnread": true,
       "date": "2026-06-08T14:12:48Z",
       "threadId": "19ea79440e148aff"
-    },
-    {
-      "sender": "info@analuisa.com",
-      "subject": "Jewelry That Can Handle the Heat",
-      "snippet": "If you're reading this it's finally summer.",
-      "isUnread": true,
-      "date": "2026-06-08T14:03:14Z",
-      "threadId": "19ea78b727dcd97c"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "NEW Meal Deal for only $8.99",
-      "snippet": "Get a Vito, Turkey Tom or The Pepe with Chips and a Drink for only $8.99",
-      "isUnread": true,
-      "date": "2026-06-08T13:56:06Z",
-      "threadId": "19ea784f40fbac4c"
-    },
-    {
-      "sender": "Receipts@united.com",
-      "subject": "Thanks for your purchase with United",
-      "snippet": "Mon, Jun 08, 2026 - Thank you for choosing United. A receipt of your purchase is shown below.",
-      "isUnread": true,
-      "date": "2026-06-08T11:37:35Z",
-      "threadId": "19ea7061d4cc6126"
     }
   ]
 }
