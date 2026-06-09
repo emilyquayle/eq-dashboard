@@ -1,10 +1,26 @@
 {
-  "updated": "2026-06-08T21:50:00Z",
+  "updated": "2026-06-09T04:30:00Z",
   "messages": [
+    {
+      "sender": "cfainstitutehelp@mg.electionservicescorp.com",
+      "subject": "Just a Few Days Left to Vote",
+      "snippet": "We need your help to reach quorum. Vote your proxy by 16 June. Just a few days left to vote, make sure your voice is heard today!",
+      "isUnread": true,
+      "date": "2026-06-09T04:24:23Z",
+      "threadId": "19eaab9e77273b6a"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Crew is rescued after U.S. helicopter goes down near Strait of Hormuz",
+      "snippet": "It was not immediately clear what led to the incident. Reuters Crew Rescued After US Helicopter Goes Down",
+      "isUnread": true,
+      "date": "2026-06-09T04:22:59Z",
+      "threadId": "19eaa9eba5531c6a"
+    },
     {
       "sender": "Sphere@email1.msg.com",
       "subject": "New Shows Added – The Wizard of Oz at Sphere",
-      "snippet": "Experience Sphere This Summer – NEW SHOWS ADDED FOR SUMMER. Due to overwhelming demand, we've added additional 2:00pm showtimes.",
+      "snippet": "Due to overwhelming demand, we've added additional 2:00pm showtimes for The Wizard of Oz at Sphere.",
       "isUnread": true,
       "date": "2026-06-08T21:35:56Z",
       "threadId": "19ea92e8e67b041f"
@@ -12,15 +28,15 @@
     {
       "sender": "calendar-notification@google.com",
       "subject": "Notification: NYC @ Tue Jun 9 - Wed Jun 10, 2026 (equayle93@gmail.com)",
-      "snippet": "NYC – You have been invited by Emily Quayle to attend an event on Tuesday Jun 9 – Wednesday Jun 10, 2026.",
+      "snippet": "You have been invited by Emily Quayle to attend an event named NYC on Tuesday Jun 9 – Wednesday Jun 10, 2026.",
       "isUnread": true,
       "date": "2026-06-08T21:26:30Z",
       "threadId": "19ea9214455d7ad7"
     },
     {
       "sender": "calendar-notification@google.com",
-      "subject": "Notification: Flight to Newark (UA 1647) @ Mon Jun 8, 2026 4:44pm - 6:15pm (CDT)",
-      "snippet": "Flight to Newark (UA 1647) – You have been invited by Emily Quayle. Mon Jun 8, 2026 4:44pm – 6:15pm (Central Time).",
+      "subject": "Notification: Flight to Newark (UA 1647) @ Mon Jun 8, 2026 4:44pm - 6:15pm (CDT) (Emily Quayle)",
+      "snippet": "You have been invited by Emily Quayle to attend an event named Flight to Newark (UA 1647) on Monday Jun 8, 2026 4:44pm – 6:15pm (Central Time - Chicago).",
       "isUnread": true,
       "date": "2026-06-08T21:13:56Z",
       "threadId": "19ea915c47130096"
@@ -64,22 +80,6 @@
       "isUnread": true,
       "date": "2026-06-08T15:03:04Z",
       "threadId": "19ea7c4543600a53"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "Monday Program™",
-      "snippet": "Kith & '47 for the MLB Raffia Franchise LS",
-      "isUnread": true,
-      "date": "2026-06-08T15:00:42Z",
-      "threadId": "19ea7c0124a5b241"
-    },
-    {
-      "sender": "bankofamerica@emcom.bankofamerica.com",
-      "subject": "Start your savings now with a Bank of America Advantage Savings account, EMILY",
-      "snippet": "Open an Advantage Savings account to help you start saving, grow your savings and stay on track.",
-      "isUnread": true,
-      "date": "2026-06-08T14:12:48Z",
-      "threadId": "19ea79440e148aff"
     }
   ]
 }
