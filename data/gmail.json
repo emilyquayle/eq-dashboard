@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-09T17:30:00Z",
+  "updated": "2026-06-09T20:45:00Z",
   "messages": [
+    {
+      "sender": "noreply@email.openai.com",
+      "subject": "A faster way to shop",
+      "snippet": "Without all the tabs Shop smarter with ChatGPT Instead of scrolling through pages of results, simply",
+      "isUnread": true,
+      "date": "2026-06-09T20:39:40Z",
+      "threadId": "19eae1cc1831620f"
+    },
+    {
+      "sender": "noreply@insights.united.com",
+      "subject": "Tell us how we did",
+      "snippet": "Your feedback means the world to us Hi Emily, thank you for flying with us! It was a pleasure having you onboard.",
+      "isUnread": true,
+      "date": "2026-06-09T20:30:50Z",
+      "threadId": "19eae14a82441d95"
+    },
+    {
+      "sender": "Fidelity.Investments@mail.fidelity.com",
+      "subject": "Our professionals can manage your investments for you",
+      "snippet": "Get Fidelity Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get investment advice.",
+      "isUnread": true,
+      "date": "2026-06-09T18:48:29Z",
+      "threadId": "19eadbfc7223638e"
+    },
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Trump says Iran downed U.S. helicopter and vows to retaliate",
@@ -36,7 +60,7 @@
     {
       "sender": "Fidelity.Investments@mail.fidelity.com",
       "subject": "Don't miss out! Help us serve you better",
-      "snippet": "Your opinion matters. 1 minute of your time can make a difference. You were recently invited to tell us about your experiences with Fidelity.",
+      "snippet": "Your opinion matters. 1 minute of your time can make a difference. You were recently invited to tell us about your experiences.",
       "isUnread": true,
       "date": "2026-06-09T15:06:34Z",
       "threadId": "19eacf28d76ed938"
@@ -56,30 +80,6 @@
       "isUnread": true,
       "date": "2026-06-09T14:15:23Z",
       "threadId": "19eacbcf2fe8e068"
-    },
-    {
-      "sender": "info@analuisa.com",
-      "subject": "BACK IN STOCK: Cyrus Collection",
-      "snippet": "The styles that sold out in minutes.",
-      "isUnread": true,
-      "date": "2026-06-09T14:06:26Z",
-      "threadId": "19eacb4bc71f598c"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "Deal Drop 🚨 $6.99 Toasted Sandwich reward!",
-      "snippet": "A hot new reward just landed in your JJ Rewards account. $6.99 Toasted Sandwich - Here's a toast to savings!",
-      "isUnread": true,
-      "date": "2026-06-09T13:52:53Z",
-      "threadId": "19eaca859514ee93"
-    },
-    {
-      "sender": "customerservice@jonathanadler.com",
-      "subject": "ENVIABLE GREENS 🟢",
-      "snippet": "The most wantable color there is.",
-      "isUnread": true,
-      "date": "2026-06-09T12:15:23Z",
-      "threadId": "19eac4f19875e176"
     }
   ]
 }
