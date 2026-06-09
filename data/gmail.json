@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-09T04:30:00Z",
+  "updated": "2026-06-09T11:50:00Z",
   "messages": [
+    {
+      "sender": "Fidelity.Investments.email@shareholderdocs.fidelity.com",
+      "subject": "THEMES ETF FUNDS Important Information",
+      "snippet": "You are receiving this notification to educate you on important information related to one or more of your holdings.",
+      "isUnread": true,
+      "date": "2026-06-09T06:45:42Z",
+      "threadId": "19eab3dced0d82a1"
+    },
     {
       "sender": "cfainstitutehelp@mg.electionservicescorp.com",
       "subject": "Just a Few Days Left to Vote",
@@ -12,7 +20,7 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Crew is rescued after U.S. helicopter goes down near Strait of Hormuz",
-      "snippet": "It was not immediately clear what led to the incident. Reuters Crew Rescued After US Helicopter Goes Down",
+      "snippet": "It was not immediately clear what led to the incident. Reuters Crew Rescued After US Helicopter Goes Down Near Strait of Hormuz.",
       "isUnread": true,
       "date": "2026-06-09T04:22:59Z",
       "threadId": "19eaa9eba5531c6a"
@@ -20,7 +28,7 @@
     {
       "sender": "Sphere@email1.msg.com",
       "subject": "New Shows Added – The Wizard of Oz at Sphere",
-      "snippet": "Due to overwhelming demand, we've added additional 2:00pm showtimes for The Wizard of Oz at Sphere.",
+      "snippet": "Due to overwhelming demand, we've added additional 2:00pm showtimes for The Wizard of Oz at Sphere now available this summer.",
       "isUnread": true,
       "date": "2026-06-08T21:35:56Z",
       "threadId": "19ea92e8e67b041f"
@@ -35,8 +43,8 @@
     },
     {
       "sender": "calendar-notification@google.com",
-      "subject": "Notification: Flight to Newark (UA 1647) @ Mon Jun 8, 2026 4:44pm - 6:15pm (CDT) (Emily Quayle)",
-      "snippet": "You have been invited by Emily Quayle to attend an event named Flight to Newark (UA 1647) on Monday Jun 8, 2026 4:44pm – 6:15pm (Central Time - Chicago).",
+      "subject": "Notification: Flight to Newark (UA 1647) @ Mon Jun 8, 2026 4:44pm - 6:15pm (CDT)",
+      "snippet": "You have been invited by Emily Quayle to attend an event named Flight to Newark (UA 1647) on Monday Jun 8, 2026 4:44pm – 6:15pm.",
       "isUnread": true,
       "date": "2026-06-08T21:13:56Z",
       "threadId": "19ea915c47130096"
@@ -72,14 +80,6 @@
       "isUnread": true,
       "date": "2026-06-08T16:00:55Z",
       "threadId": "19ea7f73b1be5c64"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Mushroom-stuffed plantains, filling and fun",
-      "snippet": "The sweet, starchy canoes make perfect vessels for mushrooms and onions in a spiced tomato sauce.",
-      "isUnread": true,
-      "date": "2026-06-08T15:03:04Z",
-      "threadId": "19ea7c4543600a53"
     }
   ]
 }
