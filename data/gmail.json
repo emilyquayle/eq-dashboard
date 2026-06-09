@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-09T11:50:00Z",
+  "updated": "2026-06-09T12:30:00Z",
   "messages": [
+    {
+      "sender": "customerservice@jonathanadler.com",
+      "subject": "ENVIABLE GREENS 🟢",
+      "snippet": "The most wantable color there is.",
+      "isUnread": true,
+      "date": "2026-06-09T12:15:23Z",
+      "threadId": "19eac4f19875e176"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "Silicon Valley",
+      "snippet": "OpenAI filed for an IPO, Jensen Huang called the tech selloff a buying opportunity, Chirayu Rana will refile his 'sex sl",
+      "isUnread": true,
+      "date": "2026-06-09T10:46:22Z",
+      "threadId": "19eabfd98cc2c3ca"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Willy Wonka's food pyramid",
+      "snippet": "But first: it's a cowboy boot summer — Check out what we Skimm'd for you today June 9, 2026.",
+      "isUnread": true,
+      "date": "2026-06-09T10:15:05Z",
+      "threadId": "19eabe1457db3830"
+    },
     {
       "sender": "Fidelity.Investments.email@shareholderdocs.fidelity.com",
       "subject": "THEMES ETF FUNDS Important Information",
@@ -20,7 +44,7 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Crew is rescued after U.S. helicopter goes down near Strait of Hormuz",
-      "snippet": "It was not immediately clear what led to the incident. Reuters Crew Rescued After US Helicopter Goes Down Near Strait of Hormuz.",
+      "snippet": "It was not immediately clear what led to the incident.",
       "isUnread": true,
       "date": "2026-06-09T04:22:59Z",
       "threadId": "19eaa9eba5531c6a"
@@ -43,8 +67,8 @@
     },
     {
       "sender": "calendar-notification@google.com",
-      "subject": "Notification: Flight to Newark (UA 1647) @ Mon Jun 8, 2026 4:44pm - 6:15pm (CDT)",
-      "snippet": "You have been invited by Emily Quayle to attend an event named Flight to Newark (UA 1647) on Monday Jun 8, 2026 4:44pm – 6:15pm.",
+      "subject": "Notification: Flight to Newark (UA 1647) @ Mon Jun 8, 2026 4:44pm - 6:15pm (CDT) (Emily Quayle)",
+      "snippet": "You have been invited by Emily Quayle to attend an event named Flight to Newark (UA 1647) on Monday Jun 8, 2026.",
       "isUnread": true,
       "date": "2026-06-08T21:13:56Z",
       "threadId": "19ea915c47130096"
@@ -56,30 +80,6 @@
       "isUnread": true,
       "date": "2026-06-08T21:04:21Z",
       "threadId": "19ea90d0acc8aa88"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Judge rejects Trump policy of $100,000 fees for skilled worker visas",
-      "snippet": "The policy left many foreign workers stranded and unable to find companies to sponsor them.",
-      "isUnread": true,
-      "date": "2026-06-08T19:26:15Z",
-      "threadId": "19ea8b358d29bd8c"
-    },
-    {
-      "sender": "uber@uber.com",
-      "subject": "Choose Uber Black or Uber Comfort",
-      "snippet": "Take a classy ride worthy of your business trip.",
-      "isUnread": true,
-      "date": "2026-06-08T16:51:38Z",
-      "threadId": "19ea8259e90d18e5"
-    },
-    {
-      "sender": "larroude@larroude.com",
-      "subject": "A Long Weekend In The Hamptons",
-      "snippet": "Pairs for your Hamptons plans.",
-      "isUnread": true,
-      "date": "2026-06-08T16:00:55Z",
-      "threadId": "19ea7f73b1be5c64"
     }
   ]
 }
