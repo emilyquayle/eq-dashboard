@@ -1,6 +1,78 @@
 {
-  "updated": "2026-06-09T12:30:00Z",
+  "updated": "2026-06-09T17:30:00Z",
   "messages": [
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Trump says Iran downed U.S. helicopter and vows to retaliate",
+      "snippet": "The pilots were rescued after the helicopter was shot down on Monday over the Strait of Hormuz.",
+      "isUnread": true,
+      "date": "2026-06-09T17:23:16Z",
+      "threadId": "19ead6923d83aa8e"
+    },
+    {
+      "sender": "no_reply@mcmap.chase.com",
+      "subject": "Emily, get acquainted with your card's perks",
+      "snippet": "Your United Explorer Card has benefits that work for you. Hi, Emily United MileagePlus Explorer Credit card.",
+      "isUnread": true,
+      "date": "2026-06-09T16:46:26Z",
+      "threadId": "19ead473b024fccd"
+    },
+    {
+      "sender": "info@analuisa.com",
+      "subject": "Summer's Top 20: Our Picks Are In",
+      "snippet": "Future favorites inside.",
+      "isUnread": true,
+      "date": "2026-06-09T16:09:54Z",
+      "threadId": "19ead26f9ca586a2"
+    },
+    {
+      "sender": "venmo@email.venmo.com",
+      "subject": "Next time, pay for your Uber with Venmo 🚗",
+      "snippet": "Make checkout a smooth ride. Riding with Uber? Pay with Venmo. Next time you ride with Uber, use your Venmo balance.",
+      "isUnread": true,
+      "date": "2026-06-09T16:02:44Z",
+      "threadId": "19ead1f3bd5c39a1"
+    },
+    {
+      "sender": "Fidelity.Investments@mail.fidelity.com",
+      "subject": "Don't miss out! Help us serve you better",
+      "snippet": "Your opinion matters. 1 minute of your time can make a difference. You were recently invited to tell us about your experiences with Fidelity.",
+      "isUnread": true,
+      "date": "2026-06-09T15:06:34Z",
+      "threadId": "19eacf28d76ed938"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "7 tips for better pasta salad",
+      "snippet": "From Ali Slagle, naturally. 7 Secrets for a Great Pasta Salad.",
+      "isUnread": true,
+      "date": "2026-06-09T15:03:25Z",
+      "threadId": "19eaceec489941fe"
+    },
+    {
+      "sender": "solidcore@solidcore.co",
+      "subject": "Strong workouts deserve strong recovery",
+      "snippet": "Make Koia your post-class ritual.",
+      "isUnread": true,
+      "date": "2026-06-09T14:15:23Z",
+      "threadId": "19eacbcf2fe8e068"
+    },
+    {
+      "sender": "info@analuisa.com",
+      "subject": "BACK IN STOCK: Cyrus Collection",
+      "snippet": "The styles that sold out in minutes.",
+      "isUnread": true,
+      "date": "2026-06-09T14:06:26Z",
+      "threadId": "19eacb4bc71f598c"
+    },
+    {
+      "sender": "announcements@jimmyjohns.com",
+      "subject": "Deal Drop 🚨 $6.99 Toasted Sandwich reward!",
+      "snippet": "A hot new reward just landed in your JJ Rewards account. $6.99 Toasted Sandwich - Here's a toast to savings!",
+      "isUnread": true,
+      "date": "2026-06-09T13:52:53Z",
+      "threadId": "19eaca859514ee93"
+    },
     {
       "sender": "customerservice@jonathanadler.com",
       "subject": "ENVIABLE GREENS 🟢",
@@ -8,78 +80,6 @@
       "isUnread": true,
       "date": "2026-06-09T12:15:23Z",
       "threadId": "19eac4f19875e176"
-    },
-    {
-      "sender": "news@execsum.co",
-      "subject": "Silicon Valley",
-      "snippet": "OpenAI filed for an IPO, Jensen Huang called the tech selloff a buying opportunity, Chirayu Rana will refile his 'sex sl",
-      "isUnread": true,
-      "date": "2026-06-09T10:46:22Z",
-      "threadId": "19eabfd98cc2c3ca"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Willy Wonka's food pyramid",
-      "snippet": "But first: it's a cowboy boot summer — Check out what we Skimm'd for you today June 9, 2026.",
-      "isUnread": true,
-      "date": "2026-06-09T10:15:05Z",
-      "threadId": "19eabe1457db3830"
-    },
-    {
-      "sender": "Fidelity.Investments.email@shareholderdocs.fidelity.com",
-      "subject": "THEMES ETF FUNDS Important Information",
-      "snippet": "You are receiving this notification to educate you on important information related to one or more of your holdings.",
-      "isUnread": true,
-      "date": "2026-06-09T06:45:42Z",
-      "threadId": "19eab3dced0d82a1"
-    },
-    {
-      "sender": "cfainstitutehelp@mg.electionservicescorp.com",
-      "subject": "Just a Few Days Left to Vote",
-      "snippet": "We need your help to reach quorum. Vote your proxy by 16 June. Just a few days left to vote, make sure your voice is heard today!",
-      "isUnread": true,
-      "date": "2026-06-09T04:24:23Z",
-      "threadId": "19eaab9e77273b6a"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Crew is rescued after U.S. helicopter goes down near Strait of Hormuz",
-      "snippet": "It was not immediately clear what led to the incident.",
-      "isUnread": true,
-      "date": "2026-06-09T04:22:59Z",
-      "threadId": "19eaa9eba5531c6a"
-    },
-    {
-      "sender": "Sphere@email1.msg.com",
-      "subject": "New Shows Added – The Wizard of Oz at Sphere",
-      "snippet": "Due to overwhelming demand, we've added additional 2:00pm showtimes for The Wizard of Oz at Sphere now available this summer.",
-      "isUnread": true,
-      "date": "2026-06-08T21:35:56Z",
-      "threadId": "19ea92e8e67b041f"
-    },
-    {
-      "sender": "calendar-notification@google.com",
-      "subject": "Notification: NYC @ Tue Jun 9 - Wed Jun 10, 2026 (equayle93@gmail.com)",
-      "snippet": "You have been invited by Emily Quayle to attend an event named NYC on Tuesday Jun 9 – Wednesday Jun 10, 2026.",
-      "isUnread": true,
-      "date": "2026-06-08T21:26:30Z",
-      "threadId": "19ea9214455d7ad7"
-    },
-    {
-      "sender": "calendar-notification@google.com",
-      "subject": "Notification: Flight to Newark (UA 1647) @ Mon Jun 8, 2026 4:44pm - 6:15pm (CDT) (Emily Quayle)",
-      "snippet": "You have been invited by Emily Quayle to attend an event named Flight to Newark (UA 1647) on Monday Jun 8, 2026.",
-      "isUnread": true,
-      "date": "2026-06-08T21:13:56Z",
-      "threadId": "19ea915c47130096"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Trump nominates Todd Blanche for attorney general",
-      "snippet": "The nomination of his former personal lawyer elevates a loyal and trusted ally.",
-      "isUnread": true,
-      "date": "2026-06-08T21:04:21Z",
-      "threadId": "19ea90d0acc8aa88"
     }
   ]
 }
