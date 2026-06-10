@@ -1,10 +1,18 @@
 {
-  "updated": "2026-06-10T01:12:39Z",
+  "updated": "2026-06-10T09:04:01Z",
   "messages": [
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "Your Shipment is Confirmed",
+      "snippet": "Great choices. Rent The Runway Your shipment is confirmed Order Number 65982882 Shipping Address Emily Quayle 2345 N Lin",
+      "isUnread": true,
+      "date": "2026-06-10T03:13:52Z",
+      "threadId": "19eaf85a924f6e88"
+    },
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: U.S. launches strikes on Iran to retaliate for downed helicopter",
-      "snippet": "President Trump earlier said Iran had shot down an American helicopter near the Strait of Hormuz.",
+      "snippet": "President Trump earlier said Iran had shot down an American helicopter near the Strait of Hormuz. View in browser The Ne",
       "isUnread": true,
       "date": "2026-06-09T23:49:08Z",
       "threadId": "19eaeca601c8b838"
@@ -20,14 +28,14 @@
     {
       "sender": "UnitedAirlines@enews.united.com",
       "subject": "Wi-Fi and entertainment options for your June 10 flight",
-      "snippet": "Stay entertained throughout your journey.",
+      "snippet": "Stay entertained throughout your journey. View Online United Airlines MileagePlus # XXXXX105 United Airlines MileagePlus",
       "isUnread": true,
       "date": "2026-06-09T22:09:23Z",
       "threadId": "19eae6ef66c4d088"
     },
     {
       "sender": "mail@fandiem.com",
-      "subject": "Last Chance to Win a Trip to NYC to See Bon Jovi's Tour Kickoff at Madison Square Garden",
+      "subject": "Last Chance to Win a Trip to NYC to See Bon Jovi’s Tour Kickoff at Madison Square Garden 🤘",
       "snippet": "Help support musicians and music industry workers in need.",
       "isUnread": true,
       "date": "2026-06-09T22:07:43Z",
@@ -36,7 +44,7 @@
     {
       "sender": "noreply@email.openai.com",
       "subject": "A faster way to shop",
-      "snippet": "Without all the tabs Shop smarter with ChatGPT Instead of scrolling through pages of results, simply describe what you want.",
+      "snippet": "Without all the tabs Shop smarter with ChatGPT Instead of scrolling through pages of results, simply describe what you w",
       "isUnread": false,
       "date": "2026-06-09T20:39:40Z",
       "threadId": "19eae1cc1831620f"
@@ -44,7 +52,7 @@
     {
       "sender": "noreply@insights.united.com",
       "subject": "Tell us how we did",
-      "snippet": "Your feedback means the world to us Hi Emily, From all of us here at United, thank you for flying with us! It was a pleasure",
+      "snippet": "Your feedback means the world to us Hi Emily, From all of us here at United, thank you for flying with us! It was a plea",
       "isUnread": true,
       "date": "2026-06-09T20:30:50Z",
       "threadId": "19eae14a82441d95"
@@ -52,7 +60,7 @@
     {
       "sender": "Fidelity.Investments@mail.fidelity.com",
       "subject": "Our professionals can manage your investments for you",
-      "snippet": "Get Fidelity® Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get investment advice for your",
+      "snippet": "Get Fidelity® Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get investment advice for",
       "isUnread": true,
       "date": "2026-06-09T18:48:29Z",
       "threadId": "19eadbfc7223638e"
@@ -60,7 +68,7 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Trump says Iran downed U.S. helicopter and vows to retaliate",
-      "snippet": "The pilots were rescued after the helicopter was shot down on Monday over the Strait of Hormuz.",
+      "snippet": "The pilots were rescued after the helicopter was shot down on Monday over the Strait of Hormuz. View in browser The New ",
       "isUnread": true,
       "date": "2026-06-09T17:23:16Z",
       "threadId": "19ead6923d83aa8e"
@@ -68,18 +76,10 @@
     {
       "sender": "no_reply@mcmap.chase.com",
       "subject": "Emily, get acquainted with your card's perks",
-      "snippet": "Your United℠ Explorer Card has benefits that work for you. Chase and United logos redirecting to Chase dashboard.",
+      "snippet": "Your United℠ Explorer Card has benefits that work for you. Chase and United logos redirecting to Chase dashboard. Hi, Em",
       "isUnread": true,
       "date": "2026-06-09T16:46:26Z",
       "threadId": "19ead473b024fccd"
-    },
-    {
-      "sender": "info@analuisa.com",
-      "subject": "Summer's Top 20: Our Picks Are In",
-      "snippet": "Future favorites inside.",
-      "isUnread": true,
-      "date": "2026-06-09T16:09:54Z",
-      "threadId": "19ead26f9ca586a2"
     }
   ]
 }
