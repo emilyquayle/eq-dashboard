@@ -1,6 +1,46 @@
 {
-  "updated": "2026-06-10T09:04:01Z",
+  "updated": "2026-06-10T13:07:17Z",
   "messages": [
+    {
+      "sender": "customerservice@jonathanadler.com",
+      "subject": "BOLD BRASS BLOOMS",
+      "snippet": "Boldly announce to your guests that they're in a connoisseur's coop.",
+      "isUnread": true,
+      "date": "2026-06-10T12:15:24Z",
+      "threadId": "19eb17571525ecc8"
+    },
+    {
+      "sender": "NYCGH-no-reply@hyatt.com",
+      "subject": "Bill from your recent stay at Hyatt Grand Central New York",
+      "snippet": "Dear Emily Quayle, Thank you for choosing Hyatt Grand Central New York. It was our pleasure to serve you. Per your reque",
+      "isUnread": true,
+      "date": "2026-06-10T11:56:54Z",
+      "threadId": "19eb164912b0de89"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Gameplay: Gen-Z Nightmare Fuel",
+      "snippet": "Plus, three special puzzles for you. View in browser|nytimes.com Ad Ad Gameplay June 10, 2026 Ad By Atoosa Moinzadeh Beh",
+      "isUnread": true,
+      "date": "2026-06-10T11:00:57Z",
+      "threadId": "19eb13177f55dd9e"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "Millionaire Minting Season",
+      "snippet": "A PE founder was sued for sabotaging his firm due to alcoholism, hedge fund Magnetar is replacing human analysts with AI",
+      "isUnread": true,
+      "date": "2026-06-10T10:45:54Z",
+      "threadId": "19eb12386a4dcf08"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Pivoting to sitcom baby names",
+      "snippet": "But first: Introducing our next book club pick — Check out what we Skimm'd for you today June 10, 2026 Subscribe Read in",
+      "isUnread": true,
+      "date": "2026-06-10T10:11:56Z",
+      "threadId": "19eb10b1829bd372"
+    },
     {
       "sender": "rtr@account.renttherunway.com",
       "subject": "Your Shipment is Confirmed",
@@ -40,46 +80,6 @@
       "isUnread": true,
       "date": "2026-06-09T22:07:43Z",
       "threadId": "19eae6d626f11f5d"
-    },
-    {
-      "sender": "noreply@email.openai.com",
-      "subject": "A faster way to shop",
-      "snippet": "Without all the tabs Shop smarter with ChatGPT Instead of scrolling through pages of results, simply describe what you w",
-      "isUnread": false,
-      "date": "2026-06-09T20:39:40Z",
-      "threadId": "19eae1cc1831620f"
-    },
-    {
-      "sender": "noreply@insights.united.com",
-      "subject": "Tell us how we did",
-      "snippet": "Your feedback means the world to us Hi Emily, From all of us here at United, thank you for flying with us! It was a plea",
-      "isUnread": true,
-      "date": "2026-06-09T20:30:50Z",
-      "threadId": "19eae14a82441d95"
-    },
-    {
-      "sender": "Fidelity.Investments@mail.fidelity.com",
-      "subject": "Our professionals can manage your investments for you",
-      "snippet": "Get Fidelity® Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get investment advice for",
-      "isUnread": true,
-      "date": "2026-06-09T18:48:29Z",
-      "threadId": "19eadbfc7223638e"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Trump says Iran downed U.S. helicopter and vows to retaliate",
-      "snippet": "The pilots were rescued after the helicopter was shot down on Monday over the Strait of Hormuz. View in browser The New ",
-      "isUnread": true,
-      "date": "2026-06-09T17:23:16Z",
-      "threadId": "19ead6923d83aa8e"
-    },
-    {
-      "sender": "no_reply@mcmap.chase.com",
-      "subject": "Emily, get acquainted with your card's perks",
-      "snippet": "Your United℠ Explorer Card has benefits that work for you. Chase and United logos redirecting to Chase dashboard. Hi, Em",
-      "isUnread": true,
-      "date": "2026-06-09T16:46:26Z",
-      "threadId": "19ead473b024fccd"
     }
   ]
 }
