@@ -1,18 +1,50 @@
 {
-  "updated": "2026-06-09T20:45:00Z",
+  "updated": "2026-06-10T01:12:39Z",
   "messages": [
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: U.S. launches strikes on Iran to retaliate for downed helicopter",
+      "snippet": "President Trump earlier said Iran had shot down an American helicopter near the Strait of Hormuz.",
+      "isUnread": true,
+      "date": "2026-06-09T23:49:08Z",
+      "threadId": "19eaeca601c8b838"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "Need A Little Lift?",
+      "snippet": "The wedges carrying every summer outfit.",
+      "isUnread": true,
+      "date": "2026-06-09T23:30:27Z",
+      "threadId": "19eaeb920c67359b"
+    },
+    {
+      "sender": "UnitedAirlines@enews.united.com",
+      "subject": "Wi-Fi and entertainment options for your June 10 flight",
+      "snippet": "Stay entertained throughout your journey.",
+      "isUnread": true,
+      "date": "2026-06-09T22:09:23Z",
+      "threadId": "19eae6ef66c4d088"
+    },
+    {
+      "sender": "mail@fandiem.com",
+      "subject": "Last Chance to Win a Trip to NYC to See Bon Jovi's Tour Kickoff at Madison Square Garden",
+      "snippet": "Help support musicians and music industry workers in need.",
+      "isUnread": true,
+      "date": "2026-06-09T22:07:43Z",
+      "threadId": "19eae6d626f11f5d"
+    },
     {
       "sender": "noreply@email.openai.com",
       "subject": "A faster way to shop",
-      "snippet": "Without all the tabs Shop smarter with ChatGPT Instead of scrolling through pages of results, simply",
-      "isUnread": true,
+      "snippet": "Without all the tabs Shop smarter with ChatGPT Instead of scrolling through pages of results, simply describe what you want.",
+      "isUnread": false,
       "date": "2026-06-09T20:39:40Z",
       "threadId": "19eae1cc1831620f"
     },
     {
       "sender": "noreply@insights.united.com",
       "subject": "Tell us how we did",
-      "snippet": "Your feedback means the world to us Hi Emily, thank you for flying with us! It was a pleasure having you onboard.",
+      "snippet": "Your feedback means the world to us Hi Emily, From all of us here at United, thank you for flying with us! It was a pleasure",
       "isUnread": true,
       "date": "2026-06-09T20:30:50Z",
       "threadId": "19eae14a82441d95"
@@ -20,7 +52,7 @@
     {
       "sender": "Fidelity.Investments@mail.fidelity.com",
       "subject": "Our professionals can manage your investments for you",
-      "snippet": "Get Fidelity Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get investment advice.",
+      "snippet": "Get Fidelity® Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get investment advice for your",
       "isUnread": true,
       "date": "2026-06-09T18:48:29Z",
       "threadId": "19eadbfc7223638e"
@@ -36,7 +68,7 @@
     {
       "sender": "no_reply@mcmap.chase.com",
       "subject": "Emily, get acquainted with your card's perks",
-      "snippet": "Your United Explorer Card has benefits that work for you. Hi, Emily United MileagePlus Explorer Credit card.",
+      "snippet": "Your United℠ Explorer Card has benefits that work for you. Chase and United logos redirecting to Chase dashboard.",
       "isUnread": true,
       "date": "2026-06-09T16:46:26Z",
       "threadId": "19ead473b024fccd"
@@ -48,38 +80,6 @@
       "isUnread": true,
       "date": "2026-06-09T16:09:54Z",
       "threadId": "19ead26f9ca586a2"
-    },
-    {
-      "sender": "venmo@email.venmo.com",
-      "subject": "Next time, pay for your Uber with Venmo 🚗",
-      "snippet": "Make checkout a smooth ride. Riding with Uber? Pay with Venmo. Next time you ride with Uber, use your Venmo balance.",
-      "isUnread": true,
-      "date": "2026-06-09T16:02:44Z",
-      "threadId": "19ead1f3bd5c39a1"
-    },
-    {
-      "sender": "Fidelity.Investments@mail.fidelity.com",
-      "subject": "Don't miss out! Help us serve you better",
-      "snippet": "Your opinion matters. 1 minute of your time can make a difference. You were recently invited to tell us about your experiences.",
-      "isUnread": true,
-      "date": "2026-06-09T15:06:34Z",
-      "threadId": "19eacf28d76ed938"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "7 tips for better pasta salad",
-      "snippet": "From Ali Slagle, naturally. 7 Secrets for a Great Pasta Salad.",
-      "isUnread": true,
-      "date": "2026-06-09T15:03:25Z",
-      "threadId": "19eaceec489941fe"
-    },
-    {
-      "sender": "solidcore@solidcore.co",
-      "subject": "Strong workouts deserve strong recovery",
-      "snippet": "Make Koia your post-class ritual.",
-      "isUnread": true,
-      "date": "2026-06-09T14:15:23Z",
-      "threadId": "19eacbcf2fe8e068"
     }
   ]
 }
