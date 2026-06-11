@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T06:09:14Z",
+  "updated": "2026-06-11T19:36:25Z",
   "events": [
     {
       "id": "20260101_d3glsfo8cfrs476elqd81so37s",
@@ -44,7 +44,7 @@
         "dateTime": "2026-01-02T14:20:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL  60611, United States"
+      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL 60611, United States"
     },
     {
       "id": "_68s36e1k751j4ba584o3eb9k60r34ba18p23ab9l6d24agi18gpjghhh60",
@@ -57,7 +57,7 @@
         "dateTime": "2026-01-02T17:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL  60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL 60657, United States"
     },
     {
       "id": "_84r44cpi6or48ba48or36b9k74pjcb9o6ko46b9o88rj6hho60rj0h9p60",
@@ -95,7 +95,7 @@
         "dateTime": "2026-01-08T20:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "The Bassment\n353 W Hubbard St, Chicago, IL  60654, United States"
+      "location": "The Bassment\n353 W Hubbard St, Chicago, IL 60654, United States"
     },
     {
       "id": "_71144e238h136ba164sk8b9k8or44b9p6923cb9k6csj0dhn69336gpn6s",
@@ -120,7 +120,7 @@
         "dateTime": "2026-01-12T18:45:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL  60614, United States"
+      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL 60614, United States"
     },
     {
       "id": "_6l23adpn74okab9m6srjeb9k852j2b9o6so3gb9l6cokaci48ko46cq56c",
@@ -217,7 +217,7 @@
         "dateTime": "2026-01-20T09:30:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL  60611, United States"
+      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL 60611, United States"
     },
     {
       "id": "_8h23cdhh65138ba16crk2b9k8p23gb9p74pj6ba46l0kad9o64o4ahho6c",
@@ -230,7 +230,7 @@
         "dateTime": "2026-01-22T09:30:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL  60611, United States"
+      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL 60611, United States"
     },
     {
       "id": "_6l0k4e268crkcb9o8crjib9k64o3aba288r46b9h6csjcgpj68p46c1p88",
@@ -243,7 +243,7 @@
         "dateTime": "2026-01-23T10:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL  60611, United States"
+      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL 60611, United States"
     },
     {
       "id": "_6ksjahi66l2k6ba48d0k8b9k6sqjeba18oq3eb9j64qj8ga488p44d1g6s",
@@ -256,7 +256,7 @@
         "dateTime": "2026-01-24T11:30:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Life Time\n15 W Chicago Ave, Chicago, IL  60654, United States"
+      "location": "Life Time\n15 W Chicago Ave, Chicago, IL 60654, United States"
     },
     {
       "id": "_60r46ghh64p4ab9g60pjab9k8ks38ba274qk2ba488sjic1p8gq38di268",
@@ -269,7 +269,7 @@
         "dateTime": "2026-01-24T23:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Garcia's\n1001 W Washington Blvd, Chicago, IL  60607, United States"
+      "location": "Garcia's\n1001 W Washington Blvd, Chicago, IL 60607, United States"
     },
     {
       "id": "_6l0j0c258h334ba38csk4b9k84skcba188pj0ba3610k6d9p89130c1g6g",
@@ -282,7 +282,7 @@
         "dateTime": "2026-01-25T13:20:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_61234da26124cb9n88pjgb9k8op3gba1690j8b9l6go42e1m84ok2gi274",
@@ -321,7 +321,7 @@
         "dateTime": "2026-01-30T16:20:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_68rjec248h0jab9n6kr48b9k8cq4ab9o60okab9n8orj2di46l144cq18g",
@@ -334,7 +334,7 @@
         "dateTime": "2026-01-31T14:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Equinox Lincoln Park\n1750 N Clark St, Chicago, IL  60614, United States"
+      "location": "Equinox Lincoln Park\n1750 N Clark St, Chicago, IL 60614, United States"
     },
     {
       "id": "_8h136d1m60pj4b9l64p48b9k74r3iba1651jaba28or4adpn74qkcc9p8c",
@@ -347,7 +347,7 @@
         "dateTime": "2026-02-02T20:30:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Chicago Diplomat Cafe\n3134 N Lincoln Ave, Chicago, IL  60657, United States"
+      "location": "Chicago Diplomat Cafe\n3134 N Lincoln Ave, Chicago, IL 60657, United States"
     },
     {
       "id": "_8d34cga26gsjaba66oojeb9k6p23ab9p8cqk2b9p6h33ae1o711j0dq688",
@@ -360,7 +360,7 @@
         "dateTime": "2026-02-03T16:20:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_6cr46c1n6p348ba488rj4b9k64q4cba26p2j2b9o750kch266ko4cd238o",
@@ -481,7 +481,7 @@
         "dateTime": "2026-02-10T16:45:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL  60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL 60657, United States"
     },
     {
       "id": "_6oo48hi288sj2ba56ko30b9k6523gb9p8l13gba260pjeca270s38hhp8o",
@@ -494,7 +494,7 @@
         "dateTime": "2026-02-11T20:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Boqueria\n807 W Fulton St, Chicago, IL  60607, United States"
+      "location": "Boqueria\n807 W Fulton St, Chicago, IL 60607, United States"
     },
     {
       "id": "_89130dpm6kr3cb9l68oj0b9k6kr38b9o8l134b9h68p38gpl70pjehi16k",
@@ -507,7 +507,7 @@
         "dateTime": "2026-02-12T16:20:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_70s3acpj88r46b9l88s32b9k70q46ba170r44ba184s30hho6l24cchg6g",
@@ -520,7 +520,7 @@
         "dateTime": "2026-02-13T13:45:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL  60614, United States"
+      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL 60614, United States"
     },
     {
       "id": "20260214_usq30lg2vsmkhksfk62gq346l4",
@@ -563,7 +563,7 @@
         "dateTime": "2026-02-19T20:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Sal's Trattoria\n2834 N Southport Ave, Chicago, IL  60657, United States"
+      "location": "Sal's Trattoria\n2834 N Southport Ave, Chicago, IL 60657, United States"
     },
     {
       "id": "_6h138h1j8h0k2ba28l1k4b9k8l13cb9o6l13ib9h84ok2gpk6533gcpi8k",
@@ -576,7 +576,7 @@
         "dateTime": "2026-02-20T13:30:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_6crk4ha370sk8ba68oqjib9k6t1k8b9o8oo36b9g68okaghl8osj4cpk6s",
@@ -589,7 +589,7 @@
         "dateTime": "2026-02-20T21:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Gibsons Bar & Steakhouse\n1028 N Rush St, Chicago, IL  60611, United States"
+      "location": "Gibsons Bar & Steakhouse\n1028 N Rush St, Chicago, IL 60611, United States"
     },
     {
       "id": "_70o42d218cr42b9g6t232b9k64pkaba160s3eb9l6oq46dq36h1jidq588",
@@ -641,7 +641,7 @@
         "dateTime": "2026-02-24T21:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Suda's\n1524 W Fullerton Ave, Chicago, IL  60614, United States"
+      "location": "Suda's\n1524 W Fullerton Ave, Chicago, IL 60614, United States"
     },
     {
       "id": "_6cpkada160o46b9j84s3gb9k64o4cba288oj6ba18cr4cda28l23ce9m8g",
@@ -654,7 +654,7 @@
         "dateTime": "2026-02-27T16:20:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_8h1jch9o74r3ab9j69144b9k68sj4b9p64o38b9k70rk6da168skcha160",
@@ -667,7 +667,7 @@
         "dateTime": "2026-02-27T18:15:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Allyu\n600 W Chicago Ave, Chicago, IL  60654, United States"
+      "location": "Allyu\n600 W Chicago Ave, Chicago, IL 60654, United States"
     },
     {
       "id": "_64pjiga488o34ba46cskcb9k6kqk4b9p8l14ab9p6513ih9g8oq3gd1j64",
@@ -693,7 +693,7 @@
         "dateTime": "2026-03-02T10:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Northwestern Medical Group Obstetrics and Gynecology\n680 N Lake Shore Dr, Chicago, IL  60611, United States"
+      "location": "Northwestern Medical Group Obstetrics and Gynecology\n680 N Lake Shore Dr, Chicago, IL 60611, United States"
     },
     {
       "id": "_8513ecq174r3cb9p6l0k4b9k6gsjgb9o88s36b9m60ok2ga36gs32ci670",
@@ -706,7 +706,7 @@
         "dateTime": "2026-03-04T10:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "ESTE Aesthetics\n3355 N Lincoln Ave, Ste 12, Chicago, IL  60657, United States"
+      "location": "ESTE Aesthetics\n3355 N Lincoln Ave, Ste 12, Chicago, IL 60657, United States"
     },
     {
       "id": "_650j2h2384pj2ba46h33gb9k8gp46b9p65244b9k68rk4hhm6ksjie1k70",
@@ -770,7 +770,7 @@
         "dateTime": "2026-03-06T11:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Dente Complete Dentistry\n1704 W North Ave, Chicago, IL  60622, United States"
+      "location": "Dente Complete Dentistry\n1704 W North Ave, Chicago, IL 60622, United States"
     },
     {
       "id": "_64pk6e1g84pk6b9l68skab9k6kskaba260pjib9n6523ggpn6h2jcc218o",
@@ -783,7 +783,7 @@
         "dateTime": "2026-03-06T17:40:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL  60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL 60657, United States"
     },
     {
       "id": "vqtr030fdmsv3qmriom9cep304",
@@ -819,7 +819,7 @@
         "dateTime": "2026-03-09T19:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL  60614, United States"
+      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL 60614, United States"
     },
     {
       "id": "_74skcdpp74oj8b9h6oo46b9k610kab9p70p38b9l8d1kcdhh8h13ee9j8g",
@@ -865,7 +865,7 @@
         "dateTime": "2026-03-11T21:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Le Colonial - Naples\n457 Fifth Ave S, Naples, FL  34102, United States"
+      "location": "Le Colonial - Naples\n457 Fifth Ave S, Naples, FL 34102, United States"
     },
     {
       "id": "_612jcc1l8gs3ib9k8os34b9k6sq3eb9o6orjib9l6l0jgh1o6gsjacpl84",
@@ -890,7 +890,7 @@
         "dateTime": "2026-03-14T18:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "The Vine Room\n465 Fifth Ave S, Naples, FL  34102, United States"
+      "location": "The Vine Room\n465 Fifth Ave S, Naples, FL 34102, United States"
     },
     {
       "id": "_6osj8ca284s36ba48kqk6b9k70p3ab9p6os3ab9m60qkadi5710jeh2470",
@@ -903,7 +903,7 @@
         "dateTime": "2026-03-14T20:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Campiello\n1177 Third St S, Naples, FL  34102, United States"
+      "location": "Campiello\n1177 Third St S, Naples, FL 34102, United States"
     },
     {
       "id": "6649s0oi5nqka5rdqofdvm6c08",
@@ -928,7 +928,8 @@
       "end": {
         "dateTime": "2026-03-15T16:20:00-05:00",
         "timeZone": "America/Chicago"
-      }
+      },
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "20260317_l4mvp4s6evr3tn060mm16jkrgk",
@@ -951,7 +952,7 @@
         "dateTime": "2026-03-18T09:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL  60611, United States"
+      "location": "676 N St Clair St\n676 N Saint Clair St, Chicago, IL 60611, United States"
     },
     {
       "id": "_84r44h9h8h0jeba28d236b9k88r46b9o6sq3gba3892j0gph850j6h1h60",
@@ -963,7 +964,8 @@
       "end": {
         "dateTime": "2026-03-19T16:20:00-05:00",
         "timeZone": "America/Chicago"
-      }
+      },
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_74o48dq46ks42b9g8l136b9k8p338b9o74q3ab9n8ko38h9h84p46gpo70",
@@ -976,7 +978,7 @@
         "dateTime": "2026-03-20T20:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Carmine's\n1043 N Rush St, Chicago, IL  60611, United States"
+      "location": "Carmine's\n1043 N Rush St, Chicago, IL 60611, United States"
     },
     {
       "id": "_68q4ce1k70r3iba288p3eb9k88o4aba274qkcb9i88s30chk74skch2488",
@@ -999,7 +1001,7 @@
         "dateTime": "2026-03-23T18:21:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Chicago O'Hare International Airport\n10000 W O'Hare Ave, Chicago, IL  60666, United States"
+      "location": "Chicago O'Hare International Airport\n10000 W O'Hare Ave, Chicago, IL 60666, United States"
     },
     {
       "id": "_6gq48h1g88sjib9j8924cb9k8h0jib9o6ssjeb9k8oq46e1n6d336gi660",
@@ -1025,7 +1027,7 @@
         "dateTime": "2026-03-25T17:01:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Newark International Airport\n3 Brewster Rd, Newark, NJ  07114, United States"
+      "location": "Newark International Airport\n3 Brewster Rd, Newark, NJ 07114, United States"
     },
     {
       "id": "_88s3ihhp8h1jab9p712j0b9k6ooj8ba265230b9h68qjcc236l0k6g9j68",
@@ -1038,7 +1040,7 @@
         "dateTime": "2026-03-27T15:20:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_88rk6d9n88sjib9g8crk4b9k8cq30b9o8cqk2b9n8cojechp74sj6h9g74",
@@ -1075,7 +1077,7 @@
         "dateTime": "2026-03-31T21:40:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Wrigley Field\n1060 W Addison St, Chicago, IL  60613, United States"
+      "location": "Wrigley Field\n1060 W Addison St, Chicago, IL 60613, United States"
     },
     {
       "id": "q2uu8kksudu28fhk5oc42lb19k",
@@ -1088,7 +1090,7 @@
         "dateTime": "2026-04-01T19:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Bistro Campagne, 4518 N Lincoln Ave, (Between N Lincoln Ave and W Sunnyside Ave), Chicago, IL 60625"
+      "location": "Bistro Campagne, 4518 N Lincoln Ave, (Between N Lincoln Ave and W Sunnyside Ave), Chicago, \nIL 60625"
     },
     {
       "id": "_8go32g9h610kab9j8osjab9k6sp34ba18l0j4b9j6spj0di26cs48h9o8o",
@@ -1101,7 +1103,7 @@
         "dateTime": "2026-04-02T16:20:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_64r38gq48gpj2ba16gr4ab9k8oskcba26cpj6b9g8coj4c1p6p2j2ca18k",
@@ -1186,7 +1188,7 @@
         "dateTime": "2026-04-05T20:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Omakase Box\n3038 W Armitage Ave, Chicago, IL  60647, United States"
+      "location": "Omakase Box\n3038 W Armitage Ave, Chicago, IL 60647, United States"
     },
     {
       "id": "20260406_egt1hslergcgifs4s2d8brbu10",
@@ -1230,7 +1232,7 @@
         "dateTime": "2026-04-06T17:43:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Chicago O'Hare International Airport\n10000 W O'Hare Ave, Chicago, IL  60666, United States"
+      "location": "Chicago O'Hare International Airport\n10000 W O'Hare Ave, Chicago, IL 60666, United States"
     },
     {
       "id": "_8oo3icpk6so36b9o6d0k8b9k71136ba28d144ba16osjcca66t2jahhk6g",
@@ -1243,7 +1245,7 @@
         "dateTime": "2026-04-07T18:54:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Minneapolis-Saint Paul International Airport\nGlumack Dr, Saint Paul, MN  55111, United States"
+      "location": "Minneapolis-Saint Paul International Airport\nGlumack Dr, Saint Paul, MN 55111, United States"
     },
     {
       "id": "ocljrk8inat1iqrdm1vvaeh4u8",
@@ -1269,7 +1271,7 @@
         "dateTime": "2026-04-08T20:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL  60614, United States"
+      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL 60614, United States"
     },
     {
       "id": "_8d33ig9h6cr44b9i6gpk2b9k60o30b9p74p32b9l6ksj8d9k6p334ci688",
@@ -1282,7 +1284,7 @@
         "dateTime": "2026-04-09T16:20:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_8l2jegpp6so32b9p6coj0b9k6934cba16ko36b9o6l0j4cpj84pjghhh64",
@@ -1295,7 +1297,7 @@
         "dateTime": "2026-04-09T19:45:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Segnatore\n1001 N California Ave, Chicago, IL  60622, United States"
+      "location": "Segnatore\n1001 N California Ave, Chicago, IL 60622, United States"
     },
     {
       "id": "fb7v8ops39edbpjq582g583h34",
@@ -1392,7 +1394,7 @@
         "dateTime": "2026-04-12T10:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Suraya\n1528 Frankford Ave, Philadelphia, PA  19125, United States"
+      "location": "Suraya\n1528 Frankford Ave, Philadelphia, PA 19125, United States"
     },
     {
       "id": "kh527g6tfmlae00hko01l4pc94",
@@ -1418,7 +1420,7 @@
         "dateTime": "2026-04-13T18:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL  60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL 60657, United States"
     },
     {
       "id": "20260415_fkehtfbgrr6j65q23flu2k5vu0",
@@ -1454,7 +1456,7 @@
         "dateTime": "2026-04-16T20:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "S.K.Y.\n2300 N Lincoln Park W, Chicago, IL  60614, United States"
+      "location": "S.K.Y.\n2300 N Lincoln Park W, Chicago, IL 60614, United States"
     },
     {
       "id": "_6d2j6d9g6oq42ba360skab9k6ko46ba164qj2b9g74r32d9m6cqjagpk88",
@@ -1467,7 +1469,7 @@
         "dateTime": "2026-04-17T15:20:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_8gq3gcpo70o38b9j8gr48b9k7533eba171248ba18l134g9m6d33aga36c",
@@ -1518,7 +1520,7 @@
     },
     {
       "id": "_84s3ad9g6gq30ba68kq42b9k8goj6ba16ook8ba670ok6g9g8kp34dpp64",
-      "summary": "Flight to Charlotte (UA )",
+      "summary": "Flight to Charlotte (UA ",
       "start": {
         "dateTime": "2026-04-22T06:55:00-05:00",
         "timeZone": "America/Chicago"
@@ -1527,7 +1529,7 @@
         "dateTime": "2026-04-22T09:06:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Chicago O'Hare International Airport\n10000 W O'Hare Ave, Chicago, IL  60666, United States"
+      "location": "Chicago O'Hare International Airport\n10000 W O'Hare Ave, Chicago, IL 60666, United States"
     },
     {
       "id": "_6d238da68d238b9h74pj4b9k8crjgba2712j2b9o8p230hhg6p138dpl6c",
@@ -1540,7 +1542,7 @@
         "dateTime": "2026-04-22T19:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Legion Brewing South Park\n5610 Carnegie Blvd, Charlotte, NC  28209, United States"
+      "location": "Legion Brewing South Park\n5610 Carnegie Blvd, Charlotte, NC 28209, United States"
     },
     {
       "id": "_890jag9i6orjaba18h2j4b9k6913gb9o751j6ba28cojghhi8d14adq18o",
@@ -1576,7 +1578,7 @@
         "dateTime": "2026-04-23T21:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Amarena\n151 E 82nd St, New York, NY  10028, United States"
+      "location": "Amarena\n151 E 82nd St, New York, NY 10028, United States"
     },
     {
       "id": "_70q32ga360q34b9k68rjeb9k7123eba18cs30b9p88pjaci668qj2cpm6s",
@@ -1628,7 +1630,7 @@
         "dateTime": "2026-04-26T15:20:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_88p3gdq468o46ba56osj0b9k6t0j6b9p60q48b9g68pj4h1j8p14adhj8g",
@@ -1653,7 +1655,7 @@
         "dateTime": "2026-05-01T16:20:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Wrigley Field\n1060 W Addison St, Chicago, IL  60613, United States"
+      "location": "Wrigley Field\n1060 W Addison St, Chicago, IL 60613, United States"
     },
     {
       "id": "_8kqjeg9h6gojib9m6sq3gb9k8cs46b9o74p3aba48oq30cho8l33idpk70",
@@ -1688,7 +1690,7 @@
         "dateTime": "2026-05-06T18:10:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "ESTE Aesthetics\n3355 N Lincoln Ave, Ste 12, Chicago, IL  60657, United States"
+      "location": "ESTE Aesthetics\n3355 N Lincoln Ave, Ste 12, Chicago, IL 60657, United States"
     },
     {
       "id": "_6sp30c226gqjeba175142b9k60qk4ba189134ba670pj4g9g84r3ggpi6o",
@@ -1701,7 +1703,7 @@
         "dateTime": "2026-05-08T13:20:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_84s4cea46krkcb9i6gr3gb9k8ko38b9o70s3gba38gpjegq68cs4ae9g6c",
@@ -1714,7 +1716,7 @@
         "dateTime": "2026-05-08T19:45:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL  60614, United States"
+      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL 60614, United States"
     },
     {
       "id": "_8p0j2e226d1jgba460ok8b9k6cs3cba17133eb9g6l130e1p64rj0chg8o",
@@ -1727,7 +1729,7 @@
         "dateTime": "2026-05-09T21:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Carmine's\n1043 N Rush St, Chicago, IL  60611, United States"
+      "location": "Carmine's\n1043 N Rush St, Chicago, IL 60611, United States"
     },
     {
       "id": "20260510_pb76790v60kap1j6ra4f75ms9o",
@@ -1750,7 +1752,7 @@
         "dateTime": "2026-05-10T15:20:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL  60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL 60657, United States"
     },
     {
       "id": "_8kqj2gi56spjeba270ok6b9k84s34ba1751jgb9i74pjgh1k8cs3id9i84",
@@ -1776,7 +1778,7 @@
         "dateTime": "2026-05-16T15:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Big Star"
+      "location": "Big Star\n1531 N Damen Ave, Chicago, IL 60622, United States"
     },
     {
       "id": "_8grkae9h68q34ba56p0jcb9k74o36ba2752k8ba689244gpk6sq3iea460",
@@ -1789,7 +1791,7 @@
         "dateTime": "2026-05-16T17:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "The Up Room"
+      "location": "The Up Room\n2018 W North Ave, Chicago, IL 60647, United States"
     },
     {
       "id": "_68okaea36gojeb9o8p1j0b9k890jeb9o6ko3cb9m712k2h9n6soj2d9j6s",
@@ -1802,7 +1804,7 @@
         "dateTime": "2026-05-16T19:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Paradise Park"
+      "location": "Paradise Park\n1913 W North Ave, Chicago, IL 60622, United States"
     },
     {
       "id": "_84p3cdpn74rkab9m64o4cb9k71242ba18d13ib9m6cqjeda160o34d1h84",
@@ -1815,7 +1817,7 @@
         "dateTime": "2026-05-16T22:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Midwest Coast Brewing Company"
+      "location": "Midwest Coast Brewing Company\n2137 W Walnut St, Chicago, IL 60612, United States"
     },
     {
       "id": "_6op4ahhk8opjeb9p711jcb9k6kr36b9o6or4cb9o8933ah1n7133ih256k",
@@ -1840,7 +1842,8 @@
       "end": {
         "dateTime": "2026-05-17T16:20:00-05:00",
         "timeZone": "America/Chicago"
-      }
+      },
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_8gsk2d2260rkcb9i8d2jgb9k88qk4ba16kskaba574qj0d9n68p3ig9h64",
@@ -1852,7 +1855,8 @@
       "end": {
         "dateTime": "2026-05-19T16:20:00-05:00",
         "timeZone": "America/Chicago"
-      }
+      },
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL 60614, United States"
     },
     {
       "id": "_70q4agq18cr42b9o6p23eb9k6gq4ab9p6d146ba26kq36e1h890j8ghp6o",
@@ -1875,7 +1879,7 @@
         "dateTime": "2026-05-21T15:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Wag Hotels"
+      "location": "Wag Hotels\n1214 W Monroe St, Chicago, IL 60607, United States"
     },
     {
       "id": "_60qk6dhp6p14cba48or36b9k690jcba16d342b9p64qjcha38gr42da674",
@@ -1888,7 +1892,7 @@
         "dateTime": "2026-05-22T19:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Vicia"
+      "location": "Vicia\n4260 Forest Park Ave, Saint Louis, MO 63108, United States"
     },
     {
       "id": "e6bbepsm0p7gji0g090kkf99qc",
@@ -1914,7 +1918,7 @@
         "dateTime": "2026-05-24T16:20:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Wrigley Field\n1060 W Addison St, Chicago, IL  60613, United States"
+      "location": "Wrigley Field\n1060 W Addison St, Chicago, IL 60613, United States"
     },
     {
       "id": "20260525_8a7osuvj9moeql74mrs1da4b1k",
@@ -1947,7 +1951,7 @@
         "dateTime": "2026-05-27T20:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Lao Der"
+      "location": "Lao Der\n3922 N Elston Ave, Chicago, IL 60618, United States"
     },
     {
       "id": "_891jae25610jeba66sokcb9k6cpjgb9o6crk4b9g6spk2d256gpjicpi88",
@@ -1960,7 +1964,7 @@
         "dateTime": "2026-05-28T23:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "1962 N Bissell St"
+      "location": "1962 N Bissell St\nChicago, IL, United States"
     },
     {
       "id": "_8cr36ha260q4cb9m891kab9k8ooj4b9p88qjcb9l64q42h266gq32cpn6o",
@@ -1973,7 +1977,7 @@
         "dateTime": "2026-05-31T14:00:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Glen View Club"
+      "location": "Glen View Club\n100 Golf Rd, Golf, IL 60029, United States"
     },
     {
       "id": "_8gsj2hhg70ok6ba16ko3eb9k84s36b9o88r30b9n61132c1l6t344gho64",
@@ -1999,7 +2003,7 @@
         "dateTime": "2026-06-05T12:45:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL  60614, United States"
+      "location": "Midcity Nails\n1351 W Fullerton Ave, Chicago, IL 60614, United States"
     },
     {
       "id": "_6gq44h228cq48b9g8gpk8b9k8d34cb9p8l0jib9l6kpjae9n70s44dpn8c",
@@ -2012,7 +2016,20 @@
         "dateTime": "2026-06-06T20:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Gibsons Bar & Steakhouse\n1028 N Rush St, Chicago, IL  60611, United States"
+      "location": "Gibsons Bar & Steakhouse\n1028 N Rush St, Chicago, IL 60611, United States"
+    },
+    {
+      "id": "_6l34cga660skcb9k8p338b9k85148b9o8gsk8b9m6cr36ga160s30hhl8g",
+      "summary": "[solidcore] - Signature50: Full Body",
+      "start": {
+        "dateTime": "2026-06-07T17:30:00",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-06-07T18:20:00",
+        "timeZone": "UTC"
+      },
+      "location": "2206 North Halsted Street, Chicago, IL 60614"
     },
     {
       "id": "_612jecpp6d0kcb9o6kqk4b9k6gpk2ba188ok8b9l8d23gd22611j8gpk68",
@@ -2025,20 +2042,7 @@
         "dateTime": "2026-06-07T16:45:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL  60657, United States"
-    },
-    {
-      "id": "_6l34cga660skcb9k8p338b9k85148b9o8gsk8b9m6cr36ga160s30hhl8g",
-      "summary": "[solidcore] - Signature50: Full Body",
-      "start": {
-        "dateTime": "2026-06-07T17:30:00-05:00",
-        "timeZone": "America/Chicago"
-      },
-      "end": {
-        "dateTime": "2026-06-07T18:20:00-05:00",
-        "timeZone": "America/Chicago"
-      },
-      "location": "2206 North Halsted Street"
+      "location": "Benefit Cosmetics Boutique & BrowBar\n3450 N Southport Ave, Chicago, IL 60657, United States"
     },
     {
       "id": "_60s4aci2891j6b9n6p1j4b9k8op30ba28933ib9j60pjee1m6d2j6c1l8c",
@@ -2136,6 +2140,19 @@
       "location": "New York LGA"
     },
     {
+      "id": "qk7ht1d8dl3k5je9kgjnq91n6c",
+      "summary": "Flight to St. Louis (WN 523)",
+      "start": {
+        "dateTime": "2026-06-11T07:55:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "end": {
+        "dateTime": "2026-06-11T10:45:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "location": "Nyc LGA"
+    },
+    {
       "id": "jsj1rno609ml0vrca11bocita4",
       "summary": "Mumford & Sons",
       "start": {
@@ -2159,7 +2176,7 @@
         "dateTime": "2026-06-12T23:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Wrigley Field\n1060 W Addison St, Chicago, IL  60613, United States"
+      "location": "Wrigley Field\n1060 W Addison St, Chicago, IL 60613, United States"
     },
     {
       "id": "20260614_qdm7ohijjp3q47dejeuk58m28g",
@@ -2345,9 +2362,9 @@
       },
       "end": {
         "dateTime": "2026-09-10T09:52:00-05:00",
-        "timeZone": "America/Chicago"
+        "timeZone": "America/Denver"
       },
-      "location": "O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL  60666, United States"
+      "location": "O'Hare International Airport\n10000 W O'Hare Ave, Chicago, IL 60666, United States"
     },
     {
       "id": "j6uku98udake4cas51inu1btqo",
@@ -2367,13 +2384,13 @@
       "summary": "Flight: UA 675 from DEN to ORD",
       "start": {
         "dateTime": "2026-09-12T15:50:00-05:00",
-        "timeZone": "America/Chicago"
+        "timeZone": "America/Denver"
       },
       "end": {
         "dateTime": "2026-09-12T18:32:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Denver International Airport, 8500 Pena Blvd, Denver, CO  80249, United States"
+      "location": "Denver International Airport\n8500 Pe\u00f1a Blvd, Denver, CO 80249, United States"
     },
     {
       "id": "jothltfmkd0g20valnjb07stds",
