@@ -1,6 +1,54 @@
 {
-  "updated": "2026-06-10T21:15:33Z",
+  "updated": "2026-06-11T01:02:37Z",
   "messages": [
+    {
+      "sender": "calendar-notification@google.com",
+      "subject": "Notification: Flight to Chicago (WN 2469) @ Wed Jun 10, 2026 8:30pm - 10:55pm (CDT) (Emily Quayle)",
+      "snippet": "Flight to Chicago (WN 2469) You have been invited by Emily Quayle to attend an event named Flight to Chicago (WN 2469) o",
+      "isUnread": true,
+      "date": "2026-06-11T00:59:49Z",
+      "threadId": "19eb43148528762b"
+    },
+    {
+      "sender": "noreply-accounts@google.com",
+      "subject": "You shared some Google Account data with Claude",
+      "snippet": "Keep track of your Google Account data equayle93@gmail.com You're receiving this email because you used Sign in with Goo",
+      "isUnread": true,
+      "date": "2026-06-11T00:27:50Z",
+      "threadId": "19eb41402d363592"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "Something BIG Is Coming Tomorrow",
+      "snippet": "The countdown is on.",
+      "isUnread": true,
+      "date": "2026-06-10T23:30:11Z",
+      "threadId": "19eb3df3d7955e3f"
+    },
+    {
+      "sender": "southwestairlines@ifly.southwest.com",
+      "subject": "You're going to Chicago (Midway) on 06/10 (AVHJ3R)!",
+      "snippet": "Here's your itinerary & receipt. See ya soon! View in web browser Southwest Manage Flight | Flight Status | My Account T",
+      "isUnread": false,
+      "date": "2026-06-10T23:19:28Z",
+      "threadId": "19eb3d570060571f"
+    },
+    {
+      "sender": "no-reply@rentcafe.com",
+      "subject": "Roof & Pool Deck Temporary Closure Notice",
+      "snippet": "the-apartments-at-lincoln-common Dear Residents, Due to the recent storm, we have closed the roof deck and pool area in ",
+      "isUnread": false,
+      "date": "2026-06-10T22:56:30Z",
+      "threadId": "19eb3c0636b87d9a"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: U.S. Strikes Iran again after Trump says talks are taking too long",
+      "snippet": "The US military said the attack began at 5:15 pm Eastern time. View in browser The New York Times The New York Times Jun",
+      "isUnread": true,
+      "date": "2026-06-10T22:14:51Z",
+      "threadId": "19eb39a6819139d2"
+    },
     {
       "sender": "info@analuisa.com",
       "subject": "Open If Your Uniform Wants Edge",
@@ -32,54 +80,6 @@
       "isUnread": true,
       "date": "2026-06-10T20:15:09Z",
       "threadId": "19eb32caacab55d9"
-    },
-    {
-      "sender": "no-reply@spotify.com",
-      "subject": "Bella Kay, Kacey Musgraves live: personalized concert recommendations near you",
-      "snippet": "Plus sombr, bbno$ and more! header Upcoming events near you artist image 1 artist image 2 Wed, Jul 29 Fri, Aug 21 Bella ",
-      "isUnread": true,
-      "date": "2026-06-10T17:44:31Z",
-      "threadId": "19eb2a2c3b6f807f"
-    },
-    {
-      "sender": "notice@email.anthropic.com",
-      "subject": "We're updating our Privacy Policy",
-      "snippet": "We're writing to inform you about some updates to our Privacy Policy",
-      "isUnread": true,
-      "date": "2026-06-10T17:40:17Z",
-      "threadId": "19eb29ee514b7d7d"
-    },
-    {
-      "sender": "rtr@account.renttherunway.com",
-      "subject": "Your order is on the way!",
-      "snippet": "Tracking info inside | Rent the Runway gives you access to thousands of designer styles for less than the price of one. ",
-      "isUnread": true,
-      "date": "2026-06-10T16:53:20Z",
-      "threadId": "19eb273e786744cb"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Cold peanut noodles for ginger lovers",
-      "snippet": "There's grated ginger in the sauce and crystallized ginger in the noodle-cucumber-scallion mix. View in browser|nytimes.",
-      "isUnread": true,
-      "date": "2026-06-10T15:04:47Z",
-      "threadId": "19eb2142baca602a"
-    },
-    {
-      "sender": "loyalty@loyalty.ms.aa.com",
-      "subject": "Exclusive offer: Earn 25,000 AAdvantage\u00ae bonus miles when you switch to AT&T",
-      "snippet": "Plus, boost your coverage with Turbo",
-      "isUnread": true,
-      "date": "2026-06-10T15:06:35Z",
-      "threadId": "19eb212307ced3e2"
-    },
-    {
-      "sender": "stl-bucket-list@mail.beehiiv.com",
-      "subject": "How Fitz's Became an STL Staple",
-      "snippet": "STL Bucket List Show: From the Delmar Loop to grocery store shelves, Michael Alter shares the story behind Fitz's and wh",
-      "isUnread": true,
-      "date": "2026-06-10T13:30:39Z",
-      "threadId": "19eb1ba615c7fb80"
     }
   ]
 }
