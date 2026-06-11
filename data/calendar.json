@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T01:40:10Z",
+  "updated": "2026-06-11T02:09:40Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -1498,16 +1498,6 @@
       "location": "European Wax Center\n2725 N Clark St"
     },
     {
-      "id": "_69246gq5751jeba174r4cb9k60o30ba16ksjgb9j6l136e9o88pjecpk6k",
-      "summary": "Charlotte",
-      "start": {
-        "date": "2026-04-22T00:00:00Z"
-      },
-      "end": {
-        "date": "2026-04-23T00:00:00Z"
-      }
-    },
-    {
       "id": "1h6skh2plr591j4ug2khog4nu0",
       "summary": "Stay at Le M\u00e9ridien Charlotte",
       "start": {
@@ -1517,6 +1507,16 @@
         "date": "2026-04-24T00:00:00Z"
       },
       "location": "Le M\u00e9ridien Charlotte, Charlotte"
+    },
+    {
+      "id": "_69246gq5751jeba174r4cb9k60o30ba16ksjgb9j6l136e9o88pjecpk6k",
+      "summary": "Charlotte",
+      "start": {
+        "date": "2026-04-22T00:00:00Z"
+      },
+      "end": {
+        "date": "2026-04-23T00:00:00Z"
+      }
     },
     {
       "id": "_84s3ad9g6gq30ba68kq42b9k8goj6ba16ook8ba670ok6g9g8kp34dpp64",
@@ -2035,11 +2035,11 @@
       "id": "_6l34cga660skcb9k8p338b9k85148b9o8gsk8b9m6cr36ga160s30hhl8g",
       "summary": "[solidcore] - Signature50: Full Body ",
       "start": {
-        "dateTime": "2026-06-07T17:30:00",
+        "dateTime": "2026-06-07T17:30:00-05:00",
         "timeZone": "UTC"
       },
       "end": {
-        "dateTime": "2026-06-07T18:20:00",
+        "dateTime": "2026-06-07T18:20:00-05:00",
         "timeZone": "UTC"
       },
       "location": "2206 North Halsted Street, Chicago, IL 60614"
@@ -2125,6 +2125,19 @@
         "timeZone": "America/Chicago"
       },
       "location": "Nyc LGA"
+    },
+    {
+      "id": "csp61jtcfp3vqve53lgc3lkdd0",
+      "summary": "Flight to St. Louis (AA 4508)",
+      "start": {
+        "dateTime": "2026-06-11T06:00:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "end": {
+        "dateTime": "2026-06-11T08:53:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "location": "New York LGA"
     },
     {
       "id": "jsj1rno609ml0vrca11bocita4",
