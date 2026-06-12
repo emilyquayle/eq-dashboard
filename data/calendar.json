@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T21:40:56Z",
+  "updated": "2026-06-12T00:31:13Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -2164,6 +2164,18 @@
         "timeZone": "America/Chicago"
       },
       "location": "Wrigley Field, Chicago, IL"
+    },
+    {
+      "id": "ldlmh5huqhjdjgmst528hb4eko",
+      "summary": "Reservation at Mercadito - Lincoln Park",
+      "start": {
+        "dateTime": "2026-06-11T18:45:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "end": {
+        "dateTime": "2026-06-11T19:45:00-05:00",
+        "timeZone": "America/Chicago"
+      }
     },
     {
       "id": "_6ksk8chg6or3gba3692k2b9k8cokcb9p88p3ab9p85148hi388sj8gi170",
