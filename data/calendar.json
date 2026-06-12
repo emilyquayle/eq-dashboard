@@ -1,16 +1,6 @@
 {
-  "updated": "2026-06-12T15:28:50Z",
+  "updated": "2026-06-12T21:09:58Z",
   "events": [
-    {
-      "id": "20260101_d3glsfo8cfrs476elqd81so37s",
-      "summary": "New Year's Day",
-      "start": {
-        "date": "2026-01-01"
-      },
-      "end": {
-        "date": "2026-01-02"
-      }
-    },
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
       "summary": "OOO",
@@ -19,6 +9,16 @@
       },
       "end": {
         "date": "2026-01-03T00:00:00Z"
+      }
+    },
+    {
+      "id": "20260101_d3glsfo8cfrs476elqd81so37s",
+      "summary": "New Year's Day",
+      "start": {
+        "date": "2026-01-01T00:00:00Z"
+      },
+      "end": {
+        "date": "2026-01-02T00:00:00Z"
       }
     },
     {
@@ -175,18 +175,18 @@
       "location": "Soldier Field"
     },
     {
-      "id": "20260119_o3kjmdvd64o73fbst6tsipnsq8",
-      "summary": "Martin Luther King Jr. Day",
+      "id": "_6h13aghl8op32b9n852k8b9k61342b9p8p0k4ba16523iga68cs30da46g",
+      "summary": "OOO",
       "start": {
-        "date": "2026-01-19"
+        "date": "2026-01-19T00:00:00Z"
       },
       "end": {
-        "date": "2026-01-20"
+        "date": "2026-01-20T00:00:00Z"
       }
     },
     {
-      "id": "_6h13aghl8op32b9n852k8b9k61342b9p8p0k4ba16523iga68cs30da46g",
-      "summary": "OOO",
+      "id": "20260119_o3kjmdvd64o73fbst6tsipnsq8",
+      "summary": "Martin Luther King Jr. Day",
       "start": {
         "date": "2026-01-19T00:00:00Z"
       },
@@ -526,25 +526,25 @@
       "id": "20260214_usq30lg2vsmkhksfk62gq346l4",
       "summary": "Valentine's Day",
       "start": {
-        "date": "2026-02-14"
+        "date": "2026-02-14T00:00:00Z"
       },
       "end": {
-        "date": "2026-02-15"
-      }
-    },
-    {
-      "id": "20260216_6md85pbtdqab16gk684vmsa6bg",
-      "summary": "Presidents' Day",
-      "start": {
-        "date": "2026-02-16"
-      },
-      "end": {
-        "date": "2026-02-17"
+        "date": "2026-02-15T00:00:00Z"
       }
     },
     {
       "id": "_8gp3ggq570qjgb9m752jgb9k610j6ba284qjaba48op30e1n8opj8e1g74",
       "summary": "OOO",
+      "start": {
+        "date": "2026-02-16T00:00:00Z"
+      },
+      "end": {
+        "date": "2026-02-17T00:00:00Z"
+      }
+    },
+    {
+      "id": "20260216_6md85pbtdqab16gk684vmsa6bg",
+      "summary": "Presidents' Day",
       "start": {
         "date": "2026-02-16T00:00:00Z"
       },
@@ -802,10 +802,10 @@
       "id": "20260308_ggv49ash2dc1u9ve311s17cv3s",
       "summary": "Daylight Saving Time starts",
       "start": {
-        "date": "2026-03-08"
+        "date": "2026-03-08T00:00:00Z"
       },
       "end": {
-        "date": "2026-03-09"
+        "date": "2026-03-09T00:00:00Z"
       }
     },
     {
@@ -935,10 +935,10 @@
       "id": "20260317_l4mvp4s6evr3tn060mm16jkrgk",
       "summary": "St. Patrick's Day",
       "start": {
-        "date": "2026-03-17"
+        "date": "2026-03-17T00:00:00Z"
       },
       "end": {
-        "date": "2026-03-18"
+        "date": "2026-03-18T00:00:00Z"
       }
     },
     {
@@ -1158,10 +1158,10 @@
       "id": "20260405_3mu1r7pla9n32j18jktrp5eis8",
       "summary": "Easter Sunday",
       "start": {
-        "date": "2026-04-05"
+        "date": "2026-04-05T00:00:00Z"
       },
       "end": {
-        "date": "2026-04-06"
+        "date": "2026-04-06T00:00:00Z"
       }
     },
     {
@@ -1191,16 +1191,6 @@
       "location": "Omakase Box\n3038 W Armitage Ave, Chicago, IL  60647, United States"
     },
     {
-      "id": "20260406_egt1hslergcgifs4s2d8brbu10",
-      "summary": "Easter Monday",
-      "start": {
-        "date": "2026-04-06"
-      },
-      "end": {
-        "date": "2026-04-07"
-      }
-    },
-    {
       "id": "_6ks48cq38or4cba18913eb9k6sr48b9o74rk2ba36gqk8g9p8cpj2d1k88",
       "summary": "Minneapolis",
       "start": {
@@ -1220,6 +1210,16 @@
         "date": "2026-04-08T00:00:00Z"
       },
       "location": "The Westin Minneapolis, Minneapolis"
+    },
+    {
+      "id": "20260406_egt1hslergcgifs4s2d8brbu10",
+      "summary": "Easter Monday",
+      "start": {
+        "date": "2026-04-06T00:00:00Z"
+      },
+      "end": {
+        "date": "2026-04-07T00:00:00Z"
+      }
     },
     {
       "id": "_8osjid9j8oo3eb9j88rj0b9k70qkaba28osj4ba38l232ga66csjegpo6g",
@@ -1426,10 +1426,10 @@
       "id": "20260415_fkehtfbgrr6j65q23flu2k5vu0",
       "summary": "Tax Day",
       "start": {
-        "date": "2026-04-15"
+        "date": "2026-04-15T00:00:00Z"
       },
       "end": {
-        "date": "2026-04-16"
+        "date": "2026-04-16T00:00:00Z"
       }
     },
     {
@@ -1673,10 +1673,10 @@
       "id": "20260505_hm1dckhe8mj1ka0asb821viv0g",
       "summary": "Cinco de Mayo",
       "start": {
-        "date": "2026-05-05"
+        "date": "2026-05-05T00:00:00Z"
       },
       "end": {
-        "date": "2026-05-06"
+        "date": "2026-05-06T00:00:00Z"
       }
     },
     {
@@ -1735,10 +1735,10 @@
       "id": "20260510_pb76790v60kap1j6ra4f75ms9o",
       "summary": "Mother's Day",
       "start": {
-        "date": "2026-05-10"
+        "date": "2026-05-10T00:00:00Z"
       },
       "end": {
-        "date": "2026-05-11"
+        "date": "2026-05-11T00:00:00Z"
       }
     },
     {
@@ -1921,16 +1921,6 @@
       "location": "Wrigley Field\n1060 W Addison St, Chicago, IL  60613, United States"
     },
     {
-      "id": "20260525_8a7osuvj9moeql74mrs1da4b1k",
-      "summary": "Memorial Day",
-      "start": {
-        "date": "2026-05-25"
-      },
-      "end": {
-        "date": "2026-05-26"
-      }
-    },
-    {
       "id": "_8krk2chi61342b9h8op4cb9k6p23gba18p2j4ba46t2j4gq560pj0d1j8c",
       "summary": "OOO",
       "start": {
@@ -1938,6 +1928,16 @@
       },
       "end": {
         "date": "2026-05-27T00:00:00Z"
+      }
+    },
+    {
+      "id": "20260525_8a7osuvj9moeql74mrs1da4b1k",
+      "summary": "Memorial Day",
+      "start": {
+        "date": "2026-05-25T00:00:00Z"
+      },
+      "end": {
+        "date": "2026-05-26T00:00:00Z"
       }
     },
     {
@@ -2194,25 +2194,25 @@
       "id": "20260614_qdm7ohijjp3q47dejeuk58m28g",
       "summary": "Flag Day",
       "start": {
-        "date": "2026-06-14"
+        "date": "2026-06-14T00:00:00Z"
       },
       "end": {
-        "date": "2026-06-15"
-      }
-    },
-    {
-      "id": "20260619_2r4dpqm45tb15b3ebg9e9huo94",
-      "summary": "Juneteenth",
-      "start": {
-        "date": "2026-06-19"
-      },
-      "end": {
-        "date": "2026-06-20"
+        "date": "2026-06-15T00:00:00Z"
       }
     },
     {
       "id": "_60s3ch216513aba26crjcb9k6t2k2b9o6l344ba564s3aghj88s4cgq464",
       "summary": "OOO",
+      "start": {
+        "date": "2026-06-19T00:00:00Z"
+      },
+      "end": {
+        "date": "2026-06-20T00:00:00Z"
+      }
+    },
+    {
+      "id": "20260619_2r4dpqm45tb15b3ebg9e9huo94",
+      "summary": "Juneteenth",
       "start": {
         "date": "2026-06-19T00:00:00Z"
       },
@@ -2247,10 +2247,10 @@
       "id": "20260621_t5os2i58a399apjafh4aijjmro",
       "summary": "Father's Day",
       "start": {
-        "date": "2026-06-21"
+        "date": "2026-06-21T00:00:00Z"
       },
       "end": {
-        "date": "2026-06-22"
+        "date": "2026-06-22T00:00:00Z"
       }
     },
     {
@@ -2267,18 +2267,18 @@
       "location": "Charleston CHS"
     },
     {
-      "id": "20260703_0g574fqg66vqoj9oh0f90s6fng",
-      "summary": "Independence Day (substitute)",
+      "id": "_712jce9m6cpjaba58os3cb9k88s36b9p891k2b9p74q3id228gr3cdhk6o",
+      "summary": "OOO",
       "start": {
-        "date": "2026-07-03"
+        "date": "2026-07-03T00:00:00Z"
       },
       "end": {
-        "date": "2026-07-04"
+        "date": "2026-07-04T00:00:00Z"
       }
     },
     {
-      "id": "_712jce9m6cpjaba58os3cb9k88s36b9p891k2b9p74q3id228gr3cdhk6o",
-      "summary": "OOO",
+      "id": "20260703_0g574fqg66vqoj9oh0f90s6fng",
+      "summary": "Independence Day (substitute)",
       "start": {
         "date": "2026-07-03T00:00:00Z"
       },
@@ -2290,10 +2290,10 @@
       "id": "20260704_uvohv1gi37r7f84ibel1s6tsvc",
       "summary": "Independence Day",
       "start": {
-        "date": "2026-07-04"
+        "date": "2026-07-04T00:00:00Z"
       },
       "end": {
-        "date": "2026-07-05"
+        "date": "2026-07-05T00:00:00Z"
       }
     },
     {
@@ -2349,10 +2349,10 @@
       "id": "20260907_3iv7l7ja8ses3smgpgh5fqearo",
       "summary": "Labor Day",
       "start": {
-        "date": "2026-09-07"
+        "date": "2026-09-07T00:00:00Z"
       },
       "end": {
-        "date": "2026-09-08"
+        "date": "2026-09-08T00:00:00Z"
       }
     },
     {
@@ -2468,10 +2468,10 @@
       "id": "20261012_ulmd1kltcra97jfi42oujqdnms",
       "summary": "Columbus Day",
       "start": {
-        "date": "2026-10-12"
+        "date": "2026-10-12T00:00:00Z"
       },
       "end": {
-        "date": "2026-10-13"
+        "date": "2026-10-13T00:00:00Z"
       }
     },
     {
@@ -2504,90 +2504,90 @@
       "id": "20261031_jg75kt4ps505q4u01pbpictp2o",
       "summary": "Halloween",
       "start": {
-        "date": "2026-10-31"
+        "date": "2026-10-31T00:00:00Z"
       },
       "end": {
-        "date": "2026-11-01"
+        "date": "2026-11-01T00:00:00Z"
       }
     },
     {
       "id": "20261101_voardu9lrttj7tgf1qc0b9d8cg",
       "summary": "Daylight Saving Time ends",
       "start": {
-        "date": "2026-11-01"
+        "date": "2026-11-01T00:00:00Z"
       },
       "end": {
-        "date": "2026-11-02"
+        "date": "2026-11-02T00:00:00Z"
       }
     },
     {
       "id": "20261103_lg3dpstk14ft6g9m5k35jlkg14",
       "summary": "Election Day",
       "start": {
-        "date": "2026-11-03"
+        "date": "2026-11-03T00:00:00Z"
       },
       "end": {
-        "date": "2026-11-04"
+        "date": "2026-11-04T00:00:00Z"
       }
     },
     {
       "id": "20261111_74d74gec1qv5j3q0qbuc0nft40",
       "summary": "Veterans Day",
       "start": {
-        "date": "2026-11-11"
+        "date": "2026-11-11T00:00:00Z"
       },
       "end": {
-        "date": "2026-11-12"
+        "date": "2026-11-12T00:00:00Z"
       }
     },
     {
       "id": "20261126_1g5us79unrs6ecmqdes63fqi30",
       "summary": "Thanksgiving Day",
       "start": {
-        "date": "2026-11-26"
+        "date": "2026-11-26T00:00:00Z"
       },
       "end": {
-        "date": "2026-11-27"
+        "date": "2026-11-27T00:00:00Z"
       }
     },
     {
       "id": "20261127_sqgeamknoire9j3326eu506ais",
       "summary": "Black Friday",
       "start": {
-        "date": "2026-11-27"
+        "date": "2026-11-27T00:00:00Z"
       },
       "end": {
-        "date": "2026-11-28"
+        "date": "2026-11-28T00:00:00Z"
       }
     },
     {
       "id": "20261224_tmbgi0ljkl27i1l34lnddrq60c",
       "summary": "Christmas Eve",
       "start": {
-        "date": "2026-12-24"
+        "date": "2026-12-24T00:00:00Z"
       },
       "end": {
-        "date": "2026-12-25"
+        "date": "2026-12-25T00:00:00Z"
       }
     },
     {
       "id": "20261225_q1cjdk9utc6u8gie59mrlsh778",
       "summary": "Christmas Day",
       "start": {
-        "date": "2026-12-25"
+        "date": "2026-12-25T00:00:00Z"
       },
       "end": {
-        "date": "2026-12-26"
+        "date": "2026-12-26T00:00:00Z"
       }
     },
     {
       "id": "20261231_0kjsbhff7mdoqg6fl40ufhqql4",
       "summary": "New Year's Eve",
       "start": {
-        "date": "2026-12-31"
+        "date": "2026-12-31T00:00:00Z"
       },
       "end": {
-        "date": "2027-01-01"
+        "date": "2027-01-01T00:00:00Z"
       }
     }
   ]
