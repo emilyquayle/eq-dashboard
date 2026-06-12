@@ -1,85 +1,85 @@
 {
-  "updated": "2026-06-12T17:02:12Z",
+  "updated": "2026-06-12T21:01:13Z",
   "messages": [
+    {
+      "sender": "bankofamerica@emcom.bankofamerica.com",
+      "subject": "EMILY, get special cash back deals that celebrate soccer",
+      "snippet": "Get cash back on these FIFA World Cup 2026 featured deals. Bank of America logo Celebrate FIFA World Cup 2026™ Don't wai",
+      "isUnread": true,
+      "date": "2026-06-12T20:00:29Z",
+      "threadId": "19ebd6c0b51d8ce9"
+    },
+    {
+      "sender": "membership@gaingels.com",
+      "subject": "Gaingels Newsletter: Gaingels AI Fund Q&A, Velocity Summit and Infinity Constellation's $24M Series A",
+      "snippet": "Discover our upcoming events and portfolio news",
+      "isUnread": true,
+      "date": "2026-06-12T20:00:04Z",
+      "threadId": "19ebd6b9cecebeb8"
+    },
+    {
+      "sender": "mcinfo@ups.com",
+      "subject": "Your UPS Package was delivered",
+      "snippet": "UPS Hi Emily, Your package was delivered. From RTR DFW OUTBOUND 2 Delivered Friday 06/12/2026 12:22 PM Track Your Packag",
+      "isUnread": false,
+      "date": "2026-06-12T19:40:11Z",
+      "threadId": "19ebd596905365f0"
+    },
+    {
+      "sender": "rtr@hello.renttherunway.com",
+      "subject": "Your Shipment Has Arrived",
+      "snippet": "Best. News. Ever. Rent The Runway Your order has arrived! We love saying that. Staud Magpie Pants $395.00 Original Retai",
+      "isUnread": false,
+      "date": "2026-06-12T19:34:34Z",
+      "threadId": "19ebd543d77ef561"
+    },
+    {
+      "sender": "support@luxerone.com",
+      "subject": "You've got a package.",
+      "snippet": "View Profile FAQs ENTER ACCESS CODE 125238 OR SCAN QR CODE This is the first package delivered to this locker. This is t",
+      "isUnread": true,
+      "date": "2026-06-12T18:47:26Z",
+      "threadId": "19ebd291408f4c1a"
+    },
+    {
+      "sender": "no-reply@opentable.com",
+      "subject": "How was Mercadito - Lincoln Park?",
+      "snippet": "OpenTable OpenTable How was Mercadito - Lincoln Park? We would appreciate your feedback about your experience at: OpenTa",
+      "isUnread": true,
+      "date": "2026-06-12T17:57:15Z",
+      "threadId": "19ebcfb258242dd8"
+    },
+    {
+      "sender": "donations@sarahs-circle.org",
+      "subject": "Gardening at Sarah's Circle",
+      "snippet": "Dear Emily, June is underway and Sarah's Circle is busy in the garden. It's our third year with a plot in one of Uptown'",
+      "isUnread": true,
+      "date": "2026-06-12T17:11:12Z",
+      "threadId": "19ebcd0fa9d94d2e"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Weekend: Throw Out Your “Nice Garbage” 🗑️",
+      "snippet": "But first: go team — Check out what we Skimm'd for you today June 12, 2026 Subscribe Read in browser Header Image But fi",
+      "isUnread": true,
+      "date": "2026-06-12T17:00:57Z",
+      "threadId": "19ebcc7bccc172b3"
+    },
     {
       "sender": "mcinfo@ups.com",
       "subject": "UPS Update: Package Scheduled for Delivery Today",
       "snippet": "UPS Hi Emily, Your package is arriving today. From RTR DFW OUTBOUND 2 Estimated Delivery Friday 06/12/2026 between 10:45",
-      "isUnread": true,
+      "isUnread": false,
       "date": "2026-06-12T15:22:09Z",
       "threadId": "19ebc6d2910fdb92"
     },
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "Our classic spaghetti carbonara",
-      "snippet": "And more of our most popular recipes from the week. View in browser|nytimes.com Ad Ad Cooking June 12, 2026 Ad The Best",
+      "snippet": "And more of our most popular recipes from the week. View in browser|nytimes.com Ad Ad Cooking June 12, 2026 Ad The Best ",
       "isUnread": true,
       "date": "2026-06-12T15:05:01Z",
       "threadId": "19ebc60ed8e5e626"
-    },
-    {
-      "sender": "loyalty@loyalty.ms.aa.com",
-      "subject": "Earn miles with AAdvantage® partners and offers",
-      "snippet": "Exclusive deals on hotels, rental cars and more!",
-      "isUnread": true,
-      "date": "2026-06-12T15:08:41Z",
-      "threadId": "19ebc60ce8aefbc4"
-    },
-    {
-      "sender": "CFAInstitute@mail.cfainstitute.org",
-      "subject": "Investors Push Back on Weaker Disclosure",
-      "snippet": "This week: quarterly reporting, AI oversight, member moves, and CFA Institute's 80-year milestone. In this issue 12 June",
-      "isUnread": true,
-      "date": "2026-06-12T14:48:32Z",
-      "threadId": "19ebc4e691ea2082"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "Roof Deck and Pool are Back Open!",
-      "snippet": "the-apartments-at-lincoln-common Dear Residents, The 20th floor roof deck and pools are back open. Enjoy this beautiful",
-      "isUnread": false,
-      "date": "2026-06-12T14:46:19Z",
-      "threadId": "19ebc4c52eddb88c"
-    },
-    {
-      "sender": "contact@email.cbssports.com",
-      "subject": "Kalshi Promo CBSSPORTS10 - $10 Bonus Credit When You Trade $10",
-      "snippet": "Start Trading Today! Special Partner Offer From CBS Sports Special Partner Offer From CBS Sports Kalshi BetMGM From",
-      "isUnread": true,
-      "date": "2026-06-12T14:22:59Z",
-      "threadId": "19ebc44c32a50444"
-    },
-    {
-      "sender": "statefarmservice@statefarmservice.com",
-      "subject": "Your bill is available.",
-      "snippet": "Your automated payment is scheduled. State Farm Insurance and Financial Services State Farm Insurance and Financial Serv",
-      "isUnread": true,
-      "date": "2026-06-12T14:28:56Z",
-      "threadId": "19ebc3c6abb340c0"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "New Reward! $5 off your next $20+ digital order 🔥",
-      "snippet": "Use this deal to try the fan-favorite Thai Chicken Wrap Display images to show real-time content New Reward Alert! $5 of",
-      "isUnread": true,
-      "date": "2026-06-12T13:04:41Z",
-      "threadId": "19ebbef4eeb3e60f"
-    },
-    {
-      "sender": "SouthwestAirlines@iluv.southwest.com",
-      "subject": "Wow! Earn double points now!",
-      "snippet": "Register and book by 6/15! View in web browser Hello Emily 4816 points | RR# 20639339346 Southwest June 12 Login | Book",
-      "isUnread": true,
-      "date": "2026-06-12T12:15:48Z",
-      "threadId": "19ebbc2882a1ab03"
-    },
-    {
-      "sender": "news@execsum.co",
-      "subject": "A New Era in Silicon Valley",
-      "snippet": "There's a new hierarchy in Silicon Valley. There's also a new trillion-dollar enterprise on Wall Street. SpaceX is at th",
-      "isUnread": true,
-      "date": "2026-06-12T10:45:50Z",
-      "threadId": "19ebb702d06ac522"
     }
   ]
 }
