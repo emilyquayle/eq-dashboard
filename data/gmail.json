@@ -1,6 +1,38 @@
 {
-  "updated": "2026-06-13T17:50:17Z",
+  "updated": "2026-06-13T21:22:19Z",
   "messages": [
+    {
+      "sender": "AmericanAirlines@survey.as.aa.com",
+      "subject": "EMILY, how was your flight to St Louis?",
+      "snippet": "We value your opinion Hello EMILY AAdvantage® Member 452**** How was your flight? Thank you for flying with American Air",
+      "isUnread": true,
+      "date": "2026-06-13T19:53:26Z",
+      "threadId": "19ec28bdc7e589ff"
+    },
+    {
+      "sender": "contact@email.cbssports.com",
+      "subject": "Hey Bud, the RBC Canadian Open is LIVE on CBS ⛳ Watch Now!",
+      "snippet": "Watch the PGA Tour on CBS and Streaming on Paramount+ CBS Sports | PGA Tour | Canadian Open CBS Sports | PGA Tour | CBS ",
+      "isUnread": true,
+      "date": "2026-06-13T18:39:23Z",
+      "threadId": "19ec248d4a608627"
+    },
+    {
+      "sender": "Business552763@mindbodyonline.com",
+      "subject": "Emily, you’re CONFIRMED. ✔️",
+      "snippet": "Get ready to sweat, Emily. ‏",
+      "isUnread": true,
+      "date": "2026-06-13T18:33:09Z",
+      "threadId": "19ec242613cab12d"
+    },
+    {
+      "sender": "uber@uber.com",
+      "subject": "You could get 50% off your next 2 trips",
+      "snippet": "Invite friends and family to try Uber!",
+      "isUnread": true,
+      "date": "2026-06-13T17:56:33Z",
+      "threadId": "19ec220da021fdee"
+    },
     {
       "sender": "info@analuisa.com",
       "subject": "What the Grads Actually Want",
@@ -48,38 +80,6 @@
       "isUnread": true,
       "date": "2026-06-13T12:15:18Z",
       "threadId": "19ec0e87379fb65a"
-    },
-    {
-      "sender": "no.reply.alerts@chase.com",
-      "subject": "Your United Explorer Visa automatic payment is scheduled",
-      "snippet": "Payment reminder Your upcoming automatic payment is scheduled We'll pay the amount you scheduled from your account on yo",
-      "isUnread": true,
-      "date": "2026-06-13T11:30:33Z",
-      "threadId": "19ec0bf7cfb75486"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Kennedy Center is removing Trump's name",
-      "snippet": "Workers began taking down President Trump's name from the facade after a judge's order. View in browser The New York Tim",
-      "isUnread": true,
-      "date": "2026-06-13T09:07:34Z",
-      "threadId": "19ec03cff09f6c4d"
-    },
-    {
-      "sender": "notifications@mail.creditkarma.com",
-      "subject": "Emily: New account update",
-      "snippet": "",
-      "isUnread": true,
-      "date": "2026-06-12T13:35:22Z",
-      "threadId": "19ebf42040cdf169"
-    },
-    {
-      "sender": "hello@apify.com",
-      "subject": "🔗 MCP connectors are here. Actors now work where you do.",
-      "snippet": "Apify spring updates Hi Emily! Today we're launching MCP connectors, so that Actors are no longer limited to the open we",
-      "isUnread": true,
-      "date": "2026-06-13T02:48:27Z",
-      "threadId": "19ebee1780a25bf0"
     }
   ]
 }
