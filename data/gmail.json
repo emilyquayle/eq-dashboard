@@ -1,6 +1,46 @@
 {
-  "updated": "2026-06-14T18:54:27Z",
+  "updated": "2026-06-14T21:02:29Z",
   "messages": [
+    {
+      "sender": "notification@service.tiktok.com",
+      "subject": "Sam Q just sent you a message",
+      "snippet": "Emily Quayle375, reply on TikTok.",
+      "isUnread": true,
+      "date": "2026-06-14T20:32:03Z",
+      "threadId": "19ec7d5942d29f46"
+    },
+    {
+      "sender": "rewards@customer-mail.smile.io",
+      "subject": "You've earned 130 Points!",
+      "snippet": "Nice work! You Placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park logo You have 4173 Points!",
+      "isUnread": true,
+      "date": "2026-06-14T19:36:37Z",
+      "threadId": "19ec7a2d524c4043"
+    },
+    {
+      "sender": "orders@2501halsted.com",
+      "subject": "Order 71972HAL confirmed",
+      "snippet": "Order 71972HAL Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has be",
+      "isUnread": true,
+      "date": "2026-06-14T19:36:33Z",
+      "threadId": "19ec7a2c7040b182"
+    },
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "Your returns are on the move!",
+      "snippet": "You're all set | Rent the Runway gives you access to thousands of designer styles for less than the price of one. Finall",
+      "isUnread": true,
+      "date": "2026-06-14T19:25:57Z",
+      "threadId": "19ec799102bde683"
+    },
+    {
+      "sender": "Walgreens@ecs.walgreens.com",
+      "subject": "Thank you for shopping at Walgreens.",
+      "snippet": "Thank you for shopping at Walgreens. Your purchase receipt Walgreens Store #15992 2500 N CLARK ST Chicago, IL 60614 June",
+      "isUnread": true,
+      "date": "2026-06-14T19:25:00Z",
+      "threadId": "19ec798e70111e3f"
+    },
     {
       "sender": "larroude@larroude.com",
       "subject": "I saved the Loulou for you",
@@ -12,7 +52,7 @@
     {
       "sender": "Hyatt@express.medallia.com",
       "subject": "Your recent stay at Hyatt Grand Central New York - reminder, a brief survey",
-      "snippet": "Dear Emily Quayle, Recently you received an invitation to participate in our guest feedback survey based on your recent...",
+      "snippet": "Dear Emily Quayle, Recently you received an invitation to participate in our guest feedback survey based on your recent",
       "isUnread": true,
       "date": "2026-06-14T17:58:37Z",
       "threadId": "19ec7491e266662f"
@@ -40,46 +80,6 @@
       "isUnread": true,
       "date": "2026-06-14T16:19:40Z",
       "threadId": "19ec6f13c0edb14d"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "This is how to make the best strawberry pie",
-      "snippet": "A simple step yields extra-flavorful, supercharged berries to pair with tart rhubarb.",
-      "isUnread": true,
-      "date": "2026-06-14T15:02:56Z",
-      "threadId": "19ec6b1167d77ad8"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "This Week at Kith",
-      "snippet": "Kith City Classic Logo Tees",
-      "isUnread": true,
-      "date": "2026-06-14T15:01:52Z",
-      "threadId": "19ec6a74ab3a241e"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "Last call for $5 off $20+ ⏰",
-      "snippet": "Use this deal to try the fan-favorite Thai Chicken Wrap Display images to show real-time content Don't Miss Out!",
-      "isUnread": true,
-      "date": "2026-06-14T14:47:05Z",
-      "threadId": "19ec699c22e9d86a"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Harissa apricot chicken, done in 20 minutes",
-      "snippet": "The word “perfect” turns up a lot in the comments on this new spicy-sweet dish. View in browser|nytimes.com Ad Ad Five",
-      "isUnread": true,
-      "date": "2026-06-14T13:04:07Z",
-      "threadId": "19ec63f7ea7dba83"
-    },
-    {
-      "sender": "larroude@larroude.com",
-      "subject": "Hot Girls Wear Raffia",
-      "snippet": "40% off. Final hours.",
-      "isUnread": true,
-      "date": "2026-06-14T13:02:09Z",
-      "threadId": "19ec639b051cc440"
     }
   ]
 }
