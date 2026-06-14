@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T21:23:17Z",
+  "updated": "2026-06-14T01:17:15Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -269,7 +269,7 @@
         "dateTime": "2026-01-24T23:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Garcia\u2019s\n1001 W Washington Blvd, Chicago, IL  60607, United States"
+      "location": "Garcia’s\n1001 W Washington Blvd, Chicago, IL  60607, United States"
     },
     {
       "id": "_6l0j0c258h334ba38csk4b9k84skcba188pj0ba3610k6d9p89130c1g6g",
@@ -419,7 +419,7 @@
         "dateTime": "2026-02-05T23:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Mambo\u2019s\n521 Lincoln Avenue, Steamboat Springs, CO 80487, United States"
+      "location": "Mambo’s\n521 Lincoln Avenue, Steamboat Springs, CO 80487, United States"
     },
     {
       "id": "_64oj0h9m70p42b9m8p2kab9k6t0k8ba160pj2ba48ork2di270sj6gpl8o",
@@ -641,7 +641,7 @@
         "dateTime": "2026-02-24T21:00:00-06:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Suda\u2019s\n1524 W Fullerton Ave, Chicago, IL  60614, United States"
+      "location": "Suda’s\n1524 W Fullerton Ave, Chicago, IL  60614, United States"
     },
     {
       "id": "_6cpkada160o46b9j84s3gb9k64o4cba288oj6ba18cr4cda28l23ce9m8g",
@@ -1499,14 +1499,14 @@
     },
     {
       "id": "1h6skh2plr591j4ug2khog4nu0",
-      "summary": "Stay at Le M\u00e9ridien Charlotte",
+      "summary": "Stay at Le Méridien Charlotte",
       "start": {
         "date": "2026-04-22T00:00:00Z"
       },
       "end": {
         "date": "2026-04-24T00:00:00Z"
       },
-      "location": "Le M\u00e9ridien Charlotte, Charlotte"
+      "location": "Le Méridien Charlotte, Charlotte"
     },
     {
       "id": "_69246gq5751jeba174r4cb9k60o30ba16ksjgb9j6l136e9o88pjecpk6k",
@@ -2402,7 +2402,7 @@
         "dateTime": "2026-09-12T18:32:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Denver International Airport\n8500 Pe\u00f1a Blvd, Denver, CO  80249, United States"
+      "location": "Denver International Airport\n8500 Peña Blvd, Denver, CO  80249, United States"
     },
     {
       "id": "jothltfmkd0g20valnjb07stds",
