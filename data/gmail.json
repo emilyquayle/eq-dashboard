@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-14T01:05:48Z",
+  "updated": "2026-06-14T05:03:31Z",
   "messages": [
+    {
+      "sender": "newsletter@kith.com",
+      "subject": "Kith for the New York Knicks 2026 Champions",
+      "snippet": "Available Now",
+      "isUnread": true,
+      "date": "2026-06-14T03:36:31Z",
+      "threadId": "19ec433d79b0d15f"
+    },
     {
       "sender": "noreply@ewc.waxcenter.com",
       "subject": "Emily - your reservation is soon!",
@@ -27,7 +35,7 @@
     },
     {
       "sender": "Business552763@mindbodyonline.com",
-      "subject": "Emily, you’re CONFIRMED. ✅",
+      "subject": "Emily, you're CONFIRMED. ✔️",
       "snippet": "Get ready to sweat, Emily.",
       "isUnread": true,
       "date": "2026-06-13T18:33:09Z",
@@ -72,14 +80,6 @@
       "isUnread": false,
       "date": "2026-06-13T13:13:45Z",
       "threadId": "19ec11df3366e4e2"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Can You Tell Your Seatmate To Zip It? 🤫",
-      "snippet": "But first: summer outfits on sale — Check out what we Skimm'd for you today June 13, 2026 Subscribe Read in browser Head",
-      "isUnread": true,
-      "date": "2026-06-13T13:03:07Z",
-      "threadId": "19ec1143ab6147a3"
     }
   ]
 }
