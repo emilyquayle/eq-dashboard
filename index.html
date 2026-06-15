@@ -610,14 +610,8 @@ async function loadSpotify() {
   body.innerHTML='<div class="loading"><div class="spinner"></div> Reading your taste...</div>';
 
   try {
-    let d;
-    if (IN_COWORK) {
-      d = window.__SPOTIFY__ || null;
-      if (!d) { body.innerHTML='<div class="empty">Spotify data will appear after 8am today.</div>'; return; }
-    } else {
-      d = await loadJSON('data/spotify.json');
-      if (!d) { body.innerHTML='<div class="empty">No Spotify data yet — check back soon.</div>'; return; }
-    }
+    const d = await loadJSON('data/spotify.json');
+    if (!d) { body.innerHTML='<div class="empty">No Spotify data yet — check back soon.</div>'; return; }
 
     const artists = (d.artists || []).slice(0,5);
     if (!artists.length) { body.innerHTML='<div class="empty">No listening data found.</div>'; return; }
@@ -648,14 +642,8 @@ async function loadTopSongs() {
   const body = document.getElementById('topsongs-body');
   body.innerHTML='<div class="loading"><div class="spinner"></div> Loading...</div>';
   try {
-    let d;
-    if (IN_COWORK) {
-      d = window.__SPOTIFY__ || null;
-      if (!d) { body.innerHTML='<div class="empty">Spotify data will appear after 8am today.</div>'; return; }
-    } else {
-      d = await loadJSON('data/spotify.json');
-      if (!d) { body.innerHTML='<div class="empty">No Spotify data yet.</div>'; return; }
-    }
+    const d = await loadJSON('data/spotify.json');
+    if (!d) { body.innerHTML='<div class="empty">No Spotify data yet.</div>'; return; }
     const tracks = (d.tracks || []).slice(0, 5);
     if (!tracks.length) { body.innerHTML='<div class="empty">No track data found.</div>'; return; }
     const songStyles = [
