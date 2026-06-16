@@ -1,6 +1,38 @@
 {
-  "updated": "2026-06-16T09:02:01Z",
+  "updated": "2026-06-16T13:00:00Z",
   "messages": [
+    {
+      "sender": "support@spothero.com",
+      "subject": "SpotHero Parking Confirmation - Check Your Parking Pass #125788083",
+      "snippet": "Happy Parking! Reservation Confirmed Rental ID: 125788083 172 W Madison St. - Washington-Madison-Wells",
+      "isUnread": true,
+      "date": "2026-06-16T12:55:15Z",
+      "threadId": "19ed08019ef369b1"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "50 shades of silver",
+      "snippet": "But first: a simpler, cost-effective way to stay connected — Check out what we Skimm'd for you today",
+      "isUnread": true,
+      "date": "2026-06-16T11:08:03Z",
+      "threadId": "19ed01e5f5ef83d9"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "Musk's wealth rises by 1 Bill Gates",
+      "snippet": "Nvidia will raise debt for the first time since the AI boom, some Asia hedge funds are up 100% amid the AI rally",
+      "isUnread": true,
+      "date": "2026-06-16T10:46:07Z",
+      "threadId": "19ed009e05a29b1a"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "The Morning: Will the deal work?",
+      "snippet": "Plus, we went inside Jeffrey Epstein's last days. The world's attention is on the Middle East.",
+      "isUnread": true,
+      "date": "2026-06-16T10:29:55Z",
+      "threadId": "19ecffb6e9b8d3a9"
+    },
     {
       "sender": "larroude@larroude.com",
       "subject": "Pre-Order Ends This Week",
@@ -12,7 +44,7 @@
     {
       "sender": "donotreply@gopassport.com",
       "subject": "Parking Receipt - ParkChicago",
-      "snippet": "Thanks for paying for parking with ParkChicago ® Below is a receipt of your parking stay details: Session Number: 797205948",
+      "snippet": "Thanks for paying for parking with ParkChicago. Session Number: 797205948 Zone: 615 W Diversey Pkwy",
       "isUnread": true,
       "date": "2026-06-15T23:18:11Z",
       "threadId": "19ecd940a15e5e73"
@@ -20,7 +52,7 @@
     {
       "sender": "noreply@ewc.waxcenter.com",
       "subject": "Emily Your Reservation is Confirmed",
-      "snippet": "Your Reservation Confirmation Emily Quayle- Thanks for booking with us - we can't wait to see you! Please take a moment to",
+      "snippet": "Your Reservation Confirmation Emily Quayle - Thanks for booking with us - we can't wait to see you!",
       "isUnread": true,
       "date": "2026-06-15T23:01:09Z",
       "threadId": "19ecd84754dfa665"
@@ -28,7 +60,7 @@
     {
       "sender": "noreply@ewc.waxcenter.com",
       "subject": "European Wax Center Receipt # 1365R47044 On 6/15/2026",
-      "snippet": "2725 N Clark St. Chicago, Illinois 60614 Ph: (872) 206-2396 Invoice Number: 136556798 Emily Quayle 6/15/2026 Item Qty Price",
+      "snippet": "2725 N Clark St. Chicago, Illinois 60614 Invoice Number: 136556798 Emily Quayle 6/15/2026",
       "isUnread": true,
       "date": "2026-06-15T22:50:54Z",
       "threadId": "19ecd7b155a27058"
@@ -36,7 +68,7 @@
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "15-minute roasted salmon with peas and radishes",
-      "snippet": "A five-star recipe that's fancy, not fussy. View in browser|nytimes.com Ad Ad Cooking June 15, 2026 Ad Good morning! Today",
+      "snippet": "A five-star recipe that's fancy, not fussy. Pretty (and delicious) roasted salmon with peas and radishes.",
       "isUnread": true,
       "date": "2026-06-15T15:03:15Z",
       "threadId": "19ecbdaaafccc3a1"
@@ -44,42 +76,10 @@
     {
       "sender": "contact@wintrustarena.com",
       "subject": "BIG NEWS: Cash Money Records & No Limit Records unite for once-in-a-lifetime hip-hop tour",
-      "snippet": "Coming to Chicago on Nov. 13! UPCOMING EVENTS AT WINTRUST ARENA UPCOMING EVENTS AT ARIE CROWN THEATER Poster for the Novem",
+      "snippet": "Coming to Chicago on Nov. 13! Cash Money & No Limit Records concert at Wintrust Arena.",
       "isUnread": true,
       "date": "2026-06-15T15:08:23Z",
       "threadId": "19ecbd39a5907aa2"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "Monday Program™",
-      "snippet": "Kith City Classic Logo Tees",
-      "isUnread": true,
-      "date": "2026-06-15T15:02:11Z",
-      "threadId": "19ecbcf6590da4f0"
-    },
-    {
-      "sender": "bankofamerica@emcom.bankofamerica.com",
-      "subject": "🔴 You've been selected for a credit card offer",
-      "snippet": "Get a low, low intro rate for a long, long time for purchases and qualifying balance transfers with the BankAmericard® cred",
-      "isUnread": true,
-      "date": "2026-06-15T14:49:17Z",
-      "threadId": "19ecbc51715a00c5"
-    },
-    {
-      "sender": "cfainstitutehelp@mg.electionservicescorp.com",
-      "subject": "Voting Closes Tomorrow - We Need Your Vote Now",
-      "snippet": "This is your last chance to cast your proxy vote! Online voting for the CFA Institute proxy closes tomorrow, 16 June, at 11",
-      "isUnread": true,
-      "date": "2026-06-15T13:27:06Z",
-      "threadId": "19ecb90e4bcfffe7"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "ROLL Into A Week of WHEELY Good Times! See You Thursday at The Summer Roll!",
-      "snippet": "the-apartments-at-lincoln-common LOCAL PASTURES POP-UP! TUESDAY, JUNE 16th SOUTH TOWER LOBBY 5:00-7:00PM Local Pastures, a",
-      "isUnread": true,
-      "date": "2026-06-15T13:35:44Z",
-      "threadId": "19ecb7ec9e9adf27"
     }
   ]
 }
