@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T02:02:08Z",
+  "updated": "2026-06-16T13:14:04Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -286,13 +286,13 @@
     },
     {
       "id": "_61234da26124cb9n88pjgb9k8op3gba1690j8b9l6go42e1m84ok2gi274",
-      "summary": "Dinner @ Nat's",
+      "summary": "Nat's for Dinner",
       "start": {
         "dateTime": "2026-01-28T16:30:00-06:00",
         "timeZone": "America/Chicago"
       },
       "end": {
-        "dateTime": "2026-01-28T19:30:00-06:00",
+        "dateTime": "2026-01-28T18:00:00-06:00",
         "timeZone": "America/Chicago"
       },
       "location": "1823 N Sedgwick St\nChicago, IL, United States"
@@ -2201,6 +2201,69 @@
       }
     },
     {
+      "id": "_8d136hhh68rjcba664sj0b9k8ks4aba16p1k6b9k8p23ie9p6cr32e1o84",
+      "summary": "[solidcore]",
+      "start": {
+        "dateTime": "2026-06-14T17:30:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "end": {
+        "dateTime": "2026-06-14T18:20:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "location": "[solidcore]\n2206 N Halsted St, Chicago, IL  60614, United States"
+    },
+    {
+      "id": "_6d0kacpo70r3cb9m8kr38b9k6cs3ib9o6spk6b9g8opj8d1i60rjega28o",
+      "summary": "Wax Appt. w/ Breanna",
+      "start": {
+        "dateTime": "2026-06-15T17:30:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "end": {
+        "dateTime": "2026-06-15T18:30:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "location": "European Wax Center\n2725 N Clark St"
+    },
+    {
+      "id": "_74sj8ca28d1k2b9m74q3eb9k6l130b9p8or46b9m64sjihhh84rjedq58k",
+      "summary": "Cuisine Queens",
+      "start": {
+        "dateTime": "2026-06-16T18:00:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "end": {
+        "dateTime": "2026-06-16T20:00:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "location": "Greek Islands\n200 S Halsted St, Chicago, IL  60661, United States"
+    },
+    {
+      "id": "_8h23gghl6sp38ba56h0jib9k8grk8ba26t0jib9n88ojgh246gpjih1h6g",
+      "summary": "Rachel's to see Grant",
+      "start": {
+        "dateTime": "2026-06-17T19:00:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "end": {
+        "dateTime": "2026-06-17T21:00:00-05:00",
+        "timeZone": "America/Chicago"
+      }
+    },
+    {
+      "id": "_6l0j4ga58or3cba38h23eb9k68q4ab9p68ojiba56op3ch9k610j2cq468",
+      "summary": "Dinner w/ Syd",
+      "start": {
+        "dateTime": "2026-06-18T19:00:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "end": {
+        "dateTime": "2026-06-18T20:00:00-05:00",
+        "timeZone": "America/Chicago"
+      }
+    },
+    {
       "id": "_60s3ch216513aba26crjcb9k6t2k2b9o6l344ba564s3aghj88s4cgq464",
       "summary": "OOO",
       "start": {
@@ -2295,6 +2358,19 @@
       "end": {
         "date": "2026-07-05T00:00:00Z"
       }
+    },
+    {
+      "id": "_6so3icpp6kp42b9l70sj2b9k8h1j6ba26gojgba168qj4ea68d0k2ca488",
+      "summary": "Wax Appt. w/ Breanna",
+      "start": {
+        "dateTime": "2026-07-13T17:30:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "end": {
+        "dateTime": "2026-07-13T18:30:00-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "location": "European Wax Center\n2725 N Clark St"
     },
     {
       "id": "j9hab2limkndg5rjlbd5m8pevk",
