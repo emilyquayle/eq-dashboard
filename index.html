@@ -80,9 +80,13 @@
 
 
   /* Todoist */
-  .todo-item { display: flex; align-items: flex-start; gap: 10px; padding: 8px 0; border-bottom: 1px solid #d6d0c4; }
+  .todo-item { display: flex; align-items: flex-start; gap: 10px; padding: 8px 0; border-bottom: 1px solid #d6d0c4; cursor: pointer; user-select: none; }
   .todo-item:last-child { border-bottom: none; }
-  .todo-check { width: 16px; height: 16px; border-radius: 50%; border: 2px solid #b7472a; flex-shrink: 0; margin-top: 2px; }
+  .todo-check { width: 16px; height: 16px; border-radius: 50%; border: 2px solid #b7472a; flex-shrink: 0; margin-top: 2px; display: flex; align-items: center; justify-content: center; transition: background 0.15s; }
+  .todo-item.done .todo-check { background: #b7472a; border-color: #b7472a; }
+  .todo-item.done .todo-check::after { content: '✓'; color: white; font-size: 0.5rem; font-weight: 700; }
+  .todo-item.done .todo-text { text-decoration: line-through; opacity: 0.45; color: #9a9080; }
+  .todo-item.done .todo-due { opacity: 0.45; }
   .todo-text { font-size: 0.747rem; color: #2e2a22; }
   .todo-due { font-size: 0.63rem; color: #b7472a; margin-top: 2px; font-weight: 600; }
 
@@ -247,6 +251,19 @@ const CALENDAR_IDS = [
   'mn0dnmqhekjl3rdm6skc5fvcv0@group.calendar.google.com',
   'en.usa#holiday@group.v.calendar.google.com'
 ];
+
+// ── Todo cross-off state ──────────────────────────────────
+const crossedOff = new Set(JSON.parse(localStorage.getItem('todo-crossed') || '[]'));
+function toggleTodo(id, el) {
+  if (crossedOff.has(id)) {
+    crossedOff.delete(id);
+    el.classList.remove('done');
+  } else {
+    crossedOff.add(id);
+    el.classList.add('done');
+  }
+  localStorage.setItem('todo-crossed', JSON.stringify([...crossedOff]));
+}
 
 // ── Data loading (GitHub Pages) ───────────────────────────
 async function loadJSON(path) {
@@ -681,10 +698,13 @@ async function loadTodoList(panelId, projectId, subtitleId) {
 
     sub.textContent = tasks.length ? `${tasks.length} task${tasks.length!==1?'s':''}` : 'Empty';
     if (!tasks.length) { body.innerHTML='<div class="empty">Nothing here yet!</div>'; return; }
-    body.innerHTML = tasks.slice(0,10).map(t=>`<div class="todo-item">
-      <div class="todo-check"></div>
-      <div><div class="todo-text">${t.content||'Task'}</div>${t.due?.string?`<div class="todo-due">Due: ${t.due.string}</div>`:''}</div>
-    </div>`).join('');
+    body.innerHTML = tasks.slice(0,10).map(t=>{
+      const done = crossedOff.has(t.id);
+      return `<div class="todo-item${done?' done':''}" id="todo-item-${t.id}" onclick="toggleTodo('${t.id}',this)">
+        <div class="todo-check"></div>
+        <div><div class="todo-text">${t.content||'Task'}</div>${t.due?.string?`<div class="todo-due">Due: ${t.due.string}</div>`:''}</div>
+      </div>`;
+    }).join('');
   } catch(err) {
     body.innerHTML=`<div class="empty">Could not load tasks.<br><small>${err.message||''}</small></div>`;
   }
