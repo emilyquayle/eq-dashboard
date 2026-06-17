@@ -1,10 +1,26 @@
 {
-  "updated": "2026-06-16T18:00:00Z",
+  "updated": "2026-06-17T01:18:15Z",
   "messages": [
+    {
+      "sender": "support@spothero.com",
+      "subject": "Rate Your Recent Experience",
+      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other dri",
+      "isUnread": true,
+      "date": "2026-06-17T01:00:38Z",
+      "threadId": "19ed318314859731"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "Missed the Weekend Rush?",
+      "snippet": "More markdowns await.",
+      "isUnread": true,
+      "date": "2026-06-17T00:31:08Z",
+      "threadId": "19ed2fd3084cfbb0"
+    },
     {
       "sender": "Fidelity.Investments@mail.fidelity.com",
       "subject": "Unlock a personalized investment strategy for your savings",
-      "snippet": "From Fidelity® Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get your personalized invest",
+      "snippet": "From Fidelity® Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get your personalized in",
       "isUnread": true,
       "date": "2026-06-16T17:48:47Z",
       "threadId": "19ed19b81d401659"
@@ -20,7 +36,7 @@
     {
       "sender": "notify@r.groupon.com",
       "subject": "Action required: log in to keep your Groupon account",
-      "snippet": "GROUPON® Dear Emily, You've been away for more than 9 years. We miss you, yet we understand if returning isn't in the cards.",
+      "snippet": "GROUPON® Dear Emily, You've been away for more than 9 years. We miss you, yet we understand if returning isn't in the ca",
       "isUnread": true,
       "date": "2026-06-16T15:46:08Z",
       "threadId": "19ed11c890eab033"
@@ -34,20 +50,20 @@
       "threadId": "19ed101745a737f1"
     },
     {
+      "sender": "Fidelity.Investments@mail.fidelity.com",
+      "subject": "Don't miss out! Help us serve you better",
+      "snippet": "Your opinion matters view this email in your browser EMILY QUAYLE 1 minute of your time can make a difference You were r",
+      "isUnread": true,
+      "date": "2026-06-16T14:53:11Z",
+      "threadId": "19ed0f857b3bd70b"
+    },
+    {
       "sender": "newsletter@kith.com",
       "subject": "Curated by Kith: Summer Residence",
       "snippet": "Shop swim, accessories, and more seasonal selects.",
       "isUnread": true,
       "date": "2026-06-16T15:01:26Z",
       "threadId": "19ed0f3b7b22745e"
-    },
-    {
-      "sender": "Fidelity.Investments@mail.fidelity.com",
-      "subject": "Don't miss out! Help us serve you better",
-      "snippet": "Your opinion matters view this email in your browser EMILY QUAYLE 1 minute of your time can make a difference You were recen",
-      "isUnread": true,
-      "date": "2026-06-16T14:53:11Z",
-      "threadId": "19ed0f857b3bd70b"
     },
     {
       "sender": "no.reply.alerts@chase.com",
@@ -60,26 +76,10 @@
     {
       "sender": "announcements@jimmyjohns.com",
       "subject": "🔥 $5.99 Favorite sandwich reward 🔥",
-      "snippet": "Redeem today before it's gone! Get the lowest menu prices any time you order directly on Jimmy John's® web or app.",
+      "snippet": "Redeem today before it's gone! Get the lowest menu prices any time you order directly on Jimmy John's® web or app. Toast",
       "isUnread": true,
       "date": "2026-06-16T13:42:07Z",
       "threadId": "19ed0aafc9988b42"
-    },
-    {
-      "sender": "support@spothero.com",
-      "subject": "SpotHero Parking Confirmation - Check Your Parking Pass #125788083",
-      "snippet": "Happy Parking! Reservation Confirmed Rental ID: 125788083 172 W Madison St. - Washington-Madison-Wells (WMW) Garage Tue Jun 1",
-      "isUnread": true,
-      "date": "2026-06-16T12:55:15Z",
-      "threadId": "19ed08019ef369b1"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "50 shades of silver",
-      "snippet": "But first: a simpler, cost-effective way to stay connected — Check out what we Skimm'd for you today June 16, 2026 Subscribe",
-      "isUnread": true,
-      "date": "2026-06-16T11:08:03Z",
-      "threadId": "19ed01e5f5ef83d9"
     }
   ]
 }
