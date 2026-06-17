@@ -1,10 +1,74 @@
 {
-  "updated": "2026-06-17T13:33:41Z",
+  "updated": "2026-06-17T15:07:00Z",
   "messages": [
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "No-cook tzatziki chickpea salad? Yes, please.",
+      "snippet": "Hetty Lui McKinnon's five-star salad is wonderfully cooling. Good morning! Today we have for you: Hetty Lui McKinnon's no-cook",
+      "isUnread": true,
+      "date": "2026-06-17T15:00:59Z",
+      "threadId": "19ed620bbe3ff222"
+    },
+    {
+      "sender": "newsletter@kith.com",
+      "subject": "New In",
+      "snippet": "Essentials, Needles and Fear of God.",
+      "isUnread": true,
+      "date": "2026-06-17T15:00:22Z",
+      "threadId": "19ed619b5914d256"
+    },
+    {
+      "sender": "no-reply@rentcafe.com",
+      "subject": "Roof & Pool Deck Temporary Closure Notice",
+      "snippet": "Dear Residents, Due to the heavy rain and strong winds forecast today, we have closed the 20th floor roof deck and pool area.",
+      "isUnread": false,
+      "date": "2026-06-17T14:50:06Z",
+      "threadId": "19ed60f98226108c"
+    },
+    {
+      "sender": "info@analuisa.com",
+      "subject": "BACK IN STOCK: Viral Blue Marble Earrings",
+      "snippet": "Don't hesitate.",
+      "isUnread": true,
+      "date": "2026-06-17T14:15:10Z",
+      "threadId": "19ed5f4a74050c23"
+    },
+    {
+      "sender": "reserve-noreply@google.com",
+      "subject": "Your reservation at Old Pueblo Cantina is confirmed",
+      "snippet": "Reservation confirmed. 18 Jun - Old Pueblo Cantina. Reservation for 6, Thu 7:30 PM (CDT). 1200 West Webster Avenue.",
+      "isUnread": true,
+      "date": "2026-06-17T13:54:35Z",
+      "threadId": "19ed5dcc4133ea7e"
+    },
+    {
+      "sender": "noreply@resy.com",
+      "subject": "Your reservation at Old Pueblo is confirmed",
+      "snippet": "Reservation booked via Reserve with Google. Old Pueblo Thu, Jun. 18 at 7:30pm, 6 Guests, First Available.",
+      "isUnread": true,
+      "date": "2026-06-17T13:54:32Z",
+      "threadId": "19ed5dcb989aa56f"
+    },
+    {
+      "sender": "SouthwestAirlines@iluv.southwest.com",
+      "subject": "Earn 80,000 bonus points + first checked bag free!",
+      "snippet": "Plus, earn 2X points at gas stations & grocery stores. Hello Emily, 4816 points | RR# 20639339346.",
+      "isUnread": true,
+      "date": "2026-06-17T13:14:35Z",
+      "threadId": "19ed5b824af51395"
+    },
+    {
+      "sender": "announcements@jimmyjohns.com",
+      "subject": "Don't miss out on your $5.99 Favorite Sandwich reward",
+      "snippet": "You deserve a rewarding lunch. Get the lowest menu prices any time you order directly on Jimmy John's web or app.",
+      "isUnread": true,
+      "date": "2026-06-17T13:10:26Z",
+      "threadId": "19ed5b45b60df085"
+    },
     {
       "sender": "stl-bucket-list@mail.beehiiv.com",
       "subject": "The Stories That Shape a City",
-      "snippet": "STL Bucket List Show: Cami Cruz Thomas on Red Brick, Blue Tarp & St. Louis Recovery",
+      "snippet": "STL Bucket List Show: Cami Cruz Thomas on Red Brick, Blue Tarp & St. Louis Recovery.",
       "isUnread": true,
       "date": "2026-06-17T13:01:42Z",
       "threadId": "19ed5ac5b30130d5"
@@ -12,74 +76,10 @@
     {
       "sender": "support@spothero.com",
       "subject": "SpotHero Parking Confirmation - Check Your Parking Pass #125868265",
-      "snippet": "Happy Parking! Reservation Confirmed Rental ID: 125868265 201 W Madison St. - Poetry Garage Wed Jun 17",
+      "snippet": "Reservation Confirmed. 201 W Madison St. - Poetry Garage. Wed Jun 17, 8:00 AM - 7:00 PM. Ford Escape AP99577.",
       "isUnread": true,
       "date": "2026-06-17T12:39:05Z",
       "threadId": "19ed597a40569a1e"
-    },
-    {
-      "sender": "customerservice@jonathanadler.com",
-      "subject": "Pile It On",
-      "snippet": "Longer days are for lounging - make it comfy.",
-      "isUnread": true,
-      "date": "2026-06-17T12:15:17Z",
-      "threadId": "19ed581e0803ed26"
-    },
-    {
-      "sender": "notifications@united.com",
-      "subject": "What to know about your trip to Charleston",
-      "snippet": "Flight itinerary Destination: Charleston Reservation number: B851L4 Departs: June 20, 2026 - it's almost time!",
-      "isUnread": false,
-      "date": "2026-06-17T12:05:51Z",
-      "threadId": "19ed5793cd85716a"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "As American as apple pie",
-      "snippet": "But first: super-soft joggers worth every five-star review — Check out what we Skimm'd for you today June 17, 2026",
-      "isUnread": true,
-      "date": "2026-06-17T10:11:51Z",
-      "threadId": "19ed51112a86d48e"
-    },
-    {
-      "sender": "rtr@account.renttherunway.com",
-      "subject": "Your Shipment is Confirmed",
-      "snippet": "Your shipment is confirmed Order Number 66086518 Estimated Delivery Friday, June 19th",
-      "isUnread": true,
-      "date": "2026-06-17T04:11:25Z",
-      "threadId": "19ed3c6ddc3a95ae"
-    },
-    {
-      "sender": "support@spothero.com",
-      "subject": "Rate Your Recent Experience",
-      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other drivers.",
-      "isUnread": true,
-      "date": "2026-06-17T01:00:38Z",
-      "threadId": "19ed318314859731"
-    },
-    {
-      "sender": "larroude@larroude.com",
-      "subject": "Missed the Weekend Rush?",
-      "snippet": "More markdowns await.",
-      "isUnread": true,
-      "date": "2026-06-17T00:31:08Z",
-      "threadId": "19ed2fd3084cfbb0"
-    },
-    {
-      "sender": "Fidelity.Investments@mail.fidelity.com",
-      "subject": "Unlock a personalized investment strategy for your savings",
-      "snippet": "From Fidelity Personalized Planning & Advice. Login to get your personalized investment strategy for your savings.",
-      "isUnread": true,
-      "date": "2026-06-16T17:48:47Z",
-      "threadId": "19ed19b81d401659"
-    },
-    {
-      "sender": "loyalty@loyalty.ms.aa.com",
-      "subject": "Emily, view your June 2026 account summary",
-      "snippet": "Your monthly AAdvantage® summary",
-      "isUnread": true,
-      "date": "2026-06-16T17:05:29Z",
-      "threadId": "19ed16534f4e0f33"
     }
   ]
 }
