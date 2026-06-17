@@ -1,10 +1,50 @@
 {
-  "updated": "2026-06-17T04:30:00Z",
+  "updated": "2026-06-17T13:33:41Z",
   "messages": [
+    {
+      "sender": "stl-bucket-list@mail.beehiiv.com",
+      "subject": "The Stories That Shape a City",
+      "snippet": "STL Bucket List Show: Cami Cruz Thomas on Red Brick, Blue Tarp & St. Louis Recovery",
+      "isUnread": true,
+      "date": "2026-06-17T13:01:42Z",
+      "threadId": "19ed5ac5b30130d5"
+    },
+    {
+      "sender": "support@spothero.com",
+      "subject": "SpotHero Parking Confirmation - Check Your Parking Pass #125868265",
+      "snippet": "Happy Parking! Reservation Confirmed Rental ID: 125868265 201 W Madison St. - Poetry Garage Wed Jun 17",
+      "isUnread": true,
+      "date": "2026-06-17T12:39:05Z",
+      "threadId": "19ed597a40569a1e"
+    },
+    {
+      "sender": "customerservice@jonathanadler.com",
+      "subject": "Pile It On",
+      "snippet": "Longer days are for lounging - make it comfy.",
+      "isUnread": true,
+      "date": "2026-06-17T12:15:17Z",
+      "threadId": "19ed581e0803ed26"
+    },
+    {
+      "sender": "notifications@united.com",
+      "subject": "What to know about your trip to Charleston",
+      "snippet": "Flight itinerary Destination: Charleston Reservation number: B851L4 Departs: June 20, 2026 - it's almost time!",
+      "isUnread": false,
+      "date": "2026-06-17T12:05:51Z",
+      "threadId": "19ed5793cd85716a"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "As American as apple pie",
+      "snippet": "But first: super-soft joggers worth every five-star review — Check out what we Skimm'd for you today June 17, 2026",
+      "isUnread": true,
+      "date": "2026-06-17T10:11:51Z",
+      "threadId": "19ed51112a86d48e"
+    },
     {
       "sender": "rtr@account.renttherunway.com",
       "subject": "Your Shipment is Confirmed",
-      "snippet": "Your shipment is confirmed Order Number 66086518 Shipping Address Emily Quayle 2345 N Lincoln Ave, APT 508",
+      "snippet": "Your shipment is confirmed Order Number 66086518 Estimated Delivery Friday, June 19th",
       "isUnread": true,
       "date": "2026-06-17T04:11:25Z",
       "threadId": "19ed3c6ddc3a95ae"
@@ -12,7 +52,7 @@
     {
       "sender": "support@spothero.com",
       "subject": "Rate Your Recent Experience",
-      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve.",
+      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other drivers.",
       "isUnread": true,
       "date": "2026-06-17T01:00:38Z",
       "threadId": "19ed318314859731"
@@ -28,7 +68,7 @@
     {
       "sender": "Fidelity.Investments@mail.fidelity.com",
       "subject": "Unlock a personalized investment strategy for your savings",
-      "snippet": "From Fidelity® Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get your",
+      "snippet": "From Fidelity Personalized Planning & Advice. Login to get your personalized investment strategy for your savings.",
       "isUnread": true,
       "date": "2026-06-16T17:48:47Z",
       "threadId": "19ed19b81d401659"
@@ -40,46 +80,6 @@
       "isUnread": true,
       "date": "2026-06-16T17:05:29Z",
       "threadId": "19ed16534f4e0f33"
-    },
-    {
-      "sender": "notify@r.groupon.com",
-      "subject": "Action required: log in to keep your Groupon account",
-      "snippet": "Dear Emily, You've been away for more than 9 years. We miss you. Unless you log in by Sep 16, 2026 your account will be",
-      "isUnread": true,
-      "date": "2026-06-16T15:46:08Z",
-      "threadId": "19ed11c890eab033"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Our best Juneteenth recipes",
-      "snippet": "Strawberry pie, BBQ chicken, coleslaw, red punch and more recipes to celebrate Juneteenth.",
-      "isUnread": true,
-      "date": "2026-06-16T15:05:18Z",
-      "threadId": "19ed101745a737f1"
-    },
-    {
-      "sender": "Fidelity.Investments@mail.fidelity.com",
-      "subject": "Don't miss out! Help us serve you better",
-      "snippet": "Your opinion matters. EMILY QUAYLE 1 minute of your time can make a difference with your Fidelity experience.",
-      "isUnread": true,
-      "date": "2026-06-16T14:53:11Z",
-      "threadId": "19ed0f857b3bd70b"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "Curated by Kith: Summer Residence",
-      "snippet": "Shop swim, accessories, and more seasonal selects.",
-      "isUnread": true,
-      "date": "2026-06-16T15:01:26Z",
-      "threadId": "19ed0f3b7b22745e"
-    },
-    {
-      "sender": "no.reply.alerts@chase.com",
-      "subject": "We've received your Chase Sapphire Preferred Visa payment",
-      "snippet": "This payment has been applied to your account.",
-      "isUnread": true,
-      "date": "2026-06-16T14:10:36Z",
-      "threadId": "19ed0c519fa02c1e"
     }
   ]
 }
