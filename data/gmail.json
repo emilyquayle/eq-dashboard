@@ -1,10 +1,18 @@
 {
-  "updated": "2026-06-17T01:18:15Z",
+  "updated": "2026-06-17T05:01:07Z",
   "messages": [
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "Your Shipment is Confirmed",
+      "snippet": "Your shipment is confirmed Order Number 66086518 Shipping Address Emily Quayle 2345 N Lincoln Ave, APT 508",
+      "isUnread": true,
+      "date": "2026-06-17T04:11:25Z",
+      "threadId": "19ed3c6ddc3a95ae"
+    },
     {
       "sender": "support@spothero.com",
       "subject": "Rate Your Recent Experience",
-      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other dri",
+      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve.",
       "isUnread": true,
       "date": "2026-06-17T01:00:38Z",
       "threadId": "19ed318314859731"
@@ -20,7 +28,7 @@
     {
       "sender": "Fidelity.Investments@mail.fidelity.com",
       "subject": "Unlock a personalized investment strategy for your savings",
-      "snippet": "From Fidelity® Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get your personalized in",
+      "snippet": "From Fidelity® Personalized Planning & Advice. EMILY QUAYLE FACTSET RESEARCH SYSTEMS INC. Login Get your",
       "isUnread": true,
       "date": "2026-06-16T17:48:47Z",
       "threadId": "19ed19b81d401659"
@@ -36,7 +44,7 @@
     {
       "sender": "notify@r.groupon.com",
       "subject": "Action required: log in to keep your Groupon account",
-      "snippet": "GROUPON® Dear Emily, You've been away for more than 9 years. We miss you, yet we understand if returning isn't in the ca",
+      "snippet": "Dear Emily, You've been away for more than 9 years. We miss you. Unless you log in by Sep 16, 2026 your account will be",
       "isUnread": true,
       "date": "2026-06-16T15:46:08Z",
       "threadId": "19ed11c890eab033"
@@ -44,7 +52,7 @@
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "Our best Juneteenth recipes",
-      "snippet": "Strawberry pie, BBQ chicken, coleslaw, red punch and more recipes to celebrate Juneteenth. View in browser|nytimes.com",
+      "snippet": "Strawberry pie, BBQ chicken, coleslaw, red punch and more recipes to celebrate Juneteenth.",
       "isUnread": true,
       "date": "2026-06-16T15:05:18Z",
       "threadId": "19ed101745a737f1"
@@ -52,7 +60,7 @@
     {
       "sender": "Fidelity.Investments@mail.fidelity.com",
       "subject": "Don't miss out! Help us serve you better",
-      "snippet": "Your opinion matters view this email in your browser EMILY QUAYLE 1 minute of your time can make a difference You were r",
+      "snippet": "Your opinion matters. EMILY QUAYLE 1 minute of your time can make a difference with your Fidelity experience.",
       "isUnread": true,
       "date": "2026-06-16T14:53:11Z",
       "threadId": "19ed0f857b3bd70b"
@@ -72,14 +80,6 @@
       "isUnread": true,
       "date": "2026-06-16T14:10:36Z",
       "threadId": "19ed0c519fa02c1e"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "🔥 $5.99 Favorite sandwich reward 🔥",
-      "snippet": "Redeem today before it's gone! Get the lowest menu prices any time you order directly on Jimmy John's® web or app. Toast",
-      "isUnread": true,
-      "date": "2026-06-16T13:42:07Z",
-      "threadId": "19ed0aafc9988b42"
     }
   ]
 }
