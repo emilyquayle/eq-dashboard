@@ -1,85 +1,85 @@
 {
-  "updated": "2026-06-19T13:00:00Z",
+  "updated": "2026-06-19T16:10:00Z",
   "messages": [
     {
-      "sender": "venmo@venmo.com",
-      "subject": "Matt Martensen requests $67.00",
-      "snippet": "Matt Martensen requests $67.00 Old Pueblo See Request Requested by @MattMartensen Requested from @Emily-Quayle",
+      "sender": "service@lincolncommon.com",
+      "subject": "Your key has been picked up",
+      "snippet": "Dear Emily Quayle, Samantha Quayle picked up a key on 06/19/2026. Key access authorization period is between 07/23/2023 and N/A.",
       "isUnread": true,
-      "date": "2026-06-19T12:40:32Z",
-      "threadId": "19edfe5b1ea435f2"
+      "date": "2026-06-19T16:02:23Z",
+      "threadId": "19ee09e7d68bf759"
     },
     {
-      "sender": "no.reply.alerts@chase.com",
-      "subject": "Your credit card statement is available",
-      "snippet": "Statement ready — Chase Credit Card (...5436) Due 07/15/2026. Minimum payment $40.00. Statement balance $2730.88. Auto-pay on.",
+      "sender": "mcinfo@ups.com",
+      "subject": "Your UPS Package was delivered",
+      "snippet": "Your package was delivered. From RTR DFW OUTBOUND 2 Delivered Friday 06/19/2026 10:48 AM. UPS Ground 1Z945F610374988119",
       "isUnread": true,
-      "date": "2026-06-19T10:32:30Z",
-      "threadId": "19edf70806a57326"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Hello, Melt-In-Your-Mouth Tea Cakes 😍",
-      "snippet": "But first: keep the kids entertained — 100% offline — Check out what we Skimm'd for you today June 19, 2026",
-      "isUnread": true,
-      "date": "2026-06-19T10:11:53Z",
-      "threadId": "19edf603cf03bcb2"
-    },
-    {
-      "sender": "noreply@uber.com",
-      "subject": "[Personal] Your Thursday evening trip with Uber",
-      "snippet": "Jun 18, 2026 11:49 PM This is your charge summary. Total $17.85. This is not a payment receipt. It is a charge summary.",
-      "isUnread": true,
-      "date": "2026-06-19T04:56:10Z",
-      "threadId": "19ede3c8bcc9c636"
-    },
-    {
-      "sender": "notifications@mail.creditkarma.com",
-      "subject": "Emily: Update to your credit usage.",
-      "snippet": "See how it impacted your credit.",
-      "isUnread": true,
-      "date": "2026-06-18T17:26:50Z",
-      "threadId": "19ede28296022623"
-    },
-    {
-      "sender": "creuwee@jburroughs.org",
-      "subject": "JBS Alumni Update: June 2026",
-      "snippet": "The latest news from the JBS Alumni Association",
-      "isUnread": true,
-      "date": "2026-06-19T01:00:48Z",
-      "threadId": "19edd653cdd927c7"
-    },
-    {
-      "sender": "support@spothero.com",
-      "subject": "Rate Your Recent Experience",
-      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other drivers.",
-      "isUnread": true,
-      "date": "2026-06-19T01:00:57Z",
-      "threadId": "19edd65348d1e791"
-    },
-    {
-      "sender": "calendar-notification@google.com",
-      "subject": "Notification: Reservation at Old Pueblo Cantina @ Thu Jun 18, 2026 7:30pm (CDT) (Emily Quayle)",
-      "snippet": "Reservation at Old Pueblo Cantina - You have been invited by Emily Quayle to attend an event on Thursday Jun 18, 2026.",
-      "isUnread": true,
-      "date": "2026-06-19T00:00:10Z",
-      "threadId": "19edd2d90f622cc7"
-    },
-    {
-      "sender": "Congressman.Quigley@mail.house.gov",
-      "subject": "Catching Up with Quigley: Week In Review",
-      "snippet": "This week's Catching Up with Quigley is coming to you a day early.",
-      "isUnread": true,
-      "date": "2026-06-18T23:15:17Z",
-      "threadId": "19edd04747b86333"
+      "date": "2026-06-19T15:53:53Z",
+      "threadId": "19ee096b636ed516"
     },
     {
       "sender": "service@lincolncommon.com",
-      "subject": "Your key has been returned",
-      "snippet": "Dear Emily Quayle, A key to your apartment was returned by Emily Quayle on 06/18/2026. View the status of your authorizations.",
+      "subject": "You have a delivery",
+      "snippet": "We received a Laundry Bag delivery from UPS for Emily Quayle today. You can track package history by clicking on the URL below.",
       "isUnread": true,
-      "date": "2026-06-18T23:05:32Z",
-      "threadId": "19edcfb89feaa942"
+      "date": "2026-06-19T15:48:22Z",
+      "threadId": "19ee091a808614f7"
+    },
+    {
+      "sender": "mcinfo@ups.com",
+      "subject": "UPS Update: Package Scheduled for Delivery Today",
+      "snippet": "Your package is arriving today. Estimated Delivery Friday 06/19/2026 between 11:00 AM - 1:00 PM. Ship To 2345 N LINCOLN AVE APT",
+      "isUnread": true,
+      "date": "2026-06-19T15:22:45Z",
+      "threadId": "19ee07a3acc68c25"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Ottolenghi's blueberry, almond and lemon loaf",
+      "snippet": "A beloved snacking cake, with a new video walk-through. The Best of the Week in Cooking — what readers and staff are clicking.",
+      "isUnread": true,
+      "date": "2026-06-19T15:03:01Z",
+      "threadId": "19ee07258ba0845d"
+    },
+    {
+      "sender": "onlinebanking@ealerts.bankofamerica.com",
+      "subject": "Zelle® payment of $72.55 to THE ULTIMATE DRY CLEANING LLC has been sent",
+      "snippet": "Zelle® payment of $72.55 to THE ULTIMATE DRY CLEANING LLC has been sent from account ending in 6914. Confirmation akzgsn28e",
+      "isUnread": true,
+      "date": "2026-06-19T15:03:49Z",
+      "threadId": "19ee068e6d2af6e8"
+    },
+    {
+      "sender": "onlinebanking@ealerts.bankofamerica.com",
+      "subject": "You're ready to start receiving money using your mobile number",
+      "snippet": "You're up and running. Money sent to 314.323.7822 will be deposited to account ending in 6914.",
+      "isUnread": true,
+      "date": "2026-06-19T15:03:15Z",
+      "threadId": "19ee0685d65bc247"
+    },
+    {
+      "sender": "noreply@resy.com",
+      "subject": "Old Pueblo wants your feedback",
+      "snippet": "Thank you for dining at Old Pueblo on June 18. Your feedback about this experience is important to us and will help us continue to improve.",
+      "isUnread": true,
+      "date": "2026-06-19T14:41:40Z",
+      "threadId": "19ee054977af60ab"
+    },
+    {
+      "sender": "info@christopherhouse.org",
+      "subject": "June Update: What's going on Around the House?",
+      "snippet": "A Message from our CEO: PRIDE at Christopher House. As we celebrate Pride Month, creating communities where every person feels seen, valued, and welcomed.",
+      "isUnread": true,
+      "date": "2026-06-19T14:15:17Z",
+      "threadId": "19ee03c7a94184b4"
+    },
+    {
+      "sender": "announcements@jimmyjohns.com",
+      "subject": "Don't forget! BOGO Toasted Sandwiches 🚨",
+      "snippet": "Don't forget to get Dad the deal he deserves. BOGO TOASTED SANDWICHES Promo Code: FAVECHILD. Digital Exclusive.",
+      "isUnread": true,
+      "date": "2026-06-19T13:07:17Z",
+      "threadId": "19edffe31185a07d"
     }
   ]
 }
