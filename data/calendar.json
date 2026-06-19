@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T15:01:47Z",
+  "updated": "2026-06-18T22:59:45Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -599,7 +599,7 @@
       "end": {
         "dateTime": "2026-03-02T10:00:00-06:00"
       },
-      "location": "Northwestern Medical Group OB/GYN, 680 N Lake Shore Dr, Chicago, IL 60611"
+      "location": "Northwestern Medical Group Obstetrics and Gynecology, 680 N Lake Shore Dr, Chicago, IL 60611"
     },
     {
       "id": "_8513ecq174r3cb9p6l0k4b9k6gsjgb9o88s36b9m60ok2ga36gs32ci670",
@@ -921,8 +921,7 @@
       },
       "end": {
         "date": "2026-03-31"
-      },
-      "location": "2345 N Lincoln Ave Apt 508, Chicago, IL 60614"
+      }
     },
     {
       "id": "_750jcdq66533gb9m752j6b9k6cpk2ba26op38ba16kq36e25712kada384",
@@ -1324,7 +1323,7 @@
     },
     {
       "id": "_84s3ad9g6gq30ba68kq42b9k8goj6ba16ook8ba670ok6g9g8kp34dpp64",
-      "summary": "Flight to Charlotte (UA",
+      "summary": "Flight to Charlotte (UA)",
       "start": {
         "dateTime": "2026-04-22T06:55:00-05:00"
       },
@@ -2090,7 +2089,7 @@
       "end": {
         "dateTime": "2026-07-14T18:30:00-05:00"
       },
-      "location": "Wrigley Field"
+      "location": "Wrigley Field, 225 W 34th St, New York, NY 10122"
     },
     {
       "id": "_64rk4e9l6so36b9o8gr38b9k8h1k2ba274pkab9h6ssjce1p70oj8dhh8c",
@@ -2148,12 +2147,12 @@
       "id": "_8ksjed1n60p3ib9j8d0kab9k8h34ab9o8p1kab9i70o4ad248d246gi460",
       "summary": "Flight: UA 1217 from ORD to DEN",
       "start": {
-        "dateTime": "2026-09-10T07:00:00-06:00"
+        "dateTime": "2026-09-10T07:00:00-05:00"
       },
       "end": {
-        "dateTime": "2026-09-10T09:52:00-06:00"
+        "dateTime": "2026-09-10T09:52:00-05:00"
       },
-      "location": "O'Hare International Airport"
+      "location": "O'Hare International Airport, Chicago, IL"
     },
     {
       "id": "j6uku98udake4cas51inu1btqo",
@@ -2170,7 +2169,7 @@
       "id": "_6kskac9k8l330ba484p30b9k64r3ib9o84r32b9h8cok6dq36sr3gda58k",
       "summary": "Flight: UA 675 from DEN to ORD",
       "start": {
-        "dateTime": "2026-09-12T15:50:00-06:00"
+        "dateTime": "2026-09-12T15:50:00-05:00"
       },
       "end": {
         "dateTime": "2026-09-12T18:32:00-05:00"
