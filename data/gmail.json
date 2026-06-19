@@ -1,85 +1,85 @@
 {
-  "updated": "2026-06-17T15:07:00Z",
+  "updated": "2026-06-19T01:09:39Z",
   "messages": [
     {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "No-cook tzatziki chickpea salad? Yes, please.",
-      "snippet": "Hetty Lui McKinnon's five-star salad is wonderfully cooling. Good morning! Today we have for you: Hetty Lui McKinnon's no-cook",
+      "sender": "creuwee@jburroughs.org",
+      "subject": "JBS Alumni Update: June 2026",
+      "snippet": "The latest news from the JBS Alumni Association",
       "isUnread": true,
-      "date": "2026-06-17T15:00:59Z",
-      "threadId": "19ed620bbe3ff222"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "New In",
-      "snippet": "Essentials, Needles and Fear of God.",
-      "isUnread": true,
-      "date": "2026-06-17T15:00:22Z",
-      "threadId": "19ed619b5914d256"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "Roof & Pool Deck Temporary Closure Notice",
-      "snippet": "Dear Residents, Due to the heavy rain and strong winds forecast today, we have closed the 20th floor roof deck and pool area.",
-      "isUnread": false,
-      "date": "2026-06-17T14:50:06Z",
-      "threadId": "19ed60f98226108c"
-    },
-    {
-      "sender": "info@analuisa.com",
-      "subject": "BACK IN STOCK: Viral Blue Marble Earrings",
-      "snippet": "Don't hesitate.",
-      "isUnread": true,
-      "date": "2026-06-17T14:15:10Z",
-      "threadId": "19ed5f4a74050c23"
-    },
-    {
-      "sender": "reserve-noreply@google.com",
-      "subject": "Your reservation at Old Pueblo Cantina is confirmed",
-      "snippet": "Reservation confirmed. 18 Jun - Old Pueblo Cantina. Reservation for 6, Thu 7:30 PM (CDT). 1200 West Webster Avenue.",
-      "isUnread": true,
-      "date": "2026-06-17T13:54:35Z",
-      "threadId": "19ed5dcc4133ea7e"
-    },
-    {
-      "sender": "noreply@resy.com",
-      "subject": "Your reservation at Old Pueblo is confirmed",
-      "snippet": "Reservation booked via Reserve with Google. Old Pueblo Thu, Jun. 18 at 7:30pm, 6 Guests, First Available.",
-      "isUnread": true,
-      "date": "2026-06-17T13:54:32Z",
-      "threadId": "19ed5dcb989aa56f"
-    },
-    {
-      "sender": "SouthwestAirlines@iluv.southwest.com",
-      "subject": "Earn 80,000 bonus points + first checked bag free!",
-      "snippet": "Plus, earn 2X points at gas stations & grocery stores. Hello Emily, 4816 points | RR# 20639339346.",
-      "isUnread": true,
-      "date": "2026-06-17T13:14:35Z",
-      "threadId": "19ed5b824af51395"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "Don't miss out on your $5.99 Favorite Sandwich reward",
-      "snippet": "You deserve a rewarding lunch. Get the lowest menu prices any time you order directly on Jimmy John's web or app.",
-      "isUnread": true,
-      "date": "2026-06-17T13:10:26Z",
-      "threadId": "19ed5b45b60df085"
-    },
-    {
-      "sender": "stl-bucket-list@mail.beehiiv.com",
-      "subject": "The Stories That Shape a City",
-      "snippet": "STL Bucket List Show: Cami Cruz Thomas on Red Brick, Blue Tarp & St. Louis Recovery.",
-      "isUnread": true,
-      "date": "2026-06-17T13:01:42Z",
-      "threadId": "19ed5ac5b30130d5"
+      "date": "2026-06-19T01:00:48Z",
+      "threadId": "19edd653cdd927c7"
     },
     {
       "sender": "support@spothero.com",
-      "subject": "SpotHero Parking Confirmation - Check Your Parking Pass #125868265",
-      "snippet": "Reservation Confirmed. 201 W Madison St. - Poetry Garage. Wed Jun 17, 8:00 AM - 7:00 PM. Ford Escape AP99577.",
+      "subject": "Rate Your Recent Experience",
+      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other driv",
       "isUnread": true,
-      "date": "2026-06-17T12:39:05Z",
-      "threadId": "19ed597a40569a1e"
+      "date": "2026-06-19T01:00:57Z",
+      "threadId": "19edd65348d1e791"
+    },
+    {
+      "sender": "calendar-notification@google.com",
+      "subject": "Notification: Reservation at Old Pueblo Cantina @ Thu Jun 18, 2026 7:30pm (CDT) (Emily Quayle)",
+      "snippet": "Reservation at Old Pueblo Cantina You have been invited by Emily Quayle to attend an event on Thursday Jun 18, 2026 7:30p",
+      "isUnread": true,
+      "date": "2026-06-19T00:00:10Z",
+      "threadId": "19edd2d90f622cc7"
+    },
+    {
+      "sender": "Congressman.Quigley@mail.house.gov",
+      "subject": "Catching Up with Quigley: Week In Review",
+      "snippet": "This week's Catching Up with Quigley is coming to you a day early.",
+      "isUnread": true,
+      "date": "2026-06-18T23:15:17Z",
+      "threadId": "19edd04747b86333"
+    },
+    {
+      "sender": "service@lincolncommon.com",
+      "subject": "Your key has been returned",
+      "snippet": "Dear Emily Quayle, A key to your apartment was returned by Emily Quayle on 06/18/2026. If you would like to view the stat",
+      "isUnread": true,
+      "date": "2026-06-18T23:05:32Z",
+      "threadId": "19edcfb89feaa942"
+    },
+    {
+      "sender": "rtr@hello.renttherunway.com",
+      "subject": "A note from HR",
+      "snippet": "Heat-friendly workwear that won't get you in trouble",
+      "isUnread": true,
+      "date": "2026-06-18T22:11:32Z",
+      "threadId": "19edcca1a5e3d6bd"
+    },
+    {
+      "sender": "hello@noreply.waxcenter.com",
+      "subject": "We've Updated Our Reservation Policy",
+      "snippet": "Your upcoming reservation may be subject to updated terms.",
+      "isUnread": true,
+      "date": "2026-06-18T22:03:29Z",
+      "threadId": "19edcc320a02d339"
+    },
+    {
+      "sender": "Hello@maggieandherdads.com",
+      "subject": "A shipment from order #1073 has been delivered",
+      "snippet": "Order #1073 Your order has been delivered. Haven't received your package yet? Let us know. View your order or Visit our s",
+      "isUnread": true,
+      "date": "2026-06-18T21:08:24Z",
+      "threadId": "19edc904efd9b285"
+    },
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "We're waiting on your returns",
+      "snippet": "Be sure to drop them off as soon as possible. Hi there, it's time to return! Please return your shipment by Thursday, Jun",
+      "isUnread": true,
+      "date": "2026-06-18T21:05:57Z",
+      "threadId": "19edc8e0e156530c"
+    },
+    {
+      "sender": "contact@email.paramountplus.com",
+      "subject": "Check out the latest on Paramount+!",
+      "snippet": "Stream All The Queen's Men, The Chi and more. Paramount+ Hi, Emily ORIGINALS | COMEDIES | MOVIES | KIDS | NEWS | LIVE TV",
+      "isUnread": true,
+      "date": "2026-06-18T20:55:37Z",
+      "threadId": "19edc865d7373d54"
     }
   ]
 }
