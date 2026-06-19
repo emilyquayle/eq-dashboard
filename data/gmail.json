@@ -1,10 +1,26 @@
 {
-  "updated": "2026-06-19T16:10:00Z",
+  "updated": "2026-06-19T19:15:00Z",
   "messages": [
     {
       "sender": "service@lincolncommon.com",
+      "subject": "Your key has been returned",
+      "snippet": "Dear Emily Quayle, A key to your apartment was returned by Samantha Quayle on 06/19/2026.",
+      "isUnread": true,
+      "date": "2026-06-19T19:13:55Z",
+      "threadId": "19ee14dd6d653ac2"
+    },
+    {
+      "sender": "NO-REPLY@nm.org",
+      "subject": "New Billing Statement Available",
+      "snippet": "A new billing statement is available. Amount Due: $100.00. Sign in to your MyNM account to view and pay.",
+      "isUnread": true,
+      "date": "2026-06-19T18:29:09Z",
+      "threadId": "19ee124df66a3e4f"
+    },
+    {
+      "sender": "service@lincolncommon.com",
       "subject": "Your key has been picked up",
-      "snippet": "Dear Emily Quayle, Samantha Quayle picked up a key on 06/19/2026. Key access authorization period is between 07/23/2023 and N/A.",
+      "snippet": "Dear Emily Quayle, Samantha Quayle picked up a key on 06/19/2026. Key access authorized.",
       "isUnread": true,
       "date": "2026-06-19T16:02:23Z",
       "threadId": "19ee09e7d68bf759"
@@ -12,7 +28,7 @@
     {
       "sender": "mcinfo@ups.com",
       "subject": "Your UPS Package was delivered",
-      "snippet": "Your package was delivered. From RTR DFW OUTBOUND 2 Delivered Friday 06/19/2026 10:48 AM. UPS Ground 1Z945F610374988119",
+      "snippet": "Your package was delivered from RTR DFW OUTBOUND 2. Delivered Friday 06/19/2026 10:48 AM. UPS Ground 1Z945F610374988119.",
       "isUnread": true,
       "date": "2026-06-19T15:53:53Z",
       "threadId": "19ee096b636ed516"
@@ -20,7 +36,7 @@
     {
       "sender": "service@lincolncommon.com",
       "subject": "You have a delivery",
-      "snippet": "We received a Laundry Bag delivery from UPS for Emily Quayle today. You can track package history by clicking on the URL below.",
+      "snippet": "We received a Laundry Bag delivery from UPS for Emily Quayle today.",
       "isUnread": true,
       "date": "2026-06-19T15:48:22Z",
       "threadId": "19ee091a808614f7"
@@ -28,7 +44,7 @@
     {
       "sender": "mcinfo@ups.com",
       "subject": "UPS Update: Package Scheduled for Delivery Today",
-      "snippet": "Your package is arriving today. Estimated Delivery Friday 06/19/2026 between 11:00 AM - 1:00 PM. Ship To 2345 N LINCOLN AVE APT",
+      "snippet": "Your package is arriving today from RTR DFW OUTBOUND 2. Estimated Delivery Friday 06/19/2026 between 11:00 AM - 1:00 PM.",
       "isUnread": true,
       "date": "2026-06-19T15:22:45Z",
       "threadId": "19ee07a3acc68c25"
@@ -36,7 +52,7 @@
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "Ottolenghi's blueberry, almond and lemon loaf",
-      "snippet": "A beloved snacking cake, with a new video walk-through. The Best of the Week in Cooking — what readers and staff are clicking.",
+      "snippet": "A beloved snacking cake, with a new video walk-through. The Best of the Week in Cooking — what readers and staff are clicking on.",
       "isUnread": true,
       "date": "2026-06-19T15:03:01Z",
       "threadId": "19ee07258ba0845d"
@@ -44,7 +60,7 @@
     {
       "sender": "onlinebanking@ealerts.bankofamerica.com",
       "subject": "Zelle® payment of $72.55 to THE ULTIMATE DRY CLEANING LLC has been sent",
-      "snippet": "Zelle® payment of $72.55 to THE ULTIMATE DRY CLEANING LLC has been sent from account ending in 6914. Confirmation akzgsn28e",
+      "snippet": "Zelle® payment of $72.55 to THE ULTIMATE DRY CLEANING LLC has been sent from account ending in 6914.",
       "isUnread": true,
       "date": "2026-06-19T15:03:49Z",
       "threadId": "19ee068e6d2af6e8"
@@ -60,26 +76,10 @@
     {
       "sender": "noreply@resy.com",
       "subject": "Old Pueblo wants your feedback",
-      "snippet": "Thank you for dining at Old Pueblo on June 18. Your feedback about this experience is important to us and will help us continue to improve.",
+      "snippet": "Thank you for dining at Old Pueblo on June 18. Your feedback about this experience is important to us.",
       "isUnread": true,
       "date": "2026-06-19T14:41:40Z",
       "threadId": "19ee054977af60ab"
-    },
-    {
-      "sender": "info@christopherhouse.org",
-      "subject": "June Update: What's going on Around the House?",
-      "snippet": "A Message from our CEO: PRIDE at Christopher House. As we celebrate Pride Month, creating communities where every person feels seen, valued, and welcomed.",
-      "isUnread": true,
-      "date": "2026-06-19T14:15:17Z",
-      "threadId": "19ee03c7a94184b4"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "Don't forget! BOGO Toasted Sandwiches 🚨",
-      "snippet": "Don't forget to get Dad the deal he deserves. BOGO TOASTED SANDWICHES Promo Code: FAVECHILD. Digital Exclusive.",
-      "isUnread": true,
-      "date": "2026-06-19T13:07:17Z",
-      "threadId": "19edffe31185a07d"
     }
   ]
 }
