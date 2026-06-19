@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T13:58:40Z",
+  "updated": "2026-06-19T22:33:38Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -397,7 +397,7 @@
       "location": "Steamboat Springs HDN"
     },
     {
-      "id": "_6sokedq36h13cb9g6p336b9k8d0kcb9p88sj8b9k6sok4hi46srk6h9m84",
+      "id": "_6sojedq36h13cb9g6p336b9k8d0kcb9p88sj8b9k6sok4hi46srk6h9m84",
       "summary": "Super Bowl Seahawks vs. Patriots",
       "start": {
         "dateTime": "2026-02-08T17:30:00-06:00"
@@ -1033,16 +1033,6 @@
       "location": "Omakase Box, 3038 W Armitage Ave, Chicago, IL 60647"
     },
     {
-      "id": "20260406_egt1hslergcgifs4s2d8brbu10",
-      "summary": "Easter Monday",
-      "start": {
-        "date": "2026-04-06"
-      },
-      "end": {
-        "date": "2026-04-07"
-      }
-    },
-    {
       "id": "_6ks48cq38or4cba18913eb9k6sr48b9o74rk2ba36gqk8g9p8cpj2d1k88",
       "summary": "Minneapolis",
       "start": {
@@ -1061,7 +1051,17 @@
       "end": {
         "date": "2026-04-08"
       },
-      "location": "The Westin Minneapolis"
+      "location": "The Westin Minneapolis, Minneapolis"
+    },
+    {
+      "id": "20260406_egt1hslergcgifs4s2d8brbu10",
+      "summary": "Easter Monday",
+      "start": {
+        "date": "2026-04-06"
+      },
+      "end": {
+        "date": "2026-04-07"
+      }
     },
     {
       "id": "_8osjid9j8oo3eb9j88rj0b9k70qkaba28osj4ba38l232ga66csjegpo6g",
@@ -1310,7 +1310,7 @@
       "end": {
         "date": "2026-04-24"
       },
-      "location": "Charlotte"
+      "location": "Le M\u00e9ridien Charlotte, Charlotte"
     },
     {
       "id": "_69246gq5751jeba174r4cb9k60o30ba16ksjgb9j6l136e9o88pjecpk6k",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "_84s3ad9g6gq30ba68kq42b9k8goj6ba16ook8ba670ok6g9g8kp34dpp64",
-      "summary": "Flight to Charlotte",
+      "summary": "Flight to Charlotte (UA)",
       "start": {
         "dateTime": "2026-04-22T06:55:00-05:00"
       },
@@ -1794,7 +1794,8 @@
       },
       "end": {
         "date": "2026-06-11"
-      }
+      },
+      "location": "Hyatt Grand Central New York"
     },
     {
       "id": "vhdavep6cb1a2c6g40uhnm13qk",
@@ -1848,7 +1849,7 @@
       "end": {
         "dateTime": "2026-06-10T22:55:00-05:00"
       },
-      "location": "New York LGA"
+      "location": "Nyc LGA"
     },
     {
       "id": "csp61jtcfp3vqve53lgc3lkdd0",
@@ -1870,7 +1871,7 @@
       "end": {
         "dateTime": "2026-06-11T10:45:00-05:00"
       },
-      "location": "New York LGA"
+      "location": "Nyc LGA"
     },
     {
       "id": "jsj1rno609ml0vrca11bocita4",
@@ -2041,8 +2042,8 @@
       "location": "Charleston CHS"
     },
     {
-      "id": "20260703_0g574fqg66vqoj9oh0f90s6fng",
-      "summary": "Independence Day (substitute)",
+      "id": "_712jce9m6cpjaba58os3cb9k88s36b9p891k2b9p74q3id228gr3cdhk6o",
+      "summary": "OOO",
       "start": {
         "date": "2026-07-03"
       },
@@ -2051,8 +2052,8 @@
       }
     },
     {
-      "id": "_712jce9m6cpjaba58os3cb9k88s36b9p891k2b9p74q3id228gr3cdhk6o",
-      "summary": "OOO",
+      "id": "20260703_0g574fqg66vqoj9oh0f90s6fng",
+      "summary": "Independence Day (substitute)",
       "start": {
         "date": "2026-07-03"
       },
@@ -2090,7 +2091,7 @@
       "end": {
         "dateTime": "2026-07-14T18:30:00-05:00"
       },
-      "location": "Wrigley Field"
+      "location": "Wrigley Field, 225 W 34th St, New York, NY 10122"
     },
     {
       "id": "_64rk4e9l6so36b9o8gr38b9k8h1k2ba274pkab9h6ssjce1p70oj8dhh8c",
@@ -2151,9 +2152,9 @@
         "dateTime": "2026-09-10T07:00:00-05:00"
       },
       "end": {
-        "dateTime": "2026-09-10T09:52:00-06:00"
+        "dateTime": "2026-09-10T09:52:00-05:00"
       },
-      "location": "O'Hare International Airport, Chicago, IL"
+      "location": "O'Hare International Airport"
     },
     {
       "id": "j6uku98udake4cas51inu1btqo",
@@ -2170,7 +2171,7 @@
       "id": "_6kskac9k8l330ba484p30b9k64r3ib9o84r32b9h8cok6dq36sr3gda58k",
       "summary": "Flight: UA 675 from DEN to ORD",
       "start": {
-        "dateTime": "2026-09-12T15:50:00-06:00"
+        "dateTime": "2026-09-12T15:50:00-05:00"
       },
       "end": {
         "dateTime": "2026-09-12T18:32:00-05:00"
@@ -2200,7 +2201,7 @@
     },
     {
       "id": "u8i2r3f6j045ompvog3m84ru8g",
-      "summary": "Stay at Boardwalk Boutique Hotel Aruba",
+      "summary": "Stay at Boardwalk Boutique Hotel Aruba - Adults Only",
       "start": {
         "date": "2026-10-08"
       },
