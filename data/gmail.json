@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-19T09:08:48Z",
+  "updated": "2026-06-19T13:00:00Z",
   "messages": [
+    {
+      "sender": "venmo@venmo.com",
+      "subject": "Matt Martensen requests $67.00",
+      "snippet": "Matt Martensen requests $67.00 Old Pueblo See Request Requested by @MattMartensen Requested from @Emily-Quayle",
+      "isUnread": true,
+      "date": "2026-06-19T12:40:32Z",
+      "threadId": "19edfe5b1ea435f2"
+    },
+    {
+      "sender": "no.reply.alerts@chase.com",
+      "subject": "Your credit card statement is available",
+      "snippet": "Statement ready — Chase Credit Card (...5436) Due 07/15/2026. Minimum payment $40.00. Statement balance $2730.88. Auto-pay on.",
+      "isUnread": true,
+      "date": "2026-06-19T10:32:30Z",
+      "threadId": "19edf70806a57326"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Hello, Melt-In-Your-Mouth Tea Cakes 😍",
+      "snippet": "But first: keep the kids entertained — 100% offline — Check out what we Skimm'd for you today June 19, 2026",
+      "isUnread": true,
+      "date": "2026-06-19T10:11:53Z",
+      "threadId": "19edf603cf03bcb2"
+    },
     {
       "sender": "noreply@uber.com",
       "subject": "[Personal] Your Thursday evening trip with Uber",
@@ -56,30 +80,6 @@
       "isUnread": true,
       "date": "2026-06-18T23:05:32Z",
       "threadId": "19edcfb89feaa942"
-    },
-    {
-      "sender": "rtr@hello.renttherunway.com",
-      "subject": "A note from HR",
-      "snippet": "Heat-friendly workwear that won't get you in trouble",
-      "isUnread": true,
-      "date": "2026-06-18T22:11:32Z",
-      "threadId": "19edcca1a5e3d6bd"
-    },
-    {
-      "sender": "hello@noreply.waxcenter.com",
-      "subject": "We've Updated Our Reservation Policy",
-      "snippet": "Your upcoming reservation may be subject to updated terms.",
-      "isUnread": true,
-      "date": "2026-06-18T22:03:29Z",
-      "threadId": "19edcc320a02d339"
-    },
-    {
-      "sender": "Hello@maggieandherdads.com",
-      "subject": "A shipment from order #1073 has been delivered",
-      "snippet": "Order #1073 Your order has been delivered. Haven't received your package yet? Let us know. View your order or visit our store.",
-      "isUnread": true,
-      "date": "2026-06-18T21:08:24Z",
-      "threadId": "19edc904efd9b285"
     }
   ]
 }
