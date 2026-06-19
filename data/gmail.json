@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-19T01:09:39Z",
+  "updated": "2026-06-19T09:08:48Z",
   "messages": [
+    {
+      "sender": "noreply@uber.com",
+      "subject": "[Personal] Your Thursday evening trip with Uber",
+      "snippet": "Jun 18, 2026 11:49 PM This is your charge summary. Total $17.85. This is not a payment receipt. It is a charge summary.",
+      "isUnread": true,
+      "date": "2026-06-19T04:56:10Z",
+      "threadId": "19ede3c8bcc9c636"
+    },
+    {
+      "sender": "notifications@mail.creditkarma.com",
+      "subject": "Emily: Update to your credit usage.",
+      "snippet": "See how it impacted your credit.",
+      "isUnread": true,
+      "date": "2026-06-18T17:26:50Z",
+      "threadId": "19ede28296022623"
+    },
     {
       "sender": "creuwee@jburroughs.org",
       "subject": "JBS Alumni Update: June 2026",
@@ -12,7 +28,7 @@
     {
       "sender": "support@spothero.com",
       "subject": "Rate Your Recent Experience",
-      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other driv",
+      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other drivers.",
       "isUnread": true,
       "date": "2026-06-19T01:00:57Z",
       "threadId": "19edd65348d1e791"
@@ -20,7 +36,7 @@
     {
       "sender": "calendar-notification@google.com",
       "subject": "Notification: Reservation at Old Pueblo Cantina @ Thu Jun 18, 2026 7:30pm (CDT) (Emily Quayle)",
-      "snippet": "Reservation at Old Pueblo Cantina You have been invited by Emily Quayle to attend an event on Thursday Jun 18, 2026 7:30p",
+      "snippet": "Reservation at Old Pueblo Cantina - You have been invited by Emily Quayle to attend an event on Thursday Jun 18, 2026.",
       "isUnread": true,
       "date": "2026-06-19T00:00:10Z",
       "threadId": "19edd2d90f622cc7"
@@ -36,7 +52,7 @@
     {
       "sender": "service@lincolncommon.com",
       "subject": "Your key has been returned",
-      "snippet": "Dear Emily Quayle, A key to your apartment was returned by Emily Quayle on 06/18/2026. If you would like to view the stat",
+      "snippet": "Dear Emily Quayle, A key to your apartment was returned by Emily Quayle on 06/18/2026. View the status of your authorizations.",
       "isUnread": true,
       "date": "2026-06-18T23:05:32Z",
       "threadId": "19edcfb89feaa942"
@@ -60,26 +76,10 @@
     {
       "sender": "Hello@maggieandherdads.com",
       "subject": "A shipment from order #1073 has been delivered",
-      "snippet": "Order #1073 Your order has been delivered. Haven't received your package yet? Let us know. View your order or Visit our s",
+      "snippet": "Order #1073 Your order has been delivered. Haven't received your package yet? Let us know. View your order or visit our store.",
       "isUnread": true,
       "date": "2026-06-18T21:08:24Z",
       "threadId": "19edc904efd9b285"
-    },
-    {
-      "sender": "rtr@account.renttherunway.com",
-      "subject": "We're waiting on your returns",
-      "snippet": "Be sure to drop them off as soon as possible. Hi there, it's time to return! Please return your shipment by Thursday, Jun",
-      "isUnread": true,
-      "date": "2026-06-18T21:05:57Z",
-      "threadId": "19edc8e0e156530c"
-    },
-    {
-      "sender": "contact@email.paramountplus.com",
-      "subject": "Check out the latest on Paramount+!",
-      "snippet": "Stream All The Queen's Men, The Chi and more. Paramount+ Hi, Emily ORIGINALS | COMEDIES | MOVIES | KIDS | NEWS | LIVE TV",
-      "isUnread": true,
-      "date": "2026-06-18T20:55:37Z",
-      "threadId": "19edc865d7373d54"
     }
   ]
 }
