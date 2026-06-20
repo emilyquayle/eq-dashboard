@@ -1,10 +1,50 @@
 {
-  "updated": "2026-06-19T19:15:00Z",
+  "updated": "2026-06-20T01:04:08Z",
   "messages": [
+    {
+      "sender": "calendar-notification@google.com",
+      "subject": "Notification: Reservation at SUSHI-SAN - Lincoln Park @ Fri Jun 19, 2026 7:15pm (CDT) (Emily Quayle)",
+      "snippet": "You have been invited by Emily Quayle to attend an event named Reservation at SUSHI-SAN - Lincoln Park on Friday Jun 19, 2026 at 7:15pm (Central Time - Chicago).",
+      "isUnread": true,
+      "date": "2026-06-19T23:47:03Z",
+      "threadId": "19ee247e70d13ce0"
+    },
+    {
+      "sender": "no-reply@opentable.com",
+      "subject": "Your reservation confirmation for SUSHI-SAN - Lincoln Park",
+      "snippet": "[Reservation confirmed] Thanks for using OpenTable!",
+      "isUnread": true,
+      "date": "2026-06-19T23:46:45Z",
+      "threadId": "19ee247aaaf243cd"
+    },
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "Your returns are on the move!",
+      "snippet": "You're all set | Rent the Runway gives you access to thousands of designer styles for less than the price of one.",
+      "isUnread": true,
+      "date": "2026-06-19T21:33:50Z",
+      "threadId": "19ee1cdf0026f3bc"
+    },
+    {
+      "sender": "noreply@email.openai.com",
+      "subject": "Action Required: Important security update for OpenAI macOS apps",
+      "snippet": "Please update any OpenAI macOS apps before June 26, 2026 to avoid disruption of access.",
+      "isUnread": true,
+      "date": "2026-06-19T21:29:54Z",
+      "threadId": "19ee1ca5cb3abcdf"
+    },
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "We're waiting on your returns",
+      "snippet": "Be sure to drop them off today. Your items were due by Thursday, June 18th. We're still missing your returns. Return the items you have at home ASAP.",
+      "isUnread": true,
+      "date": "2026-06-19T21:08:42Z",
+      "threadId": "19ee1954cf6813b2"
+    },
     {
       "sender": "service@lincolncommon.com",
       "subject": "Your key has been returned",
-      "snippet": "Dear Emily Quayle, A key to your apartment was returned by Samantha Quayle on 06/19/2026.",
+      "snippet": "A key to your apartment was returned by Samantha Quayle on 06/19/2026.",
       "isUnread": true,
       "date": "2026-06-19T19:13:55Z",
       "threadId": "19ee14dd6d653ac2"
@@ -12,7 +52,7 @@
     {
       "sender": "NO-REPLY@nm.org",
       "subject": "New Billing Statement Available",
-      "snippet": "A new billing statement is available. Amount Due: $100.00. Sign in to your MyNM account to view and pay.",
+      "snippet": "Hello Emily, A new billing statement is available. Amount Due: $100.00. Sign in to your MyNM account to view the statement and make a payment.",
       "isUnread": true,
       "date": "2026-06-19T18:29:09Z",
       "threadId": "19ee124df66a3e4f"
@@ -20,7 +60,7 @@
     {
       "sender": "service@lincolncommon.com",
       "subject": "Your key has been picked up",
-      "snippet": "Dear Emily Quayle, Samantha Quayle picked up a key on 06/19/2026. Key access authorized.",
+      "snippet": "Samantha Quayle picked up a key on 06/19/2026. Key access is authorized between 07/23/2023 and N/A.",
       "isUnread": true,
       "date": "2026-06-19T16:02:23Z",
       "threadId": "19ee09e7d68bf759"
@@ -28,7 +68,7 @@
     {
       "sender": "mcinfo@ups.com",
       "subject": "Your UPS Package was delivered",
-      "snippet": "Your package was delivered from RTR DFW OUTBOUND 2. Delivered Friday 06/19/2026 10:48 AM. UPS Ground 1Z945F610374988119.",
+      "snippet": "Your package was delivered. From RTR DFW OUTBOUND 2. Delivered Friday 06/19/2026 10:48 AM. UPS Ground 1Z945F610374988119.",
       "isUnread": true,
       "date": "2026-06-19T15:53:53Z",
       "threadId": "19ee096b636ed516"
@@ -40,46 +80,6 @@
       "isUnread": true,
       "date": "2026-06-19T15:48:22Z",
       "threadId": "19ee091a808614f7"
-    },
-    {
-      "sender": "mcinfo@ups.com",
-      "subject": "UPS Update: Package Scheduled for Delivery Today",
-      "snippet": "Your package is arriving today from RTR DFW OUTBOUND 2. Estimated Delivery Friday 06/19/2026 between 11:00 AM - 1:00 PM.",
-      "isUnread": true,
-      "date": "2026-06-19T15:22:45Z",
-      "threadId": "19ee07a3acc68c25"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Ottolenghi's blueberry, almond and lemon loaf",
-      "snippet": "A beloved snacking cake, with a new video walk-through. The Best of the Week in Cooking — what readers and staff are clicking on.",
-      "isUnread": true,
-      "date": "2026-06-19T15:03:01Z",
-      "threadId": "19ee07258ba0845d"
-    },
-    {
-      "sender": "onlinebanking@ealerts.bankofamerica.com",
-      "subject": "Zelle® payment of $72.55 to THE ULTIMATE DRY CLEANING LLC has been sent",
-      "snippet": "Zelle® payment of $72.55 to THE ULTIMATE DRY CLEANING LLC has been sent from account ending in 6914.",
-      "isUnread": true,
-      "date": "2026-06-19T15:03:49Z",
-      "threadId": "19ee068e6d2af6e8"
-    },
-    {
-      "sender": "onlinebanking@ealerts.bankofamerica.com",
-      "subject": "You're ready to start receiving money using your mobile number",
-      "snippet": "You're up and running. Money sent to 314.323.7822 will be deposited to account ending in 6914.",
-      "isUnread": true,
-      "date": "2026-06-19T15:03:15Z",
-      "threadId": "19ee0685d65bc247"
-    },
-    {
-      "sender": "noreply@resy.com",
-      "subject": "Old Pueblo wants your feedback",
-      "snippet": "Thank you for dining at Old Pueblo on June 18. Your feedback about this experience is important to us.",
-      "isUnread": true,
-      "date": "2026-06-19T14:41:40Z",
-      "threadId": "19ee054977af60ab"
     }
   ]
 }
