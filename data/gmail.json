@@ -1,85 +1,85 @@
 {
-  "updated": "2026-06-20T01:04:08Z",
+  "updated": "2026-06-26T18:50:00Z",
   "messages": [
     {
-      "sender": "calendar-notification@google.com",
-      "subject": "Notification: Reservation at SUSHI-SAN - Lincoln Park @ Fri Jun 19, 2026 7:15pm (CDT) (Emily Quayle)",
-      "snippet": "You have been invited by Emily Quayle to attend an event named Reservation at SUSHI-SAN - Lincoln Park on Friday Jun 19, 2026 at 7:15pm (Central Time - Chicago).",
-      "isUnread": true,
-      "date": "2026-06-19T23:47:03Z",
-      "threadId": "19ee247e70d13ce0"
-    },
-    {
-      "sender": "no-reply@opentable.com",
-      "subject": "Your reservation confirmation for SUSHI-SAN - Lincoln Park",
-      "snippet": "[Reservation confirmed] Thanks for using OpenTable!",
-      "isUnread": true,
-      "date": "2026-06-19T23:46:45Z",
-      "threadId": "19ee247aaaf243cd"
-    },
-    {
-      "sender": "rtr@account.renttherunway.com",
-      "subject": "Your returns are on the move!",
-      "snippet": "You're all set | Rent the Runway gives you access to thousands of designer styles for less than the price of one.",
-      "isUnread": true,
-      "date": "2026-06-19T21:33:50Z",
-      "threadId": "19ee1cdf0026f3bc"
-    },
-    {
-      "sender": "noreply@email.openai.com",
-      "subject": "Action Required: Important security update for OpenAI macOS apps",
-      "snippet": "Please update any OpenAI macOS apps before June 26, 2026 to avoid disruption of access.",
-      "isUnread": true,
-      "date": "2026-06-19T21:29:54Z",
-      "threadId": "19ee1ca5cb3abcdf"
-    },
-    {
-      "sender": "rtr@account.renttherunway.com",
-      "subject": "We're waiting on your returns",
-      "snippet": "Be sure to drop them off today. Your items were due by Thursday, June 18th. We're still missing your returns. Return the items you have at home ASAP.",
-      "isUnread": true,
-      "date": "2026-06-19T21:08:42Z",
-      "threadId": "19ee1954cf6813b2"
-    },
-    {
       "sender": "service@lincolncommon.com",
-      "subject": "Your key has been returned",
-      "snippet": "A key to your apartment was returned by Samantha Quayle on 06/19/2026.",
+      "subject": "Your delivery has been picked up",
+      "snippet": "Dear Emily Quayle, The items which were dropped off at property The Apartments Lincoln Common were picked up by Emily Quayle",
       "isUnread": true,
-      "date": "2026-06-19T19:13:55Z",
-      "threadId": "19ee14dd6d653ac2"
+      "date": "2026-06-26T18:41:57Z",
+      "threadId": "19f053d17f50c942"
     },
     {
-      "sender": "NO-REPLY@nm.org",
-      "subject": "New Billing Statement Available",
-      "snippet": "Hello Emily, A new billing statement is available. Amount Due: $100.00. Sign in to your MyNM account to view the statement and make a payment.",
+      "sender": "noreply@uber.com",
+      "subject": "[Personal] Your Friday afternoon trip with Uber",
+      "snippet": "Jun 26, 2026 12:54 PM This is your charge summary This document acknowledges your trip completion. Total $58.70",
       "isUnread": true,
-      "date": "2026-06-19T18:29:09Z",
-      "threadId": "19ee124df66a3e4f"
+      "date": "2026-06-26T18:40:52Z",
+      "threadId": "19f053c1ba8191a0"
     },
     {
-      "sender": "service@lincolncommon.com",
-      "subject": "Your key has been picked up",
-      "snippet": "Samantha Quayle picked up a key on 06/19/2026. Key access is authorized between 07/23/2023 and N/A.",
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Weekend: Dressing \"Wrong\" Feels So Right 😈",
+      "snippet": "But first: cute clothes that won't show sweat stains — Check out what we Skimm'd for you today June 26, 2026",
       "isUnread": true,
-      "date": "2026-06-19T16:02:23Z",
-      "threadId": "19ee09e7d68bf759"
+      "date": "2026-06-26T17:01:00Z",
+      "threadId": "19f04e114f577c21"
     },
     {
-      "sender": "mcinfo@ups.com",
-      "subject": "Your UPS Package was delivered",
-      "snippet": "Your package was delivered. From RTR DFW OUTBOUND 2. Delivered Friday 06/19/2026 10:48 AM. UPS Ground 1Z945F610374988119.",
+      "sender": "noreply@zara.com",
+      "subject": "Part of your order was delivered",
+      "snippet": "PART OF YOUR ORDER HAS BEEN DELIVERED ORDER Nº 54356371395 Thanks again for your purchase! Express home shipping 2345 North Lincoln",
+      "isUnread": false,
+      "date": "2026-06-26T16:34:22Z",
+      "threadId": "19f04c84bcf43931"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: John Bolton pleads guilty in classified information case",
+      "snippet": "The former Trump adviser's case is tied to a book that excoriated President Trump.",
       "isUnread": true,
-      "date": "2026-06-19T15:53:53Z",
-      "threadId": "19ee096b636ed516"
+      "date": "2026-06-26T16:16:48Z",
+      "threadId": "19f04b846815bb16"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "Pick Your Pair, Starting At $95",
+      "snippet": "Sandals, heels, flats, sneakers — start wherever you like.",
+      "isUnread": true,
+      "date": "2026-06-26T16:00:45Z",
+      "threadId": "19f04a987e6d4f01"
     },
     {
       "sender": "service@lincolncommon.com",
       "subject": "You have a delivery",
-      "snippet": "We received a Laundry Bag delivery from UPS for Emily Quayle today.",
+      "snippet": "Dear Emily Quayle, We received a Box delivery from Fedex for Emily Quayle today. You can track package history by clicking the link.",
       "isUnread": true,
-      "date": "2026-06-19T15:48:22Z",
-      "threadId": "19ee091a808614f7"
+      "date": "2026-06-26T15:18:49Z",
+      "threadId": "19f04831f34ad770"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "This popular chicken salad is creamy without mayo",
+      "snippet": "Andy Baraghani's cashew chicken salad is a textural dream.",
+      "isUnread": true,
+      "date": "2026-06-26T15:01:38Z",
+      "threadId": "19f0477b15703780"
+    },
+    {
+      "sender": "customer_support@email.ticketmaster.com",
+      "subject": "You Got Tickets To Dylan Gossett - Live In Concert",
+      "snippet": "The countdown to your event starts now. Save this info for your records. Order # 37-19843/CH1",
+      "isUnread": false,
+      "date": "2026-06-26T15:06:16Z",
+      "threadId": "19f0477a6d88fe2b"
+    },
+    {
+      "sender": "customerservice@emcom.bankofamerica.com",
+      "subject": "EMILY, help prevent fraud before it happens",
+      "snippet": "Our standard security already helps protect your account. Enable more features for added account protection against fraud.",
+      "isUnread": true,
+      "date": "2026-06-26T14:39:36Z",
+      "threadId": "19f045fd8fbfd360"
     }
   ]
 }
