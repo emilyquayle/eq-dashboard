@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T22:33:38Z",
+  "updated": "2026-06-29T20:34:29Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -398,7 +398,7 @@
     },
     {
       "id": "_6sojedq36h13cb9g6p336b9k8d0kcb9p88sj8b9k6sok4hi46srk6h9m84",
-      "summary": "Super Bowl Seahawks vs. Patriots",
+      "summary": "Super Bowl",
       "start": {
         "dateTime": "2026-02-08T17:30:00-06:00"
       },
@@ -599,7 +599,7 @@
       "end": {
         "dateTime": "2026-03-02T10:00:00-06:00"
       },
-      "location": "Northwestern Medical Group Obstetrics and Gynecology, 680 N Lake Shore Dr, Chicago, IL 60611"
+      "location": "Northwestern Medical Group OB/GYN, 680 N Lake Shore Dr, Chicago, IL 60611"
     },
     {
       "id": "_8513ecq174r3cb9p6l0k4b9k6gsjgb9o88s36b9m60ok2ga36gs32ci670",
@@ -610,7 +610,7 @@
       "end": {
         "dateTime": "2026-03-04T10:00:00-06:00"
       },
-      "location": "ESTE Aesthetics, 3355 N Lincoln Ave, Ste 12, Chicago, IL 60657"
+      "location": "ESTE Aesthetics, 3355 N Lincoln Ave, Chicago, IL 60657"
     },
     {
       "id": "_650j2h2384pj2ba46h33gb9k8gp46b9p65244b9k68rk4hhm6ksjie1k70",
@@ -635,17 +635,6 @@
     },
     {
       "id": "5en9tv1ip0jc7llvuekdeu4118",
-      "summary": "Reservation at Bistro Campagne",
-      "start": {
-        "dateTime": "2026-03-05T19:30:00-06:00"
-      },
-      "end": {
-        "dateTime": "2026-03-05T20:30:00-06:00"
-      },
-      "location": "Bistro Campagne, 4518 North Lincoln Avenue, Chicago, IL 60625"
-    },
-    {
-      "id": "9vuqp6f35ca1r2gmiu8qus11co",
       "summary": "Reservation at Bistro Campagne",
       "start": {
         "dateTime": "2026-03-05T19:30:00-06:00"
@@ -915,7 +904,7 @@
     },
     {
       "id": "glt9mtq9jbotfh844tto09spp0",
-      "summary": "Dolly Delivery with The Container Store is Scheduled",
+      "summary": "Dolly Delivery with The Container Store",
       "start": {
         "date": "2026-03-30"
       },
@@ -1051,7 +1040,7 @@
       "end": {
         "date": "2026-04-08"
       },
-      "location": "The Westin Minneapolis, Minneapolis"
+      "location": "The Westin Minneapolis"
     },
     {
       "id": "20260406_egt1hslergcgifs4s2d8brbu10",
@@ -1141,17 +1130,6 @@
       "location": "Segnatore, 1001 North California Avenue, Chicago, IL 60622"
     },
     {
-      "id": "uj300hnb9753i9pfn6llp2nneo",
-      "summary": "Reservation at Segnatore",
-      "start": {
-        "dateTime": "2026-04-09T17:45:00-05:00"
-      },
-      "end": {
-        "dateTime": "2026-04-09T18:45:00-05:00"
-      },
-      "location": "Segnatore, 1001 North California Avenue, Chicago, IL 60622"
-    },
-    {
       "id": "_8cpk4dq369232b9l6ss36b9k6t2j2b9p6so4cb9j8os4aghk68rjcghn8c",
       "summary": "Philadelphia",
       "start": {
@@ -1159,16 +1137,6 @@
       },
       "end": {
         "date": "2026-04-12"
-      }
-    },
-    {
-      "id": "_8gpkadhn8op32b9h6gr36b9k6ko3gba284q42b9k64p36cpl6kr32h9n6o",
-      "summary": "Philadelphia",
-      "start": {
-        "date": "2026-04-11"
-      },
-      "end": {
-        "date": "2026-04-13"
       }
     },
     {
@@ -1303,14 +1271,14 @@
     },
     {
       "id": "1h6skh2plr591j4ug2khog4nu0",
-      "summary": "Stay at Le M\u00e9ridien Charlotte",
+      "summary": "Stay at Le Méridien Charlotte",
       "start": {
         "date": "2026-04-22"
       },
       "end": {
         "date": "2026-04-24"
       },
-      "location": "Le M\u00e9ridien Charlotte, Charlotte"
+      "location": "Le Méridien Charlotte"
     },
     {
       "id": "_69246gq5751jeba174r4cb9k60o30ba16ksjgb9j6l136e9o88pjecpk6k",
@@ -1324,7 +1292,7 @@
     },
     {
       "id": "_84s3ad9g6gq30ba68kq42b9k8goj6ba16ook8ba670ok6g9g8kp34dpp64",
-      "summary": "Flight to Charlotte (UA)",
+      "summary": "Flight to Charlotte",
       "start": {
         "dateTime": "2026-04-22T06:55:00-05:00"
       },
@@ -1470,7 +1438,7 @@
       "end": {
         "dateTime": "2026-05-06T18:10:00-05:00"
       },
-      "location": "ESTE Aesthetics, 3355 N Lincoln Ave, Ste 12, Chicago, IL 60657"
+      "location": "ESTE Aesthetics, 3355 N Lincoln Ave, Chicago, IL 60657"
     },
     {
       "id": "_6sp30c226gqjeba175142b9k60qk4ba189134ba670pj4g9g84r3ggpi6o",
@@ -1849,7 +1817,7 @@
       "end": {
         "dateTime": "2026-06-10T22:55:00-05:00"
       },
-      "location": "Nyc LGA"
+      "location": "NYC LGA"
     },
     {
       "id": "csp61jtcfp3vqve53lgc3lkdd0",
@@ -1871,7 +1839,7 @@
       "end": {
         "dateTime": "2026-06-11T10:45:00-05:00"
       },
-      "location": "Nyc LGA"
+      "location": "NYC LGA"
     },
     {
       "id": "jsj1rno609ml0vrca11bocita4",
@@ -2000,6 +1968,16 @@
       }
     },
     {
+      "id": "uud0272fsjnf3v1gei8nt6fevg",
+      "summary": "Reservation at SUSHI-SAN - Lincoln Park",
+      "start": {
+        "dateTime": "2026-06-19T19:15:00-05:00"
+      },
+      "end": {
+        "dateTime": "2026-06-19T20:15:00-05:00"
+      }
+    },
+    {
       "id": "_60o3eh1k68qkcba56krkcb9k8cojcba26l13eb9k60s46c1p68o38di468",
       "summary": "Kiawah",
       "start": {
@@ -2032,7 +2010,7 @@
     },
     {
       "id": "p43sv344lakhbl695051o3ngno",
-      "summary": "Flight to Chicago (UA 3426)",
+      "summary": "Flight to Chicago (UA 592)",
       "start": {
         "dateTime": "2026-06-27T16:15:00-05:00"
       },
@@ -2091,7 +2069,7 @@
       "end": {
         "dateTime": "2026-07-14T18:30:00-05:00"
       },
-      "location": "Wrigley Field, 225 W 34th St, New York, NY 10122"
+      "location": "Wrigley Field"
     },
     {
       "id": "_64rk4e9l6so36b9o8gr38b9k8h1k2ba274pkab9h6ssjce1p70oj8dhh8c",
@@ -2147,14 +2125,14 @@
     },
     {
       "id": "_8ksjed1n60p3ib9j8d0kab9k8h34ab9o8p1kab9i70o4ad248d246gi460",
-      "summary": "Flight: UA 1217 from ORD to DEN",
+      "summary": "Flight to Denver (UA 1217)",
       "start": {
         "dateTime": "2026-09-10T07:00:00-05:00"
       },
       "end": {
         "dateTime": "2026-09-10T09:52:00-05:00"
       },
-      "location": "O'Hare International Airport"
+      "location": "O'Hare International Airport, Chicago, IL 60666"
     },
     {
       "id": "j6uku98udake4cas51inu1btqo",
@@ -2169,7 +2147,7 @@
     },
     {
       "id": "_6kskac9k8l330ba484p30b9k64r3ib9o84r32b9h8cok6dq36sr3gda58k",
-      "summary": "Flight: UA 675 from DEN to ORD",
+      "summary": "Flight to Chicago (UA 675)",
       "start": {
         "dateTime": "2026-09-12T15:50:00-05:00"
       },
@@ -2201,7 +2179,7 @@
     },
     {
       "id": "u8i2r3f6j045ompvog3m84ru8g",
-      "summary": "Stay at Boardwalk Boutique Hotel Aruba - Adults Only",
+      "summary": "Stay at Boardwalk Boutique Hotel Aruba",
       "start": {
         "date": "2026-10-08"
       },
@@ -2263,6 +2241,17 @@
         "dateTime": "2026-10-12T19:11:00-05:00"
       },
       "location": "Charlotte CLT"
+    },
+    {
+      "id": "dap40e21vr88huu429rvi6tllo",
+      "summary": "Dylan Gossett - Live In Concert",
+      "start": {
+        "dateTime": "2026-10-27T20:00:00-05:00"
+      },
+      "end": {
+        "dateTime": "2026-10-27T21:00:00-05:00"
+      },
+      "location": "The Salt Shed Indoors, Chicago, Illinois"
     },
     {
       "id": "20261031_jg75kt4ps505q4u01pbpictp2o",
