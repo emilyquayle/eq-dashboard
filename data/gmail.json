@@ -1,85 +1,77 @@
 {
-  "updated": "2026-06-26T18:50:00Z",
+  "updated": "2026-06-29T13:00:00Z",
   "messages": [
     {
-      "sender": "service@lincolncommon.com",
-      "subject": "Your delivery has been picked up",
-      "snippet": "Dear Emily Quayle, The items which were dropped off at property The Apartments Lincoln Common were picked up by Emily Quayle",
-      "isUnread": true,
-      "date": "2026-06-26T18:41:57Z",
-      "threadId": "19f053d17f50c942"
-    },
-    {
       "sender": "noreply@uber.com",
-      "subject": "[Personal] Your Friday afternoon trip with Uber",
-      "snippet": "Jun 26, 2026 12:54 PM This is your charge summary This document acknowledges your trip completion. Total $58.70",
+      "subject": "[Personal] Your Sunday evening order with Uber Eats",
+      "snippet": "Thanks for tipping, Emily. Here's your receipt for Mixteco Grill (Lakeview). Total $49.77",
       "isUnread": true,
-      "date": "2026-06-26T18:40:52Z",
-      "threadId": "19f053c1ba8191a0"
+      "date": "2026-06-29T01:27:51Z",
+      "threadId": "19f10fd6b2ac82a3"
     },
     {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Weekend: Dressing \"Wrong\" Feels So Right 😈",
-      "snippet": "But first: cute clothes that won't show sweat stains — Check out what we Skimm'd for you today June 26, 2026",
+      "sender": "loyalty@loyalty.ms.aa.com",
+      "subject": "Limited-time offer: Fly and earn 2,000 bonus miles",
+      "snippet": "Book a flight today and earn more",
       "isUnread": true,
-      "date": "2026-06-26T17:01:00Z",
-      "threadId": "19f04e114f577c21"
+      "date": "2026-06-28T21:12:27Z",
+      "threadId": "19f10139f966747e"
     },
     {
-      "sender": "noreply@zara.com",
-      "subject": "Part of your order was delivered",
-      "snippet": "PART OF YOUR ORDER HAS BEEN DELIVERED ORDER Nº 54356371395 Thanks again for your purchase! Express home shipping 2345 North Lincoln",
-      "isUnread": false,
-      "date": "2026-06-26T16:34:22Z",
-      "threadId": "19f04c84bcf43931"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: John Bolton pleads guilty in classified information case",
-      "snippet": "The former Trump adviser's case is tied to a book that excoriated President Trump.",
+      "sender": "info@analuisa.com",
+      "subject": "SURPRISE! YOU WON!",
+      "snippet": "Open for your deal.",
       "isUnread": true,
-      "date": "2026-06-26T16:16:48Z",
-      "threadId": "19f04b846815bb16"
-    },
-    {
-      "sender": "larroude@larroude.com",
-      "subject": "Pick Your Pair, Starting At $95",
-      "snippet": "Sandals, heels, flats, sneakers — start wherever you like.",
-      "isUnread": true,
-      "date": "2026-06-26T16:00:45Z",
-      "threadId": "19f04a987e6d4f01"
-    },
-    {
-      "sender": "service@lincolncommon.com",
-      "subject": "You have a delivery",
-      "snippet": "Dear Emily Quayle, We received a Box delivery from Fedex for Emily Quayle today. You can track package history by clicking the link.",
-      "isUnread": true,
-      "date": "2026-06-26T15:18:49Z",
-      "threadId": "19f04831f34ad770"
+      "date": "2026-06-28T16:11:40Z",
+      "threadId": "19f0f003a72f2ca3"
     },
     {
       "sender": "nytdirect@nytimes.com",
-      "subject": "This popular chicken salad is creamy without mayo",
-      "snippet": "Andy Baraghani's cashew chicken salad is a textural dream.",
+      "subject": "Five bright and summery recipes for lazy vacation days",
+      "snippet": "Because vacation is even better when you get to cook. Mark Bittman's speedy grilled chicken kebabs and more.",
       "isUnread": true,
-      "date": "2026-06-26T15:01:38Z",
-      "threadId": "19f0477b15703780"
+      "date": "2026-06-28T16:11:40Z",
+      "threadId": "19f0ec5a33edb8c2"
     },
     {
-      "sender": "customer_support@email.ticketmaster.com",
-      "subject": "You Got Tickets To Dylan Gossett - Live In Concert",
-      "snippet": "The countdown to your event starts now. Save this info for your records. Order # 37-19843/CH1",
-      "isUnread": false,
-      "date": "2026-06-26T15:06:16Z",
-      "threadId": "19f0477a6d88fe2b"
+      "sender": "newsletter@kith.com",
+      "subject": "This Week at Kith",
+      "snippet": "Kith & New Balance 15th Anniversary",
+      "isUnread": true,
+      "date": "2026-06-28T15:02:14Z",
+      "threadId": "19f0ec0ab41a6e4b"
     },
     {
-      "sender": "customerservice@emcom.bankofamerica.com",
-      "subject": "EMILY, help prevent fraud before it happens",
-      "snippet": "Our standard security already helps protect your account. Enable more features for added account protection against fraud.",
+      "sender": "Fidelity.Investments@mail.fidelity.com",
+      "subject": "New shareholder report available",
+      "snippet": "Your new Fidelity Government Money Market shareholder report is now available.",
       "isUnread": true,
-      "date": "2026-06-26T14:39:36Z",
-      "threadId": "19f045fd8fbfd360"
+      "date": "2026-06-28T13:47:58Z",
+      "threadId": "19f0e7cc4254568c"
+    },
+    {
+      "sender": "robot@letterboxd.com",
+      "subject": "Letterboxd Rushes for emilyquayle",
+      "snippet": "A weekly summary of activity from your Letterboxd friends and the wider community.",
+      "isUnread": true,
+      "date": "2026-06-28T13:34:32Z",
+      "threadId": "19f0e757df9876a9"
+    },
+    {
+      "sender": "announcements@jimmyjohns.com",
+      "subject": "Emily, get exclusive early access NOW",
+      "snippet": "Try the Buffalo Ranch Chicken Wrap with your early access. JJ Rewards members: Don't miss your exclusive early access!",
+      "isUnread": true,
+      "date": "2026-06-28T13:11:49Z",
+      "threadId": "19f0e5b9855e681b"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "These are the cold noodles of the summer",
+      "snippet": "Melissa Clark's nutty, gingery take is powerfully delicious. Five Weeknight Dishes for June 28, 2026.",
+      "isUnread": true,
+      "date": "2026-06-28T13:03:45Z",
+      "threadId": "19f0e590f59346cb"
     }
   ]
 }
