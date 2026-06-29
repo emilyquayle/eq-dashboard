@@ -1,10 +1,66 @@
 {
-  "updated": "2026-06-29T13:00:00Z",
+  "updated": "2026-06-29T13:11:03Z",
   "messages": [
+    {
+      "sender": "information@rugsusa.com",
+      "subject": "Celebrate Early: 20% Off Select Items",
+      "snippet": "Unlock early access savings with PREVIEW20 at checkout.",
+      "isUnread": true,
+      "date": "2026-06-29T13:00:49Z",
+      "threadId": "19f1377da85c382f"
+    },
+    {
+      "sender": "service@lincolncommon.com",
+      "subject": "Your delivery has been picked up",
+      "snippet": "Dear Emily Quayle, The items which were dropped off at property The Apartments Lincoln Common were picked up by Emily Qu",
+      "isUnread": true,
+      "date": "2026-06-29T12:22:47Z",
+      "threadId": "19f1355063e92825"
+    },
+    {
+      "sender": "SouthwestAirlines@iluv.southwest.com",
+      "subject": "⏲️Countdown's on! Earn 80,000 points!",
+      "snippet": "Snag a 10% promo code each year on Cardmember Anniversary! View in web browser Hello Emily 4816 points | RR# 20639339346",
+      "isUnread": true,
+      "date": "2026-06-29T12:20:24Z",
+      "threadId": "19f1352d9e138c63"
+    },
+    {
+      "sender": "info@dagnedover.com",
+      "subject": "FINAL HOURS: 25% OFF EVERYTHING.",
+      "snippet": "Sitewide Sale ends at midnight.",
+      "isUnread": true,
+      "date": "2026-06-29T12:15:17Z",
+      "threadId": "19f134e2ec4e8c58"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Gameplay: The 'Olé!' Ball Game",
+      "snippet": "And, how wordplay helps drag climb to peak camp. View in browser|nytimes.com Ad Ad Gameplay June 29, 2026 Ad Author Head",
+      "isUnread": true,
+      "date": "2026-06-29T11:01:45Z",
+      "threadId": "19f130b205a978e8"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "250th Anniversary Week Begins🤝🇺🇸",
+      "snippet": "June 29, 2026 | Read online Good Morning, Trump threatened 100% tariffs on EU countries who impose a new Big Tech tax, G",
+      "isUnread": true,
+      "date": "2026-06-29T10:45:51Z",
+      "threadId": "19f12fc4f9e22a2a"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Red, white, and… gold?",
+      "snippet": "But first: how to feed your pet without getting off the couch — Check out what we Skimm'd for you today June 29, 2026 Su",
+      "isUnread": true,
+      "date": "2026-06-29T10:11:50Z",
+      "threadId": "19f12e33147a3f63"
+    },
     {
       "sender": "noreply@uber.com",
       "subject": "[Personal] Your Sunday evening order with Uber Eats",
-      "snippet": "Thanks for tipping, Emily. Here's your receipt for Mixteco Grill (Lakeview). Total $49.77",
+      "snippet": "Jun 28, 2026 6:53 PM Tip Jun 28, 2026 , 6:53 PM Thanks for tipping, Emily Here's your receipt for Mixteco Grill (Lakevie",
       "isUnread": true,
       "date": "2026-06-29T01:27:51Z",
       "threadId": "19f10fd6b2ac82a3"
@@ -24,54 +80,6 @@
       "isUnread": true,
       "date": "2026-06-28T16:11:40Z",
       "threadId": "19f0f003a72f2ca3"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Five bright and summery recipes for lazy vacation days",
-      "snippet": "Because vacation is even better when you get to cook. Mark Bittman's speedy grilled chicken kebabs and more.",
-      "isUnread": true,
-      "date": "2026-06-28T16:11:40Z",
-      "threadId": "19f0ec5a33edb8c2"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "This Week at Kith",
-      "snippet": "Kith & New Balance 15th Anniversary",
-      "isUnread": true,
-      "date": "2026-06-28T15:02:14Z",
-      "threadId": "19f0ec0ab41a6e4b"
-    },
-    {
-      "sender": "Fidelity.Investments@mail.fidelity.com",
-      "subject": "New shareholder report available",
-      "snippet": "Your new Fidelity Government Money Market shareholder report is now available.",
-      "isUnread": true,
-      "date": "2026-06-28T13:47:58Z",
-      "threadId": "19f0e7cc4254568c"
-    },
-    {
-      "sender": "robot@letterboxd.com",
-      "subject": "Letterboxd Rushes for emilyquayle",
-      "snippet": "A weekly summary of activity from your Letterboxd friends and the wider community.",
-      "isUnread": true,
-      "date": "2026-06-28T13:34:32Z",
-      "threadId": "19f0e757df9876a9"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "Emily, get exclusive early access NOW",
-      "snippet": "Try the Buffalo Ranch Chicken Wrap with your early access. JJ Rewards members: Don't miss your exclusive early access!",
-      "isUnread": true,
-      "date": "2026-06-28T13:11:49Z",
-      "threadId": "19f0e5b9855e681b"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "These are the cold noodles of the summer",
-      "snippet": "Melissa Clark's nutty, gingery take is powerfully delicious. Five Weeknight Dishes for June 28, 2026.",
-      "isUnread": true,
-      "date": "2026-06-28T13:03:45Z",
-      "threadId": "19f0e590f59346cb"
     }
   ]
 }
