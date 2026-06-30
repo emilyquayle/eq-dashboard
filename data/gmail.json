@@ -1,6 +1,38 @@
 {
-  "updated": "2026-06-30T12:20:00Z",
+  "updated": "2026-06-30T17:17:01Z",
   "messages": [
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Tom Kean says depression led to long absence from Congress",
+      "snippet": "The New Jersey Republican has missed more than 100 votes since he was last seen in public in March.",
+      "isUnread": true,
+      "date": "2026-06-30T15:47:32Z",
+      "threadId": "19f1937606747cbd"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Do I need to refrigerate ketchup?",
+      "snippet": "Our A-to-Z guide to storing condiments.",
+      "isUnread": true,
+      "date": "2026-06-30T15:01:29Z",
+      "threadId": "19f1911661d8cd7d"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Supreme Court upholds birthright citizenship",
+      "snippet": "The ruling was a significant blow to President Trump, who has long sought to overturn the principle.",
+      "isUnread": true,
+      "date": "2026-06-30T14:52:42Z",
+      "threadId": "19f19053c5cf6c37"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Transgender athletes can be barred from girls' sports, Supreme Court rules",
+      "snippet": "The ruling deals with laws in West Virginia and Idaho but has implications for 25 other states.",
+      "isUnread": true,
+      "date": "2026-06-30T14:19:55Z",
+      "threadId": "19f18e6d091c123e"
+    },
     {
       "sender": "info@dagnedover.com",
       "subject": "LIMITED-EDITION STADIUM BAGS.",
@@ -12,15 +44,15 @@
     {
       "sender": "no-reply@info.email.aa.com",
       "subject": "There's been a change in your trip.",
-      "snippet": "American Airlines Your flight changed Confirmation code: MUXXBW We made these changes to your flight: New depart time New arrival time.",
-      "isUnread": true,
+      "snippet": "American Airlines: Your flight changed. Confirmation code: MUXXBW — new depart time, arrival time, flight number, and airports.",
+      "isUnread": false,
       "date": "2026-06-30T11:20:40Z",
       "threadId": "19f18428c867682a"
     },
     {
       "sender": "news@execsum.co",
       "subject": "Andreessen Dives Deeper into Politics",
-      "snippet": "Another slow day on the news front ahead of the long weekend. Marc Andreessen is joining the DoD's Defense Policy Board.",
+      "snippet": "Marc Andreessen is joining the DoD's Defense Policy Board. Imagine pitching a Series C and your investor is now on the Defense Policy Board.",
       "isUnread": true,
       "date": "2026-06-30T10:46:28Z",
       "threadId": "19f18233974a0a85"
@@ -28,7 +60,7 @@
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "The Morning: Wins and losses",
-      "snippet": "Plus, extreme heat warnings and the Great American State Fair. June 30, 2026 By Sam Sifton Good morning.",
+      "snippet": "Plus, extreme heat warnings and the Great American State Fair.",
       "isUnread": true,
       "date": "2026-06-30T10:31:30Z",
       "threadId": "19f18161e5806ab4"
@@ -36,50 +68,10 @@
     {
       "sender": "dailyskimm@morning7.theskimm.com",
       "subject": "Blanche Devereaux, you would have loved this",
-      "snippet": "But first: everything you need to restock your guest bath — Check out what we Skimm'd for you today June 30, 2026",
+      "snippet": "But first: everything you need to restock your guest bath — Check out what we Skimm'd for you today.",
       "isUnread": true,
       "date": "2026-06-30T10:13:53Z",
       "threadId": "19f1805cbc7c7ebd"
-    },
-    {
-      "sender": "hello@zola.com",
-      "subject": "Your RSVP? Officially confirmed.",
-      "snippet": "Your RSVP is confirmed. Thank you for your RSVP to Talia Weitzer & Nick Sloan's wedding. Visit Their Website.",
-      "isUnread": true,
-      "date": "2026-06-30T01:52:09Z",
-      "threadId": "19f163a3935a6133"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "Reward drop! $5.99 Favorite 👏",
-      "snippet": "Just when you thought today couldn't taste any better. New Reward! $5.99 Favorite Sandwich. You've earned this.",
-      "isUnread": true,
-      "date": "2026-06-30T01:11:25Z",
-      "threadId": "19f1614bcb92f62f"
-    },
-    {
-      "sender": "info@dagnedover.com",
-      "subject": "JUST HOURS LEFT: 25% OFF SITEWIDE.",
-      "snippet": "Last chance to make your move.",
-      "isUnread": true,
-      "date": "2026-06-29T23:15:15Z",
-      "threadId": "19f15aa6857341ea"
-    },
-    {
-      "sender": "hello@txn.babylist.com",
-      "subject": "Updates to our Privacy Policy, Terms, and related disclosures",
-      "snippet": "",
-      "isUnread": true,
-      "date": "2026-06-29T22:40:28Z",
-      "threadId": "19f158a90ddcfa99"
-    },
-    {
-      "sender": "mail@fandiem.com",
-      "subject": "Win a Trip to Be Eric Clapton's Guest at Crossroads Festival + Signed Guitar",
-      "snippet": "Your donation helps support people on their journey toward a life free from the effects of alcohol and other drug dependencies",
-      "isUnread": true,
-      "date": "2026-06-29T22:26:52Z",
-      "threadId": "19f157e208de5e72"
     }
   ]
 }
