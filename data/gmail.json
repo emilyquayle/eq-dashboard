@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-30T19:05:00Z",
+  "updated": "2026-07-01T05:00:00Z",
   "messages": [
+    {
+      "sender": "no-reply@email.claude.com",
+      "subject": "New: Sonnet 5, /design-sync, loops",
+      "snippet": "Plus tips directly from the Claude Code team.",
+      "isUnread": true,
+      "date": "2026-07-01T04:47:30Z",
+      "threadId": "19f1c00ed9b06c70"
+    },
     {
       "sender": "support@spothero.com",
       "subject": "Rate Your Recent Experience",
@@ -12,8 +20,8 @@
     {
       "sender": "noreply@zara.com",
       "subject": "Update regarding your order",
-      "snippet": "New delivery date Order No. 54356371395 This is an update on the status of your order. We are working to make sure it gets",
-      "isUnread": true,
+      "snippet": "New delivery date Order No. 54356371395 This is an update on the status of your order.",
+      "isUnread": false,
       "date": "2026-07-01T00:36:18Z",
       "threadId": "19f1b1af3e912d8e"
     },
@@ -72,14 +80,6 @@
       "isUnread": true,
       "date": "2026-06-30T17:23:22Z",
       "threadId": "19f198e985dffb9c"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Tom Kean says depression led to long absence from Congress",
-      "snippet": "The New Jersey Republican has missed more than 100 votes since he was last seen in public in March.",
-      "isUnread": true,
-      "date": "2026-06-30T15:47:32Z",
-      "threadId": "19f1937606747cbd"
     }
   ]
 }
