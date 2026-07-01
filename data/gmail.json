@@ -1,6 +1,78 @@
 {
-  "updated": "2026-06-30T17:17:01Z",
+  "updated": "2026-06-30T19:05:00Z",
   "messages": [
+    {
+      "sender": "support@spothero.com",
+      "subject": "Rate Your Recent Experience",
+      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other driver",
+      "isUnread": true,
+      "date": "2026-07-01T01:00:28Z",
+      "threadId": "19f1b31173e7886d"
+    },
+    {
+      "sender": "noreply@zara.com",
+      "subject": "Update regarding your order",
+      "snippet": "New delivery date Order No. 54356371395 This is an update on the status of your order. We are working to make sure it gets",
+      "isUnread": true,
+      "date": "2026-07-01T00:36:18Z",
+      "threadId": "19f1b1af3e912d8e"
+    },
+    {
+      "sender": "venmo@venmo.com",
+      "subject": "Ashley Trulaske canceled a request for $133.42 - Erie cafe 🍸",
+      "snippet": "Ashley Trulaske canceled this request. Ashley Trulaske sent you a request for $133.42 - \"Erie cafe 🍸\" Jul 01, 2026 Venmo",
+      "isUnread": true,
+      "date": "2026-07-01T00:04:55Z",
+      "threadId": "19f1afd679984fc3"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Trump pulled in at least $2.2 billion after returning to the White House",
+      "snippet": "A mandatory financial filing for 2025 shows the Trump family's holdings were stunningly lucrative. View in browser The NYT",
+      "isUnread": true,
+      "date": "2026-06-30T23:57:01Z",
+      "threadId": "19f1af71ccb8346f"
+    },
+    {
+      "sender": "venmo@venmo.com",
+      "subject": "Ashley Trulaske requests $133.42",
+      "snippet": "Ashley Trulaske requests $133.42 Ashley Trulaske requests $ 133 . 42 Erie cafe 🍸 See Request Transaction details Requested",
+      "isUnread": true,
+      "date": "2026-06-30T23:14:02Z",
+      "threadId": "19f1acf1518eb873"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "A Gift From Us",
+      "snippet": "Included with orders of $500 or more.",
+      "isUnread": true,
+      "date": "2026-06-30T23:01:16Z",
+      "threadId": "19f1ac3f064c7f36"
+    },
+    {
+      "sender": "noreply@zara.com",
+      "subject": "Your order has left the warehouse- Shipment 2 of 2",
+      "snippet": "PART OF YOUR ORDER HAS BEEN SHIPPED Order No. 54356371395 It is on the way to the Courier. Delivery 2 Tuesday 30, June",
+      "isUnread": true,
+      "date": "2026-06-30T22:01:10Z",
+      "threadId": "19f1a8cf0442b8e2"
+    },
+    {
+      "sender": "robot@letterboxd.com",
+      "subject": "Unreleased Gems arrive exclusively on Letterboxd Video Store for a limited time on July 1 | TINSMAN ROAD, KING HAMLET & more",
+      "snippet": "For a limited time only—films out of reach, until now. Exclusively on Video Store.",
+      "isUnread": true,
+      "date": "2026-06-30T17:48:28Z",
+      "threadId": "19f19fe78b76cf79"
+    },
+    {
+      "sender": "CustomerService@supplementsuperstores.com",
+      "subject": "Celebrate the 4th with These 5 Healthy Recipes.",
+      "snippet": "Emily, these protein-packed recipes are perfect for...",
+      "isUnread": true,
+      "date": "2026-06-30T17:23:22Z",
+      "threadId": "19f198e985dffb9c"
+    },
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: Tom Kean says depression led to long absence from Congress",
@@ -8,70 +80,6 @@
       "isUnread": true,
       "date": "2026-06-30T15:47:32Z",
       "threadId": "19f1937606747cbd"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Do I need to refrigerate ketchup?",
-      "snippet": "Our A-to-Z guide to storing condiments.",
-      "isUnread": true,
-      "date": "2026-06-30T15:01:29Z",
-      "threadId": "19f1911661d8cd7d"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Supreme Court upholds birthright citizenship",
-      "snippet": "The ruling was a significant blow to President Trump, who has long sought to overturn the principle.",
-      "isUnread": true,
-      "date": "2026-06-30T14:52:42Z",
-      "threadId": "19f19053c5cf6c37"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Transgender athletes can be barred from girls' sports, Supreme Court rules",
-      "snippet": "The ruling deals with laws in West Virginia and Idaho but has implications for 25 other states.",
-      "isUnread": true,
-      "date": "2026-06-30T14:19:55Z",
-      "threadId": "19f18e6d091c123e"
-    },
-    {
-      "sender": "info@dagnedover.com",
-      "subject": "LIMITED-EDITION STADIUM BAGS.",
-      "snippet": "The clear new lineup for games, festivals, and shows.",
-      "isUnread": true,
-      "date": "2026-06-30T12:15:25Z",
-      "threadId": "19f1874ab8a0fe15"
-    },
-    {
-      "sender": "no-reply@info.email.aa.com",
-      "subject": "There's been a change in your trip.",
-      "snippet": "American Airlines: Your flight changed. Confirmation code: MUXXBW — new depart time, arrival time, flight number, and airports.",
-      "isUnread": false,
-      "date": "2026-06-30T11:20:40Z",
-      "threadId": "19f18428c867682a"
-    },
-    {
-      "sender": "news@execsum.co",
-      "subject": "Andreessen Dives Deeper into Politics",
-      "snippet": "Marc Andreessen is joining the DoD's Defense Policy Board. Imagine pitching a Series C and your investor is now on the Defense Policy Board.",
-      "isUnread": true,
-      "date": "2026-06-30T10:46:28Z",
-      "threadId": "19f18233974a0a85"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "The Morning: Wins and losses",
-      "snippet": "Plus, extreme heat warnings and the Great American State Fair.",
-      "isUnread": true,
-      "date": "2026-06-30T10:31:30Z",
-      "threadId": "19f18161e5806ab4"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Blanche Devereaux, you would have loved this",
-      "snippet": "But first: everything you need to restock your guest bath — Check out what we Skimm'd for you today.",
-      "isUnread": true,
-      "date": "2026-06-30T10:13:53Z",
-      "threadId": "19f1805cbc7c7ebd"
     }
   ]
 }
