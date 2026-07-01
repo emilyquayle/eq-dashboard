@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-01T05:00:00Z",
+  "updated": "2026-07-01T12:00:00Z",
   "messages": [
+    {
+      "sender": "mysmartmove@mail.mysmartmove.com",
+      "subject": "What Makes a Good Tenant: 8 Qualities Landlords Should Know",
+      "snippet": "Do your prospective rental residents have the top qualities of good tenants? What do landlords look for in renters? Learn how to screen for better tenants.",
+      "isUnread": true,
+      "date": "2026-07-01T11:45:13Z",
+      "threadId": "19f1d7f621c806ae"
+    },
+    {
+      "sender": "no-reply@m.ouraring.com",
+      "subject": "New features are live in your Oura app",
+      "snippet": "From proactive health monitoring to live activity tracking—explore what's new.",
+      "isUnread": true,
+      "date": "2026-07-01T11:15:40Z",
+      "threadId": "19f1d64500467818"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Gameplay: \"Widow's Bay\" and its Creepy Board Games",
+      "snippet": "Plus, Soccer's history in the crossword grid. Gameplay July 1, 2026 — Lava, Mushrooms and Giant Chess: A total of 225 New",
+      "isUnread": true,
+      "date": "2026-07-01T11:00:33Z",
+      "threadId": "19f1d56d5d1a9582"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "The Morning: A separation of powers",
+      "snippet": "Plus, Trump's finances, Colorado primary results and record-breaking heat. By Sam Sifton Good morning. It's going to be another",
+      "isUnread": true,
+      "date": "2026-07-01T10:58:39Z",
+      "threadId": "19f1d5562c466577"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Rabbit rabbit",
+      "snippet": "But first: a tank top Rachel Green would approve of — Check out what we Skimm'd for you today July 1, 2026",
+      "isUnread": true,
+      "date": "2026-07-01T10:11:49Z",
+      "threadId": "19f1d305c5444ade"
+    },
+    {
+      "sender": "hello@astrthelabel.com",
+      "subject": "🎉 25% OFF EVERYTHING 🎉",
+      "snippet": "Plus, extra 30% off sale!",
+      "isUnread": true,
+      "date": "2026-07-01T08:03:04Z",
+      "threadId": "19f1cb3ff5536aa3"
+    },
     {
       "sender": "no-reply@email.claude.com",
       "subject": "New: Sonnet 5, /design-sync, loops",
@@ -12,7 +60,7 @@
     {
       "sender": "support@spothero.com",
       "subject": "Rate Your Recent Experience",
-      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other driver",
+      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other drivers make informed decisions.",
       "isUnread": true,
       "date": "2026-07-01T01:00:28Z",
       "threadId": "19f1b31173e7886d"
@@ -20,7 +68,7 @@
     {
       "sender": "noreply@zara.com",
       "subject": "Update regarding your order",
-      "snippet": "New delivery date Order No. 54356371395 This is an update on the status of your order.",
+      "snippet": "New delivery date Order No. 54356371395 This is an update on the status of your order. We are working to make sure it gets to you as soon as possible.",
       "isUnread": false,
       "date": "2026-07-01T00:36:18Z",
       "threadId": "19f1b1af3e912d8e"
@@ -28,58 +76,10 @@
     {
       "sender": "venmo@venmo.com",
       "subject": "Ashley Trulaske canceled a request for $133.42 - Erie cafe 🍸",
-      "snippet": "Ashley Trulaske canceled this request. Ashley Trulaske sent you a request for $133.42 - \"Erie cafe 🍸\" Jul 01, 2026 Venmo",
+      "snippet": "Ashley Trulaske canceled this request. Ashley Trulaske sent you a request for $133.42 - \"Erie cafe 🍸\" Jul 01, 2026",
       "isUnread": true,
       "date": "2026-07-01T00:04:55Z",
       "threadId": "19f1afd679984fc3"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Trump pulled in at least $2.2 billion after returning to the White House",
-      "snippet": "A mandatory financial filing for 2025 shows the Trump family's holdings were stunningly lucrative. View in browser The NYT",
-      "isUnread": true,
-      "date": "2026-06-30T23:57:01Z",
-      "threadId": "19f1af71ccb8346f"
-    },
-    {
-      "sender": "venmo@venmo.com",
-      "subject": "Ashley Trulaske requests $133.42",
-      "snippet": "Ashley Trulaske requests $133.42 Ashley Trulaske requests $ 133 . 42 Erie cafe 🍸 See Request Transaction details Requested",
-      "isUnread": true,
-      "date": "2026-06-30T23:14:02Z",
-      "threadId": "19f1acf1518eb873"
-    },
-    {
-      "sender": "larroude@larroude.com",
-      "subject": "A Gift From Us",
-      "snippet": "Included with orders of $500 or more.",
-      "isUnread": true,
-      "date": "2026-06-30T23:01:16Z",
-      "threadId": "19f1ac3f064c7f36"
-    },
-    {
-      "sender": "noreply@zara.com",
-      "subject": "Your order has left the warehouse- Shipment 2 of 2",
-      "snippet": "PART OF YOUR ORDER HAS BEEN SHIPPED Order No. 54356371395 It is on the way to the Courier. Delivery 2 Tuesday 30, June",
-      "isUnread": true,
-      "date": "2026-06-30T22:01:10Z",
-      "threadId": "19f1a8cf0442b8e2"
-    },
-    {
-      "sender": "robot@letterboxd.com",
-      "subject": "Unreleased Gems arrive exclusively on Letterboxd Video Store for a limited time on July 1 | TINSMAN ROAD, KING HAMLET & more",
-      "snippet": "For a limited time only—films out of reach, until now. Exclusively on Video Store.",
-      "isUnread": true,
-      "date": "2026-06-30T17:48:28Z",
-      "threadId": "19f19fe78b76cf79"
-    },
-    {
-      "sender": "CustomerService@supplementsuperstores.com",
-      "subject": "Celebrate the 4th with These 5 Healthy Recipes.",
-      "snippet": "Emily, these protein-packed recipes are perfect for...",
-      "isUnread": true,
-      "date": "2026-06-30T17:23:22Z",
-      "threadId": "19f198e985dffb9c"
     }
   ]
 }
