@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-01T21:00:00Z",
+  "updated": "2026-07-01T19:17:00Z",
   "messages": [
+    {
+      "sender": "donotreply@gopassport.com",
+      "subject": "Parking Receipt - ParkChicago",
+      "snippet": "Thanks for paying for parking with ParkChicago. Receipt: Session 802808613, Zone 302329, 1938 W North Ave, IL AP99577",
+      "isUnread": true,
+      "date": "2026-07-02T01:10:15Z",
+      "threadId": "19f20606339304d8"
+    },
     {
       "sender": "hello@splitwise.com",
       "subject": "Your balance for June",
@@ -12,7 +20,7 @@
     {
       "sender": "Alerts@t.equinox.com",
       "subject": "Modified Holiday Hours at Lincoln Common",
-      "snippet": "Equinox Lincoln Common modified hours: Saturday, July 4th 8am - 4pm Sunday, July 5th Closing early at 4pm",
+      "snippet": "Equinox Lincoln Common modified hours: Saturday, July 4th 8am - 4pm. Sunday, July 5th closing early at 4pm.",
       "isUnread": true,
       "date": "2026-07-01T20:02:42Z",
       "threadId": "19f1f46d02e685c3"
@@ -29,7 +37,7 @@
       "sender": "noreply@zara.com",
       "subject": "Your refund has been processed",
       "snippet": "We have refunded the shipping costs from -44.02 USD in your order 54356371395.",
-      "isUnread": true,
+      "isUnread": false,
       "date": "2026-07-01T17:17:42Z",
       "threadId": "19f1eafc5c6ec4c1"
     },
@@ -51,11 +59,19 @@
     },
     {
       "sender": "nytdirect@nytimes.com",
-      "subject": "“This is the only way to eat hot dogs!”",
+      "subject": "\"This is the only way to eat hot dogs!\"",
       "snippet": "Top your dogs with pico de gallo, now and forever. A ridiculously good hot dog recipe for your cookout.",
       "isUnread": true,
       "date": "2026-07-01T15:01:20Z",
       "threadId": "19f1e3a7ae528c21"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "Your New Favorite Flats",
+      "snippet": "Loafers, mules, and boat shoes.",
+      "isUnread": true,
+      "date": "2026-07-02T00:01:00Z",
+      "threadId": "19f2020fc6a906de"
     },
     {
       "sender": "info@analuisa.com",
@@ -64,22 +80,6 @@
       "isUnread": true,
       "date": "2026-07-01T14:06:48Z",
       "threadId": "19f1e03c91756a63"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "It's Time to Celebrate! July Events & New LC Advantage Partners!",
-      "snippet": "BASTILLE DAY FRENCH MARKET! THURSDAY, JULY 9th 5:30-7:30PM — Get ready to paint the town bleu, blanc, et rouge.",
-      "isUnread": true,
-      "date": "2026-07-01T13:13:31Z",
-      "threadId": "19f1dd413affd3ad"
-    },
-    {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "🚨 $5.99 Favorite reward expires soon!",
-      "snippet": "Redeem your reward before it's gone. Your $5.99 Favorite is leaving soon — redeemable now.",
-      "isUnread": true,
-      "date": "2026-07-01T13:09:05Z",
-      "threadId": "19f1dcc2417048fb"
     }
   ]
 }
