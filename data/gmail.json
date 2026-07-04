@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-03T06:04:31Z",
+  "updated": "2026-07-03T10:40:00Z",
   "messages": [
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "The Morning: Happy 250th, America!",
+      "snippet": "A special newsletter to mark this milestone. Good morning, and happy semiquincentennial. That's the fancy term, from Latin, for America's 250th.",
+      "isUnread": true,
+      "date": "2026-07-03T10:35:44Z",
+      "threadId": "19f278d127295cf4"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Shifting into chicken caesar wrap on the beach mode",
+      "snippet": "But first: the best sales to shop this holiday weekend — Check out what we Skimm'd for you today July 3, 2026",
+      "isUnread": true,
+      "date": "2026-07-03T10:11:42Z",
+      "threadId": "19f2776ad047e916"
+    },
     {
       "sender": "noreply@glassdoor.com",
       "subject": "Just in at PwC: This week's employee reviews and more",
@@ -12,7 +28,7 @@
     {
       "sender": "support@spothero.com",
       "subject": "Rate Your Recent Experience",
-      "snippet": "Happy Parking! How was your recent parking experience? Your feedback lets us know how we can improve and helps other driv",
+      "snippet": "How was your recent parking experience? Your feedback lets us know how we can improve and helps other drivers make informed decisions.",
       "isUnread": true,
       "date": "2026-07-03T01:00:19Z",
       "threadId": "19f257dac962c291"
@@ -20,7 +36,7 @@
     {
       "sender": "no-reply@rentcafe.com",
       "subject": "Hallway Temp Notice - North Tower",
-      "snippet": "Dear Residents, We recently discovered a sensor issue which is why the hallways feel very warm. We had our vendor on site",
+      "snippet": "Dear Residents, We recently discovered a sensor issue which is why the hallways feel very warm. We had our vendor on site to troubleshoot the issue.",
       "isUnread": true,
       "date": "2026-07-02T23:19:55Z",
       "threadId": "19f2521bcf0bb11e"
@@ -56,30 +72,6 @@
       "isUnread": true,
       "date": "2026-07-02T19:59:36Z",
       "threadId": "19f246a580b30da9"
-    },
-    {
-      "sender": "rewards@customer-mail.smile.io",
-      "subject": "You've earned 130 Points!",
-      "snippet": "Nice work! You Placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park. You have 4433 Points!",
-      "isUnread": true,
-      "date": "2026-07-02T19:57:36Z",
-      "threadId": "19f2468858d52e19"
-    },
-    {
-      "sender": "cardholder@emails.synchrony.com",
-      "subject": "The July WellU Newsletter is here!",
-      "snippet": "Healthy living tips for the whole family – including your pets.",
-      "isUnread": true,
-      "date": "2026-07-02T19:47:19Z",
-      "threadId": "19f245f2097b61cf"
-    },
-    {
-      "sender": "orders@2501halsted.com",
-      "subject": "Order 72809HAL confirmed",
-      "snippet": "Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has been sent.",
-      "isUnread": true,
-      "date": "2026-07-02T19:44:47Z",
-      "threadId": "19f245cc6e51f40e"
     }
   ]
 }
