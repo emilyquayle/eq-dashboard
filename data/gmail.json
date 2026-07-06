@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-06T09:01:05Z",
+  "updated": "2026-07-06T13:00:59Z",
   "messages": [
+    {
+      "sender": "USPSInformeddelivery@email.informeddelivery.usps.com",
+      "subject": "Your Daily Digest for Mon, 7/6 is ready to view",
+      "snippet": "COMING TO YOU SOON Hi, EMILY! You have 2 mailpiece(s) and 0 inbound package(s) arriving soon. Monday 6 July 2026 2 Mailp",
+      "isUnread": true,
+      "date": "2026-07-06T12:17:13Z",
+      "threadId": "19f375c76c2a9d14"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "250 More🇺🇸🦅",
+      "snippet": "Wherever you are with life or deliverables, know that we'll be here with the most digestible summary of everything Wall ",
+      "isUnread": true,
+      "date": "2026-07-06T10:45:47Z",
+      "threadId": "19f3708bf8103a6d"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "A royal growth spurt",
+      "snippet": "But first: a luxurious body cream to hydrate post-beach skin — Check out what we Skimm'd for you today July 6, 2026 Subs",
+      "isUnread": true,
+      "date": "2026-07-06T10:11:47Z",
+      "threadId": "19f36ea047174cd2"
+    },
     {
       "sender": "noreply@uber.com",
       "subject": "[Personal] Your Sunday evening order with Uber Eats",
@@ -19,7 +43,7 @@
     },
     {
       "sender": "breakingnews@nytimes.com",
-      "subject": "Trump asked FIFA to review U.S. player’s suspension before reversal",
+      "subject": "Trump asked FIFA to review U.S. player's suspension before reversal",
       "snippet": "Folarin Balogun is now eligible play against Belgium. View in browser The New York Times The New York Times July 5, 2026",
       "isUnread": true,
       "date": "2026-07-05T23:13:36Z",
@@ -28,7 +52,7 @@
     {
       "sender": "no-reply@rentcafe.com",
       "subject": "Plumbing Repair Rodding Noise Notice",
-      "snippet": "the-apartments-at-lincoln-common Dear Residents, We have a plumber on the way to start rodding a drain on the 8th & 9th",
+      "snippet": "the-apartments-at-lincoln-common Dear Residents, We have a plumber on the way to start rodding a drain on the 8th & 9th ",
       "isUnread": true,
       "date": "2026-07-05T22:47:09Z",
       "threadId": "19f3476ce99fe141"
@@ -48,30 +72,6 @@
       "isUnread": true,
       "date": "2026-07-05T22:12:23Z",
       "threadId": "19f3456fdd11e275"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "This olive oil zucchini bread is just sweet enough",
-      "snippet": "Perfumed with cinnamon, nutmeg and lemon zest. View in browser|nytimes.com Ad Ad Cooking July 5, 2026 Ad Good morning! T",
-      "isUnread": true,
-      "date": "2026-07-05T15:04:42Z",
-      "threadId": "19f32d6d0d39465f"
-    },
-    {
-      "sender": "no.reply.alerts@chase.com",
-      "subject": "Your Chase Sapphire Preferred Visa automatic payment is scheduled",
-      "snippet": "Payment reminder Your upcoming automatic payment is scheduled We'll pay the amount you scheduled from your account on yo",
-      "isUnread": true,
-      "date": "2026-07-05T15:08:17Z",
-      "threadId": "19f32d2bc7a24afd"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "This Week at Kith",
-      "snippet": "Kith for Back to the Future",
-      "isUnread": true,
-      "date": "2026-07-05T15:00:32Z",
-      "threadId": "19f32cb9dea5007b"
     }
   ]
 }
