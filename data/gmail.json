@@ -1,77 +1,85 @@
 {
-  "updated": "2026-07-06T13:00:59Z",
+  "updated": "2026-07-06T17:00:59Z",
   "messages": [
     {
-      "sender": "USPSInformeddelivery@email.informeddelivery.usps.com",
-      "subject": "Your Daily Digest for Mon, 7/6 is ready to view",
-      "snippet": "COMING TO YOU SOON Hi, EMILY! You have 2 mailpiece(s) and 0 inbound package(s) arriving soon. Monday 6 July 2026 2 Mailp",
-      "isUnread": true,
-      "date": "2026-07-06T12:17:13Z",
-      "threadId": "19f375c76c2a9d14"
+      "sender": "noreply@zara.com",
+      "subject": "The last part of your order was delivered",
+      "snippet": "THE LAST PART OF YOUR ORDER HAS BEEN DELIVERED ORDER N\u00ba 54356371395 PURCHASED SENT DELIVERED Thanks again for your purch",
+      "isUnread": false,
+      "date": "2026-07-02T22:34:27Z",
+      "threadId": "19f24f81e0b7467e"
     },
     {
-      "sender": "news@execsum.co",
-      "subject": "250 More🇺🇸🦅",
-      "snippet": "Wherever you are with life or deliverables, know that we'll be here with the most digestible summary of everything Wall ",
-      "isUnread": true,
-      "date": "2026-07-06T10:45:47Z",
-      "threadId": "19f3708bf8103a6d"
+      "sender": "capitalone@notification.capitalone.com",
+      "subject": "Your card's expiring soon--confirm your mailing address",
+      "snippet": "Please review what we have on file.",
+      "isUnread": false,
+      "date": "2026-07-02T09:57:13Z",
+      "threadId": "19f2242d8056f1b8"
     },
     {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "A royal growth spurt",
-      "snippet": "But first: a luxurious body cream to hydrate post-beach skin — Check out what we Skimm'd for you today July 6, 2026 Subs",
-      "isUnread": true,
-      "date": "2026-07-06T10:11:47Z",
-      "threadId": "19f36ea047174cd2"
+      "sender": "noreply@zara.com",
+      "subject": "Your refund has been processed",
+      "snippet": "SHIPPING COSTS REFUND Order N\u00ba 54356371395 REQUESTED PROCESSED REFUNDED We have refunded the shipping costs from -44.02 ",
+      "isUnread": false,
+      "date": "2026-07-01T17:17:42Z",
+      "threadId": "19f1eafc5c6ec4c1"
     },
     {
-      "sender": "noreply@uber.com",
-      "subject": "[Personal] Your Sunday evening order with Uber Eats",
-      "snippet": "Jul 5, 2026 5:41 PM Tip Jul 5, 2026 , 5:41 PM Thanks for tipping, Emily Here's your receipt for Jewel-Osco (2940 N Ashla",
-      "isUnread": true,
-      "date": "2026-07-06T01:59:11Z",
-      "threadId": "19f34ef8ab388896"
+      "sender": "noreply@zara.com",
+      "subject": "Update regarding your order",
+      "snippet": "New delivery date Order No. 54356371395 This is an update on the status of your order. We are working to make sure it ge",
+      "isUnread": false,
+      "date": "2026-07-01T00:36:18Z",
+      "threadId": "19f1b1af3e912d8e"
     },
     {
-      "sender": "no.reply.alerts@chase.com",
-      "subject": "Chase security alert: You signed in with a new device",
-      "snippet": "Security alert You signed in with a new device You successfully validated your device and signed in. Here are the detail",
-      "isUnread": true,
-      "date": "2026-07-06T00:37:41Z",
-      "threadId": "19f34dc098265a85"
+      "sender": "noreply@zara.com",
+      "subject": "Your order has left the warehouse- Shipment 2 of 2",
+      "snippet": "PART OF YOUR ORDER HAS BEEN SHIPPED Order No. 54356371395 It is on the way to the Courier \ufeff You will receive your delive",
+      "isUnread": false,
+      "date": "2026-06-30T22:01:10Z",
+      "threadId": "19f1a8cf0442b8e2"
     },
     {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Trump asked FIFA to review U.S. player's suspension before reversal",
-      "snippet": "Folarin Balogun is now eligible play against Belgium. View in browser The New York Times The New York Times July 5, 2026",
-      "isUnread": true,
-      "date": "2026-07-05T23:13:36Z",
-      "threadId": "19f348f2ec297e0b"
+      "sender": "no-reply@info.email.aa.com",
+      "subject": "There's been a change in your trip.",
+      "snippet": "American Airlines home Your flight changed Confirmation code: MUXXBW We made these changes to your flight: New depart ti",
+      "isUnread": false,
+      "date": "2026-06-30T11:20:40Z",
+      "threadId": "19f18428c867682a"
     },
     {
       "sender": "no-reply@rentcafe.com",
-      "subject": "Plumbing Repair Rodding Noise Notice",
-      "snippet": "the-apartments-at-lincoln-common Dear Residents, We have a plumber on the way to start rodding a drain on the 8th & 9th ",
-      "isUnread": true,
-      "date": "2026-07-05T22:47:09Z",
-      "threadId": "19f3476ce99fe141"
+      "subject": "Drone Photography Notice",
+      "snippet": "the-apartments-at-lincoln-common Dear Residents, We would like to inform you that drone photography is scheduled to take",
+      "isUnread": false,
+      "date": "2026-06-29T13:05:04Z",
+      "threadId": "19f137c113d36e48"
     },
     {
-      "sender": "noreply@uber.com",
-      "subject": "[Personal] Your Sunday afternoon order with Uber Eats",
-      "snippet": "Jul 5, 2026 3:47 PM Tip Jul 5, 2026 , 3:47 PM Thanks for tipping, Emily Here's your receipt for McDonald's® (Clark & Wri",
-      "isUnread": true,
-      "date": "2026-07-05T22:14:36Z",
-      "threadId": "19f345903389b161"
+      "sender": "invoice+statements@mail.anthropic.com",
+      "subject": "Your refund from Anthropic, PBC #3233-0953",
+      "snippet": "Your refund from Anthropic, PBC #3233-0953",
+      "isUnread": false,
+      "date": "2026-06-26T19:03:33Z",
+      "threadId": "19f05510130581d5"
     },
     {
-      "sender": "noreply@uber.com",
-      "subject": "New device sign-in",
-      "snippet": "Your Uber account has been signed into from a new device.",
-      "isUnread": true,
-      "date": "2026-07-05T22:12:23Z",
-      "threadId": "19f3456fdd11e275"
+      "sender": "noreply@zara.com",
+      "subject": "Part of your order was delivered",
+      "snippet": "PART OF YOUR ORDER HAS BEEN DELIVERED ORDER N\u00ba 54356371395 Thanks again for your purchase! Express home shipping 2345 No",
+      "isUnread": false,
+      "date": "2026-06-26T16:34:22Z",
+      "threadId": "19f04c84bcf43931"
+    },
+    {
+      "sender": "customer_support@email.ticketmaster.com",
+      "subject": "You Got Tickets To Dylan Gossett - Live In Concert",
+      "snippet": "The countdown to your event starts now. Save this info for your records. Ticketmaster Ticketmaster My Account Order Conf",
+      "isUnread": false,
+      "date": "2026-06-26T15:06:16Z",
+      "threadId": "19f0477a6d88fe2b"
     }
   ]
 }
