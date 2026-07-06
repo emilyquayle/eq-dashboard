@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-06T01:01:25Z",
+  "updated": "2026-07-06T05:01:18Z",
   "messages": [
     {
       "sender": "noreply@uber.com",
       "subject": "[Personal] Your Sunday evening order with Uber Eats",
-      "snippet": "Jul 5, 2026 5:41 PM Jul 5, 2026 , 5:41 PM Thanks for ordering, Emily Here's your receipt for Jewel-Osco (2940 N Ashland ",
+      "snippet": "Jul 5, 2026 5:41 PM Tip Jul 5, 2026 , 5:41 PM Thanks for tipping, Emily Here's your receipt for Jewel-Osco (2940 N Ashla",
       "isUnread": true,
-      "date": "2026-07-06T00:59:01Z",
+      "date": "2026-07-06T01:59:11Z",
       "threadId": "19f34ef8ab388896"
     },
     {
@@ -28,7 +28,7 @@
     {
       "sender": "no-reply@rentcafe.com",
       "subject": "Plumbing Repair Rodding Noise Notice",
-      "snippet": "the-apartments-at-lincoln-common Dear Residents, We have a plumber on the way to start rodding a drain on the 8th & 9th ",
+      "snippet": "the-apartments-at-lincoln-common Dear Residents, We have a plumber on the way to start rodding a drain on the 8th & 9th",
       "isUnread": true,
       "date": "2026-07-05T22:47:09Z",
       "threadId": "19f3476ce99fe141"
