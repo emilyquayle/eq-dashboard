@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-06T21:01:10Z",
+  "updated": "2026-07-07T01:01:09Z",
   "messages": [
+    {
+      "sender": "no-reply@blvd.co",
+      "subject": "Your upcoming appointment with BOSS HAIR GROUP on Jul 17, 2026",
+      "snippet": "Hi Emily, your appointment is booked! You are scheduled for an appointment at BOSS HAIR GROUP on Fri, Jul 17, 2026 at 3:",
+      "isUnread": true,
+      "date": "2026-07-07T00:26:34Z",
+      "threadId": "19f39f833665fce8"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "Game Day Calls For Red, White & Blue",
+      "snippet": "And a jersey on us with $500+.",
+      "isUnread": true,
+      "date": "2026-07-07T00:01:21Z",
+      "threadId": "19f39e11fad3cfbb"
+    },
+    {
+      "sender": "notification@service.tiktok.com",
+      "subject": "Sam Q just sent you a message",
+      "snippet": "Emily Quayle375, reply on TikTok.",
+      "isUnread": true,
+      "date": "2026-07-06T22:32:09Z",
+      "threadId": "19f398f7388bd179"
+    },
+    {
+      "sender": "mail@fandiem.com",
+      "subject": "Win a Trip to Meet Mumford & Sons in Cape Cod at the Beach House",
+      "snippet": "Help transform the lives of children living through crisis, conflict, and war",
+      "isUnread": false,
+      "date": "2026-07-06T22:13:12Z",
+      "threadId": "19f397e1a0bf12c0"
+    },
     {
       "sender": "no-reply@rentcafe.com",
       "subject": "Auto-payment Confirmation",
@@ -20,7 +52,7 @@
     {
       "sender": "noreply@zara.com",
       "subject": "The last part of your order was delivered",
-      "snippet": "THE LAST PART OF YOUR ORDER HAS BEEN DELIVERED ORDER N\u00ba 54356371395 PURCHASED SENT DELIVERED Thanks again for your purch",
+      "snippet": "THE LAST PART OF YOUR ORDER HAS BEEN DELIVERED ORDER Nº 54356371395 PURCHASED SENT DELIVERED Thanks again for your purch",
       "isUnread": false,
       "date": "2026-07-02T22:34:27Z",
       "threadId": "19f24f81e0b7467e"
@@ -36,7 +68,7 @@
     {
       "sender": "noreply@zara.com",
       "subject": "Your refund has been processed",
-      "snippet": "SHIPPING COSTS REFUND Order N\u00ba 54356371395 REQUESTED PROCESSED REFUNDED We have refunded the shipping costs from -44.02 ",
+      "snippet": "SHIPPING COSTS REFUND Order Nº 54356371395 REQUESTED PROCESSED REFUNDED We have refunded the shipping costs from -44.02 ",
       "isUnread": false,
       "date": "2026-07-01T17:17:42Z",
       "threadId": "19f1eafc5c6ec4c1"
@@ -48,38 +80,6 @@
       "isUnread": false,
       "date": "2026-07-01T00:36:18Z",
       "threadId": "19f1b1af3e912d8e"
-    },
-    {
-      "sender": "noreply@zara.com",
-      "subject": "Your order has left the warehouse- Shipment 2 of 2",
-      "snippet": "PART OF YOUR ORDER HAS BEEN SHIPPED Order No. 54356371395 It is on the way to the Courier \ufeff You will receive your delive",
-      "isUnread": false,
-      "date": "2026-06-30T22:01:10Z",
-      "threadId": "19f1a8cf0442b8e2"
-    },
-    {
-      "sender": "no-reply@info.email.aa.com",
-      "subject": "There's been a change in your trip.",
-      "snippet": "American Airlines home Your flight changed Confirmation code: MUXXBW We made these changes to your flight: New depart ti",
-      "isUnread": false,
-      "date": "2026-06-30T11:20:40Z",
-      "threadId": "19f18428c867682a"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "Drone Photography Notice",
-      "snippet": "the-apartments-at-lincoln-common Dear Residents, We would like to inform you that drone photography is scheduled to take",
-      "isUnread": false,
-      "date": "2026-06-29T13:05:04Z",
-      "threadId": "19f137c113d36e48"
-    },
-    {
-      "sender": "invoice+statements@mail.anthropic.com",
-      "subject": "Your refund from Anthropic, PBC #3233-0953",
-      "snippet": "Your refund from Anthropic, PBC #3233-0953",
-      "isUnread": false,
-      "date": "2026-06-26T19:03:33Z",
-      "threadId": "19f05510130581d5"
     }
   ]
 }
