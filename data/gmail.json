@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-07T13:00:55Z",
+  "updated": "2026-07-07T17:00:31Z",
   "messages": [
+    {
+      "sender": "rtr@hello.renttherunway.com",
+      "subject": "Introducing Outfit Generation",
+      "snippet": "Your next outfit starts HERE",
+      "isUnread": true,
+      "date": "2026-07-07T15:15:18Z",
+      "threadId": "19f3d25dd1e76598"
+    },
+    {
+      "sender": "Fidelity.Investments@mail.fidelity.com",
+      "subject": "Half of 2026 down—how’s your money doing?",
+      "snippet": "FidBits: Take small steps toward financial wellness. EMILY QUAYLE Login Two people kayaking. Two people kayaking. Give y",
+      "isUnread": true,
+      "date": "2026-07-07T15:05:21Z",
+      "threadId": "19f3d21a3ecb255c"
+    },
+    {
+      "sender": "loyalty@loyalty.ms.aa.com",
+      "subject": "Hi Emily, discover exclusive experiences as an AAdvantage® member",
+      "snippet": "Enjoy access to exclusive sports tickets, concerts, tasting events and more.",
+      "isUnread": true,
+      "date": "2026-07-07T15:08:23Z",
+      "threadId": "19f3d1ff058760e5"
+    },
     {
       "sender": "news@execsum.co",
       "subject": "The Belgians Will Regret This",
@@ -20,7 +44,7 @@
     {
       "sender": "Business552763@mindbodyonline.com",
       "subject": "Emily, you’re CONFIRMED. ✔️",
-      "snippet": "Get ready to sweat, Emily. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+      "snippet": "Get ready to sweat, Emily.",
       "isUnread": true,
       "date": "2026-07-07T01:28:44Z",
       "threadId": "19f3a311b9c8d225"
@@ -36,7 +60,7 @@
     {
       "sender": "larroude@larroude.com",
       "subject": "Game Day Calls For Red, White & Blue",
-      "snippet": "And a jersey on us with $500+. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+      "snippet": "And a jersey on us with $500+.",
       "isUnread": true,
       "date": "2026-07-07T00:01:21Z",
       "threadId": "19f39e11fad3cfbb"
@@ -44,7 +68,7 @@
     {
       "sender": "notification@service.tiktok.com",
       "subject": "Sam Q just sent you a message",
-      "snippet": "Emily Quayle375, reply on TikTok. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+      "snippet": "Emily Quayle375, reply on TikTok.",
       "isUnread": true,
       "date": "2026-07-06T22:32:09Z",
       "threadId": "19f398f7388bd179"
@@ -52,34 +76,10 @@
     {
       "sender": "mail@fandiem.com",
       "subject": "Win a Trip to Meet Mumford & Sons in Cape Cod at the Beach House",
-      "snippet": "Help transform the lives of children living through crisis, conflict, and war ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ",
+      "snippet": "Help transform the lives of children living through crisis, conflict, and war",
       "isUnread": false,
       "date": "2026-07-06T22:13:12Z",
       "threadId": "19f397e1a0bf12c0"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "Auto-payment Confirmation",
-      "snippet": "the-apartments-at-lincoln-common Dear Emily, Thank you for establishing an automatic payment schedule. Please review the",
-      "isUnread": false,
-      "date": "2026-07-06T18:29:02Z",
-      "threadId": "19f38b0dcd5d9a04"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "Payment Confirmation",
-      "snippet": "the-apartments-at-lincoln-common Dear Emily, This email confirms we have received your one-time online payment. Please r",
-      "isUnread": false,
-      "date": "2026-07-06T18:26:06Z",
-      "threadId": "19f38ae2db115199"
-    },
-    {
-      "sender": "noreply@zara.com",
-      "subject": "The last part of your order was delivered",
-      "snippet": "THE LAST PART OF YOUR ORDER HAS BEEN DELIVERED ORDER Nº 54356371395 PURCHASED SENT DELIVERED Thanks again for your purch",
-      "isUnread": false,
-      "date": "2026-07-02T22:34:27Z",
-      "threadId": "19f24f81e0b7467e"
     }
   ]
 }
