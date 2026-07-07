@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-07T17:00:31Z",
+  "updated": "2026-07-07T18:35:00Z",
   "messages": [
+    {
+      "sender": "orders-2@tickpick.com",
+      "subject": "Get Ready For Your Event!",
+      "snippet": "Your event is right around the corner. Get ready to see Noah Kahan! Hey Emily, Your event is right around the corner.",
+      "isUnread": true,
+      "date": "2026-07-07T18:29:41Z",
+      "threadId": "19f3dd7d6a117848"
+    },
     {
       "sender": "rtr@hello.renttherunway.com",
       "subject": "Introducing Outfit Generation",
@@ -12,7 +20,7 @@
     {
       "sender": "Fidelity.Investments@mail.fidelity.com",
       "subject": "Half of 2026 down—how’s your money doing?",
-      "snippet": "FidBits: Take small steps toward financial wellness. EMILY QUAYLE Login Two people kayaking. Two people kayaking. Give y",
+      "snippet": "FidBits: Take small steps toward financial wellness. EMILY QUAYLE Login Two people kayaking. Two people kayaking. Give",
       "isUnread": true,
       "date": "2026-07-07T15:05:21Z",
       "threadId": "19f3d21a3ecb255c"
@@ -28,7 +36,7 @@
     {
       "sender": "news@execsum.co",
       "subject": "The Belgians Will Regret This",
-      "snippet": "A sad day for America. On a totally unrelated note, US is considering sweeping sanctions and blanket tariffs on the enti",
+      "snippet": "A sad day for America. On a totally unrelated note, US is considering sweeping sanctions and blanket tariffs on the",
       "isUnread": true,
       "date": "2026-07-07T10:46:42Z",
       "threadId": "19f3c2ff702c9fe1"
@@ -36,7 +44,7 @@
     {
       "sender": "dailyskimm@morning7.theskimm.com",
       "subject": "Smells like 2006",
-      "snippet": "But first: summer-themed juice glasses that are still on sale — Check out what we Skimm'd for you today July 7, 2026 Sub",
+      "snippet": "But first: summer-themed juice glasses that are still on sale — Check out what we Skimm'd for you today July 7, 2026",
       "isUnread": true,
       "date": "2026-07-07T10:13:57Z",
       "threadId": "19f3c129fa157ec3"
@@ -52,7 +60,7 @@
     {
       "sender": "no-reply@blvd.co",
       "subject": "Your upcoming appointment with BOSS HAIR GROUP on Jul 17, 2026",
-      "snippet": "Hi Emily, your appointment is booked! You are scheduled for an appointment at BOSS HAIR GROUP on Fri, Jul 17, 2026 at 3:",
+      "snippet": "Hi Emily, your appointment is booked! You are scheduled for an appointment at BOSS HAIR GROUP on Fri, Jul 17, 2026 at",
       "isUnread": true,
       "date": "2026-07-07T00:26:34Z",
       "threadId": "19f39f833665fce8"
@@ -72,14 +80,6 @@
       "isUnread": true,
       "date": "2026-07-06T22:32:09Z",
       "threadId": "19f398f7388bd179"
-    },
-    {
-      "sender": "mail@fandiem.com",
-      "subject": "Win a Trip to Meet Mumford & Sons in Cape Cod at the Beach House",
-      "snippet": "Help transform the lives of children living through crisis, conflict, and war",
-      "isUnread": false,
-      "date": "2026-07-06T22:13:12Z",
-      "threadId": "19f397e1a0bf12c0"
     }
   ]
 }
