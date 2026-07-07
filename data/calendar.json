@@ -1,1490 +1,2357 @@
 {
-  "updated": "2026-07-07T16:09:29Z",
+  "updated": "2026-07-07T17:08:52Z",
   "events": [
     {
+      "created": "2026-06-03T03:28:26Z",
+      "end": {
+        "date": "2026-01-03T00:00:00Z"
+      },
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
-      "summary": "OOO",
-      "start": "2026-01-01",
-      "end": "2026-01-03"
+      "start": {
+        "date": "2026-01-01T00:00:00Z"
+      },
+      "summary": "OOO"
     },
     {
+      "end": {
+        "date": "2026-01-02T00:00:00Z"
+      },
       "id": "20260101_d3glsfo8cfrs476elqd81so37s",
-      "summary": "New Year's Day",
-      "start": "2026-01-01",
-      "end": "2026-01-02"
+      "start": {
+        "date": "2026-01-01T00:00:00Z"
+      },
+      "summary": "New Year's Day"
     },
     {
+      "end": {
+        "dateTime": "2026-01-01T18:00:00-06:00"
+      },
       "id": "_8crjigpi6d33cb9k8ork4b9k88p3gba16srjab9p60pjicq6610k4c9g88",
-      "summary": "Rose Bowl IU vs. Alabama",
-      "start": "2026-01-01T15:00:00-06:00",
-      "end": "2026-01-01T18:00:00-06:00"
+      "start": {
+        "dateTime": "2026-01-01T15:00:00-06:00"
+      },
+      "summary": "Rose Bowl IU vs. Alabama"
     },
     {
+      "end": {
+        "dateTime": "2026-01-02T14:20:00-06:00"
+      },
       "id": "_84qk4hi164oj8b9m85232b9k89134b9p6go3iba6711kahho6spjecq574",
-      "summary": "Derm Appt. w/ Dr. Park",
-      "start": "2026-01-02T13:20:00-06:00",
-      "end": "2026-01-02T14:20:00-06:00",
-      "location": "676 N St Clair St, Chicago, IL 60611, United States"
+      "location": "676 N St Clair St, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-01-02T13:20:00-06:00"
+      },
+      "summary": "Derm Appt. w/ Dr. Park"
     },
     {
+      "end": {
+        "dateTime": "2026-01-02T17:00:00-06:00"
+      },
       "id": "_68s36e1k751j4ba584o3eb9k60r34ba18p23ab9l6d24agi18gpjghhh60",
-      "summary": "Brow Appt. w/ Nina",
-      "start": "2026-01-02T16:00:00-06:00",
-      "end": "2026-01-02T17:00:00-06:00",
-      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-01-02T16:00:00-06:00"
+      },
+      "summary": "Brow Appt. w/ Nina"
     },
     {
+      "end": {
+        "dateTime": "2026-01-04T21:00:00-06:00"
+      },
       "id": "_84r44cpi6or48ba48or36b9k74pjcb9o6ko46b9o88rj6hho60rj0h9p60",
-      "summary": "Afghan Night",
-      "start": "2026-01-04T18:00:00-06:00",
-      "end": "2026-01-04T21:00:00-06:00"
+      "start": {
+        "dateTime": "2026-01-04T18:00:00-06:00"
+      },
+      "summary": "Afghan Night"
     },
     {
+      "end": {
+        "dateTime": "2026-01-05T18:00:00-06:00"
+      },
       "id": "_6op32d9l74s48b9k650jcb9k612j4ba26ss3gba46t0j8d246h2j6ca16g",
-      "summary": "Wax Appt. w/ Breanna",
-      "start": "2026-01-05T17:00:00-06:00",
-      "end": "2026-01-05T18:00:00-06:00",
-      "location": "European Wax Center, 2725 N Clark St"
+      "location": "European Wax Center, 2725 N Clark St",
+      "start": {
+        "dateTime": "2026-01-05T17:00:00-06:00"
+      },
+      "summary": "Wax Appt. w/ Breanna"
     },
     {
+      "end": {
+        "dateTime": "2026-01-08T20:00:00-06:00"
+      },
       "id": "_7113cgq68p2jcb9g6t13ab9k64oj8ba26d33ab9g6ko4ac1o8cq42c9h6c",
-      "summary": "FactSet Holiday Party",
-      "start": "2026-01-08T17:00:00-06:00",
-      "end": "2026-01-08T20:00:00-06:00",
-      "location": "The Bassment, 353 W Hubbard St, Chicago, IL 60654, United States"
+      "location": "The Bassment, 353 W Hubbard St, Chicago, IL 60654, United States",
+      "start": {
+        "dateTime": "2026-01-08T17:00:00-06:00"
+      },
+      "summary": "FactSet Holiday Party"
     },
     {
+      "end": {
+        "dateTime": "2026-01-09T21:30:00-06:00"
+      },
       "id": "_71144e238h136ba164sk8b9k8or44b9p6923cb9k6csj0dhn69336gpn6s",
-      "summary": "Peach Bowl IU vs. Oregon",
-      "start": "2026-01-09T18:30:00-06:00",
-      "end": "2026-01-09T21:30:00-06:00"
+      "start": {
+        "dateTime": "2026-01-09T18:30:00-06:00"
+      },
+      "summary": "Peach Bowl IU vs. Oregon"
     },
     {
+      "end": {
+        "dateTime": "2026-01-12T18:45:00-06:00"
+      },
       "id": "_75344dpo6crjib9g8co4ab9k852j2b9o6p346ba68krj6c9p751j6e1k6k",
-      "summary": "Nail Appt. w/ Kim",
-      "start": "2026-01-12T16:45:00-06:00",
-      "end": "2026-01-12T18:45:00-06:00",
-      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States"
+      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-01-12T16:45:00-06:00"
+      },
+      "summary": "Nail Appt. w/ Kim"
     },
     {
+      "end": {
+        "dateTime": "2026-01-13T21:30:00-06:00"
+      },
       "id": "_6l23adpn74okab9m6srjeb9k852j2b9o6so3gb9l6cokaci48ko46cq56c",
-      "summary": "Trivia",
-      "start": "2026-01-13T19:30:00-06:00",
-      "end": "2026-01-13T21:30:00-06:00",
-      "location": "The Other Side Bar, 2436 N Clark St, Chicago, IL 60614, United States"
+      "location": "The Other Side Bar, 2436 N Clark St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-01-13T19:30:00-06:00"
+      },
+      "summary": "Trivia"
     },
     {
+      "end": {
+        "dateTime": "2026-01-15T16:20:00-06:00"
+      },
       "id": "_6t2jgcpo60o36ba56ks42b9k84p36b9o8koj0b9i70qjed9i8gok6hhp68",
-      "summary": "Derm Appt. w/ Dr. Liszewski",
-      "start": "2026-01-15T15:20:00-06:00",
-      "end": "2026-01-15T16:20:00-06:00",
-      "location": "Northwestern Hospital"
+      "location": "Northwestern Hospital",
+      "start": {
+        "dateTime": "2026-01-15T15:20:00-06:00"
+      },
+      "summary": "Derm Appt. w/ Dr. Liszewski"
     },
     {
+      "end": {
+        "dateTime": "2026-01-16T18:15:00-06:00"
+      },
       "id": "evue229k56b0svskrmms3bgst0",
-      "summary": "Reservation at SUSHI-SAN - Lincoln Park",
-      "start": "2026-01-16T17:15:00-06:00",
-      "end": "2026-01-16T18:15:00-06:00",
-      "location": "SUSHI-SAN - Lincoln Park, 1962 N Halsted St, Chicago, IL, 60614-5009, United States"
+      "location": "SUSHI-SAN - Lincoln Park, 1962 N Halsted St, Chicago, IL, 60614-5009, United States",
+      "start": {
+        "dateTime": "2026-01-16T17:15:00-06:00"
+      },
+      "summary": "Reservation at SUSHI-SAN - Lincoln Park"
     },
     {
+      "end": {
+        "dateTime": "2026-01-18T18:30:00-06:00"
+      },
       "id": "fuuhptc7ot2cgp2qabhii1itrk",
-      "summary": "NFC Divisional Home Game: Chicago Bears vs. Los Angeles Rams",
-      "start": "2026-01-18T17:30:00-06:00",
-      "end": "2026-01-18T18:30:00-06:00",
-      "location": "Soldier Field"
+      "location": "Soldier Field",
+      "start": {
+        "dateTime": "2026-01-18T17:30:00-06:00"
+      },
+      "summary": "NFC Divisional Home Game: Chicago Bears vs. Los Angeles Rams"
     },
     {
+      "end": {
+        "date": "2026-01-20T00:00:00Z"
+      },
       "id": "_6h13aghl8op32b9n852k8b9k61342b9p8p0k4ba16523iga68cs30da46g",
-      "summary": "OOO",
-      "start": "2026-01-19",
-      "end": "2026-01-20"
+      "start": {
+        "date": "2026-01-19T00:00:00Z"
+      },
+      "summary": "OOO"
     },
     {
+      "end": {
+        "date": "2026-01-20T00:00:00Z"
+      },
       "id": "20260119_o3kjmdvd64o73fbst6tsipnsq8",
-      "summary": "Martin Luther King Jr. Day",
-      "start": "2026-01-19",
-      "end": "2026-01-20"
+      "start": {
+        "date": "2026-01-19T00:00:00Z"
+      },
+      "summary": "Martin Luther King Jr. Day"
     },
     {
+      "end": {
+        "dateTime": "2026-01-19T21:30:00-06:00"
+      },
       "id": "_8os3agpi8gsk4b9l6d2jib9k8l1j8b9o6h1kab9g6oqj4ga285238hho6c",
-      "summary": "CFP Championship IU vs. Miami",
-      "start": "2026-01-19T18:30:00-06:00",
-      "end": "2026-01-19T21:30:00-06:00"
+      "start": {
+        "dateTime": "2026-01-19T18:30:00-06:00"
+      },
+      "summary": "CFP Championship IU vs. Miami"
     },
     {
+      "end": {
+        "dateTime": "2026-01-20T09:30:00-06:00"
+      },
       "id": "_6533adi26goj6b9l64p48b9k8d232b9p74ok8ba28kqkad1n6ss3cda26k",
-      "summary": "Derm Appt. w/ Dr. Liszewski",
-      "start": "2026-01-20T08:30:00-06:00",
-      "end": "2026-01-20T09:30:00-06:00",
-      "location": "676 N St Clair St, Chicago, IL 60611, United States"
+      "location": "676 N St Clair St, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-01-20T08:30:00-06:00"
+      },
+      "summary": "Derm Appt. w/ Dr. Liszewski"
     },
     {
+      "end": {
+        "dateTime": "2026-01-22T09:30:00-06:00"
+      },
       "id": "_8h23cdhh65138ba16crk2b9k8p23gb9p74pj6ba46l0kad9o64o4ahho6c",
-      "summary": "Derm Appt. w/ Dr. Liszewski",
-      "start": "2026-01-22T08:30:00-06:00",
-      "end": "2026-01-22T09:30:00-06:00",
-      "location": "676 N St Clair St, Chicago, IL 60611, United States"
+      "location": "676 N St Clair St, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-01-22T08:30:00-06:00"
+      },
+      "summary": "Derm Appt. w/ Dr. Liszewski"
     },
     {
+      "end": {
+        "dateTime": "2026-01-23T10:00:00-06:00"
+      },
       "id": "_6l0k4e268crkcb9o8crjib9k64o3aba288r46b9h6csjcgpj68p46c1p88",
-      "summary": "Derm Appt. w/ Dr. Liszewski",
-      "start": "2026-01-23T09:00:00-06:00",
-      "end": "2026-01-23T10:00:00-06:00",
-      "location": "676 N St Clair St, Chicago, IL 60611, United States"
+      "location": "676 N St Clair St, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-01-23T09:00:00-06:00"
+      },
+      "summary": "Derm Appt. w/ Dr. Liszewski"
     },
     {
+      "end": {
+        "dateTime": "2026-01-24T11:30:00-06:00"
+      },
       "id": "_6ksjahi66l2k6ba48d0k8b9k6sqjeba18oq3eb9j64qj8ga488p44d1g6s",
-      "summary": "Gym w/ Rinnie",
-      "start": "2026-01-24T09:30:00-06:00",
-      "end": "2026-01-24T11:30:00-06:00",
-      "location": "Life Time, 15 W Chicago Ave, Chicago, IL 60654, United States"
+      "location": "Life Time, 15 W Chicago Ave, Chicago, IL 60654, United States",
+      "start": {
+        "dateTime": "2026-01-24T09:30:00-06:00"
+      },
+      "summary": "Gym w/ Rinnie"
     },
     {
+      "end": {
+        "dateTime": "2026-01-24T23:00:00-06:00"
+      },
       "id": "_60r46ghh64p4ab9g60pjab9k8ks38ba274qk2ba488sjic1p8gq38di268",
-      "summary": "Terrapin Flyers Concert",
-      "start": "2026-01-24T20:00:00-06:00",
-      "end": "2026-01-24T23:00:00-06:00",
-      "location": "Garcia's, 1001 W Washington Blvd, Chicago, IL 60607, United States"
+      "location": "Garcia's, 1001 W Washington Blvd, Chicago, IL 60607, United States",
+      "start": {
+        "dateTime": "2026-01-24T20:00:00-06:00"
+      },
+      "summary": "Terrapin Flyers Concert"
     },
     {
+      "end": {
+        "dateTime": "2026-01-25T13:20:00-06:00"
+      },
       "id": "_6l0j0c258h334ba38csk4b9k84skcba188pj0ba3610k6d9p89130c1g6g",
-      "summary": "[solidcore]",
-      "start": "2026-01-25T12:30:00-06:00",
-      "end": "2026-01-25T13:20:00-06:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-01-25T12:30:00-06:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-01-28T18:00:00-06:00"
+      },
       "id": "_61234da26124cb9n88pjgb9k8op3gba1690j8b9l6go42e1m84ok2gi274",
-      "summary": "Nat's for Dinner",
-      "start": "2026-01-28T16:30:00-06:00",
-      "end": "2026-01-28T18:00:00-06:00",
-      "location": "1823 N Sedgwick St, Chicago, IL, United States"
+      "location": "1823 N Sedgwick St, Chicago, IL, United States",
+      "start": {
+        "dateTime": "2026-01-28T16:30:00-06:00"
+      },
+      "summary": "Nat's for Dinner"
     },
     {
+      "end": {
+        "dateTime": "2026-01-29T18:00:00-06:00"
+      },
       "id": "_8l1jac1i68sjeb9j8d1k6b9k6gqk2ba1652jiba58cr3iga38gs46c9o74",
-      "summary": "Wax Appt. w/ Breanna",
-      "start": "2026-01-29T17:00:00-06:00",
-      "end": "2026-01-29T18:00:00-06:00",
-      "location": "European Wax Center, 2725 N Clark St"
+      "location": "European Wax Center, 2725 N Clark St",
+      "start": {
+        "dateTime": "2026-01-29T17:00:00-06:00"
+      },
+      "summary": "Wax Appt. w/ Breanna"
     },
     {
+      "end": {
+        "dateTime": "2026-01-30T16:20:00-06:00"
+      },
       "id": "_6grjcgpl6p242b9g6go4cb9k6srk6ba16oo3ib9p7133ac9k70p44d9n8g",
-      "summary": "[solidcore]",
-      "start": "2026-01-30T15:30:00-06:00",
-      "end": "2026-01-30T16:20:00-06:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-01-30T15:30:00-06:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-01-31T14:00:00-06:00"
+      },
       "id": "_68rjec248h0jab9n6kr48b9k8cq4ab9o60okab9n8orj2di46l144cq18g",
-      "summary": "Gym w/ Nick",
-      "start": "2026-01-31T12:00:00-06:00",
-      "end": "2026-01-31T14:00:00-06:00",
-      "location": "Equinox Lincoln Park, 1750 N Clark St, Chicago, IL 60614, United States"
+      "location": "Equinox Lincoln Park, 1750 N Clark St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-01-31T12:00:00-06:00"
+      },
+      "summary": "Gym w/ Nick"
     },
     {
+      "end": {
+        "dateTime": "2026-02-02T20:30:00-06:00"
+      },
       "id": "_8h136d1m60pj4b9l64p48b9k74r3iba1651jaba28or4adpn74qkcc9p8c",
-      "summary": "Cuisine Queens",
-      "start": "2026-02-02T18:30:00-06:00",
-      "end": "2026-02-02T20:30:00-06:00",
-      "location": "Chicago Diplomat Cafe, 3134 N Lincoln Ave, Chicago, IL 60657, United States"
+      "location": "Chicago Diplomat Cafe, 3134 N Lincoln Ave, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-02-02T18:30:00-06:00"
+      },
+      "summary": "Cuisine Queens"
     },
     {
+      "end": {
+        "dateTime": "2026-02-03T16:20:00-06:00"
+      },
       "id": "_8d34cga26gsjaba66oojeb9k6p23ab9p8cqk2b9p6h33ae1o711j0dq688",
-      "summary": "[solidcore]",
-      "start": "2026-02-03T15:30:00-06:00",
-      "end": "2026-02-03T16:20:00-06:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-02-03T15:30:00-06:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "date": "2026-02-09T00:00:00Z"
+      },
       "id": "_6cr46c1n6p348ba488rj4b9k64q4cba26p2j2b9o750kch266ko4cd238o",
-      "summary": "Steamboat Springs (Talia's Bach)",
-      "start": "2026-02-05",
-      "end": "2026-02-09"
+      "start": {
+        "date": "2026-02-05T00:00:00Z"
+      },
+      "summary": "Steamboat Springs (Talia's Bach)"
     },
     {
+      "end": {
+        "date": "2026-02-07T00:00:00Z"
+      },
       "id": "_6so36e1l84r38b9n6sp38b9k8l1jab9o74rjgb9i8h33gc268cp3egi58g",
-      "summary": "OOO",
-      "start": "2026-02-05",
-      "end": "2026-02-07"
+      "start": {
+        "date": "2026-02-05T00:00:00Z"
+      },
+      "summary": "OOO"
     },
     {
+      "end": {
+        "dateTime": "2026-02-05T11:55:00-06:00"
+      },
       "id": "ur853ckfjeg0hp3rmfq8dtnpc4",
-      "summary": "Flight to Steamboat Springs (UA 1117)",
-      "start": "2026-02-05T08:50:00-06:00",
-      "end": "2026-02-05T11:55:00-06:00",
-      "location": "Chicago ORD"
+      "location": "Chicago ORD",
+      "start": {
+        "dateTime": "2026-02-05T08:50:00-06:00"
+      },
+      "summary": "Flight to Steamboat Springs (UA 1117)"
     },
     {
+      "end": {
+        "dateTime": "2026-02-05T14:30:00-06:00"
+      },
       "id": "_8os3cdhn6spj4b9p74q4cb9k8crk6b9p8h1j8ba56t146ghm8gpk2ca16g",
-      "summary": "Lunch",
-      "start": "2026-02-05T13:30:00-06:00",
-      "end": "2026-02-05T14:30:00-06:00",
-      "location": "Salt & Lime, 628 Lincoln Ave, Steamboat Springs, CO 80487, United States"
+      "location": "Salt & Lime, 628 Lincoln Ave, Steamboat Springs, CO 80487, United States",
+      "start": {
+        "dateTime": "2026-02-05T13:30:00-06:00"
+      },
+      "summary": "Lunch"
     },
     {
+      "end": {
+        "dateTime": "2026-02-05T23:00:00-06:00"
+      },
       "id": "_6co32ghm8kpk2ba68p34ab9k84r38b9p8csjiba68osjig9m6cokada288",
-      "summary": "Dinner",
-      "start": "2026-02-05T21:00:00-06:00",
-      "end": "2026-02-05T23:00:00-06:00",
-      "location": "Mambo's, 521 Lincoln Avenue, Steamboat Springs, CO 80487, United States"
+      "location": "Mambo's, 521 Lincoln Avenue, Steamboat Springs, CO 80487, United States",
+      "start": {
+        "dateTime": "2026-02-05T21:00:00-06:00"
+      },
+      "summary": "Dinner"
     },
     {
+      "end": {
+        "dateTime": "2026-02-06T16:00:00-06:00"
+      },
       "id": "_64oj0h9m70p42b9m8p2kab9k6t0k8ba160pj2ba48ork2di270sj6gpl8o",
-      "summary": "Ski Day",
-      "start": "2026-02-06T08:30:00-06:00",
-      "end": "2026-02-06T16:00:00-06:00"
+      "start": {
+        "dateTime": "2026-02-06T08:30:00-06:00"
+      },
+      "summary": "Ski Day"
     },
     {
+      "end": {
+        "dateTime": "2026-02-07T12:30:00-06:00"
+      },
       "id": "_6sojeca388r3eb9j8d1kab9k68s3ab9o6d244b9p6oo34g9i690j6dhm6c",
-      "summary": "Strawberry Hot Springs",
-      "start": "2026-02-07T10:30:00-06:00",
-      "end": "2026-02-07T12:30:00-06:00"
+      "start": {
+        "dateTime": "2026-02-07T10:30:00-06:00"
+      },
+      "summary": "Strawberry Hot Springs"
     },
     {
+      "end": {
+        "dateTime": "2026-02-08T16:02:00-06:00"
+      },
       "id": "bl51f85t4j8gggvuf10les0t10",
-      "summary": "Flight to Chicago (UA 636)",
-      "start": "2026-02-08T13:01:00-06:00",
-      "end": "2026-02-08T16:02:00-06:00",
-      "location": "Steamboat Springs HDN"
+      "location": "Steamboat Springs HDN",
+      "start": {
+        "dateTime": "2026-02-08T13:01:00-06:00"
+      },
+      "summary": "Flight to Chicago (UA 636)"
     },
     {
+      "end": {
+        "dateTime": "2026-02-08T20:30:00-06:00"
+      },
       "id": "_6sojedq36h13cb9g6p336b9k8d0kcb9p88sj8b9k6sok4hi46srk6h9m84",
-      "summary": "Super Bowl Seahawks vs. Patriots",
-      "start": "2026-02-08T17:30:00-06:00",
-      "end": "2026-02-08T20:30:00-06:00"
+      "start": {
+        "dateTime": "2026-02-08T17:30:00-06:00"
+      },
+      "summary": "Super Bowl Seahawks vs. Patriots"
     },
     {
+      "end": {
+        "dateTime": "2026-02-10T16:45:00-06:00"
+      },
       "id": "_6t0j0ghj6cr36ba18cskab9k6sp4ab9o6opjib9p84p36dhm65138c2284",
-      "summary": "Brow Appt. w/ Nina",
-      "start": "2026-02-10T15:45:00-06:00",
-      "end": "2026-02-10T16:45:00-06:00",
-      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-02-10T15:45:00-06:00"
+      },
+      "summary": "Brow Appt. w/ Nina"
     },
     {
+      "end": {
+        "dateTime": "2026-02-11T20:00:00-06:00"
+      },
       "id": "_6oo48hi288sj2ba56ko30b9k6523gb9p8l13gba260pjeca270s38hhp8o",
-      "summary": "Dinner w/ Grace + Katy",
-      "start": "2026-02-11T18:00:00-06:00",
-      "end": "2026-02-11T20:00:00-06:00",
-      "location": "Boqueria, 807 W Fulton St, Chicago, IL 60607, United States"
+      "location": "Boqueria, 807 W Fulton St, Chicago, IL 60607, United States",
+      "start": {
+        "dateTime": "2026-02-11T18:00:00-06:00"
+      },
+      "summary": "Dinner w/ Grace + Katy"
     },
     {
+      "end": {
+        "dateTime": "2026-02-12T16:20:00-06:00"
+      },
       "id": "_89130dpm6kr3cb9l68oj0b9k6kr38b9o8l134b9h68p38gpl70pjehi16k",
-      "summary": "[solidcore]",
-      "start": "2026-02-12T15:30:00-06:00",
-      "end": "2026-02-12T16:20:00-06:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-02-12T15:30:00-06:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-02-13T13:45:00-06:00"
+      },
       "id": "_70s3acpj88r46b9l88s32b9k70q46ba170r44ba184s30hho6l24cchg6g",
-      "summary": "Nail Appt. w/ Kim",
-      "start": "2026-02-13T11:45:00-06:00",
-      "end": "2026-02-13T13:45:00-06:00",
-      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States"
+      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-02-13T11:45:00-06:00"
+      },
+      "summary": "Nail Appt. w/ Kim"
     },
     {
+      "end": {
+        "date": "2026-02-15T00:00:00Z"
+      },
       "id": "20260214_usq30lg2vsmkhksfk62gq346l4",
-      "summary": "Valentine's Day",
-      "start": "2026-02-14",
-      "end": "2026-02-15"
+      "start": {
+        "date": "2026-02-14T00:00:00Z"
+      },
+      "summary": "Valentine's Day"
     },
     {
+      "end": {
+        "date": "2026-02-17T00:00:00Z"
+      },
       "id": "_8gp3ggq570qjgb9m752jgb9k610j6ba284qjaba48op30e1n8opj8e1g74",
-      "summary": "OOO",
-      "start": "2026-02-16",
-      "end": "2026-02-17"
+      "start": {
+        "date": "2026-02-16T00:00:00Z"
+      },
+      "summary": "OOO"
     },
     {
+      "end": {
+        "date": "2026-02-17T00:00:00Z"
+      },
       "id": "20260216_6md85pbtdqab16gk684vmsa6bg",
-      "summary": "Presidents' Day",
-      "start": "2026-02-16",
-      "end": "2026-02-17"
+      "start": {
+        "date": "2026-02-16T00:00:00Z"
+      },
+      "summary": "Presidents' Day"
     },
     {
+      "end": {
+        "dateTime": "2026-02-19T20:00:00-06:00"
+      },
       "id": "_7524cdi58oqk6b9j6gsk6b9k6kqjaba174r3aba1710k6dq66so46e218c",
-      "summary": "Dinner w/ Rachel",
-      "start": "2026-02-19T18:00:00-06:00",
-      "end": "2026-02-19T20:00:00-06:00",
-      "location": "Sal's Trattoria, 2834 N Southport Ave, Chicago, IL 60657, United States"
+      "location": "Sal's Trattoria, 2834 N Southport Ave, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-02-19T18:00:00-06:00"
+      },
+      "summary": "Dinner w/ Rachel"
     },
     {
+      "end": {
+        "dateTime": "2026-02-20T13:30:00-06:00"
+      },
       "id": "_6h138h1j8h0k2ba28l1k4b9k8l13cb9o6l13ib9h84ok2gpk6533gcpi8k",
-      "summary": "[solidcore]",
-      "start": "2026-02-20T12:30:00-06:00",
-      "end": "2026-02-20T13:30:00-06:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-02-20T12:30:00-06:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-02-20T21:00:00-06:00"
+      },
       "id": "_6crk4ha370sk8ba68oqjib9k6t1k8b9o8oo36b9g68okaghl8osj4cpk6s",
-      "summary": "Dinner w/ TB",
-      "start": "2026-02-20T19:00:00-06:00",
-      "end": "2026-02-20T21:00:00-06:00",
-      "location": "Gibsons Bar & Steakhouse, 1028 N Rush St, Chicago, IL 60611, United States"
+      "location": "Gibsons Bar & Steakhouse, 1028 N Rush St, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-02-20T19:00:00-06:00"
+      },
+      "summary": "Dinner w/ TB"
     },
     {
+      "end": {
+        "dateTime": "2026-02-21T21:30:00-06:00"
+      },
       "id": "_70o42d218cr42b9g6t232b9k64pkaba160s3eb9l6oq46dq36h1jidq588",
-      "summary": "Sam BDay Dinner",
-      "start": "2026-02-21T19:30:00-06:00",
-      "end": "2026-02-21T21:30:00-06:00",
-      "location": "Piccolo Sogno, 464 N Halsted St, Chicago, IL 60642, United States"
+      "location": "Piccolo Sogno, 464 N Halsted St, Chicago, IL 60642, United States",
+      "start": {
+        "dateTime": "2026-02-21T19:30:00-06:00"
+      },
+      "summary": "Sam BDay Dinner"
     },
     {
+      "end": {
+        "dateTime": "2026-02-21T23:00:00-06:00"
+      },
       "id": "s5hqqa7lulkfm2pffps8kb1q10",
-      "summary": "Reservation at The Bassment",
-      "start": "2026-02-21T22:00:00-06:00",
-      "end": "2026-02-21T23:00:00-06:00",
-      "location": "The Bassment, 353 West Hubbard Street, Chicago, IL 60601"
+      "location": "The Bassment, 353 West Hubbard Street, Chicago, IL 60601",
+      "start": {
+        "dateTime": "2026-02-21T22:00:00-06:00"
+      },
+      "summary": "Reservation at The Bassment"
     },
     {
+      "end": {
+        "dateTime": "2026-02-23T18:15:00-06:00"
+      },
       "id": "_8os46di68533eba46cq4cb9k6p0j0b9p74p48ba26t33cdi17533adhg6o",
-      "summary": "Wax Appt. w/ Breanna",
-      "start": "2026-02-23T17:15:00-06:00",
-      "end": "2026-02-23T18:15:00-06:00",
-      "location": "European Wax Center, 2725 N Clark St"
+      "location": "European Wax Center, 2725 N Clark St",
+      "start": {
+        "dateTime": "2026-02-23T17:15:00-06:00"
+      },
+      "summary": "Wax Appt. w/ Breanna"
     },
     {
+      "end": {
+        "dateTime": "2026-02-24T21:00:00-06:00"
+      },
       "id": "_61132dhp8co48b9h651jab9k8p2jeba26kqjaba26gq4cg9p74r34gi270",
-      "summary": "Cuisine Queens",
-      "start": "2026-02-24T19:00:00-06:00",
-      "end": "2026-02-24T21:00:00-06:00",
-      "location": "Suda's, 1524 W Fullerton Ave, Chicago, IL 60614, United States"
+      "location": "Suda's, 1524 W Fullerton Ave, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-02-24T19:00:00-06:00"
+      },
+      "summary": "Cuisine Queens"
     },
     {
+      "end": {
+        "dateTime": "2026-02-27T16:20:00-06:00"
+      },
       "id": "_6cpkada160o46b9j84s3gb9k64o4cba288oj6ba18cr4cda28l23ce9m8g",
-      "summary": "[solidcore]",
-      "start": "2026-02-27T15:30:00-06:00",
-      "end": "2026-02-27T16:20:00-06:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-02-27T15:30:00-06:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-02-27T18:15:00-06:00"
+      },
       "id": "_8h1jch9o74r3ab9j69144b9k68sj4b9p64o38b9k70rk6da168skcha160",
-      "summary": "Massage",
-      "start": "2026-02-27T16:45:00-06:00",
-      "end": "2026-02-27T18:15:00-06:00",
-      "location": "Allyu, 600 W Chicago Ave, Chicago, IL 60654, United States"
+      "location": "Allyu, 600 W Chicago Ave, Chicago, IL 60654, United States",
+      "start": {
+        "dateTime": "2026-02-27T16:45:00-06:00"
+      },
+      "summary": "Massage"
     },
     {
+      "end": {
+        "dateTime": "2026-02-28T15:00:00-06:00"
+      },
       "id": "_64pjiga488o34ba46cskcb9k6kqk4b9p8l14ab9p6513ih9g8oq3gd1j64",
-      "summary": "Brunch w/ V + Maddy + Clare",
-      "start": "2026-02-28T13:00:00-06:00",
-      "end": "2026-02-28T15:00:00-06:00",
-      "location": "Bar Tutto, 1110 W Carroll Ave, Chicago, IL 60607, United States"
+      "location": "Bar Tutto, 1110 W Carroll Ave, Chicago, IL 60607, United States",
+      "start": {
+        "dateTime": "2026-02-28T13:00:00-06:00"
+      },
+      "summary": "Brunch w/ V + Maddy + Clare"
     },
     {
+      "end": {
+        "dateTime": "2026-03-02T10:00:00-06:00"
+      },
       "id": "_8crj0chp6kr48ba28gqj6b9k88oj2ba270rj6ba364q32ea26gsjcdq36o",
-      "summary": "Gyno Appt. w/ Dr. Auger",
-      "start": "2026-03-02T09:00:00-06:00",
-      "end": "2026-03-02T10:00:00-06:00",
-      "location": "Northwestern Medical Group Obstetrics and Gynecology, 680 N Lake Shore Dr, Chicago, IL 60611, United States"
+      "location": "Northwestern Medical Group Obstetrics and Gynecology, 680 N Lake Shore Dr, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-03-02T09:00:00-06:00"
+      },
+      "summary": "Gyno Appt. w/ Dr. Auger"
     },
     {
+      "end": {
+        "dateTime": "2026-03-04T10:00:00-06:00"
+      },
       "id": "_8513ecq174r3cb9p6l0k4b9k6gsjgb9o88s36b9m60ok2ga36gs32ci670",
-      "summary": "Microneedling w/ Emily",
-      "start": "2026-03-04T09:00:00-06:00",
-      "end": "2026-03-04T10:00:00-06:00",
-      "location": "ESTE Aesthetics, 3355 N Lincoln Ave, Ste 12, Chicago, IL 60657, United States"
+      "location": "ESTE Aesthetics, 3355 N Lincoln Ave, Ste 12, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-03-04T09:00:00-06:00"
+      },
+      "summary": "Microneedling w/ Emily"
     },
     {
+      "end": {
+        "dateTime": "2026-03-05T17:20:00-06:00"
+      },
       "id": "_650j2h2384pj2ba46h33gb9k8gp46b9p65244b9k68rk4hhm6ksjie1k70",
-      "summary": "[solidcore]",
-      "start": "2026-03-05T16:30:00-06:00",
-      "end": "2026-03-05T17:20:00-06:00"
+      "start": {
+        "dateTime": "2026-03-05T16:30:00-06:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-03-05T20:30:00-06:00"
+      },
       "id": "1e2e181jfnrgsib9pr7322n0ks",
-      "summary": "Reservation at Topo Gigio",
-      "start": "2026-03-05T19:30:00-06:00",
-      "end": "2026-03-05T20:30:00-06:00",
-      "location": "Topo Gigio, 1516 N Wells St, Chicago, IL, 60610, United States"
+      "location": "Topo Gigio, 1516 N Wells St, Chicago, IL, 60610, United States",
+      "start": {
+        "dateTime": "2026-03-05T19:30:00-06:00"
+      },
+      "summary": "Reservation at Topo Gigio"
     },
     {
-      "id": "5en9tv1ip0jc7llvuekdeu4118",
-      "summary": "Reservation at Bistro Campagne",
-      "start": "2026-03-05T19:30:00-06:00",
-      "end": "2026-03-05T20:30:00-06:00",
-      "location": "Bistro Campagne, 4518 North Lincoln Avenue, Chicago, IL, 60625, US"
-    },
-    {
-      "id": "9vuqp6f35ca1r2gmiu8qus11co",
-      "summary": "Reservation at Bistro Campagne",
-      "start": "2026-03-05T19:30:00-06:00",
-      "end": "2026-03-05T20:30:00-06:00",
-      "location": "Bistro Campagne, 4518 North Lincoln Avenue, Chicago, IL, 60625, US"
-    },
-    {
+      "end": {
+        "dateTime": "2026-03-06T11:00:00-06:00"
+      },
       "id": "_652jcci168pk4ba16d0kcb9k8l138b9p84q30ba468q34h1h6gok8c226o",
-      "summary": "Dentist Appt. w/ Dr. Couret",
-      "start": "2026-03-06T10:00:00-06:00",
-      "end": "2026-03-06T11:00:00-06:00",
-      "location": "Dente Complete Dentistry, 1704 W North Ave, Chicago, IL 60622, United States"
+      "location": "Dente Complete Dentistry, 1704 W North Ave, Chicago, IL 60622, United States",
+      "start": {
+        "dateTime": "2026-03-06T10:00:00-06:00"
+      },
+      "summary": "Dentist Appt. w/ Dr. Couret"
     },
     {
+      "end": {
+        "dateTime": "2026-03-06T17:40:00-06:00"
+      },
       "id": "_64pk6e1g84pk6b9l68skab9k6kskaba260pjib9n6523ggpn6h2jcc218o",
-      "summary": "Brow Appt. w/ Nina",
-      "start": "2026-03-06T16:40:00-06:00",
-      "end": "2026-03-06T17:40:00-06:00",
-      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-03-06T16:40:00-06:00"
+      },
+      "summary": "Brow Appt. w/ Nina"
     },
     {
+      "end": {
+        "dateTime": "2026-03-07T17:15:00-06:00"
+      },
       "id": "vqtr030fdmsv3qmriom9cep304",
-      "summary": "Reservation at Carmine's Chicago",
-      "start": "2026-03-07T16:15:00-06:00",
-      "end": "2026-03-07T17:15:00-06:00",
-      "location": "Carmine's Chicago, 1037 N Rush St, Chicago, IL, 60611, United States"
+      "location": "Carmine's Chicago, 1037 N Rush St, Chicago, IL, 60611, United States",
+      "start": {
+        "dateTime": "2026-03-07T16:15:00-06:00"
+      },
+      "summary": "Reservation at Carmine's Chicago"
     },
     {
+      "end": {
+        "date": "2026-03-09T00:00:00Z"
+      },
       "id": "20260308_ggv49ash2dc1u9ve311s17cv3s",
-      "summary": "Daylight Saving Time starts",
-      "start": "2026-03-08",
-      "end": "2026-03-09"
+      "start": {
+        "date": "2026-03-08T00:00:00Z"
+      },
+      "summary": "Daylight Saving Time starts"
     },
     {
+      "end": {
+        "dateTime": "2026-03-09T19:30:00-05:00"
+      },
       "id": "_60rjeda264o32b9g6cokab9k6goj8b9o8cs48ba5750jcgpn60skce9p8c",
-      "summary": "Nail Appt. w/ Kim",
-      "start": "2026-03-09T17:30:00-05:00",
-      "end": "2026-03-09T19:30:00-05:00",
-      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States"
+      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-03-09T17:30:00-05:00"
+      },
+      "summary": "Nail Appt. w/ Kim"
     },
     {
+      "end": {
+        "date": "2026-03-16T00:00:00Z"
+      },
       "id": "_74skcdpp74oj8b9h6oo46b9k610kab9p70p38b9l8d1kcdhh8h13ee9j8g",
-      "summary": "Naples",
-      "start": "2026-03-11",
-      "end": "2026-03-16"
+      "start": {
+        "date": "2026-03-11T00:00:00Z"
+      },
+      "summary": "Naples"
     },
     {
+      "end": {
+        "date": "2026-03-14T00:00:00Z"
+      },
       "id": "_85246ea26spjcb9j6cs3ib9k6p2j0ba16so46b9p6514ah9k611k6dpg6s",
-      "summary": "OOO",
-      "start": "2026-03-11",
-      "end": "2026-03-14"
+      "start": {
+        "date": "2026-03-11T00:00:00Z"
+      },
+      "summary": "OOO"
     },
     {
+      "end": {
+        "dateTime": "2026-03-11T12:00:00-05:00"
+      },
       "id": "r50gr6o4fn9952anti6e9pu848",
-      "summary": "Flight to Ft. Myers (WN 3992)",
-      "start": "2026-03-11T09:15:00-05:00",
-      "end": "2026-03-11T12:00:00-05:00",
-      "location": "Chicago MDW"
+      "location": "Chicago MDW",
+      "start": {
+        "dateTime": "2026-03-11T09:15:00-05:00"
+      },
+      "summary": "Flight to Ft. Myers (WN 3992)"
     },
     {
+      "end": {
+        "dateTime": "2026-03-11T21:30:00-05:00"
+      },
       "id": "_8orjie1k70qk8ba584r4ab9k88pk8ba16gq4aba47133ih9k84sk2e9h6s",
-      "summary": "Dinner",
-      "start": "2026-03-11T19:30:00-05:00",
-      "end": "2026-03-11T21:30:00-05:00",
-      "location": "Le Colonial - Naples, 457 Fifth Ave S, Naples, FL 34102, United States"
+      "location": "Le Colonial - Naples, 457 Fifth Ave S, Naples, FL 34102, United States",
+      "start": {
+        "dateTime": "2026-03-11T19:30:00-05:00"
+      },
+      "summary": "Dinner"
     },
     {
+      "end": {
+        "dateTime": "2026-03-13T15:30:00-05:00"
+      },
       "id": "_612jcc1l8gs3ib9k8os34b9k6sq3eb9o6orjib9l6l0jgh1o6gsjacpl84",
-      "summary": "Boat Day",
-      "start": "2026-03-13T10:30:00-05:00",
-      "end": "2026-03-13T15:30:00-05:00"
+      "start": {
+        "dateTime": "2026-03-13T10:30:00-05:00"
+      },
+      "summary": "Boat Day"
     },
     {
+      "end": {
+        "dateTime": "2026-03-14T18:00:00-05:00"
+      },
       "id": "_6gpj4c1h8ks32ba1690jeb9k64s34ba260q3aba18l0j2ha58h33chhj64",
-      "summary": "Drinks",
-      "start": "2026-03-14T17:00:00-05:00",
-      "end": "2026-03-14T18:00:00-05:00",
-      "location": "The Vine Room, 465 Fifth Ave S, Naples, FL 34102, United States"
+      "location": "The Vine Room, 465 Fifth Ave S, Naples, FL 34102, United States",
+      "start": {
+        "dateTime": "2026-03-14T17:00:00-05:00"
+      },
+      "summary": "Drinks"
     },
     {
+      "end": {
+        "dateTime": "2026-03-14T20:30:00-05:00"
+      },
       "id": "_6osj8ca284s36ba48kqk6b9k70p3ab9p6os3ab9m60qkadi5710jeh2470",
-      "summary": "Dinner",
-      "start": "2026-03-14T18:30:00-05:00",
-      "end": "2026-03-14T20:30:00-05:00",
-      "location": "Campiello, 1177 Third St S, Naples, FL 34102, United States"
+      "location": "Campiello, 1177 Third St S, Naples, FL 34102, United States",
+      "start": {
+        "dateTime": "2026-03-14T18:30:00-05:00"
+      },
+      "summary": "Dinner"
     },
     {
+      "end": {
+        "dateTime": "2026-03-15T11:25:00-05:00"
+      },
       "id": "6649s0oi5nqka5rdqofdvm6c08",
-      "summary": "Flight to Chicago (UA 2062)",
-      "start": "2026-03-15T08:00:00-05:00",
-      "end": "2026-03-15T11:25:00-05:00",
-      "location": "Fort Myers RSW"
+      "location": "Fort Myers RSW",
+      "start": {
+        "dateTime": "2026-03-15T08:00:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 2062)"
     },
     {
+      "end": {
+        "dateTime": "2026-03-15T16:20:00-05:00"
+      },
       "id": "_6523gh1k64pj2b9m88r3cb9k690k8b9o69148b9p8orkah9g89134hhn8o",
-      "summary": "[solidcore]",
-      "start": "2026-03-15T15:30:00-05:00",
-      "end": "2026-03-15T16:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-03-15T15:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "date": "2026-03-18T00:00:00Z"
+      },
       "id": "20260317_l4mvp4s6evr3tn060mm16jkrgk",
-      "summary": "St. Patrick's Day",
-      "start": "2026-03-17",
-      "end": "2026-03-18"
+      "start": {
+        "date": "2026-03-17T00:00:00Z"
+      },
+      "summary": "St. Patrick's Day"
     },
     {
+      "end": {
+        "dateTime": "2026-03-18T09:30:00-05:00"
+      },
       "id": "_6gr3edhm88ojib9m8d13cb9k852jeba16123eb9j8gp4aea16srj2e1n64",
-      "summary": "Dr. Appt. w/ Dr. Leon",
-      "start": "2026-03-18T08:30:00-05:00",
-      "end": "2026-03-18T09:30:00-05:00",
-      "location": "676 N St Clair St, Chicago, IL 60611, United States"
+      "location": "676 N St Clair St, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-03-18T08:30:00-05:00"
+      },
+      "summary": "Dr. Appt. w/ Dr. Leon"
     },
     {
+      "end": {
+        "dateTime": "2026-03-19T16:20:00-05:00"
+      },
       "id": "_84r44h9h8h0jeba28d236b9k88r46b9o6sq3gba3892j0gph850j6h1h60",
-      "summary": "[solidcore]",
-      "start": "2026-03-19T15:30:00-05:00",
-      "end": "2026-03-19T16:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-03-19T15:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-03-20T20:00:00-05:00"
+      },
       "id": "_74o48dq46ks42b9g8l136b9k8p338b9o74q3ab9n8ko38h9h84p46gpo70",
-      "summary": "Dinner w/ V + Gays",
-      "start": "2026-03-20T18:00:00-05:00",
-      "end": "2026-03-20T20:00:00-05:00",
-      "location": "Carmine's, 1043 N Rush St, Chicago, IL 60611, United States"
+      "location": "Carmine's, 1043 N Rush St, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-03-20T18:00:00-05:00"
+      },
+      "summary": "Dinner w/ V + Gays"
     },
     {
+      "end": {
+        "date": "2026-03-26T00:00:00Z"
+      },
       "id": "_68q4ce1k70r3iba288p3eb9k88o4aba274qkcb9i88s30chk74skch2488",
-      "summary": "NYC",
-      "start": "2026-03-23",
-      "end": "2026-03-26"
+      "start": {
+        "date": "2026-03-23T00:00:00Z"
+      },
+      "summary": "NYC"
     },
     {
+      "end": {
+        "dateTime": "2026-03-23T18:21:00-05:00"
+      },
       "id": "_8oo3aha674p3gb9j88q3ab9k8cr3eb9p70p44b9j88qj4ea38d248ci56g",
-      "summary": "Flight to LaGuardia (UA 5444)",
-      "start": "2026-03-23T16:00:00-05:00",
-      "end": "2026-03-23T18:21:00-05:00",
-      "location": "Chicago O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States"
+      "location": "Chicago O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States",
+      "start": {
+        "dateTime": "2026-03-23T16:00:00-05:00"
+      },
+      "summary": "Flight to LaGuardia (UA 5444)"
     },
     {
+      "end": {
+        "dateTime": "2026-03-24T19:30:00-05:00"
+      },
       "id": "_6gq48h1g88sjib9j8924cb9k8h0jib9o6ssjeb9k8oq46e1n6d336gi660",
-      "summary": "Dinner w/ Anna + Tori",
-      "start": "2026-03-24T17:30:00-05:00",
-      "end": "2026-03-24T19:30:00-05:00",
-      "location": "Casa Tua, 20 E 76th St, New York, NY 10021, United States"
+      "location": "Casa Tua, 20 E 76th St, New York, NY 10021, United States",
+      "start": {
+        "dateTime": "2026-03-24T17:30:00-05:00"
+      },
+      "summary": "Dinner w/ Anna + Tori"
     },
     {
+      "end": {
+        "dateTime": "2026-03-25T17:01:00-05:00"
+      },
       "id": "_70pjcd1g611j8b9n712k4b9k6csj0ba288o30b9j8l146hhj6134aea168",
-      "summary": "Flight to Chicago (UA 533)",
-      "start": "2026-03-25T14:18:00-05:00",
-      "end": "2026-03-25T17:01:00-05:00",
-      "location": "Newark International Airport, 3 Brewster Rd, Newark, NJ 07114, United States"
+      "location": "Newark International Airport, 3 Brewster Rd, Newark, NJ 07114, United States",
+      "start": {
+        "dateTime": "2026-03-25T14:18:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 533)"
     },
     {
+      "end": {
+        "dateTime": "2026-03-27T15:20:00-05:00"
+      },
       "id": "_88s3ihhp8h1jab9p712j0b9k6ooj8ba265230b9h68qjcc236l0k6g9j68",
-      "summary": "[solidcore]",
-      "start": "2026-03-27T14:30:00-05:00",
-      "end": "2026-03-27T15:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-03-27T14:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-03-27T17:00:00-05:00"
+      },
       "id": "_88rk6d9n88sjib9g8crk4b9k8cq30b9o8cqk2b9n8cojechp74sj6h9g74",
-      "summary": "Wax Appt. w/ Breanna",
-      "start": "2026-03-27T16:00:00-05:00",
-      "end": "2026-03-27T17:00:00-05:00",
-      "location": "European Wax Center, 2725 N Clark St"
+      "location": "European Wax Center, 2725 N Clark St",
+      "start": {
+        "dateTime": "2026-03-27T16:00:00-05:00"
+      },
+      "summary": "Wax Appt. w/ Breanna"
     },
     {
+      "end": {
+        "date": "2026-03-31T00:00:00Z"
+      },
       "id": "glt9mtq9jbotfh844tto09spp0",
-      "summary": "Dolly Delivery with The Container Store is Scheduled",
-      "start": "2026-03-30",
-      "end": "2026-03-31",
-      "location": "2345 N Lincoln Ave Apt 508, Chicago, IL 60614-4816"
+      "location": "2345 N Lincoln Ave Apt 508, Chicago, IL 60614-4816",
+      "start": {
+        "date": "2026-03-30T00:00:00Z"
+      },
+      "summary": "Dolly Delivery with The Container Store is Scheduled"
     },
     {
+      "end": {
+        "dateTime": "2026-03-31T21:40:00-05:00"
+      },
       "id": "_750jcdq66533gb9m752j6b9k6cpk2ba26op38ba16kq36e25712kada384",
-      "summary": "Cubs vs. Angels",
-      "start": "2026-03-31T18:40:00-05:00",
-      "end": "2026-03-31T21:40:00-05:00",
-      "location": "Wrigley Field, 1060 W Addison St, Chicago, IL 60613, United States"
+      "location": "Wrigley Field, 1060 W Addison St, Chicago, IL 60613, United States",
+      "start": {
+        "dateTime": "2026-03-31T18:40:00-05:00"
+      },
+      "summary": "Cubs vs. Angels"
     },
     {
+      "end": {
+        "dateTime": "2026-04-01T19:30:00-05:00"
+      },
       "id": "q2uu8kksudu28fhk5oc42lb19k",
-      "summary": "Reservation at Bistro Campagne",
-      "start": "2026-04-01T18:30:00-05:00",
-      "end": "2026-04-01T19:30:00-05:00",
-      "location": "Bistro Campagne, 4518 N Lincoln Ave, Chicago, IL 60625"
+      "location": "Bistro Campagne, 4518 N Lincoln Ave, Chicago, IL 60625",
+      "start": {
+        "dateTime": "2026-04-01T18:30:00-05:00"
+      },
+      "summary": "Reservation at Bistro Campagne"
     },
     {
+      "end": {
+        "dateTime": "2026-04-02T16:20:00-05:00"
+      },
       "id": "_8go32g9h610kab9j8osjab9k6sp34ba18l0j4b9j6spj0di26cs48h9o8o",
-      "summary": "[solidcore]",
-      "start": "2026-04-02T15:30:00-05:00",
-      "end": "2026-04-02T16:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-04-02T15:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "date": "2026-04-05T00:00:00Z"
+      },
       "id": "_64r38gq48gpj2ba16gr4ab9k8oskcba26cpj6b9g8coj4c1p6p2j2ca18k",
-      "summary": "OOO",
-      "start": "2026-04-03",
-      "end": "2026-04-05"
+      "start": {
+        "date": "2026-04-03T00:00:00Z"
+      },
+      "summary": "OOO"
     },
     {
+      "end": {
+        "dateTime": "2026-04-03T16:30:00-05:00"
+      },
       "id": "_8cs3ed1o71148b9p88qjib9k6cq36ba16l236ba68oo3ch9i6h238di374",
-      "summary": "Nat's to Meet E",
-      "start": "2026-04-03T15:00:00-05:00",
-      "end": "2026-04-03T16:30:00-05:00",
-      "location": "1823 N Sedgwick St, Chicago, IL, United States"
+      "location": "1823 N Sedgwick St, Chicago, IL, United States",
+      "start": {
+        "dateTime": "2026-04-03T15:00:00-05:00"
+      },
+      "summary": "Nat's to Meet E"
     },
     {
+      "end": {
+        "dateTime": "2026-04-03T20:00:00-05:00"
+      },
       "id": "_68s30gpn8l334ba18h0kab9k690jeba28gq34b9h65138c238ksjah2484",
-      "summary": "Dinner w/ TB + V",
-      "start": "2026-04-03T18:00:00-05:00",
-      "end": "2026-04-03T20:00:00-05:00",
-      "location": "Topo Gigio Ristorante, 1516 N Wells St, Chicago, IL 60610, United States"
+      "location": "Topo Gigio Ristorante, 1516 N Wells St, Chicago, IL 60610, United States",
+      "start": {
+        "dateTime": "2026-04-03T18:00:00-05:00"
+      },
+      "summary": "Dinner w/ TB + V"
     },
     {
+      "end": {
+        "dateTime": "2026-04-03T22:00:00-05:00"
+      },
       "id": "_6sokcchg6d1jcb9p8h1jeb9k6cpj4ba1711kcba170s3ghi488p42h9n6o",
-      "summary": "Shane Gillis",
-      "start": "2026-04-03T20:00:00-05:00",
-      "end": "2026-04-03T22:00:00-05:00",
-      "location": "United Center, 1901 W Madison St, Chicago, IL 60612, United States"
+      "location": "United Center, 1901 W Madison St, Chicago, IL 60612, United States",
+      "start": {
+        "dateTime": "2026-04-03T20:00:00-05:00"
+      },
+      "summary": "Shane Gillis"
     },
     {
+      "end": {
+        "date": "2026-04-06T00:00:00Z"
+      },
       "id": "20260405_3mu1r7pla9n32j18jktrp5eis8",
-      "summary": "Easter Sunday",
-      "start": "2026-04-05",
-      "end": "2026-04-06"
+      "start": {
+        "date": "2026-04-05T00:00:00Z"
+      },
+      "summary": "Easter Sunday"
     },
     {
+      "end": {
+        "dateTime": "2026-04-05T18:45:00-05:00"
+      },
       "id": "qek80uku6r0remmofn9tg6he5c",
-      "summary": "Reservation at Omakase Box",
-      "start": "2026-04-05T17:45:00-05:00",
-      "end": "2026-04-05T18:45:00-05:00",
-      "location": "Omakase Box, 3038 West Armitage Avenue, Chicago, IL 60647"
+      "location": "Omakase Box, 3038 West Armitage Avenue, Chicago, IL 60647",
+      "start": {
+        "dateTime": "2026-04-05T17:45:00-05:00"
+      },
+      "summary": "Reservation at Omakase Box"
     },
     {
+      "end": {
+        "dateTime": "2026-04-05T20:00:00-05:00"
+      },
       "id": "_84okag9j6l0k4ba48ko44b9k8h33ib9o60q30ba66gsk4d246l33eh1o6k",
-      "summary": "Cuisine Queens",
-      "start": "2026-04-05T18:00:00-05:00",
-      "end": "2026-04-05T20:00:00-05:00",
-      "location": "Omakase Box, 3038 W Armitage Ave, Chicago, IL 60647, United States"
+      "location": "Omakase Box, 3038 W Armitage Ave, Chicago, IL 60647, United States",
+      "start": {
+        "dateTime": "2026-04-05T18:00:00-05:00"
+      },
+      "summary": "Cuisine Queens"
     },
     {
+      "end": {
+        "date": "2026-04-08T00:00:00Z"
+      },
       "id": "_6ks48cq38or4cba18913eb9k6sr48b9o74rk2ba36gqk8g9p8cpj2d1k88",
-      "summary": "Minneapolis",
-      "start": "2026-04-06",
-      "end": "2026-04-08"
+      "start": {
+        "date": "2026-04-06T00:00:00Z"
+      },
+      "summary": "Minneapolis"
     },
     {
+      "end": {
+        "date": "2026-04-08T00:00:00Z"
+      },
       "id": "o00punrkoap164tdih03ab50qk",
-      "summary": "Stay at The Westin Minneapolis",
-      "start": "2026-04-06",
-      "end": "2026-04-08",
-      "location": "The Westin Minneapolis, Minneapolis"
+      "location": "The Westin Minneapolis, Minneapolis",
+      "start": {
+        "date": "2026-04-06T00:00:00Z"
+      },
+      "summary": "Stay at The Westin Minneapolis"
     },
     {
+      "end": {
+        "date": "2026-04-07T00:00:00Z"
+      },
       "id": "20260406_egt1hslergcgifs4s2d8brbu10",
-      "summary": "Easter Monday",
-      "start": "2026-04-06",
-      "end": "2026-04-07"
+      "start": {
+        "date": "2026-04-06T00:00:00Z"
+      },
+      "summary": "Easter Monday"
     },
     {
+      "end": {
+        "dateTime": "2026-04-06T17:43:00-05:00"
+      },
       "id": "_8osjid9j8oo3eb9j88rj0b9k70qkaba28osj4ba38l232ga66csjegpo6g",
-      "summary": "Flight to Minneapolis (UA 1935)",
-      "start": "2026-04-06T16:05:00-05:00",
-      "end": "2026-04-06T17:43:00-05:00",
-      "location": "Chicago O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States"
+      "location": "Chicago O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States",
+      "start": {
+        "dateTime": "2026-04-06T16:05:00-05:00"
+      },
+      "summary": "Flight to Minneapolis (UA 1935)"
     },
     {
+      "end": {
+        "dateTime": "2026-04-07T18:54:00-05:00"
+      },
       "id": "_8oo3icpk6so36b9o6d0k8b9k71136ba28d144ba16osjcca66t2jahhk6g",
-      "summary": "Flight to Chicago (UA 658)",
-      "start": "2026-04-07T17:15:00-05:00",
-      "end": "2026-04-07T18:54:00-05:00",
-      "location": "Minneapolis-Saint Paul International Airport, Glumack Dr, Saint Paul, MN 55111, United States"
+      "location": "Minneapolis-Saint Paul International Airport, Glumack Dr, Saint Paul, MN 55111, United States",
+      "start": {
+        "dateTime": "2026-04-07T17:15:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 658)"
     },
     {
+      "end": {
+        "dateTime": "2026-04-08T18:15:00-05:00"
+      },
       "id": "ocljrk8inat1iqrdm1vvaeh4u8",
-      "summary": "Reservation at Gingie",
-      "start": "2026-04-08T17:15:00-05:00",
-      "end": "2026-04-08T18:15:00-05:00",
-      "location": "Gingie, 707 N Wells St, Chicago, IL, 60654, United States"
+      "location": "Gingie, 707 N Wells St, Chicago, IL, 60654, United States",
+      "start": {
+        "dateTime": "2026-04-08T17:15:00-05:00"
+      },
+      "summary": "Reservation at Gingie"
     },
     {
+      "end": {
+        "dateTime": "2026-04-08T20:00:00-05:00"
+      },
       "id": "_64pk4ci36cr32b9j8h2jib9k74s3eba16so32b9n8p33eh1k6oq34d2370",
-      "summary": "Nail Appt. w/ Kim",
-      "start": "2026-04-08T18:00:00-05:00",
-      "end": "2026-04-08T20:00:00-05:00",
-      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States"
+      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-04-08T18:00:00-05:00"
+      },
+      "summary": "Nail Appt. w/ Kim"
     },
     {
+      "end": {
+        "dateTime": "2026-04-09T16:20:00-05:00"
+      },
       "id": "_8d33ig9h6cr44b9i6gpk2b9k60o30b9p74p32b9l6ksj8d9k6p334ci688",
-      "summary": "[solidcore]",
-      "start": "2026-04-09T15:30:00-05:00",
-      "end": "2026-04-09T16:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-04-09T15:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-04-09T19:45:00-05:00"
+      },
       "id": "_8l2jegpp6so32b9p6coj0b9k6934cba16ko36b9o6l0j4cpj84pjghhh64",
-      "summary": "Dinner w/ Maddy + V + Clare",
-      "start": "2026-04-09T17:45:00-05:00",
-      "end": "2026-04-09T19:45:00-05:00",
-      "location": "Segnatore, 1001 N California Ave, Chicago, IL 60622, United States"
+      "location": "Segnatore, 1001 N California Ave, Chicago, IL 60622, United States",
+      "start": {
+        "dateTime": "2026-04-09T17:45:00-05:00"
+      },
+      "summary": "Dinner w/ Maddy + V + Clare"
     },
     {
+      "end": {
+        "dateTime": "2026-04-09T18:45:00-05:00"
+      },
       "id": "fb7v8ops39edbpjq582g583h34",
-      "summary": "Reservation at Segnatore",
-      "start": "2026-04-09T17:45:00-05:00",
-      "end": "2026-04-09T18:45:00-05:00",
-      "location": "Segnatore, 1001 North California Avenue, Chicago, IL, 60622, US"
+      "location": "Segnatore, 1001 North California Avenue, Chicago, IL, 60622, US",
+      "start": {
+        "dateTime": "2026-04-09T17:45:00-05:00"
+      },
+      "summary": "Reservation at Segnatore"
     },
     {
+      "end": {
+        "dateTime": "2026-04-09T18:45:00-05:00"
+      },
       "id": "uj300hnb9753i9pfn6llp2nneo",
-      "summary": "Reservation at Segnatore",
-      "start": "2026-04-09T17:45:00-05:00",
-      "end": "2026-04-09T18:45:00-05:00",
-      "location": "Segnatore, 1001 North California Avenue, Chicago, IL, 60622, US"
+      "location": "Segnatore, 1001 North California Avenue, Chicago, IL, 60622, US",
+      "start": {
+        "dateTime": "2026-04-09T17:45:00-05:00"
+      },
+      "summary": "Reservation at Segnatore"
     },
     {
+      "end": {
+        "date": "2026-04-12T00:00:00Z"
+      },
       "id": "_8cpk4dq369232b9l6ss36b9k6t2j2b9p6so4cb9j8os4aghk68rjcghn8c",
-      "summary": "Philadelphia",
-      "start": "2026-04-11",
-      "end": "2026-04-12"
+      "start": {
+        "date": "2026-04-11T00:00:00Z"
+      },
+      "summary": "Philadelphia"
     },
     {
+      "end": {
+        "date": "2026-04-13T00:00:00Z"
+      },
       "id": "_8gpkadhn8op32b9h6gr36b9k6ko3gba284q42b9k64p36cpl6kr32h9n6o",
-      "summary": "Philadelphia",
-      "start": "2026-04-11",
-      "end": "2026-04-13"
+      "start": {
+        "date": "2026-04-11T00:00:00Z"
+      },
+      "summary": "Philadelphia"
     },
     {
+      "end": {
+        "dateTime": "2026-04-11T13:13:00-05:00"
+      },
       "id": "a3a3gdmt0bf8hfgvnhiuamldvc",
-      "summary": "Flight to Philadelphia (UA 2182)",
-      "start": "2026-04-11T11:05:00-05:00",
-      "end": "2026-04-11T13:13:00-05:00",
-      "location": "Chicago ORD"
+      "location": "Chicago ORD",
+      "start": {
+        "dateTime": "2026-04-11T11:05:00-05:00"
+      },
+      "summary": "Flight to Philadelphia (UA 2182)"
     },
     {
+      "end": {
+        "dateTime": "2026-04-11T14:30:00-05:00"
+      },
       "id": "_60s30dhj85242b9l8d336b9k69342ba16ssj4ba370s34e2370s3gd1l68",
-      "summary": "Emma's Engagement!!",
-      "start": "2026-04-11T13:30:00-05:00",
-      "end": "2026-04-11T14:30:00-05:00"
+      "start": {
+        "dateTime": "2026-04-11T13:30:00-05:00"
+      },
+      "summary": "Emma's Engagement!!"
     },
     {
+      "end": {
+        "dateTime": "2026-04-11T20:00:00-05:00"
+      },
       "id": "_711jah9g70s36b9j64o4cb9k6kpjeba164r38b9p74rk8d9l84rk8dpg8o",
-      "summary": "Dinner",
-      "start": "2026-04-11T18:00:00-05:00",
-      "end": "2026-04-11T20:00:00-05:00",
-      "location": "meetinghouse"
+      "location": "meetinghouse",
+      "start": {
+        "dateTime": "2026-04-11T18:00:00-05:00"
+      },
+      "summary": "Dinner"
     },
     {
+      "end": {
+        "dateTime": "2026-04-12T10:30:00-05:00"
+      },
       "id": "_6csjcci568r3aba48h14ab9k652j4ba28h13ab9p6914ce1m89134chh8c",
-      "summary": "Brunch",
-      "start": "2026-04-12T09:00:00-05:00",
-      "end": "2026-04-12T10:30:00-05:00",
-      "location": "Suraya, 1528 Frankford Ave, Philadelphia, PA 19125, United States"
+      "location": "Suraya, 1528 Frankford Ave, Philadelphia, PA 19125, United States",
+      "start": {
+        "dateTime": "2026-04-12T09:00:00-05:00"
+      },
+      "summary": "Brunch"
     },
     {
+      "end": {
+        "dateTime": "2026-04-12T14:55:00-05:00"
+      },
       "id": "kh527g6tfmlae00hko01l4pc94",
-      "summary": "Flight to Chicago (UA 2207)",
-      "start": "2026-04-12T12:27:00-05:00",
-      "end": "2026-04-12T14:55:00-05:00",
-      "location": "Philadelphia PHL"
+      "location": "Philadelphia PHL",
+      "start": {
+        "dateTime": "2026-04-12T12:27:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 2207)"
     },
     {
+      "end": {
+        "dateTime": "2026-04-13T18:30:00-05:00"
+      },
       "id": "_8gp30c9k652k8b9m60qjib9k74q32b9o6orj0b9h88sjidq16t2k8dpg88",
-      "summary": "Brow Appt. w/ Nina",
-      "start": "2026-04-13T17:30:00-05:00",
-      "end": "2026-04-13T18:30:00-05:00",
-      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-04-13T17:30:00-05:00"
+      },
+      "summary": "Brow Appt. w/ Nina"
     },
     {
+      "end": {
+        "date": "2026-04-16T00:00:00Z"
+      },
       "id": "20260415_fkehtfbgrr6j65q23flu2k5vu0",
-      "summary": "Tax Day",
-      "start": "2026-04-15",
-      "end": "2026-04-16"
+      "start": {
+        "date": "2026-04-15T00:00:00Z"
+      },
+      "summary": "Tax Day"
     },
     {
+      "end": {
+        "dateTime": "2026-04-16T19:15:00-05:00"
+      },
       "id": "84jo32h45t88ol9uvtrioeqf4s",
-      "summary": "Reservation at SKY Restaurant",
-      "start": "2026-04-16T18:15:00-05:00",
-      "end": "2026-04-16T19:15:00-05:00",
-      "location": "SKY Restaurant, 2300 N Lincoln Park W, Chicago, IL 60614"
+      "location": "SKY Restaurant, 2300 N Lincoln Park W, Chicago, IL 60614",
+      "start": {
+        "dateTime": "2026-04-16T18:15:00-05:00"
+      },
+      "summary": "Reservation at SKY Restaurant"
     },
     {
+      "end": {
+        "dateTime": "2026-04-16T20:30:00-05:00"
+      },
       "id": "_64o42h256d344b9g88q44b9k8l2j0ba270p46b9l85132d9k6h1jie1h8o",
-      "summary": "Dinner w/ Grace + Katy",
-      "start": "2026-04-16T18:30:00-05:00",
-      "end": "2026-04-16T20:30:00-05:00",
-      "location": "S.K.Y., 2300 N Lincoln Park W, Chicago, IL 60614, United States"
+      "location": "S.K.Y., 2300 N Lincoln Park W, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-04-16T18:30:00-05:00"
+      },
+      "summary": "Dinner w/ Grace + Katy"
     },
     {
+      "end": {
+        "dateTime": "2026-04-17T15:20:00-05:00"
+      },
       "id": "_6d2j6d9g6oq42ba360skab9k6ko46ba164qj2b9g74r32d9m6cqjagpk88",
-      "summary": "[solidcore]",
-      "start": "2026-04-17T14:30:00-05:00",
-      "end": "2026-04-17T15:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-04-17T14:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-04-18T20:30:00-05:00"
+      },
       "id": "_8gq3gcpo70o38b9j8gr48b9k7533eba171248ba18l134g9m6d33aga36c",
-      "summary": "Cuisine Queens",
-      "start": "2026-04-18T18:30:00-05:00",
-      "end": "2026-04-18T20:30:00-05:00",
-      "location": "Sun Wah BBQ, 5039 N Broadway, Chicago, IL 60640, United States"
+      "location": "Sun Wah BBQ, 5039 N Broadway, Chicago, IL 60640, United States",
+      "start": {
+        "dateTime": "2026-04-18T18:30:00-05:00"
+      },
+      "summary": "Cuisine Queens"
     },
     {
+      "end": {
+        "dateTime": "2026-04-20T18:30:00-05:00"
+      },
       "id": "_6l2k2c266sr3cba66524ab9k6cr46ba28orj6b9i6oo4ce9j8os32d9p6s",
-      "summary": "Wax Appt. w/ Breanna",
-      "start": "2026-04-20T17:30:00-05:00",
-      "end": "2026-04-20T18:30:00-05:00",
-      "location": "European Wax Center, 2725 N Clark St"
+      "location": "European Wax Center, 2725 N Clark St",
+      "start": {
+        "dateTime": "2026-04-20T17:30:00-05:00"
+      },
+      "summary": "Wax Appt. w/ Breanna"
     },
     {
+      "end": {
+        "date": "2026-04-24T00:00:00Z"
+      },
       "id": "1h6skh2plr591j4ug2khog4nu0",
-      "summary": "Stay at Le M\u00e9ridien Charlotte",
-      "start": "2026-04-22",
-      "end": "2026-04-24",
-      "location": "Le M\u00e9ridien Charlotte, Charlotte"
+      "location": "Le M\u00e9ridien Charlotte, Charlotte",
+      "start": {
+        "date": "2026-04-22T00:00:00Z"
+      },
+      "summary": "Stay at Le M\u00e9ridien Charlotte"
     },
     {
+      "end": {
+        "date": "2026-04-23T00:00:00Z"
+      },
       "id": "_69246gq5751jeba174r4cb9k60o30ba16ksjgb9j6l136e9o88pjecpk6k",
-      "summary": "Charlotte",
-      "start": "2026-04-22",
-      "end": "2026-04-23"
+      "start": {
+        "date": "2026-04-22T00:00:00Z"
+      },
+      "summary": "Charlotte"
     },
     {
+      "end": {
+        "dateTime": "2026-04-22T09:06:00-05:00"
+      },
       "id": "_84s3ad9g6gq30ba68kq42b9k8goj6ba16ook8ba670ok6g9g8kp34dpp64",
-      "summary": "Flight to Charlotte (UA)",
-      "start": "2026-04-22T06:55:00-05:00",
-      "end": "2026-04-22T09:06:00-05:00",
-      "location": "Chicago O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States"
+      "location": "Chicago O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States",
+      "start": {
+        "dateTime": "2026-04-22T06:55:00-05:00"
+      },
+      "summary": "Flight to Charlotte (UA)"
     },
     {
+      "end": {
+        "dateTime": "2026-04-22T19:00:00-05:00"
+      },
       "id": "_6d238da68d238b9h74pj4b9k8crjgba2712j2b9o8p230hhg6p138dpl6c",
-      "summary": "FactSet CLT Office Happy Hour",
-      "start": "2026-04-22T17:30:00-05:00",
-      "end": "2026-04-22T19:00:00-05:00",
-      "location": "Legion Brewing South Park, 5610 Carnegie Blvd, Charlotte, NC 28209, United States"
+      "location": "Legion Brewing South Park, 5610 Carnegie Blvd, Charlotte, NC 28209, United States",
+      "start": {
+        "dateTime": "2026-04-22T17:30:00-05:00"
+      },
+      "summary": "FactSet CLT Office Happy Hour"
     },
     {
+      "end": {
+        "date": "2026-04-26T00:00:00Z"
+      },
       "id": "_890jag9i6orjaba18h2j4b9k6913gb9o751j6ba28cojghhi8d14adq18o",
-      "summary": "NYC",
-      "start": "2026-04-23",
-      "end": "2026-04-26"
+      "start": {
+        "date": "2026-04-23T00:00:00Z"
+      },
+      "summary": "NYC"
     },
     {
+      "end": {
+        "dateTime": "2026-04-23T17:09:00-05:00"
+      },
       "id": "bjgu39lsj20ep26ffb84bmcqg0",
-      "summary": "Flight to New York (AA 1373)",
-      "start": "2026-04-23T15:13:00-05:00",
-      "end": "2026-04-23T17:09:00-05:00",
-      "location": "Charlotte CLT"
+      "location": "Charlotte CLT",
+      "start": {
+        "dateTime": "2026-04-23T15:13:00-05:00"
+      },
+      "summary": "Flight to New York (AA 1373)"
     },
     {
+      "end": {
+        "dateTime": "2026-04-23T21:00:00-05:00"
+      },
       "id": "_8kq30cq488s42b9l74o4cb9k8h238b9p74okcb9k6t2k4c2670s38d9p8c",
-      "summary": "Dinner w/ Anna + Ben",
-      "start": "2026-04-23T19:00:00-05:00",
-      "end": "2026-04-23T21:00:00-05:00",
-      "location": "Amarena, 151 E 82nd St, New York, NY 10028, United States"
+      "location": "Amarena, 151 E 82nd St, New York, NY 10028, United States",
+      "start": {
+        "dateTime": "2026-04-23T19:00:00-05:00"
+      },
+      "summary": "Dinner w/ Anna + Ben"
     },
     {
+      "end": {
+        "dateTime": "2026-04-24T23:00:00-05:00"
+      },
       "id": "_70q32ga360q34b9k68rjeb9k7123eba18cs30b9p88pjaci668qj2cpm6s",
-      "summary": "Syd + Jack Engagement Party",
-      "start": "2026-04-24T20:00:00-05:00",
-      "end": "2026-04-24T23:00:00-05:00",
-      "location": "Analogue, 19 W 8th St, New York, NY 10011, United States"
+      "location": "Analogue, 19 W 8th St, New York, NY 10011, United States",
+      "start": {
+        "dateTime": "2026-04-24T20:00:00-05:00"
+      },
+      "summary": "Syd + Jack Engagement Party"
     },
     {
+      "end": {
+        "dateTime": "2026-04-25T12:00:00-05:00"
+      },
       "id": "m998jvuncf8me40em8p1t2v3nk",
-      "summary": "Flight to Chicago (UA 1310)",
-      "start": "2026-04-25T09:15:00-05:00",
-      "end": "2026-04-25T12:00:00-05:00",
-      "location": "New York LGA"
+      "location": "New York LGA",
+      "start": {
+        "dateTime": "2026-04-25T09:15:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 1310)"
     },
     {
+      "end": {
+        "dateTime": "2026-04-25T19:30:00-05:00"
+      },
       "id": "_6spjcgq38d232ba16ssj4b9k84qj4ba16p334ba474ok8gho74r3eea664",
-      "summary": "Dinner w/ Dad",
-      "start": "2026-04-25T17:30:00-05:00",
-      "end": "2026-04-25T19:30:00-05:00",
-      "location": "Rose Mary, 932 W Fulton Market, Chicago, IL 60607, United States"
+      "location": "Rose Mary, 932 W Fulton Market, Chicago, IL 60607, United States",
+      "start": {
+        "dateTime": "2026-04-25T17:30:00-05:00"
+      },
+      "summary": "Dinner w/ Dad"
     },
     {
+      "end": {
+        "dateTime": "2026-04-26T15:20:00-05:00"
+      },
       "id": "_8op30c248ks4ab9g8kpk2b9k74q48b9o8533iba28h348e9h8oojie2470",
-      "summary": "[solidcore]",
-      "start": "2026-04-26T14:30:00-05:00",
-      "end": "2026-04-26T15:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-04-26T14:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-04-30T21:15:00-05:00"
+      },
       "id": "_88p3gdq468o46ba56osj0b9k6t0j6b9p60q48b9g68pj4h1j8p14adhj8g",
-      "summary": "Maddy Surprise Dinner",
-      "start": "2026-04-30T18:15:00-05:00",
-      "end": "2026-04-30T21:15:00-05:00"
+      "start": {
+        "dateTime": "2026-04-30T18:15:00-05:00"
+      },
+      "summary": "Maddy Surprise Dinner"
     },
     {
+      "end": {
+        "dateTime": "2026-05-01T16:20:00-05:00"
+      },
       "id": "_6d2jihi18crk6b9o651j6b9k610k8ba26oo42b9o70p36e1g70q46c9l6s",
-      "summary": "FactSet Cubs Game",
-      "start": "2026-05-01T13:20:00-05:00",
-      "end": "2026-05-01T16:20:00-05:00",
-      "location": "Wrigley Field, 1060 W Addison St, Chicago, IL 60613, United States"
+      "location": "Wrigley Field, 1060 W Addison St, Chicago, IL 60613, United States",
+      "start": {
+        "dateTime": "2026-05-01T13:20:00-05:00"
+      },
+      "summary": "FactSet Cubs Game"
     },
     {
+      "end": {
+        "dateTime": "2026-05-02T15:20:00-05:00"
+      },
       "id": "_8kqjeg9h6gojib9m6sq3gb9k8cs46b9o74p3aba48oq30cho8l33idpk70",
-      "summary": "[solidcore]",
-      "start": "2026-05-02T14:30:00-05:00",
-      "end": "2026-05-02T15:20:00-05:00"
+      "start": {
+        "dateTime": "2026-05-02T14:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "date": "2026-05-06T00:00:00Z"
+      },
       "id": "20260505_hm1dckhe8mj1ka0asb821viv0g",
-      "summary": "Cinco de Mayo",
-      "start": "2026-05-05",
-      "end": "2026-05-06"
+      "start": {
+        "date": "2026-05-05T00:00:00Z"
+      },
+      "summary": "Cinco de Mayo"
     },
     {
+      "end": {
+        "dateTime": "2026-05-06T18:10:00-05:00"
+      },
       "id": "_84q38cpg6sp38ba46sq46b9k6l1jgba28l2jeba460q46h2260sk6ga16o",
-      "summary": "Microneedling w/ Emily",
-      "start": "2026-05-06T17:10:00-05:00",
-      "end": "2026-05-06T18:10:00-05:00",
-      "location": "ESTE Aesthetics, 3355 N Lincoln Ave, Ste 12, Chicago, IL 60657, United States"
+      "location": "ESTE Aesthetics, 3355 N Lincoln Ave, Ste 12, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-05-06T17:10:00-05:00"
+      },
+      "summary": "Microneedling w/ Emily"
     },
     {
+      "end": {
+        "dateTime": "2026-05-08T13:20:00-05:00"
+      },
       "id": "_6sp30c226gqjeba175142b9k60qk4ba189134ba670pj4g9g84r3ggpi6o",
-      "summary": "[solidcore]",
-      "start": "2026-05-08T12:30:00-05:00",
-      "end": "2026-05-08T13:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-05-08T12:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-05-08T19:45:00-05:00"
+      },
       "id": "_84s4cea46krkcb9i6gr3gb9k8ko38b9o70s3gba38gpjegq68cs4ae9g6c",
-      "summary": "Nail Appt. w/ Kim",
-      "start": "2026-05-08T17:45:00-05:00",
-      "end": "2026-05-08T19:45:00-05:00",
-      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States"
+      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-05-08T17:45:00-05:00"
+      },
+      "summary": "Nail Appt. w/ Kim"
     },
     {
+      "end": {
+        "dateTime": "2026-05-09T21:30:00-05:00"
+      },
       "id": "_8p0j2e226d1jgba460ok8b9k6cs3cba17133eb9g6l130e1p64rj0chg8o",
-      "summary": "Dinner w/ Rach + V",
-      "start": "2026-05-09T18:30:00-05:00",
-      "end": "2026-05-09T21:30:00-05:00",
-      "location": "Carmine's, 1043 N Rush St, Chicago, IL 60611, United States"
+      "location": "Carmine's, 1043 N Rush St, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-05-09T18:30:00-05:00"
+      },
+      "summary": "Dinner w/ Rach + V"
     },
     {
+      "end": {
+        "date": "2026-05-11T00:00:00Z"
+      },
       "id": "20260510_pb76790v60kap1j6ra4f75ms9o",
-      "summary": "Mother's Day",
-      "start": "2026-05-10",
-      "end": "2026-05-11"
+      "start": {
+        "date": "2026-05-10T00:00:00Z"
+      },
+      "summary": "Mother's Day"
     },
     {
+      "end": {
+        "dateTime": "2026-05-10T15:20:00-05:00"
+      },
       "id": "_6h138dpm6kqjab9h691jeb9k64ok2ba2611jeb9o68r3agpm6gsjcd1i6g",
-      "summary": "Brow Appt. w/ Nina",
-      "start": "2026-05-10T14:20:00-05:00",
-      "end": "2026-05-10T15:20:00-05:00",
-      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-05-10T14:20:00-05:00"
+      },
+      "summary": "Brow Appt. w/ Nina"
     },
     {
+      "end": {
+        "dateTime": "2026-05-14T19:30:00-05:00"
+      },
       "id": "_8kqj2gi56spjeba270ok6b9k84s34ba1751jgb9i74pjgh1k8cs3id9i84",
-      "summary": "Dinner w/ Gals",
-      "start": "2026-05-14T17:30:00-05:00",
-      "end": "2026-05-14T19:30:00-05:00",
-      "location": "Topo Gigio Ristorante, 1516 N Wells St, Chicago, IL 60610, United States"
+      "location": "Topo Gigio Ristorante, 1516 N Wells St, Chicago, IL 60610, United States",
+      "start": {
+        "dateTime": "2026-05-14T17:30:00-05:00"
+      },
+      "summary": "Dinner w/ Gals"
     },
     {
+      "end": {
+        "dateTime": "2026-05-16T15:30:00-05:00"
+      },
       "id": "_8oo44c1o8grkcb9n6ks4ab9k6t0j4b9o7514cba588rkch1g8p14cc1k68",
-      "summary": "Drinks w/ Sam",
-      "start": "2026-05-16T14:00:00-05:00",
-      "end": "2026-05-16T15:30:00-05:00",
-      "location": "Big Star, 1531 N Damen Ave, Chicago, IL 60622, United States"
+      "location": "Big Star, 1531 N Damen Ave, Chicago, IL 60622, United States",
+      "start": {
+        "dateTime": "2026-05-16T14:00:00-05:00"
+      },
+      "summary": "Drinks w/ Sam"
     },
     {
+      "end": {
+        "dateTime": "2026-05-16T17:30:00-05:00"
+      },
       "id": "_8grkae9h68q34ba56p0jcb9k74o36ba2752k8ba689244gpk6sq3iea460",
-      "summary": "Sam's Engagement!!",
-      "start": "2026-05-16T15:30:00-05:00",
-      "end": "2026-05-16T17:30:00-05:00",
-      "location": "The Up Room, 2018 W North Ave, Chicago, IL 60647, United States"
+      "location": "The Up Room, 2018 W North Ave, Chicago, IL 60647, United States",
+      "start": {
+        "dateTime": "2026-05-16T15:30:00-05:00"
+      },
+      "summary": "Sam's Engagement!!"
     },
     {
+      "end": {
+        "dateTime": "2026-05-16T19:30:00-05:00"
+      },
       "id": "_68okaea36gojeb9o8p1j0b9k890jeb9o6ko3cb9m712k2h9n6soj2d9j6s",
-      "summary": "Dinner",
-      "start": "2026-05-16T17:30:00-05:00",
-      "end": "2026-05-16T19:30:00-05:00",
-      "location": "Paradise Park, 1913 W North Ave, Chicago, IL 60622, United States"
+      "location": "Paradise Park, 1913 W North Ave, Chicago, IL 60622, United States",
+      "start": {
+        "dateTime": "2026-05-16T17:30:00-05:00"
+      },
+      "summary": "Dinner"
     },
     {
+      "end": {
+        "dateTime": "2026-05-16T22:30:00-05:00"
+      },
       "id": "_84p3cdpn74rkab9m64o4cb9k71242ba18d13ib9m6cqjeda160o34d1h84",
-      "summary": "Sam + John Engagement Party",
-      "start": "2026-05-16T19:30:00-05:00",
-      "end": "2026-05-16T22:30:00-05:00",
-      "location": "Midwest Coast Brewing Company, 2137 W Walnut St, Chicago, IL 60612, United States"
+      "location": "Midwest Coast Brewing Company, 2137 W Walnut St, Chicago, IL 60612, United States",
+      "start": {
+        "dateTime": "2026-05-16T19:30:00-05:00"
+      },
+      "summary": "Sam + John Engagement Party"
     },
     {
+      "end": {
+        "dateTime": "2026-05-17T12:15:00-05:00"
+      },
       "id": "_6op4ahhk8opjeb9p711jcb9k6kr36b9o6or4cb9o8933ah1n7133ih256k",
-      "summary": "Brunch",
-      "start": "2026-05-17T10:15:00-05:00",
-      "end": "2026-05-17T12:15:00-05:00",
-      "location": "Beatnik On The River"
+      "location": "Beatnik On The River",
+      "start": {
+        "dateTime": "2026-05-17T10:15:00-05:00"
+      },
+      "summary": "Brunch"
     },
     {
+      "end": {
+        "dateTime": "2026-05-17T16:20:00-05:00"
+      },
       "id": "_8p13ihi46soj8b9h8gq42b9k8524cb9p8oqjgba174o3cc1j850j0e1m8g",
-      "summary": "[solidcore]",
-      "start": "2026-05-17T15:30:00-05:00",
-      "end": "2026-05-17T16:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-05-17T15:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-05-19T16:20:00-05:00"
+      },
       "id": "_8gsk2d2260rkcb9i8d2jgb9k88qk4ba16kskaba574qj0d9n68p3ig9h64",
-      "summary": "[solidcore]",
-      "start": "2026-05-19T15:30:00-05:00",
-      "end": "2026-05-19T16:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-05-19T15:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "date": "2026-05-25T00:00:00Z"
+      },
       "id": "_70q4agq18cr42b9o6p23eb9k6gq4ab9p6d146ba26kq36e1h890j8ghp6o",
-      "summary": "STL",
-      "start": "2026-05-21",
-      "end": "2026-05-25"
+      "start": {
+        "date": "2026-05-21T00:00:00Z"
+      },
+      "summary": "STL"
     },
     {
+      "end": {
+        "dateTime": "2026-05-21T15:30:00-05:00"
+      },
       "id": "_891jgc9m8d348b9h8h330b9k6113aba28l34ab9o70rjae258cq42c9l8k",
-      "summary": "Pick Up Stevie",
-      "start": "2026-05-21T15:00:00-05:00",
-      "end": "2026-05-21T15:30:00-05:00",
-      "location": "Wag Hotels, 1214 W Monroe St, Chicago, IL 60607, United States"
+      "location": "Wag Hotels, 1214 W Monroe St, Chicago, IL 60607, United States",
+      "start": {
+        "dateTime": "2026-05-21T15:00:00-05:00"
+      },
+      "summary": "Pick Up Stevie"
     },
     {
+      "end": {
+        "dateTime": "2026-05-22T19:00:00-05:00"
+      },
       "id": "_60qk6dhp6p14cba48or36b9k690jcba16d342b9p64qjcha38gr42da674",
-      "summary": "Dinner",
-      "start": "2026-05-22T17:00:00-05:00",
-      "end": "2026-05-22T19:00:00-05:00",
-      "location": "Vicia, 4260 Forest Park Ave, Saint Louis, MO 63108, United States"
+      "location": "Vicia, 4260 Forest Park Ave, Saint Louis, MO 63108, United States",
+      "start": {
+        "dateTime": "2026-05-22T17:00:00-05:00"
+      },
+      "summary": "Dinner"
     },
     {
+      "end": {
+        "dateTime": "2026-05-24T09:35:00-05:00"
+      },
       "id": "e6bbepsm0p7gji0g090kkf99qc",
-      "summary": "Flight to Chicago (UA 4544)",
-      "start": "2026-05-24T08:00:00-05:00",
-      "end": "2026-05-24T09:35:00-05:00",
-      "location": "St Louis STL"
+      "location": "St Louis STL",
+      "start": {
+        "dateTime": "2026-05-24T08:00:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 4544)"
     },
     {
+      "end": {
+        "dateTime": "2026-05-24T16:20:00-05:00"
+      },
       "id": "_6923ee1o74ok4b9o88qkcb9k64qkcb9o6513cb9n70oj8c9k8524acpp6c",
-      "summary": "Cubs vs. Astros",
-      "start": "2026-05-24T13:20:00-05:00",
-      "end": "2026-05-24T16:20:00-05:00",
-      "location": "Wrigley Field, 1060 W Addison St, Chicago, IL 60613, United States"
+      "location": "Wrigley Field, 1060 W Addison St, Chicago, IL 60613, United States",
+      "start": {
+        "dateTime": "2026-05-24T13:20:00-05:00"
+      },
+      "summary": "Cubs vs. Astros"
     },
     {
+      "end": {
+        "date": "2026-05-27T00:00:00Z"
+      },
       "id": "_8krk2chi61342b9h8op4cb9k6p23gba18p2j4ba46t2j4gq560pj0d1j8c",
-      "summary": "OOO",
-      "start": "2026-05-25",
-      "end": "2026-05-27"
+      "start": {
+        "date": "2026-05-25T00:00:00Z"
+      },
+      "summary": "OOO"
     },
     {
+      "end": {
+        "date": "2026-05-26T00:00:00Z"
+      },
       "id": "20260525_8a7osuvj9moeql74mrs1da4b1k",
-      "summary": "Memorial Day",
-      "start": "2026-05-25",
-      "end": "2026-05-26"
+      "start": {
+        "date": "2026-05-25T00:00:00Z"
+      },
+      "summary": "Memorial Day"
     },
     {
+      "end": {
+        "dateTime": "2026-05-27T20:00:00-05:00"
+      },
       "id": "_8gsj0ghj7523cb9o8l0j4b9k8gq3eb9o8l2jeba364s4ccq28cr34ha26o",
-      "summary": "Cuisine Queens",
-      "start": "2026-05-27T18:00:00-05:00",
-      "end": "2026-05-27T20:00:00-05:00",
-      "location": "Lao Der, 3922 N Elston Ave, Chicago, IL 60618, United States"
+      "location": "Lao Der, 3922 N Elston Ave, Chicago, IL 60618, United States",
+      "start": {
+        "dateTime": "2026-05-27T18:00:00-05:00"
+      },
+      "summary": "Cuisine Queens"
     },
     {
+      "end": {
+        "dateTime": "2026-05-28T23:00:00-05:00"
+      },
       "id": "_891jae25610jeba66sokcb9k6cpjgb9o6crk4b9g6spk2d256gpjicpi88",
-      "summary": "Nick BDay Party",
-      "start": "2026-05-28T19:00:00-05:00",
-      "end": "2026-05-28T23:00:00-05:00",
-      "location": "1962 N Bissell St, Chicago, IL, United States"
+      "location": "1962 N Bissell St, Chicago, IL, United States",
+      "start": {
+        "dateTime": "2026-05-28T19:00:00-05:00"
+      },
+      "summary": "Nick BDay Party"
     },
     {
+      "end": {
+        "dateTime": "2026-05-31T14:00:00-05:00"
+      },
       "id": "_8cr36ha260q4cb9m891kab9k8ooj4b9p88qjcb9l64q42h266gq32cpn6o",
-      "summary": "Ashley Baby Shower",
-      "start": "2026-05-31T11:00:00-05:00",
-      "end": "2026-05-31T14:00:00-05:00",
-      "location": "Glen View Club, 100 Golf Rd, Golf, IL 60029, United States"
+      "location": "Glen View Club, 100 Golf Rd, Golf, IL 60029, United States",
+      "start": {
+        "dateTime": "2026-05-31T11:00:00-05:00"
+      },
+      "summary": "Ashley Baby Shower"
     },
     {
+      "end": {
+        "dateTime": "2026-05-31T18:20:00-05:00"
+      },
       "id": "_8gsj2hhg70ok6ba16ko3eb9k84s36b9o88r30b9n61132c1l6t344gho64",
-      "summary": "Signature50: Full Body",
-      "start": "2026-05-31T17:30:00-05:00",
-      "end": "2026-05-31T18:20:00-05:00",
-      "location": "[solidcore] Chicago"
+      "location": "[solidcore] Chicago",
+      "start": {
+        "dateTime": "2026-05-31T17:30:00-05:00"
+      },
+      "summary": "Signature50: Full Body"
     },
     {
+      "end": {
+        "dateTime": "2026-06-05T12:45:00-05:00"
+      },
       "id": "_851k2h1g6h1j8b9g8gr3ab9k6l13cb9o8kskaba56l23ch9m8cq3cghn8g",
-      "summary": "Nail Appt. w/ Kim",
-      "start": "2026-06-05T10:45:00-05:00",
-      "end": "2026-06-05T12:45:00-05:00",
-      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States"
+      "location": "Midcity Nails, 1351 W Fullerton Ave, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-06-05T10:45:00-05:00"
+      },
+      "summary": "Nail Appt. w/ Kim"
     },
     {
+      "end": {
+        "dateTime": "2026-06-06T20:30:00-05:00"
+      },
       "id": "_6gq44h228cq48b9g8gpk8b9k8d34cb9p8l0jib9l6kpjae9n70s44dpn8c",
-      "summary": "Dinner w/ V + Nick + Woj",
-      "start": "2026-06-06T17:30:00-05:00",
-      "end": "2026-06-06T20:30:00-05:00",
-      "location": "Gibsons Bar & Steakhouse, 1028 N Rush St, Chicago, IL 60611, United States"
+      "location": "Gibsons Bar & Steakhouse, 1028 N Rush St, Chicago, IL 60611, United States",
+      "start": {
+        "dateTime": "2026-06-06T17:30:00-05:00"
+      },
+      "summary": "Dinner w/ V + Nick + Woj"
     },
     {
+      "end": {
+        "dateTime": "2026-06-07T16:45:00-05:00"
+      },
       "id": "_612jecpp6d0kcb9o6kqk4b9k6gpk2ba188ok8b9l8d23gd22611j8gpk68",
-      "summary": "Brow Appt. w/ Nina",
-      "start": "2026-06-07T15:45:00-05:00",
-      "end": "2026-06-07T16:45:00-05:00",
-      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States"
+      "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States",
+      "start": {
+        "dateTime": "2026-06-07T15:45:00-05:00"
+      },
+      "summary": "Brow Appt. w/ Nina"
     },
     {
+      "end": {
+        "dateTime": "2026-06-07T18:20:00-05:00"
+      },
       "id": "_6l34cga660skcb9k8p338b9k85148b9o8gsk8b9m6cr36ga160s30hhl8g",
-      "summary": "[solidcore] - Signature50: Full Body",
-      "start": "2026-06-07T17:30:00-05:00",
-      "end": "2026-06-07T18:20:00-05:00",
-      "location": "2206 North Halsted Street, Chicago, IL 60614"
+      "location": "2206 North Halsted Street, Chicago, IL 60614",
+      "start": {
+        "dateTime": "2026-06-07T17:30:00-05:00"
+      },
+      "summary": "[solidcore] - Signature50: Full Body"
     },
     {
+      "end": {
+        "date": "2026-06-09T00:00:00Z"
+      },
       "id": "_60s4aci2891j6b9n6p1j4b9k8op30ba28933ib9j60pjee1m6d2j6c1l8c",
-      "summary": "Boston",
-      "start": "2026-06-08",
-      "end": "2026-06-09"
+      "start": {
+        "date": "2026-06-08T00:00:00Z"
+      },
+      "summary": "Boston"
     },
     {
+      "end": {
+        "date": "2026-06-11T00:00:00Z"
+      },
       "id": "pm2ud40emnk42hvc11kuiab8tg",
-      "summary": "Stay at Hyatt Grand Central New York",
-      "start": "2026-06-08",
-      "end": "2026-06-11"
+      "start": {
+        "date": "2026-06-08T00:00:00Z"
+      },
+      "summary": "Stay at Hyatt Grand Central New York"
     },
     {
+      "end": {
+        "dateTime": "2026-06-08T08:29:00-05:00"
+      },
       "id": "vhdavep6cb1a2c6g40uhnm13qk",
-      "summary": "Flight to Boston (UA 1186)",
-      "start": "2026-06-08T06:05:00-05:00",
-      "end": "2026-06-08T08:29:00-05:00",
-      "location": "Chicago ORD"
+      "location": "Chicago ORD",
+      "start": {
+        "dateTime": "2026-06-08T06:05:00-05:00"
+      },
+      "summary": "Flight to Boston (UA 1186)"
     },
     {
+      "end": {
+        "dateTime": "2026-06-08T18:15:00-05:00"
+      },
       "id": "2ur896p4vjubu4fge7o8jp7p3o",
-      "summary": "Flight to Newark (UA 1647)",
-      "start": "2026-06-08T16:44:00-05:00",
-      "end": "2026-06-08T18:15:00-05:00",
-      "location": "Boston BOS"
+      "location": "Boston BOS",
+      "start": {
+        "dateTime": "2026-06-08T16:44:00-05:00"
+      },
+      "summary": "Flight to Newark (UA 1647)"
     },
     {
+      "end": {
+        "date": "2026-06-11T00:00:00Z"
+      },
       "id": "_88p38gi468p32ba38ks44b9k70p4cba1651j0b9j60oj8gq5711k2dq36k",
-      "summary": "NYC",
-      "start": "2026-06-09",
-      "end": "2026-06-11"
+      "start": {
+        "date": "2026-06-09T00:00:00Z"
+      },
+      "summary": "NYC"
     },
     {
+      "end": {
+        "dateTime": "2026-06-10T18:34:00-05:00"
+      },
       "id": "h0tolba9ger60bua6p2u8n5lfs",
-      "summary": "Flight to Chicago (UA 661)",
-      "start": "2026-06-10T15:45:00-05:00",
-      "end": "2026-06-10T18:34:00-05:00",
-      "location": "Newark EWR"
+      "location": "Newark EWR",
+      "start": {
+        "dateTime": "2026-06-10T15:45:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 661)"
     },
     {
+      "end": {
+        "dateTime": "2026-06-10T22:55:00-05:00"
+      },
       "id": "ji8053mbg98592pnm11mhspaig",
-      "summary": "Flight to Chicago (WN 2469)",
-      "start": "2026-06-10T20:30:00-05:00",
-      "end": "2026-06-10T22:55:00-05:00",
-      "location": "Nyc LGA"
+      "location": "Nyc LGA",
+      "start": {
+        "dateTime": "2026-06-10T20:30:00-05:00"
+      },
+      "summary": "Flight to Chicago (WN 2469)"
     },
     {
+      "end": {
+        "dateTime": "2026-06-11T08:53:00-05:00"
+      },
       "id": "csp61jtcfp3vqve53lgc3lkdd0",
-      "summary": "Flight to St. Louis (AA 4508)",
-      "start": "2026-06-11T06:00:00-05:00",
-      "end": "2026-06-11T08:53:00-05:00",
-      "location": "New York LGA"
+      "location": "New York LGA",
+      "start": {
+        "dateTime": "2026-06-11T06:00:00-05:00"
+      },
+      "summary": "Flight to St. Louis (AA 4508)"
     },
     {
+      "end": {
+        "dateTime": "2026-06-11T10:45:00-05:00"
+      },
       "id": "qk7ht1d8dl3k5je9kgjnq91n6c",
-      "summary": "Flight to St. Louis (WN 523)",
-      "start": "2026-06-11T07:55:00-05:00",
-      "end": "2026-06-11T10:45:00-05:00",
-      "location": "Nyc LGA"
+      "location": "Nyc LGA",
+      "start": {
+        "dateTime": "2026-06-11T07:55:00-05:00"
+      },
+      "summary": "Flight to St. Louis (WN 523)"
     },
     {
+      "end": {
+        "dateTime": "2026-06-11T19:30:00-05:00"
+      },
       "id": "jsj1rno609ml0vrca11bocita4",
-      "summary": "Mumford & Sons",
-      "start": "2026-06-11T18:30:00-05:00",
-      "end": "2026-06-11T19:30:00-05:00",
-      "location": "Wrigley Field, Chicago, IL"
+      "location": "Wrigley Field, Chicago, IL",
+      "start": {
+        "dateTime": "2026-06-11T18:30:00-05:00"
+      },
+      "summary": "Mumford & Sons"
     },
     {
+      "end": {
+        "dateTime": "2026-06-11T19:45:00-05:00"
+      },
       "id": "ldlmh5huqhjdjgmst528hb4eko",
-      "summary": "Reservation at Mercadito - Lincoln Park",
-      "start": "2026-06-11T18:45:00-05:00",
-      "end": "2026-06-11T19:45:00-05:00"
+      "start": {
+        "dateTime": "2026-06-11T18:45:00-05:00"
+      },
+      "summary": "Reservation at Mercadito - Lincoln Park"
     },
     {
+      "end": {
+        "dateTime": "2026-06-12T23:30:00-05:00"
+      },
       "id": "_6ksk8chg6or3gba3692k2b9k8cokcb9p88p3ab9p85148hi388sj8gi170",
-      "summary": "RUFUS DU SOL",
-      "start": "2026-06-12T19:30:00-05:00",
-      "end": "2026-06-12T23:30:00-05:00",
-      "location": "Wrigley Field, 1060 W Addison St, Chicago, IL 60613, United States"
+      "location": "Wrigley Field, 1060 W Addison St, Chicago, IL 60613, United States",
+      "start": {
+        "dateTime": "2026-06-12T19:30:00-05:00"
+      },
+      "summary": "RUFUS DU SOL"
     },
     {
+      "end": {
+        "date": "2026-06-15T00:00:00Z"
+      },
       "id": "20260614_qdm7ohijjp3q47dejeuk58m28g",
-      "summary": "Flag Day",
-      "start": "2026-06-14",
-      "end": "2026-06-15"
+      "start": {
+        "date": "2026-06-14T00:00:00Z"
+      },
+      "summary": "Flag Day"
     },
     {
+      "end": {
+        "dateTime": "2026-06-14T18:20:00-05:00"
+      },
       "id": "_8d136hhh68rjcba664sj0b9k8ks4aba16p1k6b9k8p23ie9p6cr32e1o84",
-      "summary": "[solidcore]",
-      "start": "2026-06-14T17:30:00-05:00",
-      "end": "2026-06-14T18:20:00-05:00",
-      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States"
+      "location": "[solidcore], 2206 N Halsted St, Chicago, IL 60614, United States",
+      "start": {
+        "dateTime": "2026-06-14T17:30:00-05:00"
+      },
+      "summary": "[solidcore]"
     },
     {
+      "end": {
+        "dateTime": "2026-06-15T18:30:00-05:00"
+      },
       "id": "_6d0kacpo70r3cb9m8kr38b9k6cs3ib9o6spk6b9g8opj8d1i60rjega28o",
-      "summary": "Wax Appt. w/ Breanna",
-      "start": "2026-06-15T17:30:00-05:00",
-      "end": "2026-06-15T18:30:00-05:00",
-      "location": "European Wax Center, 2725 N Clark St"
+      "location": "European Wax Center, 2725 N Clark St",
+      "start": {
+        "dateTime": "2026-06-15T17:30:00-05:00"
+      },
+      "summary": "Wax Appt. w/ Breanna"
     },
     {
+      "end": {
+        "dateTime": "2026-06-16T20:00:00-05:00"
+      },
       "id": "_74sj8ca28d1k2b9m74q3eb9k6l130b9p8or46b9m64sjihhh84rjedq58k",
-      "summary": "Cuisine Queens",
-      "start": "2026-06-16T18:00:00-05:00",
-      "end": "2026-06-16T20:00:00-05:00",
-      "location": "Greek Islands, 200 S Halsted St, Chicago, IL 60661, United States"
+      "location": "Greek Islands, 200 S Halsted St, Chicago, IL 60661, United States",
+      "start": {
+        "dateTime": "2026-06-16T18:00:00-05:00"
+      },
+      "summary": "Cuisine Queens"
     },
     {
+      "end": {
+        "dateTime": "2026-06-17T21:00:00-05:00"
+      },
       "id": "_8h23gghl6sp38ba56h0jib9k8grk8ba26t0jib9n88ojgh246gpjih1h6g",
-      "summary": "Rachel's to see Grant",
-      "start": "2026-06-17T19:00:00-05:00",
-      "end": "2026-06-17T21:00:00-05:00"
+      "start": {
+        "dateTime": "2026-06-17T19:00:00-05:00"
+      },
+      "summary": "Rachel's to see Grant"
     },
     {
+      "end": {
+        "dateTime": "2026-06-18T20:00:00-05:00"
+      },
       "id": "_6l0j4ga58or3cba38h23eb9k68q4ab9p68ojiba56op3ch9k610j2cq468",
-      "summary": "Dinner w/ Syd",
-      "start": "2026-06-18T19:00:00-05:00",
-      "end": "2026-06-18T20:00:00-05:00"
+      "start": {
+        "dateTime": "2026-06-18T19:00:00-05:00"
+      },
+      "summary": "Dinner w/ Syd"
     },
     {
+      "end": {
+        "dateTime": "2026-06-18T20:30:00-05:00"
+      },
       "id": "2p4vsc0dkvag0p9qrhd6dvqo40",
-      "summary": "Reservation at Old Pueblo Cantina",
-      "start": "2026-06-18T19:30:00-05:00",
-      "end": "2026-06-18T20:30:00-05:00",
-      "location": "Old Pueblo Cantina, 1200 W Webster Ave, Chicago, IL 60614"
+      "location": "Old Pueblo Cantina, 1200 W Webster Ave, Chicago, IL 60614",
+      "start": {
+        "dateTime": "2026-06-18T19:30:00-05:00"
+      },
+      "summary": "Reservation at Old Pueblo Cantina"
     },
     {
+      "end": {
+        "date": "2026-06-20T00:00:00Z"
+      },
       "id": "_60s3ch216513aba26crjcb9k6t2k2b9o6l344ba564s3aghj88s4cgq464",
-      "summary": "OOO",
-      "start": "2026-06-19",
-      "end": "2026-06-20"
+      "start": {
+        "date": "2026-06-19T00:00:00Z"
+      },
+      "summary": "OOO"
     },
     {
+      "end": {
+        "date": "2026-06-20T00:00:00Z"
+      },
       "id": "20260619_2r4dpqm45tb15b3ebg9e9huo94",
-      "summary": "Juneteenth",
-      "start": "2026-06-19",
-      "end": "2026-06-20"
+      "start": {
+        "date": "2026-06-19T00:00:00Z"
+      },
+      "summary": "Juneteenth"
     },
     {
+      "end": {
+        "dateTime": "2026-06-19T20:15:00-05:00"
+      },
       "id": "uud0272fsjnf3v1gei8nt6fevg",
-      "summary": "Reservation at SUSHI-SAN - Lincoln Park",
-      "start": "2026-06-19T19:15:00-05:00",
-      "end": "2026-06-19T20:15:00-05:00"
+      "start": {
+        "dateTime": "2026-06-19T19:15:00-05:00"
+      },
+      "summary": "Reservation at SUSHI-SAN - Lincoln Park"
     },
     {
+      "end": {
+        "date": "2026-06-27T00:00:00Z"
+      },
       "id": "_60o3eh1k68qkcba56krkcb9k8cojcba26l13eb9k60s46c1p68o38di468",
-      "summary": "Kiawah",
-      "start": "2026-06-20",
-      "end": "2026-06-27"
+      "start": {
+        "date": "2026-06-20T00:00:00Z"
+      },
+      "summary": "Kiawah"
     },
     {
+      "end": {
+        "dateTime": "2026-06-20T09:23:00-05:00"
+      },
       "id": "aibqqtrmjrhca19q56s6ov4uvg",
-      "summary": "Flight to Charleston (UA 2795)",
-      "start": "2026-06-20T07:00:00-05:00",
-      "end": "2026-06-20T09:23:00-05:00",
-      "location": "Chicago ORD"
+      "location": "Chicago ORD",
+      "start": {
+        "dateTime": "2026-06-20T07:00:00-05:00"
+      },
+      "summary": "Flight to Charleston (UA 2795)"
     },
     {
+      "end": {
+        "date": "2026-06-22T00:00:00Z"
+      },
       "id": "20260621_t5os2i58a399apjafh4aijjmro",
-      "summary": "Father's Day",
-      "start": "2026-06-21",
-      "end": "2026-06-22"
+      "start": {
+        "date": "2026-06-21T00:00:00Z"
+      },
+      "summary": "Father's Day"
     },
     {
+      "end": {
+        "dateTime": "2026-06-27T18:52:00-05:00"
+      },
       "id": "p43sv344lakhbl695051o3ngno",
-      "summary": "Flight to Chicago (UA 592)",
-      "start": "2026-06-27T16:15:00-05:00",
-      "end": "2026-06-27T18:52:00-05:00",
-      "location": "Charleston CHS"
+      "location": "Charleston CHS",
+      "start": {
+        "dateTime": "2026-06-27T16:15:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 592)"
     },
     {
+      "end": {
+        "date": "2026-07-04T00:00:00Z"
+      },
       "id": "_712jce9m6cpjaba58os3cb9k88s36b9p891k2b9p74q3id228gr3cdhk6o",
-      "summary": "OOO",
-      "start": "2026-07-03",
-      "end": "2026-07-04"
+      "start": {
+        "date": "2026-07-03T00:00:00Z"
+      },
+      "summary": "OOO"
     },
     {
+      "end": {
+        "date": "2026-07-04T00:00:00Z"
+      },
       "id": "20260703_0g574fqg66vqoj9oh0f90s6fng",
-      "summary": "Independence Day (substitute)",
-      "start": "2026-07-03",
-      "end": "2026-07-04"
+      "start": {
+        "date": "2026-07-03T00:00:00Z"
+      },
+      "summary": "Independence Day (substitute)"
     },
     {
+      "end": {
+        "date": "2026-07-05T00:00:00Z"
+      },
       "id": "20260704_uvohv1gi37r7f84ibel1s6tsvc",
-      "summary": "Independence Day",
-      "start": "2026-07-04",
-      "end": "2026-07-05"
+      "start": {
+        "date": "2026-07-04T00:00:00Z"
+      },
+      "summary": "Independence Day"
     },
     {
+      "end": {
+        "dateTime": "2026-07-13T18:30:00-05:00"
+      },
       "id": "_6so3icpp6kp42b9l70sj2b9k8h1j6ba26gojgba168qj4ea68d0k2ca488",
-      "summary": "Wax Appt. w/ Breanna",
-      "start": "2026-07-13T17:30:00-05:00",
-      "end": "2026-07-13T18:30:00-05:00",
-      "location": "European Wax Center, 2725 N Clark St"
+      "location": "European Wax Center, 2725 N Clark St",
+      "start": {
+        "dateTime": "2026-07-13T17:30:00-05:00"
+      },
+      "summary": "Wax Appt. w/ Breanna"
     },
     {
+      "end": {
+        "dateTime": "2026-07-14T18:30:00-05:00"
+      },
       "id": "j9hab2limkndg5rjlbd5m8pevk",
-      "summary": "Noah Kahan",
-      "start": "2026-07-14T17:30:00-05:00",
-      "end": "2026-07-14T18:30:00-05:00",
-      "location": "Wrigley Field"
+      "location": "Wrigley Field, 225 W 34th St, New York, NY 10122",
+      "start": {
+        "dateTime": "2026-07-14T17:30:00-05:00"
+      },
+      "summary": "Noah Kahan"
     },
     {
+      "end": {
+        "date": "2026-08-24T00:00:00Z"
+      },
       "id": "_64rk4e9l6so36b9o8gr38b9k8h1k2ba274pkab9h6ssjce1p70oj8dhh8c",
-      "summary": "Upstate NY (Talia's Wedding)",
-      "start": "2026-08-20",
-      "end": "2026-08-24"
+      "start": {
+        "date": "2026-08-20T00:00:00Z"
+      },
+      "summary": "Upstate NY (Talia's Wedding)"
     },
     {
+      "end": {
+        "dateTime": "2026-08-20T20:44:00-05:00"
+      },
       "id": "gphcmgfnb8gd75ekb288076p6c",
-      "summary": "Flight to Albany (UA 390)",
-      "start": "2026-08-20T18:25:00-05:00",
-      "end": "2026-08-20T20:44:00-05:00",
-      "location": "Chicago ORD"
+      "location": "Chicago ORD",
+      "start": {
+        "dateTime": "2026-08-20T18:25:00-05:00"
+      },
+      "summary": "Flight to Albany (UA 390)"
     },
     {
+      "end": {
+        "dateTime": "2026-08-23T14:32:00-05:00"
+      },
       "id": "mhec2i8cq1c2vaimtn9o13e928",
-      "summary": "Flight to Chicago (UA 2266)",
-      "start": "2026-08-23T12:00:00-05:00",
-      "end": "2026-08-23T14:32:00-05:00",
-      "location": "Albany ALB"
+      "location": "Albany ALB",
+      "start": {
+        "dateTime": "2026-08-23T12:00:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 2266)"
     },
     {
+      "end": {
+        "date": "2026-09-08T00:00:00Z"
+      },
       "id": "20260907_3iv7l7ja8ses3smgpgh5fqearo",
-      "summary": "Labor Day",
-      "start": "2026-09-07",
-      "end": "2026-09-08"
+      "start": {
+        "date": "2026-09-07T00:00:00Z"
+      },
+      "summary": "Labor Day"
     },
     {
+      "end": {
+        "date": "2026-09-13T00:00:00Z"
+      },
       "id": "_84qjadho690j4ba38kp48b9k8l1j6b9o84p30ba46or4cdq28d0jgc2388",
-      "summary": "Denver",
-      "start": "2026-09-10",
-      "end": "2026-09-13"
+      "start": {
+        "date": "2026-09-10T00:00:00Z"
+      },
+      "summary": "Denver"
     },
     {
+      "end": {
+        "dateTime": "2026-09-10T09:52:00-05:00"
+      },
       "id": "_8ksjed1n60p3ib9j8d0kab9k8h34ab9o8p1kab9i70o4ad248d246gi460",
-      "summary": "Flight: UA 1217 from ORD to DEN",
-      "start": "2026-09-10T07:00:00-05:00",
-      "end": "2026-09-10T09:52:00-05:00",
-      "location": "O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States"
+      "location": "O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States",
+      "start": {
+        "dateTime": "2026-09-10T07:00:00-05:00"
+      },
+      "summary": "Flight: UA 1217 from ORD to DEN"
     },
     {
+      "end": {
+        "dateTime": "2026-09-10T09:52:00-05:00"
+      },
       "id": "j6uku98udake4cas51inu1btqo",
-      "summary": "Flight to Denver (UA 1217)",
-      "start": "2026-09-10T07:00:00-05:00",
-      "end": "2026-09-10T09:52:00-05:00",
-      "location": "Chicago ORD"
+      "location": "Chicago ORD",
+      "start": {
+        "dateTime": "2026-09-10T07:00:00-05:00"
+      },
+      "summary": "Flight to Denver (UA 1217)"
     },
     {
+      "end": {
+        "dateTime": "2026-09-12T18:32:00-05:00"
+      },
       "id": "_6kskac9k8l330ba484p30b9k64r3ib9o84r32b9h8cok6dq36sr3gda58k",
-      "summary": "Flight: UA 675 from DEN to ORD",
-      "start": "2026-09-12T15:50:00-05:00",
-      "end": "2026-09-12T18:32:00-05:00",
-      "location": "Denver International Airport, 8500 Pe\u00f1a Blvd, Denver, CO 80249, United States"
+      "location": "Denver International Airport, 8500 Pe\u00f1a Blvd, Denver, CO 80249, United States",
+      "start": {
+        "dateTime": "2026-09-12T15:50:00-05:00"
+      },
+      "summary": "Flight: UA 675 from DEN to ORD"
     },
     {
+      "end": {
+        "dateTime": "2026-09-12T18:32:00-05:00"
+      },
       "id": "jothltfmkd0g20valnjb07stds",
-      "summary": "Flight to Chicago (UA 675)",
-      "start": "2026-09-12T15:50:00-05:00",
-      "end": "2026-09-12T18:32:00-05:00",
-      "location": "Denver DEN"
+      "location": "Denver DEN",
+      "start": {
+        "dateTime": "2026-09-12T15:50:00-05:00"
+      },
+      "summary": "Flight to Chicago (UA 675)"
     },
     {
+      "end": {
+        "date": "2026-10-13T00:00:00Z"
+      },
       "id": "_8kp3cc236p2jib9m6l1jcb9k64q48ba164rj0b9l6spj6gi485338c1o8o",
-      "summary": "Aruba",
-      "start": "2026-10-08",
-      "end": "2026-10-13"
+      "start": {
+        "date": "2026-10-08T00:00:00Z"
+      },
+      "summary": "Aruba"
     },
     {
+      "end": {
+        "date": "2026-10-13T00:00:00Z"
+      },
       "id": "u8i2r3f6j045ompvog3m84ru8g",
-      "summary": "Stay at Boardwalk Boutique Hotel Aruba - Adults Only",
-      "start": "2026-10-08",
-      "end": "2026-10-13",
-      "location": "Bakval 20, Noord Aruba"
+      "location": "Bakval 20, Noord Aruba",
+      "start": {
+        "date": "2026-10-08T00:00:00Z"
+      },
+      "summary": "Stay at Boardwalk Boutique Hotel Aruba - Adults Only"
     },
     {
+      "end": {
+        "dateTime": "2026-10-08T09:17:00-05:00"
+      },
       "id": "ee7ijrafut9t4f5pvmvja25ta4",
-      "summary": "Flight to Charlotte (AA 1784)",
-      "start": "2026-10-08T07:10:00-05:00",
-      "end": "2026-10-08T09:17:00-05:00",
-      "location": "Chicago ORD"
+      "location": "Chicago ORD",
+      "start": {
+        "dateTime": "2026-10-08T07:10:00-05:00"
+      },
+      "summary": "Flight to Charlotte (AA 1784)"
     },
     {
+      "end": {
+        "dateTime": "2026-10-08T15:10:00-05:00"
+      },
       "id": "251e8r8obe5phf8h7o3989qlk0",
-      "summary": "Flight to Aruba (AA 1346)",
-      "start": "2026-10-08T11:05:00-05:00",
-      "end": "2026-10-08T15:10:00-05:00",
-      "location": "Charlotte CLT"
+      "location": "Charlotte CLT",
+      "start": {
+        "dateTime": "2026-10-08T11:05:00-05:00"
+      },
+      "summary": "Flight to Aruba (AA 1346)"
     },
     {
+      "end": {
+        "date": "2026-10-13T00:00:00Z"
+      },
       "id": "20261012_ulmd1kltcra97jfi42oujqdnms",
-      "summary": "Columbus Day",
-      "start": "2026-10-12",
-      "end": "2026-10-13"
+      "start": {
+        "date": "2026-10-12T00:00:00Z"
+      },
+      "summary": "Columbus Day"
     },
     {
+      "end": {
+        "dateTime": "2026-10-12T16:10:00-05:00"
+      },
       "id": "a5kfivt562k256jppe4m85nrok",
-      "summary": "Flight to Charlotte (AA 1346)",
-      "start": "2026-10-12T11:45:00-05:00",
-      "end": "2026-10-12T16:10:00-05:00",
-      "location": "Aruba AUA"
+      "location": "Aruba AUA",
+      "start": {
+        "dateTime": "2026-10-12T11:45:00-05:00"
+      },
+      "summary": "Flight to Charlotte (AA 1346)"
     },
     {
+      "end": {
+        "dateTime": "2026-10-12T19:11:00-05:00"
+      },
       "id": "kd55ohclciqld5rnt9ietnde54",
-      "summary": "Flight to Chicago (AA 815)",
-      "start": "2026-10-12T17:00:00-05:00",
-      "end": "2026-10-12T19:11:00-05:00",
-      "location": "Charlotte CLT"
+      "location": "Charlotte CLT",
+      "start": {
+        "dateTime": "2026-10-12T17:00:00-05:00"
+      },
+      "summary": "Flight to Chicago (AA 815)"
     },
     {
+      "end": {
+        "dateTime": "2026-10-27T21:00:00-05:00"
+      },
       "id": "dap40e21vr88huu429rvi6tllo",
-      "summary": "Dylan Gossett - Live In Concert",
-      "start": "2026-10-27T20:00:00-05:00",
-      "end": "2026-10-27T21:00:00-05:00",
-      "location": "The Salt Shed Indoors (Shed), Chicago, Illinois"
+      "location": "The Salt Shed Indoors (Shed), Chicago, Illinois",
+      "start": {
+        "dateTime": "2026-10-27T20:00:00-05:00"
+      },
+      "summary": "Dylan Gossett - Live In Concert"
     },
     {
+      "end": {
+        "date": "2026-11-01T00:00:00Z"
+      },
       "id": "20261031_jg75kt4ps505q4u01pbpictp2o",
-      "summary": "Halloween",
-      "start": "2026-10-31",
-      "end": "2026-11-01"
+      "start": {
+        "date": "2026-10-31T00:00:00Z"
+      },
+      "summary": "Halloween"
     },
     {
+      "end": {
+        "date": "2026-11-02T00:00:00Z"
+      },
       "id": "20261101_voardu9lrttj7tgf1qc0b9d8cg",
-      "summary": "Daylight Saving Time ends",
-      "start": "2026-11-01",
-      "end": "2026-11-02"
+      "start": {
+        "date": "2026-11-01T00:00:00Z"
+      },
+      "summary": "Daylight Saving Time ends"
     },
     {
+      "end": {
+        "date": "2026-11-04T00:00:00Z"
+      },
       "id": "20261103_lg3dpstk14ft6g9m5k35jlkg14",
-      "summary": "Election Day",
-      "start": "2026-11-03",
-      "end": "2026-11-04"
+      "start": {
+        "date": "2026-11-03T00:00:00Z"
+      },
+      "summary": "Election Day"
     },
     {
+      "end": {
+        "date": "2026-11-12T00:00:00Z"
+      },
       "id": "20261111_74d74gec1qv5j3q0qbuc0nft40",
-      "summary": "Veterans Day",
-      "start": "2026-11-11",
-      "end": "2026-11-12"
+      "start": {
+        "date": "2026-11-11T00:00:00Z"
+      },
+      "summary": "Veterans Day"
     },
     {
+      "end": {
+        "date": "2026-11-27T00:00:00Z"
+      },
       "id": "20261126_1g5us79unrs6ecmqdes63fqi30",
-      "summary": "Thanksgiving Day",
-      "start": "2026-11-26",
-      "end": "2026-11-27"
+      "start": {
+        "date": "2026-11-26T00:00:00Z"
+      },
+      "summary": "Thanksgiving Day"
     },
     {
+      "end": {
+        "date": "2026-11-28T00:00:00Z"
+      },
       "id": "20261127_sqgeamknoire9j3326eu506ais",
-      "summary": "Black Friday",
-      "start": "2026-11-27",
-      "end": "2026-11-28"
+      "start": {
+        "date": "2026-11-27T00:00:00Z"
+      },
+      "summary": "Black Friday"
     },
     {
+      "end": {
+        "date": "2026-12-25T00:00:00Z"
+      },
       "id": "20261224_tmbgi0ljkl27i1l34lnddrq60c",
-      "summary": "Christmas Eve",
-      "start": "2026-12-24",
-      "end": "2026-12-25"
+      "start": {
+        "date": "2026-12-24T00:00:00Z"
+      },
+      "summary": "Christmas Eve"
     },
     {
+      "end": {
+        "date": "2026-12-26T00:00:00Z"
+      },
       "id": "20261225_q1cjdk9utc6u8gie59mrlsh778",
-      "summary": "Christmas Day",
-      "start": "2026-12-25",
-      "end": "2026-12-26"
+      "start": {
+        "date": "2026-12-25T00:00:00Z"
+      },
+      "summary": "Christmas Day"
     },
     {
+      "end": {
+        "date": "2027-01-01T00:00:00Z"
+      },
       "id": "20261231_0kjsbhff7mdoqg6fl40ufhqql4",
-      "summary": "New Year's Eve",
-      "start": "2026-12-31",
-      "end": "2027-01-01"
+      "start": {
+        "date": "2026-12-31T00:00:00Z"
+      },
+      "summary": "New Year's Eve"
     }
   ]
 }
