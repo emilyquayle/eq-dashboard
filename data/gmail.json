@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-08T01:01:20Z",
+  "updated": "2026-07-08T05:01:11Z",
   "messages": [
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "Your Shipment is Confirmed",
+      "snippet": "Great choices. Rent The Runway Your shipment is confirmed Order Number 66381461 Shipping Address Emily Quayle 2345 N Lin",
+      "isUnread": true,
+      "date": "2026-07-08T04:19:39Z",
+      "threadId": "19f3ff3f1a115589"
+    },
     {
       "sender": "larroude@larroude.com",
       "subject": "Two Pairs Were Always The Answer",
@@ -72,14 +80,6 @@
       "isUnread": true,
       "date": "2026-07-07T10:13:57Z",
       "threadId": "19f3c129fa157ec3"
-    },
-    {
-      "sender": "Business552763@mindbodyonline.com",
-      "subject": "Emily, you're CONFIRMED. ✔️",
-      "snippet": "Get ready to sweat, Emily.",
-      "isUnread": true,
-      "date": "2026-07-07T01:28:44Z",
-      "threadId": "19f3a311b9c8d225"
     }
   ]
 }
