@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-09T13:00:49Z",
+  "updated": "2026-07-09T17:01:10Z",
   "messages": [
+    {
+      "sender": "mcinfo@ups.com",
+      "subject": "UPS Update: Package Scheduled for Delivery Tomorrow",
+      "snippet": "UPS Hi Emily, Your package is arriving tomorrow. From RTR DFW OUTBOUND 2 Estimated Delivery Friday 07/10/2026 between 10",
+      "isUnread": true,
+      "date": "2026-07-09T16:20:05Z",
+      "threadId": "19f47adeaef055b3"
+    },
+    {
+      "sender": "Business552763@mindbodyonline.com",
+      "subject": "Don’t forget! You’ve got Signature50: Full Body | Flashback Friday: 2000's at 3:30pm  on 7/10/2026 at IL, Lincoln Park.",
+      "snippet": "Emily, It's time to feel that strength. You're booked for your Signature50: Full Body | Flashback Friday: 2000's class w",
+      "isUnread": true,
+      "date": "2026-07-09T15:18:02Z",
+      "threadId": "19f477515e1a125f"
+    },
+    {
+      "sender": "newsletter@kith.com",
+      "subject": "This Week In Footwear",
+      "snippet": "Discover the latest from ASICS, Nike and more.",
+      "isUnread": true,
+      "date": "2026-07-09T15:00:25Z",
+      "threadId": "19f4764f2f1d53d2"
+    },
+    {
+      "sender": "thefreshmarket@email.reachoffers.com",
+      "subject": "Emily, claim your Club Reward🍅🥬",
+      "snippet": "You earned an Organic Produce Reward, claim now and save on your next organic produce purchase. Don't miss out on your e",
+      "isUnread": true,
+      "date": "2026-07-09T14:01:20Z",
+      "threadId": "19f47344af0b7a08"
+    },
+    {
+      "sender": "no-reply@m.ouraring.com",
+      "subject": "Ask. Learn. Understand.",
+      "snippet": "Your AI‑powered coach is here to help",
+      "isUnread": true,
+      "date": "2026-07-09T13:45:19Z",
+      "threadId": "19f472033d7add40"
+    },
     {
       "sender": "news@execsum.co",
       "subject": "The AI shortcut no one should be taking",
@@ -32,46 +72,6 @@
       "isUnread": true,
       "date": "2026-07-09T02:48:04Z",
       "threadId": "19f44c678fef7e38"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Graham Platner suspends Senate campaign in Maine",
-      "snippet": "His withdrawal, which comes after a series of scandals, creates uncertainty in a crucial race. View in browser The New Y",
-      "isUnread": true,
-      "date": "2026-07-09T02:01:19Z",
-      "threadId": "19f449c56732d10d"
-    },
-    {
-      "sender": "notification@service.tiktok.com",
-      "subject": "Sam Q sent you a message",
-      "snippet": "Emily Quayle375, reply on TikTok.",
-      "isUnread": true,
-      "date": "2026-07-09T00:39:45Z",
-      "threadId": "19f4450fb3299998"
-    },
-    {
-      "sender": "customerservice@jonathanadler.com",
-      "subject": "BRING THE BEACH HOME",
-      "snippet": "Photographic prints from lens legend Slim Aarons' archive.",
-      "isUnread": true,
-      "date": "2026-07-09T00:15:11Z",
-      "threadId": "19f443a7cfaaec6c"
-    },
-    {
-      "sender": "larroude@larroude.com",
-      "subject": "These Boots Came Early",
-      "snippet": "Fall's first drop is live.",
-      "isUnread": true,
-      "date": "2026-07-09T00:00:51Z",
-      "threadId": "19f442d5d8fe2f79"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: U.S. launches new strikes on Iran, military says",
-      "snippet": "Hours earlier, President Trump had said he thought a cease-fire was “over.” View in browser The New York Times The New Y",
-      "isUnread": true,
-      "date": "2026-07-08T21:16:36Z",
-      "threadId": "19f4397300fd40c4"
     }
   ]
 }
