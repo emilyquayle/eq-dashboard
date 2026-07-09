@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-09T01:02:01Z",
+  "updated": "2026-07-09T05:02:02Z",
   "messages": [
+    {
+      "sender": "noreply@glassdoor.com",
+      "subject": "How do you all sign your emails? I've been told \"best\" is passive agressive...",
+      "snippet": "Explore real talk from across Glassdoor 🍿",
+      "isUnread": true,
+      "date": "2026-07-09T03:22:25Z",
+      "threadId": "19f44e5eaca782e0"
+    },
+    {
+      "sender": "no-reply@e.benefitcosmetics.com",
+      "subject": "Hey Emily! Your appointment at Benefit Cosmetics Boutique Southport is confirmed.",
+      "snippet": "We're excited, can ya tell? Can't see the pretty pictures? View in browser. Benefit Cosmetics Logo Service: Brow Thread,",
+      "isUnread": true,
+      "date": "2026-07-09T02:48:04Z",
+      "threadId": "19f44c678fef7e38"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Graham Platner suspends Senate campaign in Maine",
+      "snippet": "His withdrawal, which comes after a series of scandals, creates uncertainty in a crucial race. View in browser The New Y",
+      "isUnread": true,
+      "date": "2026-07-09T02:01:19Z",
+      "threadId": "19f449c56732d10d"
+    },
     {
       "sender": "notification@service.tiktok.com",
       "subject": "Sam Q sent you a message",
@@ -28,7 +52,7 @@
     {
       "sender": "breakingnews@nytimes.com",
       "subject": "Breaking news: U.S. launches new strikes on Iran, military says",
-      "snippet": "Hours earlier, President Trump had said he thought a cease-fire was \u201cover.\u201d View in browser The New York Times The New Y",
+      "snippet": "Hours earlier, President Trump had said he thought a cease-fire was “over.” View in browser The New York Times The New Y",
       "isUnread": true,
       "date": "2026-07-08T21:16:36Z",
       "threadId": "19f4397300fd40c4"
@@ -56,30 +80,6 @@
       "isUnread": true,
       "date": "2026-07-08T18:59:10Z",
       "threadId": "19f431bf0a3918bc"
-    },
-    {
-      "sender": "update@emailff.att-mail.com",
-      "subject": "Your AT&T online bill is ready to be viewed",
-      "snippet": "myAT&T Your online AT&T bill is ready, EMILY. Hi EMILY, Your new AT&T bill is available now at myAT&T. Service: Internet",
-      "isUnread": true,
-      "date": "2026-07-08T18:56:23Z",
-      "threadId": "19f4316a1ed359ef"
-    },
-    {
-      "sender": "noreply@waze.com",
-      "subject": "Updates to our Terms and Privacy Policy",
-      "snippet": "Updates to our Terms and Privacy Policy On August 1, 2026, we're updating our Terms of Service and Privacy Policy to pro",
-      "isUnread": true,
-      "date": "2026-07-08T18:19:53Z",
-      "threadId": "19f42f533ddb7b78"
-    },
-    {
-      "sender": "stl-bucket-list@mail.beehiiv.com",
-      "subject": "The Story Behind WerQfest",
-      "snippet": "STL Bucket List Show: A conversation on how a two-week idea grew into one of St. Louis' most impactful arts and culture ",
-      "isUnread": true,
-      "date": "2026-07-08T16:55:52Z",
-      "threadId": "19f42a84a4a0dbe2"
     }
   ]
 }
