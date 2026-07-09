@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-08T21:01:25Z",
+  "updated": "2026-07-09T01:02:01Z",
   "messages": [
+    {
+      "sender": "notification@service.tiktok.com",
+      "subject": "Sam Q sent you a message",
+      "snippet": "Emily Quayle375, reply on TikTok.",
+      "isUnread": true,
+      "date": "2026-07-09T00:39:45Z",
+      "threadId": "19f4450fb3299998"
+    },
+    {
+      "sender": "customerservice@jonathanadler.com",
+      "subject": "BRING THE BEACH HOME",
+      "snippet": "Photographic prints from lens legend Slim Aarons' archive.",
+      "isUnread": true,
+      "date": "2026-07-09T00:15:11Z",
+      "threadId": "19f443a7cfaaec6c"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "These Boots Came Early",
+      "snippet": "Fall's first drop is live.",
+      "isUnread": true,
+      "date": "2026-07-09T00:00:51Z",
+      "threadId": "19f442d5d8fe2f79"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: U.S. launches new strikes on Iran, military says",
+      "snippet": "Hours earlier, President Trump had said he thought a cease-fire was \u201cover.\u201d View in browser The New York Times The New Y",
+      "isUnread": true,
+      "date": "2026-07-08T21:16:36Z",
+      "threadId": "19f4397300fd40c4"
+    },
     {
       "sender": "cfainstitute@mail.cfainstitute.org",
       "subject": "Stay connected to your professional community - Renew Now",
@@ -48,38 +80,6 @@
       "isUnread": true,
       "date": "2026-07-08T16:55:52Z",
       "threadId": "19f42a84a4a0dbe2"
-    },
-    {
-      "sender": "notification@service.tiktok.com",
-      "subject": "Sam Q just sent you a message",
-      "snippet": "Emily Quayle375, reply on TikTok.",
-      "isUnread": true,
-      "date": "2026-07-08T16:43:54Z",
-      "threadId": "19f429d58129f8f2"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "New Arrivals",
-      "snippet": "Coût De La Liberté, Loewe, and more.",
-      "isUnread": true,
-      "date": "2026-07-08T16:30:51Z",
-      "threadId": "19f4291f42c1cd96"
-    },
-    {
-      "sender": "rtr@account.renttherunway.com",
-      "subject": "Your order is on the way!",
-      "snippet": "Tracking info inside | Rent the Runway gives you access to thousands of designer styles for less than the price of one. ",
-      "isUnread": true,
-      "date": "2026-07-08T16:15:31Z",
-      "threadId": "19f42835889476ea"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "See You Tomorrow & Enjoy a Glass of Verve Wine on Us at the Bastille Day French Market!",
-      "snippet": "the-apartments-at-lincoln-common BASTILLE DAY FRENCH MARKET! TOMORROW! 5:30-7:30PM THE PLAZA Get ready to paint the town",
-      "isUnread": true,
-      "date": "2026-07-08T16:09:35Z",
-      "threadId": "19f427de93cb0c18"
     }
   ]
 }
