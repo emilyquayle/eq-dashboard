@@ -1,16 +1,6 @@
 {
-  "updated": "2026-07-09T00:00:00Z",
+  "updated": "2026-07-09T20:11:45Z",
   "events": [
-    {
-      "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
-      "summary": "OOO",
-      "start": {
-        "date": "2026-01-01"
-      },
-      "end": {
-        "date": "2026-01-03"
-      }
-    },
     {
       "id": "20260101_d3glsfo8cfrs476elqd81so37s",
       "summary": "New Year's Day",
@@ -19,6 +9,16 @@
       },
       "end": {
         "date": "2026-01-02"
+      }
+    },
+    {
+      "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
+      "summary": "OOO",
+      "start": {
+        "date": "2026-01-01"
+      },
+      "end": {
+        "date": "2026-01-03"
       }
     },
     {
@@ -175,8 +175,8 @@
       "location": "Soldier Field"
     },
     {
-      "id": "_6h13aghl8op32b9n852k8b9k61342b9p8p0k4ba16523iga68cs30da46g",
-      "summary": "OOO",
+      "id": "20260119_o3kjmdvd64o73fbst6tsipnsq8",
+      "summary": "Martin Luther King Jr. Day",
       "start": {
         "date": "2026-01-19"
       },
@@ -185,8 +185,8 @@
       }
     },
     {
-      "id": "20260119_o3kjmdvd64o73fbst6tsipnsq8",
-      "summary": "Martin Luther King Jr. Day",
+      "id": "_6h13aghl8op32b9n852k8b9k61342b9p8p0k4ba16523iga68cs30da46g",
+      "summary": "OOO",
       "start": {
         "date": "2026-01-19"
       },
@@ -533,8 +533,8 @@
       }
     },
     {
-      "id": "_8gp3ggq570qjgb9m752jgb9k610j6ba284qjaba48op30e1n8opj8e1g74",
-      "summary": "OOO",
+      "id": "20260216_6md85pbtdqab16gk684vmsa6bg",
+      "summary": "Presidents' Day",
       "start": {
         "date": "2026-02-16"
       },
@@ -543,8 +543,8 @@
       }
     },
     {
-      "id": "20260216_6md85pbtdqab16gk684vmsa6bg",
-      "summary": "Presidents' Day",
+      "id": "_8gp3ggq570qjgb9m752jgb9k610j6ba284qjaba48op30e1n8opj8e1g74",
+      "summary": "OOO",
       "start": {
         "date": "2026-02-16"
       },
@@ -1191,6 +1191,16 @@
       "location": "Omakase Box, 3038 W Armitage Ave, Chicago, IL 60647, United States"
     },
     {
+      "id": "20260406_egt1hslergcgifs4s2d8brbu10",
+      "summary": "Easter Monday",
+      "start": {
+        "date": "2026-04-06"
+      },
+      "end": {
+        "date": "2026-04-07"
+      }
+    },
+    {
       "id": "_6ks48cq38or4cba18913eb9k6sr48b9o74rk2ba36gqk8g9p8cpj2d1k88",
       "summary": "Minneapolis",
       "start": {
@@ -1210,16 +1220,6 @@
         "date": "2026-04-08"
       },
       "location": "The Westin Minneapolis, Minneapolis"
-    },
-    {
-      "id": "20260406_egt1hslergcgifs4s2d8brbu10",
-      "summary": "Easter Monday",
-      "start": {
-        "date": "2026-04-06"
-      },
-      "end": {
-        "date": "2026-04-07"
-      }
     },
     {
       "id": "_8osjid9j8oo3eb9j88rj0b9k70qkaba28osj4ba38l232ga66csjegpo6g",
@@ -1520,7 +1520,7 @@
     },
     {
       "id": "_84s3ad9g6gq30ba68kq42b9k8goj6ba16ook8ba670ok6g9g8kp34dpp64",
-      "summary": "Flight to Charlotte (UA )",
+      "summary": "Flight to Charlotte (UA)",
       "start": {
         "dateTime": "2026-04-22T06:55:00-05:00",
         "timeZone": "America/Chicago"
@@ -1921,16 +1921,6 @@
       "location": "Wrigley Field, 1060 W Addison St, Chicago, IL 60613, United States"
     },
     {
-      "id": "_8krk2chi61342b9h8op4cb9k6p23gba18p2j4ba46t2j4gq560pj0d1j8c",
-      "summary": "OOO",
-      "start": {
-        "date": "2026-05-25"
-      },
-      "end": {
-        "date": "2026-05-27"
-      }
-    },
-    {
       "id": "20260525_8a7osuvj9moeql74mrs1da4b1k",
       "summary": "Memorial Day",
       "start": {
@@ -1938,6 +1928,16 @@
       },
       "end": {
         "date": "2026-05-26"
+      }
+    },
+    {
+      "id": "_8krk2chi61342b9h8op4cb9k6p23gba18p2j4ba46t2j4gq560pj0d1j8c",
+      "summary": "OOO",
+      "start": {
+        "date": "2026-05-25"
+      },
+      "end": {
+        "date": "2026-05-27"
       }
     },
     {
@@ -2035,12 +2035,12 @@
       "id": "_6l34cga660skcb9k8p338b9k85148b9o8gsk8b9m6cr36ga160s30hhl8g",
       "summary": "[solidcore] - Signature50: Full Body",
       "start": {
-        "dateTime": "2026-06-07T17:30:00",
-        "timeZone": "UTC"
+        "dateTime": "2026-06-07T17:30:00-05:00",
+        "timeZone": "America/Chicago"
       },
       "end": {
-        "dateTime": "2026-06-07T18:20:00",
-        "timeZone": "UTC"
+        "dateTime": "2026-06-07T18:20:00-05:00",
+        "timeZone": "America/Chicago"
       },
       "location": "2206 North Halsted Street, Chicago, IL 60614"
     },
@@ -2277,8 +2277,8 @@
       "location": "Old Pueblo Cantina, 1200 W Webster Ave, Chicago, IL 60614"
     },
     {
-      "id": "_60s3ch216513aba26crjcb9k6t2k2b9o6l344ba564s3aghj88s4cgq464",
-      "summary": "OOO",
+      "id": "20260619_2r4dpqm45tb15b3ebg9e9huo94",
+      "summary": "Juneteenth",
       "start": {
         "date": "2026-06-19"
       },
@@ -2287,8 +2287,8 @@
       }
     },
     {
-      "id": "20260619_2r4dpqm45tb15b3ebg9e9huo94",
-      "summary": "Juneteenth",
+      "id": "_60s3ch216513aba26crjcb9k6t2k2b9o6l344ba564s3aghj88s4cgq464",
+      "summary": "OOO",
       "start": {
         "date": "2026-06-19"
       },
@@ -2355,8 +2355,8 @@
       "location": "Charleston CHS"
     },
     {
-      "id": "_712jce9m6cpjaba58os3cb9k88s36b9p891k2b9p74q3id228gr3cdhk6o",
-      "summary": "OOO",
+      "id": "20260703_0g574fqg66vqoj9oh0f90s6fng",
+      "summary": "Independence Day (substitute)",
       "start": {
         "date": "2026-07-03"
       },
@@ -2365,8 +2365,8 @@
       }
     },
     {
-      "id": "20260703_0g574fqg66vqoj9oh0f90s6fng",
-      "summary": "Independence Day (substitute)",
+      "id": "_712jce9m6cpjaba58os3cb9k88s36b9p891k2b9p74q3id228gr3cdhk6o",
+      "summary": "OOO",
       "start": {
         "date": "2026-07-03"
       },
@@ -2408,7 +2408,7 @@
         "dateTime": "2026-07-14T18:30:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Wrigley Field, 225 W 34th St, New York, NY 10122"
+      "location": "Wrigley Field, Chicago, IL"
     },
     {
       "id": "_64rk4e9l6so36b9o8gr38b9k8h1k2ba274pkab9h6ssjce1p70oj8dhh8c",
@@ -2475,7 +2475,7 @@
       },
       "end": {
         "dateTime": "2026-09-10T09:52:00-05:00",
-        "timeZone": "America/Denver"
+        "timeZone": "America/Chicago"
       },
       "location": "O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States"
     },
@@ -2497,13 +2497,13 @@
       "summary": "Flight: UA 675 from DEN to ORD",
       "start": {
         "dateTime": "2026-09-12T15:50:00-05:00",
-        "timeZone": "America/Denver"
+        "timeZone": "America/Chicago"
       },
       "end": {
         "dateTime": "2026-09-12T18:32:00-05:00",
         "timeZone": "America/Chicago"
       },
-      "location": "Denver International Airport, 8500 Pe\u00f1a Blvd, Denver, CO 80249, United States"
+      "location": "Denver International Airport, 8500 Pena Blvd, Denver, CO 80249, United States"
     },
     {
       "id": "jothltfmkd0g20valnjb07stds",
