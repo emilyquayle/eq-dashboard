@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-09T17:01:10Z",
+  "updated": "2026-07-09T21:01:12Z",
   "messages": [
+    {
+      "sender": "Noreply@mail.cfainstitute.org",
+      "subject": "An update from the Interim CEO",
+      "snippet": "Dear Colleagues, Two weeks ago, I had the pleasure of celebrating the 30 th anniversary of CFA Society Australia in Sydn",
+      "isUnread": true,
+      "date": "2026-07-09T19:01:39Z",
+      "threadId": "19f484c28e2fd2b4"
+    },
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "Meet Your New Arm Candy",
+      "snippet": "The handbag drop is here.",
+      "isUnread": true,
+      "date": "2026-07-09T18:00:15Z",
+      "threadId": "19f480999ea16824"
+    },
+    {
+      "sender": "info@missionmsa.org",
+      "subject": "Mission MSA | Monthly Digest",
+      "snippet": "Your go-to source for news, updates, events, and more for the multiple system atrophy community!",
+      "isUnread": true,
+      "date": "2026-07-09T17:15:22Z",
+      "threadId": "19f47e08193d4e4d"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "The Veggie: Tomatoes, cucumbers, basil, zucchini",
+      "snippet": "Reconciling my garden envy. View in browser|nytimes.com Ad Ad The Veggie July 9, 2026 Ad Tomato and bulgur salad with he",
+      "isUnread": true,
+      "date": "2026-07-09T17:05:04Z",
+      "threadId": "19f47dfb5a131df1"
+    },
     {
       "sender": "mcinfo@ups.com",
       "subject": "UPS Update: Package Scheduled for Delivery Tomorrow",
@@ -48,30 +80,6 @@
       "isUnread": true,
       "date": "2026-07-09T10:45:57Z",
       "threadId": "19f467bf86185866"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Really really really wanna",
-      "snippet": "But first: watch this soccer star narrowly avoid a wardrobe malfunction in real time — Check out what we Skimm'd for you",
-      "isUnread": true,
-      "date": "2026-07-09T10:14:42Z",
-      "threadId": "19f465f72d50b1fe"
-    },
-    {
-      "sender": "noreply@glassdoor.com",
-      "subject": "How do you all sign your emails? I've been told \"best\" is passive agressive...",
-      "snippet": "Explore real talk from across Glassdoor 🍿",
-      "isUnread": true,
-      "date": "2026-07-09T03:22:25Z",
-      "threadId": "19f44e5eaca782e0"
-    },
-    {
-      "sender": "no-reply@e.benefitcosmetics.com",
-      "subject": "Hey Emily! Your appointment at Benefit Cosmetics Boutique Southport is confirmed.",
-      "snippet": "We're excited, can ya tell? Can't see the pretty pictures? View in browser. Benefit Cosmetics Logo Service: Brow Thread,",
-      "isUnread": true,
-      "date": "2026-07-09T02:48:04Z",
-      "threadId": "19f44c678fef7e38"
     }
   ]
 }
