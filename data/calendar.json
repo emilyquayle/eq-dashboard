@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:15:40Z",
+  "updated": "2026-07-09T22:10:24Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -137,7 +137,7 @@
       "end": {
         "dateTime": "2026-01-16T18:15:00-06:00"
       },
-      "location": "SUSHI-SAN - Lincoln Park, 1962 N Halsted St, Chicago, IL, 60614-5009, United States"
+      "location": "SUSHI-SAN - Lincoln Park, 1962 N Halsted St, Chicago, IL 60614-5009, United States"
     },
     {
       "id": "fuuhptc7ot2cgp2qabhii1itrk",
@@ -631,7 +631,7 @@
       "end": {
         "dateTime": "2026-03-05T20:30:00-06:00"
       },
-      "location": "Topo Gigio, 1516 N Wells St, Chicago, IL, 60610, United States"
+      "location": "Topo Gigio, 1516 N Wells St, Chicago, IL 60610, United States"
     },
     {
       "id": "5en9tv1ip0jc7llvuekdeu4118",
@@ -642,7 +642,7 @@
       "end": {
         "dateTime": "2026-03-05T20:30:00-06:00"
       },
-      "location": "Bistro Campagne, 4518 North Lincoln Avenue, Chicago, IL, 60625, US"
+      "location": "Bistro Campagne, 4518 North Lincoln Avenue, Chicago, IL 60625, US"
     },
     {
       "id": "9vuqp6f35ca1r2gmiu8qus11co",
@@ -653,7 +653,7 @@
       "end": {
         "dateTime": "2026-03-05T20:30:00-06:00"
       },
-      "location": "Bistro Campagne, 4518 North Lincoln Avenue, Chicago, IL, 60625, US"
+      "location": "Bistro Campagne, 4518 North Lincoln Avenue, Chicago, IL 60625, US"
     },
     {
       "id": "_652jcci168pk4ba16d0kcb9k8l138b9p84q30ba468q34h1h6gok8c226o",
@@ -686,7 +686,7 @@
       "end": {
         "dateTime": "2026-03-07T17:15:00-06:00"
       },
-      "location": "Carmine's Chicago, 1037 N Rush St, Chicago, IL, 60611, United States"
+      "location": "Carmine's Chicago, 1037 N Rush St, Chicago, IL 60611, United States"
     },
     {
       "id": "20260308_ggv49ash2dc1u9ve311s17cv3s",
@@ -1094,7 +1094,7 @@
       "end": {
         "dateTime": "2026-04-08T18:15:00-05:00"
       },
-      "location": "Gingie, 707 N Wells St, Chicago, IL, 60654, United States"
+      "location": "Gingie, 707 N Wells St, Chicago, IL 60654, United States"
     },
     {
       "id": "_64pk4ci36cr32b9j8h2jib9k74s3eba16so32b9n8p33eh1k6oq34d2370",
@@ -1138,7 +1138,7 @@
       "end": {
         "dateTime": "2026-04-09T18:45:00-05:00"
       },
-      "location": "Segnatore, 1001 North California Avenue, Chicago, IL, 60622, US"
+      "location": "Segnatore, 1001 North California Avenue, Chicago, IL 60622, US"
     },
     {
       "id": "uj300hnb9753i9pfn6llp2nneo",
@@ -1149,7 +1149,7 @@
       "end": {
         "dateTime": "2026-04-09T18:45:00-05:00"
       },
-      "location": "Segnatore, 1001 North California Avenue, Chicago, IL, 60622, US"
+      "location": "Segnatore, 1001 North California Avenue, Chicago, IL 60622, US"
     },
     {
       "id": "_8cpk4dq369232b9l6ss36b9k6t2j2b9p6so4cb9j8os4aghk68rjcghn8c",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "_84s3ad9g6gq30ba68kq42b9k8goj6ba16ook8ba670ok6g9g8kp34dpp64",
-      "summary": "Flight to Charlotte (UA )",
+      "summary": "Flight to Charlotte (UA)",
       "start": {
         "dateTime": "2026-04-22T06:55:00-05:00"
       },
@@ -1769,10 +1769,12 @@
       "id": "_6l34cga660skcb9k8p338b9k85148b9o8gsk8b9m6cr36ga160s30hhl8g",
       "summary": "[solidcore] - Signature50: Full Body",
       "start": {
-        "dateTime": "2026-06-07T17:30:00-05:00"
+        "dateTime": "2026-06-07T17:30:00",
+        "timeZone": "UTC"
       },
       "end": {
-        "dateTime": "2026-06-07T18:20:00-05:00"
+        "dateTime": "2026-06-07T18:20:00",
+        "timeZone": "UTC"
       },
       "location": "2206 North Halsted Street, Chicago, IL 60614"
     },
@@ -2161,7 +2163,8 @@
         "dateTime": "2026-09-10T07:00:00-05:00"
       },
       "end": {
-        "dateTime": "2026-09-10T09:52:00-06:00"
+        "dateTime": "2026-09-10T09:52:00",
+        "timeZone": "America/Denver"
       },
       "location": "O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, United States"
     },
@@ -2177,6 +2180,18 @@
       "location": "Chicago ORD"
     },
     {
+      "id": "_6kskac9k8l330ba484p30b9k64r3ib9o84r32b9h8cok6dq36sr3gda58k",
+      "summary": "Flight: UA 675 from DEN to ORD",
+      "start": {
+        "dateTime": "2026-09-12T15:50:00",
+        "timeZone": "America/Denver"
+      },
+      "end": {
+        "dateTime": "2026-09-12T18:32:00-05:00"
+      },
+      "location": "Denver International Airport, 8500 Pe\u00f1a Blvd, Denver, CO 80249, United States"
+    },
+    {
       "id": "jothltfmkd0g20valnjb07stds",
       "summary": "Flight to Chicago (UA 675)",
       "start": {
@@ -2186,17 +2201,6 @@
         "dateTime": "2026-09-12T18:32:00-05:00"
       },
       "location": "Denver DEN"
-    },
-    {
-      "id": "_6kskac9k8l330ba484p30b9k64r3ib9o84r32b9h8cok6dq36sr3gda58k",
-      "summary": "Flight: UA 675 from DEN to ORD",
-      "start": {
-        "dateTime": "2026-09-12T15:50:00-06:00"
-      },
-      "end": {
-        "dateTime": "2026-09-12T18:32:00-05:00"
-      },
-      "location": "Denver International Airport, 8500 Pe\u00f1a Blvd, Denver, CO 80249, United States"
     },
     {
       "id": "_8kp3cc236p2jib9m6l1jcb9k64q48ba164rj0b9l6spj6gi485338c1o8o",
