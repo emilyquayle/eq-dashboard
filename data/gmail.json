@@ -1,10 +1,58 @@
 {
-  "updated": "2026-07-10T17:01:18Z",
+  "updated": "2026-07-10T21:01:21Z",
   "messages": [
+    {
+      "sender": "info@cfachicago.org",
+      "subject": "Explore ethical decision-making in the financial services industry.",
+      "snippet": "Register now! View in browser July 31, 2026 12:00 - 1:00 PM Virtual Link will be sent to registrants 24 hours prior to t",
+      "isUnread": true,
+      "date": "2026-07-10T19:02:15Z",
+      "threadId": "19f4d68b2983c1c6"
+    },
+    {
+      "sender": "breakingnews@nytimes.com",
+      "subject": "Breaking news: Protections for endangered species are sharply cut by Trump administration",
+      "snippet": "The move could hasten the demise of many imperiled animals, experts said. View in browser The New York Times The New Yor",
+      "isUnread": true,
+      "date": "2026-07-10T18:54:57Z",
+      "threadId": "19f4d623ea9721a5"
+    },
+    {
+      "sender": "service@lincolncommon.com",
+      "subject": "You have a delivery",
+      "snippet": "?Dear Emily Quayle, We received a Laundry Bag delivery from UPS for Emily Quayle today. You can track package history by",
+      "isUnread": true,
+      "date": "2026-07-10T18:30:15Z",
+      "threadId": "19f4d4b6a0506363"
+    },
+    {
+      "sender": "bankofamerica@emcom.bankofamerica.com",
+      "subject": "Message for EMILY: You’ve scored an easier route to your next car",
+      "snippet": "Complete our easy application, get a fast decision, and if you're a BofA Rewards™ member, enjoy a 0.10% to 0.50% auto lo",
+      "isUnread": true,
+      "date": "2026-07-10T17:37:52Z",
+      "threadId": "19f4d1b902721dd9"
+    },
+    {
+      "sender": "paperlesspost@paperlesspost.com",
+      "subject": "Jade's Baby Shower",
+      "snippet": "For: Emily Quayle VIEW THE CARD Event Invitation Jade Caudill's Baby Shower Saturday, August 15 11:00AM - 2:00PM EDT Add",
+      "isUnread": true,
+      "date": "2026-07-10T17:08:03Z",
+      "threadId": "19f4d0028e685299"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Weekend: Ditch Your Basic Black Sandals 🥴",
+      "snippet": "But first: chic shoes that won't give you blisters — Check out what we Skimm'd for you today July 10, 2026 Subscribe Rea",
+      "isUnread": true,
+      "date": "2026-07-10T17:01:41Z",
+      "threadId": "19f4cfafd6af7fd7"
+    },
     {
       "sender": "mcinfo@ups.com",
       "subject": "Your UPS Package was delivered",
-      "snippet": "UPS Hi Emily, Your package was delivered. From RTR DFW OUTBOUND 2 Delivered Friday 07/10/2026 11:34 AM Track Your...",
+      "snippet": "UPS Hi Emily, Your package was delivered. From RTR DFW OUTBOUND 2 Delivered Friday 07/10/2026 11:34 AM Track Your Packag",
       "isUnread": true,
       "date": "2026-07-10T16:38:44Z",
       "threadId": "19f4ce554ee7e8b2"
@@ -12,7 +60,7 @@
     {
       "sender": "rtr@hello.renttherunway.com",
       "subject": "Your Shipment Has Arrived",
-      "snippet": "Best. News. Ever. Rent The Runway Your order has arrived! We love saying that. ASHER Pipa Cardigan $228.00 Original...",
+      "snippet": "Best. News. Ever. Rent The Runway Your order has arrived! We love saying that. ASHER Pipa Cardigan $228.00 Original Reta",
       "isUnread": true,
       "date": "2026-07-10T16:35:18Z",
       "threadId": "19f4ce22ef78148a"
@@ -20,7 +68,7 @@
     {
       "sender": "donotreply@gopassport.com",
       "subject": "Parking Receipt - ParkChicago",
-      "snippet": "Thanks for paying for parking with ParkChicago ® Below is a receipt of your parking stay details: Session Number:...",
+      "snippet": "Thanks for paying for parking with ParkChicago ® Below is a receipt of your parking stay details: Session Number: 805485",
       "isUnread": true,
       "date": "2026-07-10T16:33:52Z",
       "threadId": "19f4ce0dda36ba8c"
@@ -28,58 +76,10 @@
     {
       "sender": "SouthwestAirlines@iluv.southwest.com",
       "subject": "Hi, Emily! You've got a Rapid Rewards account statement.",
-      "snippet": "Plus, special offers and more. View in web browser Hello Emily 4816 points | RR# 20639339346 Southwest July 10 Login |...",
+      "snippet": "Plus, special offers and more. View in web browser Hello Emily 4816 points | RR# 20639339346 Southwest July 10 Login | B",
       "isUnread": true,
       "date": "2026-07-10T16:23:13Z",
       "threadId": "19f4cd71dad3c084"
-    },
-    {
-      "sender": "onlinebanking@ealerts.bankofamerica.com",
-      "subject": "Zelle® payment of $12.00 to hang nails has been sent",
-      "snippet": "Zelle® payment of $12.00 to hang nails has been sent Sent from account ending in 6914 To 312-515-6474 View your balance...",
-      "isUnread": true,
-      "date": "2026-07-10T15:22:50Z",
-      "threadId": "19f4c9fd4205f1eb"
-    },
-    {
-      "sender": "onlinebanking@ealerts.bankofamerica.com",
-      "subject": "You've added hang nails as a Zelle recipient",
-      "snippet": "You've added hang nails 312-515-6474 Send money Be sure to double check the contact information of the Zelle® recipient...",
-      "isUnread": true,
-      "date": "2026-07-10T15:21:34Z",
-      "threadId": "19f4c9fad5fadaa4"
-    },
-    {
-      "sender": "mcinfo@ups.com",
-      "subject": "UPS Update: Package Scheduled for Delivery Today",
-      "snippet": "UPS Hi Emily, Your package is arriving today. From RTR DFW OUTBOUND 2 Estimated Delivery Friday 07/10/2026 between...",
-      "isUnread": true,
-      "date": "2026-07-10T15:21:19Z",
-      "threadId": "19f4c9e759e36e5c"
-    },
-    {
-      "sender": "loyalty@loyalty.ms.aa.com",
-      "subject": "Earn miles with AAdvantage® partners and offers",
-      "snippet": "Exclusive deals on hotels, rental cars and more!",
-      "isUnread": true,
-      "date": "2026-07-10T15:10:09Z",
-      "threadId": "19f4c9453d9f6459"
-    },
-    {
-      "sender": "donotreply@gopassport.com",
-      "subject": "Your ParkChicago account has been reloaded",
-      "snippet": "Your ParkChicago Wallet has been reloaded! Below are the details of the transaction: Transaction Number: 89635319...",
-      "isUnread": true,
-      "date": "2026-07-10T14:40:34Z",
-      "threadId": "19f4c79238b4e7b2"
-    },
-    {
-      "sender": "CFAInstitute@mail.cfainstitute.org",
-      "subject": "Market transparency, member moves, and AI expansion",
-      "snippet": "Quarterly reporting advocacy and member achievements In this issue 10 July, 2026 Media mentions Member news Social...",
-      "isUnread": true,
-      "date": "2026-07-10T14:18:45Z",
-      "threadId": "19f4c66cbaef26b0"
     }
   ]
 }
