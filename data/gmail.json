@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-10T09:01:48Z",
+  "updated": "2026-07-10T13:01:40Z",
   "messages": [
     {
+      "sender": "customerservice@jonathanadler.com",
+      "subject": "Styles That Tell A Story",
+      "snippet": "25% off tabletop touches worth talking about.",
+      "isUnread": true,
+      "date": "2026-07-10T12:15:15Z",
+      "threadId": "19f4bf41638af90b"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "Goldman Puts on the Chains",
+      "snippet": "Zuck returned to X to promote Meta's latest AI models, Kevin Warsh named Marc Andreessen to his Fed task force, CVC repl",
+      "isUnread": true,
+      "date": "2026-07-10T10:46:18Z",
+      "threadId": "19f4ba2acac89f5b"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "Don\u2019t worry, your finsta is safe",
+      "snippet": "But first: the best pet feeder for picky eaters \u2014 Check out what we Skimm'd for you today July 10, 2026 Subscribe Read i",
+      "isUnread": true,
+      "date": "2026-07-10T10:11:41Z",
+      "threadId": "19f4b83728a450d6"
+    },
+    {
       "sender": "nytdirect@nytimes.com",
-      "subject": "“This one is going in the forever rotation.”",
+      "subject": "\u201cThis one is going in the forever rotation.\u201d",
       "snippet": "Tomato and cottage cheese salad, with lots of herbs and everything bagel spice mix. View in browser|nytimes.com Ad Ad Co",
       "isUnread": true,
       "date": "2026-07-10T00:02:27Z",
@@ -56,30 +80,6 @@
       "isUnread": true,
       "date": "2026-07-09T21:04:34Z",
       "threadId": "19f48b254fa7c3dd"
-    },
-    {
-      "sender": "Noreply@mail.cfainstitute.org",
-      "subject": "An update from the Interim CEO",
-      "snippet": "Dear Colleagues, Two weeks ago, I had the pleasure of celebrating the 30 th anniversary of CFA Society Australia in Sydn",
-      "isUnread": true,
-      "date": "2026-07-09T19:01:39Z",
-      "threadId": "19f484c28e2fd2b4"
-    },
-    {
-      "sender": "larroude@larroude.com",
-      "subject": "Meet Your New Arm Candy",
-      "snippet": "The handbag drop is here.",
-      "isUnread": true,
-      "date": "2026-07-09T18:00:15Z",
-      "threadId": "19f480999ea16824"
-    },
-    {
-      "sender": "info@missionmsa.org",
-      "subject": "Mission MSA | Monthly Digest",
-      "snippet": "Your go-to source for news, updates, events, and more for the multiple system atrophy community!",
-      "isUnread": true,
-      "date": "2026-07-09T17:15:22Z",
-      "threadId": "19f47e08193d4e4d"
     }
   ]
 }
