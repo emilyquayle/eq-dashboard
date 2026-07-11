@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-10T21:01:21Z",
+  "updated": "2026-07-11T01:01:39Z",
   "messages": [
+    {
+      "sender": "larroude@larroude.com",
+      "subject": "Fiore Is Ready To Ship",
+      "snippet": "Plus, take 40% off today.",
+      "isUnread": true,
+      "date": "2026-07-11T00:01:27Z",
+      "threadId": "19f4e7aa43cfa4d4"
+    },
+    {
+      "sender": "Congressman.Quigley@mail.house.gov",
+      "subject": "Catching Up with Quigley: Week In Review",
+      "snippet": "This week, I spent time in our district, sharing resources with our community.",
+      "isUnread": true,
+      "date": "2026-07-10T22:07:43Z",
+      "threadId": "19f4e1283bbebbfb"
+    },
     {
       "sender": "info@cfachicago.org",
       "subject": "Explore ethical decision-making in the financial services industry.",
@@ -64,22 +80,6 @@
       "isUnread": true,
       "date": "2026-07-10T16:35:18Z",
       "threadId": "19f4ce22ef78148a"
-    },
-    {
-      "sender": "donotreply@gopassport.com",
-      "subject": "Parking Receipt - ParkChicago",
-      "snippet": "Thanks for paying for parking with ParkChicago ® Below is a receipt of your parking stay details: Session Number: 805485",
-      "isUnread": true,
-      "date": "2026-07-10T16:33:52Z",
-      "threadId": "19f4ce0dda36ba8c"
-    },
-    {
-      "sender": "SouthwestAirlines@iluv.southwest.com",
-      "subject": "Hi, Emily! You've got a Rapid Rewards account statement.",
-      "snippet": "Plus, special offers and more. View in web browser Hello Emily 4816 points | RR# 20639339346 Southwest July 10 Login | B",
-      "isUnread": true,
-      "date": "2026-07-10T16:23:13Z",
-      "threadId": "19f4cd71dad3c084"
     }
   ]
 }
