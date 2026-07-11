@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T16:10:47Z",
+  "updated": "2026-07-11T17:11:06Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -1755,6 +1755,17 @@
       "location": "Gibsons Bar & Steakhouse, 1028 N Rush St, Chicago, IL 60611, United States"
     },
     {
+      "id": "_6l34cga660skcb9k8p338b9k85148b9o8gsk8b9m6cr36ga160s30hhl8g",
+      "summary": "[solidcore] - Signature50: Full Body",
+      "start": {
+        "dateTime": "2026-06-07T17:30:00Z"
+      },
+      "end": {
+        "dateTime": "2026-06-07T18:20:00Z"
+      },
+      "location": "2206 North Halsted Street, Chicago, IL 60614"
+    },
+    {
       "id": "_612jecpp6d0kcb9o6kqk4b9k6gpk2ba188ok8b9l8d23gd22611j8gpk68",
       "summary": "Brow Appt. w/ Nina",
       "start": {
@@ -1764,17 +1775,6 @@
         "dateTime": "2026-06-07T16:45:00-05:00"
       },
       "location": "Benefit Cosmetics Boutique & BrowBar, 3450 N Southport Ave, Chicago, IL 60657, United States"
-    },
-    {
-      "id": "_6l34cga660skcb9k8p338b9k85148b9o8gsk8b9m6cr36ga160s30hhl8g",
-      "summary": "[solidcore] - Signature50: Full Body",
-      "start": {
-        "dateTime": "2026-06-07T17:30:00-05:00"
-      },
-      "end": {
-        "dateTime": "2026-06-07T18:20:00-05:00"
-      },
-      "location": "2206 North Halsted Street, Chicago, IL 60614"
     },
     {
       "id": "_60s4aci2891j6b9n6p1j4b9k8op30ba28933ib9j60pjee1m6d2j6c1l8c",
@@ -1968,17 +1968,6 @@
       }
     },
     {
-      "id": "2p4vsc0dkvag0p9qrhd6dvqo40",
-      "summary": "Reservation at Old Pueblo Cantina",
-      "start": {
-        "dateTime": "2026-06-18T19:30:00-05:00"
-      },
-      "end": {
-        "dateTime": "2026-06-18T20:30:00-05:00"
-      },
-      "location": "Old Pueblo Cantina, 1200 W Webster Ave, Chicago, IL 60614"
-    },
-    {
       "id": "_60s3ch216513aba26crjcb9k6t2k2b9o6l344ba564s3aghj88s4cgq464",
       "summary": "OOO",
       "start": {
@@ -1999,14 +1988,15 @@
       }
     },
     {
-      "id": "uud0272fsjnf3v1gei8nt6fevg",
-      "summary": "Reservation at SUSHI-SAN - Lincoln Park",
+      "id": "2p4vsc0dkvag0p9qrhd6dvqo40",
+      "summary": "Reservation at Old Pueblo Cantina",
       "start": {
-        "dateTime": "2026-06-19T19:15:00-05:00"
+        "dateTime": "2026-06-18T19:30:00-05:00"
       },
       "end": {
-        "dateTime": "2026-06-19T20:15:00-05:00"
-      }
+        "dateTime": "2026-06-18T20:30:00-05:00"
+      },
+      "location": "Old Pueblo Cantina, 1200 W Webster Ave, Chicago, IL 60614"
     },
     {
       "id": "_60o3eh1k68qkcba56krkcb9k8cojcba26l13eb9k60s46c1p68o38di468",
@@ -2016,6 +2006,16 @@
       },
       "end": {
         "date": "2026-06-27"
+      }
+    },
+    {
+      "id": "uud0272fsjnf3v1gei8nt6fevg",
+      "summary": "Reservation at SUSHI-SAN - Lincoln Park",
+      "start": {
+        "dateTime": "2026-06-19T19:15:00-05:00"
+      },
+      "end": {
+        "dateTime": "2026-06-19T20:15:00-05:00"
       }
     },
     {
@@ -2188,6 +2188,17 @@
       "location": "Chicago ORD"
     },
     {
+      "id": "_6kskac9k8l330ba484p30b9k64r3ib9o84r32b9h8cok6dq36sr3gda58k",
+      "summary": "Flight: UA 675 from DEN to ORD",
+      "start": {
+        "dateTime": "2026-09-12T15:50:00-05:00"
+      },
+      "end": {
+        "dateTime": "2026-09-12T18:32:00-05:00"
+      },
+      "location": "Denver International Airport, 8500 Pe\u00f1a Blvd, Denver, CO 80249, United States"
+    },
+    {
       "id": "jothltfmkd0g20valnjb07stds",
       "summary": "Flight to Chicago (UA 675)",
       "start": {
@@ -2197,17 +2208,6 @@
         "dateTime": "2026-09-12T18:32:00-05:00"
       },
       "location": "Denver DEN"
-    },
-    {
-      "id": "_6kskac9k8l330ba484p30b9k64r3ib9o84r32b9h8cok6dq36sr3gda58k",
-      "summary": "Flight: UA 675 from DEN to ORD",
-      "start": {
-        "dateTime": "2026-09-12T15:50:00-06:00"
-      },
-      "end": {
-        "dateTime": "2026-09-12T18:32:00-05:00"
-      },
-      "location": "Denver International Airport, 8500 Pe\u00f1a Blvd, Denver, CO 80249, United States"
     },
     {
       "id": "_8kp3cc236p2jib9m6l1jcb9k64q48ba164rj0b9l6spj6gi485338c1o8o",
