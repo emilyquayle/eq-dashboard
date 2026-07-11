@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-11T13:01:58Z",
+  "updated": "2026-07-11T17:02:00Z",
   "messages": [
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "This is our most popular strawberry recipe",
+      "snippet": "Strawberry spoon cake, everyone. View in browser|nytimes.com Ad Ad Cooking July 11, 2026 Ad Good morning! Today we have",
+      "isUnread": true,
+      "date": "2026-07-11T15:01:50Z",
+      "threadId": "19f51beb49e5307c"
+    },
+    {
+      "sender": "darqstl@gmail.com",
+      "subject": "FW: Delivery attempted: \"Embryolisse Lait-Crème...\" and 1 other item",
+      "snippet": "FYI: From: Amazon.com <order-update@amazon.com> Sent: Saturday, July 11, 2026 9:55 AM To: darqstl@gmail.com Subject: Del",
+      "isUnread": true,
+      "date": "2026-07-11T15:01:39Z",
+      "threadId": "19f51b2d28862566"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Homemade Pop-Tarts, Hostess Cupcakes and more",
+      "snippet": "Happy 7/11, bakers! View in browser|nytimes.com Ad Ad Bake Time July 11, 2026 Ad Homemade Pop-Tarts on shown on parchmen",
+      "isUnread": true,
+      "date": "2026-07-11T14:01:01Z",
+      "threadId": "19f517d75c4818db"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "When Friends Have Different Budgets 😬",
+      "snippet": "But first: the family trip you didn't know you needed — Check out what we Skimm'd for you today July 11, 2026 Subscribe",
+      "isUnread": true,
+      "date": "2026-07-11T13:01:34Z",
+      "threadId": "19f5144f502debb4"
+    },
     {
       "sender": "noreply@uber.com",
       "subject": "[Personal] Your Friday evening order with Uber Eats",
@@ -12,7 +44,7 @@
     {
       "sender": "larroude@larroude.com",
       "subject": "Fiore Is Ready To Ship",
-      "snippet": "Plus, take 40% off today.",
+      "snippet": "Plus, take 40% off today. ͟ ͟ ͟ ͟ ͟ ͟ ͟ ͟ ͟ ͟",
       "isUnread": true,
       "date": "2026-07-11T00:01:27Z",
       "threadId": "19f4e7aa43cfa4d4"
@@ -48,38 +80,6 @@
       "isUnread": true,
       "date": "2026-07-10T18:30:15Z",
       "threadId": "19f4d4b6a0506363"
-    },
-    {
-      "sender": "bankofamerica@emcom.bankofamerica.com",
-      "subject": "Message for EMILY: You’ve scored an easier route to your next car",
-      "snippet": "Complete our easy application, get a fast decision, and if you're a BofA Rewards™ member, enjoy a 0.10% to 0.50% auto lo",
-      "isUnread": true,
-      "date": "2026-07-10T17:37:52Z",
-      "threadId": "19f4d1b902721dd9"
-    },
-    {
-      "sender": "paperlesspost@paperlesspost.com",
-      "subject": "Jade's Baby Shower",
-      "snippet": "For: Emily Quayle VIEW THE CARD Event Invitation Jade Caudill's Baby Shower Saturday, August 15 11:00AM - 2:00PM EDT Add",
-      "isUnread": true,
-      "date": "2026-07-10T17:08:03Z",
-      "threadId": "19f4d0028e685299"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "Weekend: Ditch Your Basic Black Sandals 🩴",
-      "snippet": "But first: chic shoes that won't give you blisters — Check out what we Skimm'd for you today July 10, 2026 Subscribe Rea",
-      "isUnread": true,
-      "date": "2026-07-10T17:01:41Z",
-      "threadId": "19f4cfafd6af7fd7"
-    },
-    {
-      "sender": "mcinfo@ups.com",
-      "subject": "Your UPS Package was delivered",
-      "snippet": "UPS Hi Emily, Your package was delivered. From RTR DFW OUTBOUND 2 Delivered Friday 07/10/2026 11:34 AM Track Your Packag",
-      "isUnread": true,
-      "date": "2026-07-10T16:38:44Z",
-      "threadId": "19f4ce554ee7e8b2"
     }
   ]
 }
