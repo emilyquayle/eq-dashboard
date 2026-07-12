@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T16:10:37Z",
+  "updated": "2026-07-12T17:10:13Z",
   "events": [
     {
       "id": "_6gpjeg9p6sp3eb9n6h342b9k70o4cba26h2k8ba1691jag9p7123ec1h6k",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "_84s3ad9g6gq30ba68kq42b9k8goj6ba16ook8ba670ok6g9g8kp34dpp64",
-      "summary": "Flight to Charlotte (UA )",
+      "summary": "Flight to Charlotte (UA)",
       "start": {
         "dateTime": "2026-04-22T06:55:00-05:00"
       },
@@ -1968,17 +1968,6 @@
       }
     },
     {
-      "id": "2p4vsc0dkvag0p9qrhd6dvqo40",
-      "summary": "Reservation at Old Pueblo Cantina",
-      "start": {
-        "dateTime": "2026-06-18T19:30:00-05:00"
-      },
-      "end": {
-        "dateTime": "2026-06-18T20:30:00-05:00"
-      },
-      "location": "Old Pueblo Cantina, 1200 W Webster Ave, Chicago, IL 60614"
-    },
-    {
       "id": "_60s3ch216513aba26crjcb9k6t2k2b9o6l344ba564s3aghj88s4cgq464",
       "summary": "OOO",
       "start": {
@@ -1999,14 +1988,15 @@
       }
     },
     {
-      "id": "uud0272fsjnf3v1gei8nt6fevg",
-      "summary": "Reservation at SUSHI-SAN - Lincoln Park",
+      "id": "2p4vsc0dkvag0p9qrhd6dvqo40",
+      "summary": "Reservation at Old Pueblo Cantina",
       "start": {
-        "dateTime": "2026-06-19T19:15:00-05:00"
+        "dateTime": "2026-06-18T19:30:00-05:00"
       },
       "end": {
-        "dateTime": "2026-06-19T20:15:00-05:00"
-      }
+        "dateTime": "2026-06-18T20:30:00-05:00"
+      },
+      "location": "Old Pueblo Cantina, 1200 W Webster Ave, Chicago, IL 60614"
     },
     {
       "id": "_60o3eh1k68qkcba56krkcb9k8cojcba26l13eb9k60s46c1p68o38di468",
@@ -2016,6 +2006,16 @@
       },
       "end": {
         "date": "2026-06-27"
+      }
+    },
+    {
+      "id": "uud0272fsjnf3v1gei8nt6fevg",
+      "summary": "Reservation at SUSHI-SAN - Lincoln Park",
+      "start": {
+        "dateTime": "2026-06-19T19:15:00-05:00"
+      },
+      "end": {
+        "dateTime": "2026-06-19T20:15:00-05:00"
       }
     },
     {
@@ -2172,9 +2172,9 @@
         "dateTime": "2026-09-10T07:00:00-05:00"
       },
       "end": {
-        "dateTime": "2026-09-10T09:52:00-06:00"
+        "dateTime": "2026-09-10T09:52:00-05:00"
       },
-      "location": "O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666"
+      "location": "O'Hare International Airport, Chicago, IL"
     },
     {
       "id": "j6uku98udake4cas51inu1btqo",
@@ -2293,7 +2293,7 @@
       "end": {
         "dateTime": "2026-10-27T21:00:00-05:00"
       },
-      "location": "The Salt Shed Indoors (Shed), Chicago, IL"
+      "location": "The Salt Shed Indoors (Shed), Chicago, Illinois"
     },
     {
       "id": "20261031_jg75kt4ps505q4u01pbpictp2o",
