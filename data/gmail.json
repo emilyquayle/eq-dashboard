@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-11T21:01:15Z",
+  "updated": "2026-07-12T01:01:24Z",
   "messages": [
+    {
+      "sender": "onlinebanking@ealerts.bankofamerica.com",
+      "subject": "Your statement is available",
+      "snippet": "Your statement is available Account: ADV PLUS BANKING 6914 View statement Ask Erica, \"View my statement\" We'll never ask",
+      "isUnread": true,
+      "date": "2026-07-12T00:14:15Z",
+      "threadId": "19f53acdb83dfbf6"
+    },
+    {
+      "sender": "noreply@ewc.waxcenter.com",
+      "subject": "Emily - your reservation is soon!",
+      "snippet": "Your Reservation Reminder Emily Quayle- Your reservation is soon! Your reservation for Brazilian - (V) is scheduled for ",
+      "isUnread": true,
+      "date": "2026-07-11T22:36:54Z",
+      "threadId": "19f5353974255fbf"
+    },
+    {
+      "sender": "email@babybookie.com",
+      "subject": "Welcome to Baby Bookie!",
+      "snippet": "Hi Quayle! Thanks for joining Baby Bookie! View the list of pools you've participated in by visiting your dashboard. Or ",
+      "isUnread": true,
+      "date": "2026-07-11T22:34:30Z",
+      "threadId": "19f535167a051fdd"
+    },
     {
       "sender": "support@luxerone.com",
       "subject": "You've got a package.",
@@ -56,30 +80,6 @@
       "isUnread": true,
       "date": "2026-07-11T00:01:27Z",
       "threadId": "19f4e7aa43cfa4d4"
-    },
-    {
-      "sender": "Congressman.Quigley@mail.house.gov",
-      "subject": "Catching Up with Quigley: Week In Review",
-      "snippet": "This week, I spent time in our district, sharing resources with our community.",
-      "isUnread": true,
-      "date": "2026-07-10T22:07:43Z",
-      "threadId": "19f4e1283bbebbfb"
-    },
-    {
-      "sender": "info@cfachicago.org",
-      "subject": "Explore ethical decision-making in the financial services industry.",
-      "snippet": "Register now! View in browser July 31, 2026 12:00 - 1:00 PM Virtual Link will be sent to registrants 24 hours prior to t",
-      "isUnread": true,
-      "date": "2026-07-10T19:02:15Z",
-      "threadId": "19f4d68b2983c1c6"
-    },
-    {
-      "sender": "breakingnews@nytimes.com",
-      "subject": "Breaking news: Protections for endangered species are sharply cut by Trump administration",
-      "snippet": "The move could hasten the demise of many imperiled animals, experts said. View in browser The New York Times The New Yor",
-      "isUnread": true,
-      "date": "2026-07-10T18:54:57Z",
-      "threadId": "19f4d623ea9721a5"
     }
   ]
 }
