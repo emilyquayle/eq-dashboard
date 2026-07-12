@@ -1,10 +1,42 @@
 {
-  "updated": "2026-07-12T13:00:50Z",
+  "updated": "2026-07-12T17:01:06Z",
   "messages": [
+    {
+      "sender": "info@analuisa.com",
+      "subject": "ENTER THE PRIZE BOOTH",
+      "snippet": "Congrats! You won BIG!",
+      "isUnread": true,
+      "date": "2026-07-12T16:14:22Z",
+      "threadId": "19f571bbd39546cc"
+    },
+    {
+      "sender": "robot@letterboxd.com",
+      "subject": "Letterboxd Rushes for emilyquayle",
+      "snippet": "A weekly summary of activity from your Letterboxd friends and the wider community. Letterboxd Logo Manage Notificatio...",
+      "isUnread": true,
+      "date": "2026-07-12T13:25:53Z",
+      "threadId": "19f56c0cbbb5003b"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "A very corny skillet dinner",
+      "snippet": "Ali Slagle's skillet pork chops with buttered corn have already earned five stars. View in browser|nytimes.com Ad Ad...",
+      "isUnread": true,
+      "date": "2026-07-12T13:02:05Z",
+      "threadId": "19f5675a3f8bf7d1"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "The Coolest Way To Show a Little Skin 😘",
+      "snippet": "But first: a sunscreen for city dwellers — Check out what we Skimm'd for you today July 12, 2026 Subscribe Read in br...",
+      "isUnread": true,
+      "date": "2026-07-12T13:01:41Z",
+      "threadId": "19f566b556308dc5"
+    },
     {
       "sender": "nytdirect@nytimes.com",
       "subject": "Gameplay: Solve the Sunday Crossword",
-      "snippet": "Plus, puzzles you may have missed. View in browser|nytimes.com Ad Ad Gameplay July 12, 2026 Ad Solve the Sunday Crosswor",
+      "snippet": "Plus, puzzles you may have missed. View in browser|nytimes.com Ad Ad Gameplay July 12, 2026 Ad Solve the Sunday Cross...",
       "isUnread": true,
       "date": "2026-07-12T11:02:03Z",
       "threadId": "19f55fe13f681e02"
@@ -12,7 +44,7 @@
     {
       "sender": "newsletter@farnamstreetblog.com",
       "subject": "Brain Food: Two Types of Talent",
-      "snippet": "FS | BRAIN FOOD July 12th, 2026 - #689 - read online - Free Version Welcome to Brain Food, your weekly signal in a world",
+      "snippet": "FS | BRAIN FOOD July 12th, 2026 - #689 - read online - Free Version Welcome to Brain Food, your weekly signal in a wo...",
       "isUnread": true,
       "date": "2026-07-12T09:32:49Z",
       "threadId": "19f55ac18319f240"
@@ -20,7 +52,7 @@
     {
       "sender": "onlinebanking@ealerts.bankofamerica.com",
       "subject": "Your statement is available",
-      "snippet": "Your statement is available Account: ADV PLUS BANKING 6914 View statement Ask Erica, \"View my statement\" We'll never ask",
+      "snippet": "Your statement is available Account: ADV PLUS BANKING 6914 View statement Ask Erica, \"View my statement\" We'll never...",
       "isUnread": true,
       "date": "2026-07-12T00:14:15Z",
       "threadId": "19f53acdb83dfbf6"
@@ -28,7 +60,7 @@
     {
       "sender": "noreply@ewc.waxcenter.com",
       "subject": "Emily - your reservation is soon!",
-      "snippet": "Your Reservation Reminder Emily Quayle- Your reservation is soon! Your reservation for Brazilian - (V) is scheduled for ",
+      "snippet": "Your Reservation Reminder Emily Quayle- Your reservation is soon! Your reservation for Brazilian - (V) is scheduled f...",
       "isUnread": true,
       "date": "2026-07-11T22:36:54Z",
       "threadId": "19f5353974255fbf"
@@ -36,7 +68,7 @@
     {
       "sender": "email@babybookie.com",
       "subject": "Welcome to Baby Bookie!",
-      "snippet": "Hi Quayle! Thanks for joining Baby Bookie! View the list of pools you've participated in by visiting your dashboard. Or ",
+      "snippet": "Hi Quayle! Thanks for joining Baby Bookie! View the list of pools you've participated in by visiting your dashboard....",
       "isUnread": true,
       "date": "2026-07-11T22:34:30Z",
       "threadId": "19f535167a051fdd"
@@ -44,42 +76,10 @@
     {
       "sender": "support@luxerone.com",
       "subject": "You've got a package.",
-      "snippet": "View Profile FAQs ENTER ACCESS CODE 289310 OR SCAN QR CODE This is the first package delivered to this locker. This is t",
+      "snippet": "View Profile FAQs ENTER ACCESS CODE 289310 OR SCAN QR CODE This is the first package delivered to this locker. This i...",
       "isUnread": false,
       "date": "2026-07-11T17:56:06Z",
       "threadId": "19f525280c0833ae"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "This is our most popular strawberry recipe",
-      "snippet": "Strawberry spoon cake, everyone. View in browser|nytimes.com Ad Ad Cooking July 11, 2026 Ad Good morning! Today we have ",
-      "isUnread": true,
-      "date": "2026-07-11T15:01:50Z",
-      "threadId": "19f51beb49e5307c"
-    },
-    {
-      "sender": "darqstl@gmail.com",
-      "subject": "FW: Delivery attempted: \"Embryolisse Lait-Crème...\" and 1 other item",
-      "snippet": "FYI: From: Amazon.com <order-update@amazon.com> Sent: Saturday, July 11, 2026 9:55 AM To: darqstl@gmail.com Subject: Del",
-      "isUnread": false,
-      "date": "2026-07-11T15:01:39Z",
-      "threadId": "19f51b2d28862566"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Homemade Pop-Tarts, Hostess Cupcakes and more",
-      "snippet": "Happy 7/11, bakers! View in browser|nytimes.com Ad Ad Bake Time July 11, 2026 Ad Homemade Pop-Tarts on shown on parchmen",
-      "isUnread": true,
-      "date": "2026-07-11T14:01:01Z",
-      "threadId": "19f517d75c4818db"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "When Friends Have Different Budgets 😬",
-      "snippet": "But first: the family trip you didn't know you needed — Check out what we Skimm'd for you today July 11, 2026 Subscribe ",
-      "isUnread": true,
-      "date": "2026-07-11T13:01:34Z",
-      "threadId": "19f5144f502debb4"
     }
   ]
 }
