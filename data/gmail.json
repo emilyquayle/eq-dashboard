@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-12T09:02:28Z",
+  "updated": "2026-07-12T13:00:50Z",
   "messages": [
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Gameplay: Solve the Sunday Crossword",
+      "snippet": "Plus, puzzles you may have missed. View in browser|nytimes.com Ad Ad Gameplay July 12, 2026 Ad Solve the Sunday Crosswor",
+      "isUnread": true,
+      "date": "2026-07-12T11:02:03Z",
+      "threadId": "19f55fe13f681e02"
+    },
+    {
+      "sender": "newsletter@farnamstreetblog.com",
+      "subject": "Brain Food: Two Types of Talent",
+      "snippet": "FS | BRAIN FOOD July 12th, 2026 - #689 - read online - Free Version Welcome to Brain Food, your weekly signal in a world",
+      "isUnread": true,
+      "date": "2026-07-12T09:32:49Z",
+      "threadId": "19f55ac18319f240"
+    },
     {
       "sender": "onlinebanking@ealerts.bankofamerica.com",
       "subject": "Your statement is available",
@@ -64,22 +80,6 @@
       "isUnread": true,
       "date": "2026-07-11T13:01:34Z",
       "threadId": "19f5144f502debb4"
-    },
-    {
-      "sender": "noreply@uber.com",
-      "subject": "[Personal] Your Friday evening order with Uber Eats",
-      "snippet": "Jul 10, 2026 7:22 PM Tip Jul 10, 2026 , 7:22 PM Thanks for tipping, Emily Here's your receipt for Mixteco Grill (Lakevie",
-      "isUnread": true,
-      "date": "2026-07-11T02:03:30Z",
-      "threadId": "19f4eea5ff38020c"
-    },
-    {
-      "sender": "larroude@larroude.com",
-      "subject": "Fiore Is Ready To Ship",
-      "snippet": "Plus, take 40% off today.",
-      "isUnread": true,
-      "date": "2026-07-11T00:01:27Z",
-      "threadId": "19f4e7aa43cfa4d4"
     }
   ]
 }
