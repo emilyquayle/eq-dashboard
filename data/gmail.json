@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-12T21:06:59.417Z",
+  "updated": "2026-07-13T01:08:31Z",
   "messages": [
+    {
+      "sender": "calendar-notification@google.com",
+      "subject": "Notification: Tyler Childers @ Sun Jul 12, 2026 6:45pm (CDT) (Emily Quayle)",
+      "snippet": "Tyler Childers You have been invited by Emily Quayle to attend an event named Tyler Childers on Sunday Jul 12, 2026 \u22c5 6:",
+      "isUnread": true,
+      "date": "2026-07-12T23:14:51Z",
+      "threadId": "19f589cafe1d9fd3"
+    },
+    {
+      "sender": "no-reply@blvd.co",
+      "subject": "Please confirm your upcoming appointment with BOSS HAIR GROUP on Jul 17, 2026",
+      "snippet": "Hi Emily, your appointment at BOSS HAIR GROUP is coming up in 5 days You are scheduled for an appointment at BOSS HAIR G",
+      "isUnread": true,
+      "date": "2026-07-12T22:21:19Z",
+      "threadId": "19f586baf0360c89"
+    },
+    {
+      "sender": "loyalty@loyalty.ms.aa.com",
+      "subject": "Special Alert! Access the Admirals Club\u00ae lounge with a Citi\u00ae / AAdvantage\u00ae Executive card. You can also earn 70,000 bonus miles",
+      "snippet": "After qualifying purchases. The only card with complimentary Admirals Club \u00ae membership American Airlines AAdvantage \u00ae M",
+      "isUnread": true,
+      "date": "2026-07-12T21:39:58Z",
+      "threadId": "19f5845d2f082bca"
+    },
+    {
+      "sender": "tickets@tickets.mlb.com",
+      "subject": "Your ticket forward for Tyler Childers has been accepted",
+      "snippet": "Your ticket forward for Tyler Childers has been accepted Cubs Tickets TICKETS This email confirms that this ticket forwa",
+      "isUnread": true,
+      "date": "2026-07-12T21:21:54Z",
+      "threadId": "19f58354bdc6c9c7"
+    },
+    {
+      "sender": "tickets@tickets.mlb.com",
+      "subject": "Confirmation: Your Tyler Childers ticket forward has been sent",
+      "snippet": "Confirmation: Your Tyler Childers ticket forward has been sent cubs.com Tickets This email confirms that you forwarded a",
+      "isUnread": true,
+      "date": "2026-07-12T21:15:37Z",
+      "threadId": "19f582f88de29124"
+    },
     {
       "sender": "info@analuisa.com",
       "subject": "ENTER THE PRIZE BOOTH",
@@ -12,7 +52,7 @@
     {
       "sender": "robot@letterboxd.com",
       "subject": "Letterboxd Rushes for emilyquayle",
-      "snippet": "A weekly summary of activity from your Letterboxd friends and the wider community. Letterboxd Logo Manage Notifications ",
+      "snippet": "A weekly summary of activity from your Letterboxd friends and the wider community. Letterboxd Logo Manage Notifications",
       "isUnread": true,
       "date": "2026-07-12T13:25:53Z",
       "threadId": "19f56c0cbbb5003b"
@@ -27,8 +67,8 @@
     },
     {
       "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "The Coolest Way To Show a Little Skin 😘",
-      "snippet": "But first: a sunscreen for city dwellers — Check out what we Skimm'd for you today July 12, 2026 Subscribe Read in brows",
+      "subject": "The Coolest Way To Show a Little Skin \ud83d\ude18",
+      "snippet": "But first: a sunscreen for city dwellers \u2014 Check out what we Skimm'd for you today July 12, 2026 Subscribe Read in brows",
       "isUnread": true,
       "date": "2026-07-12T13:01:41Z",
       "threadId": "19f566b556308dc5"
@@ -40,46 +80,6 @@
       "isUnread": true,
       "date": "2026-07-12T11:02:03Z",
       "threadId": "19f55fe13f681e02"
-    },
-    {
-      "sender": "newsletter@farnamstreetblog.com",
-      "subject": "Brain Food: Two Types of Talent",
-      "snippet": "FS | BRAIN FOOD July 12th, 2026 - #689 - read online - Free Version Welcome to Brain Food, your weekly signal in a world",
-      "isUnread": true,
-      "date": "2026-07-12T09:32:49Z",
-      "threadId": "19f55ac18319f240"
-    },
-    {
-      "sender": "onlinebanking@ealerts.bankofamerica.com",
-      "subject": "Your statement is available",
-      "snippet": "Your statement is available Account: ADV PLUS BANKING 6914 View statement Ask Erica, \"View my statement\" We'll never ask",
-      "isUnread": true,
-      "date": "2026-07-12T00:14:15Z",
-      "threadId": "19f53acdb83dfbf6"
-    },
-    {
-      "sender": "noreply@ewc.waxcenter.com",
-      "subject": "Emily - your reservation is soon!",
-      "snippet": "Your Reservation Reminder Emily Quayle- Your reservation is soon! Your reservation for Brazilian - (V) is scheduled for ",
-      "isUnread": true,
-      "date": "2026-07-11T22:36:54Z",
-      "threadId": "19f5353974255fbf"
-    },
-    {
-      "sender": "email@babybookie.com",
-      "subject": "Welcome to Baby Bookie!",
-      "snippet": "Hi Quayle! Thanks for joining Baby Bookie! View the list of pools you've participated in by visiting your dashboard. Or ",
-      "isUnread": true,
-      "date": "2026-07-11T22:34:30Z",
-      "threadId": "19f535167a051fdd"
-    },
-    {
-      "sender": "support@luxerone.com",
-      "subject": "You've got a package.",
-      "snippet": "View Profile FAQs ENTER ACCESS CODE 289310 OR SCAN QR CODE This is the first package delivered to this locker. This is t",
-      "isUnread": false,
-      "date": "2026-07-11T17:56:06Z",
-      "threadId": "19f525280c0833ae"
     }
   ]
 }
