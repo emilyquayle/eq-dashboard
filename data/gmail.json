@@ -1,85 +1,77 @@
 {
-  "updated": "2026-07-13T01:08:31Z",
+  "updated": "2026-07-21T01:02:19Z",
   "messages": [
     {
-      "sender": "calendar-notification@google.com",
-      "subject": "Notification: Tyler Childers @ Sun Jul 12, 2026 6:45pm (CDT) (Emily Quayle)",
-      "snippet": "Tyler Childers You have been invited by Emily Quayle to attend an event named Tyler Childers on Sunday Jul 12, 2026 \u22c5 6:",
+      "sender": "orders-1@tickpick.com",
+      "subject": "You Purchased Tickets on TickPick (Order Number 1072561150)",
+      "snippet": "Lollapalooza - 4 Day Pass Thu Jul 30, 2026 TBD @ Hutchinson Field Grant Park Order: #1072561150 Event Name: Lollapalooza",
       "isUnread": true,
-      "date": "2026-07-12T23:14:51Z",
-      "threadId": "19f589cafe1d9fd3"
+      "date": "2026-07-21T00:53:18Z",
+      "threadId": "19f8229b7f33d57c"
     },
     {
       "sender": "no-reply@blvd.co",
-      "subject": "Please confirm your upcoming appointment with BOSS HAIR GROUP on Jul 17, 2026",
-      "snippet": "Hi Emily, your appointment at BOSS HAIR GROUP is coming up in 5 days You are scheduled for an appointment at BOSS HAIR G",
-      "isUnread": true,
-      "date": "2026-07-12T22:21:19Z",
-      "threadId": "19f586baf0360c89"
+      "subject": "Psst! Your ESTE Aesthetics verification code",
+      "snippet": "Your requested verification code is 598638 \u2013 it will expire in 15 minutes. Use this code to access your appointment hist",
+      "isUnread": false,
+      "date": "2026-07-20T23:39:13Z",
+      "threadId": "19f81e5df022499f"
     },
     {
-      "sender": "loyalty@loyalty.ms.aa.com",
-      "subject": "Special Alert! Access the Admirals Club\u00ae lounge with a Citi\u00ae / AAdvantage\u00ae Executive card. You can also earn 70,000 bonus miles",
-      "snippet": "After qualifying purchases. The only card with complimentary Admirals Club \u00ae membership American Airlines AAdvantage \u00ae M",
+      "sender": "noreply@zara.com",
+      "subject": "Your refund has been processed",
+      "snippet": "YOUR REFUND HAS BEEN PROCESSED Order N\u00ba 54356371395 REQUESTED PROCESSED REFUNDED You can see your refund details below. ",
       "isUnread": true,
-      "date": "2026-07-12T21:39:58Z",
-      "threadId": "19f5845d2f082bca"
+      "date": "2026-07-20T23:03:04Z",
+      "threadId": "19f81c4ab89e5710"
     },
     {
-      "sender": "tickets@tickets.mlb.com",
-      "subject": "Your ticket forward for Tyler Childers has been accepted",
-      "snippet": "Your ticket forward for Tyler Childers has been accepted Cubs Tickets TICKETS This email confirms that this ticket forwa",
+      "sender": "noreply@zara.com",
+      "subject": "We have received your return items",
+      "snippet": "We have received your return items REQUESTED PROCESSED REFUNDED We will send you a new email to confirm your refund soon",
       "isUnread": true,
-      "date": "2026-07-12T21:21:54Z",
-      "threadId": "19f58354bdc6c9c7"
+      "date": "2026-07-20T21:37:21Z",
+      "threadId": "19f8175b3bdcb2e2"
     },
     {
-      "sender": "tickets@tickets.mlb.com",
-      "subject": "Confirmation: Your Tyler Childers ticket forward has been sent",
-      "snippet": "Confirmation: Your Tyler Childers ticket forward has been sent cubs.com Tickets This email confirms that you forwarded a",
+      "sender": "emailme@marketing.comed.com",
+      "subject": "Pay a Lower Rate Based on When You Use Energy.",
+      "snippet": "You Can Save Based on When You Use Energy. (This email is courtesy of ComEd \u00ae ) ComEd - An Exelon Company You Can Save B",
       "isUnread": true,
-      "date": "2026-07-12T21:15:37Z",
-      "threadId": "19f582f88de29124"
+      "date": "2026-07-20T20:06:59Z",
+      "threadId": "19f812399d927e0d"
+    },
+    {
+      "sender": "reply@msg.ford.com",
+      "subject": "Hi, Emily, we haven't seen you in a while",
+      "snippet": "See offers on vehicle service you can trust.",
+      "isUnread": true,
+      "date": "2026-07-20T19:10:25Z",
+      "threadId": "19f80f293e7f73f6"
+    },
+    {
+      "sender": "announcements@jimmyjohns.com",
+      "subject": "Wrap or Toasted Sandwich for ONLY $6.99",
+      "snippet": "Redeem this tasty reward today Display images to show real-time content New Reward! Wrap or Toasted Sandwich Deal. Only ",
+      "isUnread": true,
+      "date": "2026-07-20T17:07:34Z",
+      "threadId": "19f807f531d1267d"
+    },
+    {
+      "sender": "paperlesspost@paperlesspost.com",
+      "subject": "Reminder to RSVP to Jade's Baby Shower",
+      "snippet": "Hello all! We hope you can make it to Jade's Baby Shower. A friendly reminder to please RSVP as soon as possible! Xoxo P",
+      "isUnread": true,
+      "date": "2026-07-20T16:22:32Z",
+      "threadId": "19f805614c6222fd"
     },
     {
       "sender": "info@analuisa.com",
-      "subject": "ENTER THE PRIZE BOOTH",
-      "snippet": "Congrats! You won BIG!",
+      "subject": "Spots Open: Custom Jewelry In-Store",
+      "snippet": "Summer is for jewelry that never comes off.",
       "isUnread": true,
-      "date": "2026-07-12T16:14:22Z",
-      "threadId": "19f571bbd39546cc"
-    },
-    {
-      "sender": "robot@letterboxd.com",
-      "subject": "Letterboxd Rushes for emilyquayle",
-      "snippet": "A weekly summary of activity from your Letterboxd friends and the wider community. Letterboxd Logo Manage Notifications",
-      "isUnread": true,
-      "date": "2026-07-12T13:25:53Z",
-      "threadId": "19f56c0cbbb5003b"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "A very corny skillet dinner",
-      "snippet": "Ali Slagle's skillet pork chops with buttered corn have already earned five stars. View in browser|nytimes.com Ad Ad Fiv",
-      "isUnread": true,
-      "date": "2026-07-12T13:02:05Z",
-      "threadId": "19f5675a3f8bf7d1"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "The Coolest Way To Show a Little Skin \ud83d\ude18",
-      "snippet": "But first: a sunscreen for city dwellers \u2014 Check out what we Skimm'd for you today July 12, 2026 Subscribe Read in brows",
-      "isUnread": true,
-      "date": "2026-07-12T13:01:41Z",
-      "threadId": "19f566b556308dc5"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Gameplay: Solve the Sunday Crossword",
-      "snippet": "Plus, puzzles you may have missed. View in browser|nytimes.com Ad Ad Gameplay July 12, 2026 Ad Solve the Sunday Crosswor",
-      "isUnread": true,
-      "date": "2026-07-12T11:02:03Z",
-      "threadId": "19f55fe13f681e02"
+      "date": "2026-07-20T16:09:10Z",
+      "threadId": "19f8049d8fc87e25"
     }
   ]
 }
