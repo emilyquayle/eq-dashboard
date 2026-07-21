@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-21T01:02:19Z",
+  "updated": "2026-07-21T09:11:05Z",
   "messages": [
+    {
+      "sender": "orders-2@tickpick.com",
+      "subject": "Your Tickets Are Ready For Delivery (Order Number 1072561150)",
+      "snippet": "FedEx Initiated For Order #1072561150 Please note that your tickets will be shipped no later than Mon Jul 20, 2026 Track",
+      "isUnread": true,
+      "date": "2026-07-21T04:34:13Z",
+      "threadId": "19f82f3f768a2b66"
+    },
     {
       "sender": "orders-1@tickpick.com",
       "subject": "You Purchased Tickets on TickPick (Order Number 1072561150)",
       "snippet": "Lollapalooza - 4 Day Pass Thu Jul 30, 2026 TBD @ Hutchinson Field Grant Park Order: #1072561150 Event Name: Lollapalooza",
-      "isUnread": true,
+      "isUnread": false,
       "date": "2026-07-21T00:53:18Z",
       "threadId": "19f8229b7f33d57c"
     },
@@ -51,7 +59,7 @@
     },
     {
       "sender": "announcements@jimmyjohns.com",
-      "subject": "Wrap or Toasted Sandwich for ONLY $6.99",
+      "subject": "Wrap or Toasted Sandwich for ONLY $6.99 \ud83e\udd11",
       "snippet": "Redeem this tasty reward today Display images to show real-time content New Reward! Wrap or Toasted Sandwich Deal. Only ",
       "isUnread": true,
       "date": "2026-07-20T17:07:34Z",
@@ -64,14 +72,6 @@
       "isUnread": true,
       "date": "2026-07-20T16:22:32Z",
       "threadId": "19f805614c6222fd"
-    },
-    {
-      "sender": "info@analuisa.com",
-      "subject": "Spots Open: Custom Jewelry In-Store",
-      "snippet": "Summer is for jewelry that never comes off.",
-      "isUnread": true,
-      "date": "2026-07-20T16:09:10Z",
-      "threadId": "19f8049d8fc87e25"
     }
   ]
 }
