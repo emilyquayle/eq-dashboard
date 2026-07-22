@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-22T09:04:46Z",
+  "updated": "2026-07-22T13:04:37Z",
   "messages": [
+    {
+      "sender": "SouthwestAirlines@iluv.southwest.com",
+      "subject": "$49 sale is on! So many low fares.",
+      "snippet": "Wanna low fare to a great destination? Snag one today. View in web browser Hello Emily 4816 points | RR# 20639339346 Sou",
+      "isUnread": true,
+      "date": "2026-07-22T12:43:19Z",
+      "threadId": "19f89da2ce1fbb06"
+    },
+    {
+      "sender": "customerservice@jonathanadler.com",
+      "subject": "FALL PREVIEW: New Collections Are In",
+      "snippet": "Introducing our strapping new SAVILLE collection.",
+      "isUnread": true,
+      "date": "2026-07-22T12:15:25Z",
+      "threadId": "19f89c08c5db777c"
+    },
+    {
+      "sender": "info@dagnedover.com",
+      "subject": "FOR EVERY VERSION OF EVERY DAY.",
+      "snippet": "The 365 Neo Collection.",
+      "isUnread": true,
+      "date": "2026-07-22T12:15:11Z",
+      "threadId": "19f89c05aa90be76"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "Gameplay: Retail Tycoon",
+      "snippet": "Plus, a look into cinephile tourism. View in browser|nytimes.com Ad Ad Gameplay July 22, 2026 Ad Behind the Scenes \ud83c\udf75 Fil",
+      "isUnread": true,
+      "date": "2026-07-22T11:02:11Z",
+      "threadId": "19f897fc39870db1"
+    },
     {
       "sender": "rtr@account.renttherunway.com",
       "subject": "Your Shipment is Confirmed",
@@ -48,38 +80,6 @@
       "isUnread": true,
       "date": "2026-07-21T17:22:56Z",
       "threadId": "19f85b3bd478ee3f"
-    },
-    {
-      "sender": "notification@service.tiktok.com",
-      "subject": "snjacobs12 just sent you a message",
-      "snippet": "Emily Quayle375, reply on TikTok. \u200f \u200f \u200f \u200f \u200f \u200f \u200f \u200f \u200f \u200f",
-      "isUnread": true,
-      "date": "2026-07-21T17:02:31Z",
-      "threadId": "19f85a10b0270341"
-    },
-    {
-      "sender": "larroude@larroude.com",
-      "subject": "Tell Us Your Birthday",
-      "snippet": "We'll have a little something waiting for you.",
-      "isUnread": true,
-      "date": "2026-07-21T16:47:04Z",
-      "threadId": "19f8592eb89b8c8e"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "7 tips for terrific tomato meals",
-      "snippet": "Ali Slagle shares how to make the most of those summer tomatoes. View in browser|nytimes.com Ad Ad Five Weeknight Dishes",
-      "isUnread": true,
-      "date": "2026-07-21T15:01:42Z",
-      "threadId": "19f853751c41d8ee"
-    },
-    {
-      "sender": "NO-REPLY@nm.org",
-      "subject": "Your automatic payment has been processed",
-      "snippet": "Northwestern Medicine Your automatic payment has been processed. Payment amount: 100.00 Payment method: Visa x2852 Autho",
-      "isUnread": true,
-      "date": "2026-07-21T13:05:07Z",
-      "threadId": "19f84c7d2c4a178e"
     }
   ]
 }
