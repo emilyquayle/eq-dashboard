@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-22T01:05:14Z",
+  "updated": "2026-07-22T09:04:46Z",
   "messages": [
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "Your Shipment is Confirmed",
+      "snippet": "Great choices. Rent The Runway Your shipment is confirmed Order Number 66576418 Shipping Address Emily Quayle 2345 N Lin",
+      "isUnread": true,
+      "date": "2026-07-22T02:59:56Z",
+      "threadId": "19f87c40024ca8e8"
+    },
+    {
+      "sender": "noreply@uber.com",
+      "subject": "[Personal] Your Tuesday evening order with Uber Eats",
+      "snippet": "Jul 21, 2026 7:36 PM Tip Jul 21, 2026 , 7:36 PM Thanks for tipping, Emily Here's your receipt for KALA Modern Greek. Tot",
+      "isUnread": true,
+      "date": "2026-07-22T02:14:10Z",
+      "threadId": "19f879a187081ed7"
+    },
     {
       "sender": "no-reply@blvd.co",
       "subject": "Your upcoming appointment with ESTE Aesthetics on Jul 23, 2026",
@@ -12,7 +28,7 @@
     {
       "sender": "no-reply@blvd.co",
       "subject": "Psst! Your ESTE Aesthetics verification code",
-      "snippet": "Your requested verification code is 119761 it will expire in 15 minutes. Use this code to access your appointment histor",
+      "snippet": "Your requested verification code is 119761 \u2013 it will expire in 15 minutes. Use this code to access your appointment hist",
       "isUnread": false,
       "date": "2026-07-21T23:28:45Z",
       "threadId": "19f8702a61a3e65d"
@@ -28,7 +44,7 @@
     {
       "sender": "DoNotReply@order.raisingcanes.com",
       "subject": "Raising Cane's Order Received",
-      "snippet": "RAISING CANE'S #1114 2376 North Lincoln Avenue, Chicago, IL 60614 (773) 289-5994 Order # 45289188056743944 Customer Name",
+      "snippet": "RAISING CANE'S\u00ae #1114 2376 North Lincoln Avenue, Chicago, IL 60614 (773) 289-5994 Order # 45289188056743944 Customer Nam",
       "isUnread": true,
       "date": "2026-07-21T17:22:56Z",
       "threadId": "19f85b3bd478ee3f"
@@ -36,7 +52,7 @@
     {
       "sender": "notification@service.tiktok.com",
       "subject": "snjacobs12 just sent you a message",
-      "snippet": "Emily Quayle375, reply on TikTok.",
+      "snippet": "Emily Quayle375, reply on TikTok. \u200f \u200f \u200f \u200f \u200f \u200f \u200f \u200f \u200f \u200f",
       "isUnread": true,
       "date": "2026-07-21T17:02:31Z",
       "threadId": "19f85a10b0270341"
@@ -64,22 +80,6 @@
       "isUnread": true,
       "date": "2026-07-21T13:05:07Z",
       "threadId": "19f84c7d2c4a178e"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "It’s got layers to it",
-      "snippet": "But first: a chic swimsuit that doesn't show too much skin — Check out what we Skimm'd for you today July 21, 2026 Subsc",
-      "isUnread": true,
-      "date": "2026-07-21T13:03:45Z",
-      "threadId": "19f84c7244f1d2d3"
-    },
-    {
-      "sender": "info@missionmsa.org",
-      "subject": "A Message from our Industry Partner, TEVA",
-      "snippet": "Consider taking part in the TOPAS-MSA Study evaluating an investigational drug for MSA.",
-      "isUnread": true,
-      "date": "2026-07-21T13:02:21Z",
-      "threadId": "19f84c5297c12229"
     }
   ]
 }
