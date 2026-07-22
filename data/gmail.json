@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-22T17:16:25Z",
+  "updated": "2026-07-22T21:10:29Z",
   "messages": [
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "Your Shipment is Confirmed",
+      "snippet": "Great choices. Rent The Runway Your shipment is confirmed Order Number 66587053 Shipping Address Emily Quayle 2345 N Lin",
+      "isUnread": true,
+      "date": "2026-07-22T19:33:00Z",
+      "threadId": "19f8b512a66ad197"
+    },
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "Your order is on the way!",
+      "snippet": "Tracking info inside | Rent the Runway gives you access to thousands of designer styles for less than the price of one. ",
+      "isUnread": true,
+      "date": "2026-07-22T19:29:24Z",
+      "threadId": "19f8b4de39a75cfc"
+    },
+    {
+      "sender": "cfainstitute@mail.cfainstitute.org",
+      "subject": "Renew by 31 July to maintain your charter",
+      "snippet": "31 July is approaching quickly. Your 2026–2027 CFA ® Charterholder membership renewal will become past due on 31 July. R",
+      "isUnread": true,
+      "date": "2026-07-22T18:46:48Z",
+      "threadId": "19f8b26e5316fb28"
+    },
+    {
+      "sender": "rtr@hello.renttherunway.com",
+      "subject": "Important Update: Order #66576418",
+      "snippet": "Rent The Runway Hello, The Lena Embroidered Blouse in size 36 from your latest shipment Order #66576418 isn't available ",
+      "isUnread": true,
+      "date": "2026-07-22T18:25:31Z",
+      "threadId": "19f8b136643c85de"
+    },
     {
       "sender": "noreply@uber.com",
       "subject": "New device sign-in",
@@ -48,38 +80,6 @@
       "isUnread": true,
       "date": "2026-07-22T13:57:10Z",
       "threadId": "19f8a1dbaa4e17c1"
-    },
-    {
-      "sender": "dailyskimm@morning7.theskimm.com",
-      "subject": "And Penelope is still waiting",
-      "snippet": "But first: breezy summer outfits that are top heavy-friendly — Check out what we Skimm'd for you today July 22, 2026 Sub",
-      "isUnread": true,
-      "date": "2026-07-22T13:03:19Z",
-      "threadId": "19f89f63e3af0957"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "Take Advantage of Our New Partners!",
-      "snippet": "the-apartments-at-lincoln-common NEW LC ADVANTAGE MEMBERS! LEVAIN BAKERY 849 W ARMITAGE 15% OFF* *Residents receive 15% ",
-      "isUnread": true,
-      "date": "2026-07-22T13:07:45Z",
-      "threadId": "19f89f0781599946"
-    },
-    {
-      "sender": "SouthwestAirlines@iluv.southwest.com",
-      "subject": "$49 sale is on! So many low fares.",
-      "snippet": "Wanna low fare to a great destination? Snag one today. View in web browser Hello Emily 4816 points | RR# 20639339346 Sou",
-      "isUnread": true,
-      "date": "2026-07-22T12:43:19Z",
-      "threadId": "19f89da2ce1fbb06"
-    },
-    {
-      "sender": "customerservice@jonathanadler.com",
-      "subject": "FALL PREVIEW: New Collections Are In",
-      "snippet": "Introducing our strapping new SAVILLE collection.",
-      "isUnread": true,
-      "date": "2026-07-22T14:12:30Z",
-      "threadId": "19f89c08c5db777c"
     }
   ]
 }
