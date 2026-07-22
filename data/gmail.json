@@ -1,77 +1,85 @@
 {
-  "updated": "2026-07-21T09:11:05Z",
+  "updated": "2026-07-22T01:05:14Z",
   "messages": [
     {
-      "sender": "orders-2@tickpick.com",
-      "subject": "Your Tickets Are Ready For Delivery (Order Number 1072561150)",
-      "snippet": "FedEx Initiated For Order #1072561150 Please note that your tickets will be shipped no later than Mon Jul 20, 2026 Track",
+      "sender": "no-reply@blvd.co",
+      "subject": "Your upcoming appointment with ESTE Aesthetics on Jul 23, 2026",
+      "snippet": "Your appointment is booked! You are scheduled for an appointment at ESTE Aesthetics on Thu, Jul 23, 2026 at 6:00pm CDT. ",
       "isUnread": true,
-      "date": "2026-07-21T04:34:13Z",
-      "threadId": "19f82f3f768a2b66"
-    },
-    {
-      "sender": "orders-1@tickpick.com",
-      "subject": "You Purchased Tickets on TickPick (Order Number 1072561150)",
-      "snippet": "Lollapalooza - 4 Day Pass Thu Jul 30, 2026 TBD @ Hutchinson Field Grant Park Order: #1072561150 Event Name: Lollapalooza",
-      "isUnread": false,
-      "date": "2026-07-21T00:53:18Z",
-      "threadId": "19f8229b7f33d57c"
+      "date": "2026-07-21T23:30:44Z",
+      "threadId": "19f87047c4fdd83b"
     },
     {
       "sender": "no-reply@blvd.co",
       "subject": "Psst! Your ESTE Aesthetics verification code",
-      "snippet": "Your requested verification code is 598638 \u2013 it will expire in 15 minutes. Use this code to access your appointment hist",
+      "snippet": "Your requested verification code is 119761 it will expire in 15 minutes. Use this code to access your appointment histor",
       "isUnread": false,
-      "date": "2026-07-20T23:39:13Z",
-      "threadId": "19f81e5df022499f"
+      "date": "2026-07-21T23:28:45Z",
+      "threadId": "19f8702a61a3e65d"
     },
     {
-      "sender": "noreply@zara.com",
-      "subject": "Your refund has been processed",
-      "snippet": "YOUR REFUND HAS BEEN PROCESSED Order N\u00ba 54356371395 REQUESTED PROCESSED REFUNDED You can see your refund details below. ",
+      "sender": "no-reply-YfusLp0exc4yXP5oczwEmA@mail.anthropic.com",
+      "subject": "Your secure link to Claude.ai is here | 2026-07-21 17:11:44",
+      "snippet": "Sign in to Claude.ai Click the button below to finish signing in. This link expires in 10 minutes. Sign in If you didn't",
       "isUnread": true,
-      "date": "2026-07-20T23:03:04Z",
-      "threadId": "19f81c4ab89e5710"
+      "date": "2026-07-21T22:11:44Z",
+      "threadId": "19f86bc257af91e9"
     },
     {
-      "sender": "noreply@zara.com",
-      "subject": "We have received your return items",
-      "snippet": "We have received your return items REQUESTED PROCESSED REFUNDED We will send you a new email to confirm your refund soon",
+      "sender": "DoNotReply@order.raisingcanes.com",
+      "subject": "Raising Cane's Order Received",
+      "snippet": "RAISING CANE'S #1114 2376 North Lincoln Avenue, Chicago, IL 60614 (773) 289-5994 Order # 45289188056743944 Customer Name",
       "isUnread": true,
-      "date": "2026-07-20T21:37:21Z",
-      "threadId": "19f8175b3bdcb2e2"
+      "date": "2026-07-21T17:22:56Z",
+      "threadId": "19f85b3bd478ee3f"
     },
     {
-      "sender": "emailme@marketing.comed.com",
-      "subject": "Pay a Lower Rate Based on When You Use Energy.",
-      "snippet": "You Can Save Based on When You Use Energy. (This email is courtesy of ComEd \u00ae ) ComEd - An Exelon Company You Can Save B",
+      "sender": "notification@service.tiktok.com",
+      "subject": "snjacobs12 just sent you a message",
+      "snippet": "Emily Quayle375, reply on TikTok.",
       "isUnread": true,
-      "date": "2026-07-20T20:06:59Z",
-      "threadId": "19f812399d927e0d"
+      "date": "2026-07-21T17:02:31Z",
+      "threadId": "19f85a10b0270341"
     },
     {
-      "sender": "reply@msg.ford.com",
-      "subject": "Hi, Emily, we haven't seen you in a while",
-      "snippet": "See offers on vehicle service you can trust.",
+      "sender": "larroude@larroude.com",
+      "subject": "Tell Us Your Birthday",
+      "snippet": "We'll have a little something waiting for you.",
       "isUnread": true,
-      "date": "2026-07-20T19:10:25Z",
-      "threadId": "19f80f293e7f73f6"
+      "date": "2026-07-21T16:47:04Z",
+      "threadId": "19f8592eb89b8c8e"
     },
     {
-      "sender": "announcements@jimmyjohns.com",
-      "subject": "Wrap or Toasted Sandwich for ONLY $6.99 \ud83e\udd11",
-      "snippet": "Redeem this tasty reward today Display images to show real-time content New Reward! Wrap or Toasted Sandwich Deal. Only ",
+      "sender": "nytdirect@nytimes.com",
+      "subject": "7 tips for terrific tomato meals",
+      "snippet": "Ali Slagle shares how to make the most of those summer tomatoes. View in browser|nytimes.com Ad Ad Five Weeknight Dishes",
       "isUnread": true,
-      "date": "2026-07-20T17:07:34Z",
-      "threadId": "19f807f531d1267d"
+      "date": "2026-07-21T15:01:42Z",
+      "threadId": "19f853751c41d8ee"
     },
     {
-      "sender": "paperlesspost@paperlesspost.com",
-      "subject": "Reminder to RSVP to Jade's Baby Shower",
-      "snippet": "Hello all! We hope you can make it to Jade's Baby Shower. A friendly reminder to please RSVP as soon as possible! Xoxo P",
+      "sender": "NO-REPLY@nm.org",
+      "subject": "Your automatic payment has been processed",
+      "snippet": "Northwestern Medicine Your automatic payment has been processed. Payment amount: 100.00 Payment method: Visa x2852 Autho",
       "isUnread": true,
-      "date": "2026-07-20T16:22:32Z",
-      "threadId": "19f805614c6222fd"
+      "date": "2026-07-21T13:05:07Z",
+      "threadId": "19f84c7d2c4a178e"
+    },
+    {
+      "sender": "dailyskimm@morning7.theskimm.com",
+      "subject": "It’s got layers to it",
+      "snippet": "But first: a chic swimsuit that doesn't show too much skin — Check out what we Skimm'd for you today July 21, 2026 Subsc",
+      "isUnread": true,
+      "date": "2026-07-21T13:03:45Z",
+      "threadId": "19f84c7244f1d2d3"
+    },
+    {
+      "sender": "info@missionmsa.org",
+      "subject": "A Message from our Industry Partner, TEVA",
+      "snippet": "Consider taking part in the TOPAS-MSA Study evaluating an investigational drug for MSA.",
+      "isUnread": true,
+      "date": "2026-07-21T13:02:21Z",
+      "threadId": "19f84c5297c12229"
     }
   ]
 }
