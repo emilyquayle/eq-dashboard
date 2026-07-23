@@ -1,10 +1,42 @@
 {
-  "updated": "2026-07-23T09:01:49Z",
+  "updated": "2026-07-23T13:01:07Z",
   "messages": [
+    {
+      "sender": "SouthwestAirlines@iluv.southwest.com",
+      "subject": "$49 sale! FINAL DAY 🚨",
+      "snippet": "Hurry and get a great fare before they take off! View in web browser Hello Emily 4816 points | RR# 20639339346 Southwest",
+      "isUnread": true,
+      "date": "2026-07-23T12:54:08Z",
+      "threadId": "19f8f0a5cff28d0e"
+    },
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "Your order is on the way!",
+      "snippet": "Tracking info inside | Rent the Runway gives you access to thousands of designer styles for less than the price of one. ",
+      "isUnread": true,
+      "date": "2026-07-23T12:42:33Z",
+      "threadId": "19f8effc0b1c760c"
+    },
+    {
+      "sender": "info@dagnedover.com",
+      "subject": "INSIDE 365 NEO.",
+      "snippet": "The bags that keep life together. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+      "isUnread": true,
+      "date": "2026-07-23T12:15:38Z",
+      "threadId": "19f8ee758ab9a1ff"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "Korean Traders Have Resurrected",
+      "snippet": "OpenAI's models went rogue during testing in an \"unprecedented cyber incident,\" an ethical fintech boss tried doing deal",
+      "isUnread": true,
+      "date": "2026-07-23T10:45:56Z",
+      "threadId": "19f8e9501026a738"
+    },
     {
       "sender": "noreply@glassdoor.com",
       "subject": "I countered a job offer today, and the HR manager immediately shut it down. They...",
-      "snippet": "Explore real talk from across Glassdoor 🍿",
+      "snippet": "Explore real talk from across Glassdoor 🍿 ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿",
       "isUnread": true,
       "date": "2026-07-23T03:21:22Z",
       "threadId": "19f8cfdfeaba8188"
@@ -48,38 +80,6 @@
       "isUnread": true,
       "date": "2026-07-22T21:12:15Z",
       "threadId": "19f8bac0b1c8ff9f"
-    },
-    {
-      "sender": "rtr@account.renttherunway.com",
-      "subject": "Your Shipment is Confirmed",
-      "snippet": "Great choices. Rent The Runway Your shipment is confirmed Order Number 66587053 Shipping Address Emily Quayle 2345 N Lin",
-      "isUnread": true,
-      "date": "2026-07-22T19:33:00Z",
-      "threadId": "19f8b512a66ad197"
-    },
-    {
-      "sender": "rtr@account.renttherunway.com",
-      "subject": "Your order is on the way!",
-      "snippet": "Tracking info inside | Rent the Runway gives you access to thousands of designer styles for less than the price of one. ",
-      "isUnread": true,
-      "date": "2026-07-22T19:29:24Z",
-      "threadId": "19f8b4de39a75cfc"
-    },
-    {
-      "sender": "cfainstitute@mail.cfainstitute.org",
-      "subject": "Renew by 31 July to maintain your charter",
-      "snippet": "31 July is approaching quickly. Your 2026–2027 CFA ® Charterholder membership renewal will become past due on 31 July. R",
-      "isUnread": true,
-      "date": "2026-07-22T18:46:48Z",
-      "threadId": "19f8b26e5316fb28"
-    },
-    {
-      "sender": "rtr@hello.renttherunway.com",
-      "subject": "Important Update: Order #66576418",
-      "snippet": "Rent The Runway Hello, The Lena Embroidered Blouse in size 36 from your latest shipment Order #66576418 isn't available ",
-      "isUnread": true,
-      "date": "2026-07-22T18:25:31Z",
-      "threadId": "19f8b136643c85de"
     }
   ]
 }
