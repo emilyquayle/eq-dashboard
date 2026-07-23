@@ -1,10 +1,18 @@
 {
-  "updated": "2026-07-22T22:46:16Z",
+  "updated": "2026-07-23T05:14:54Z",
   "messages": [
+    {
+      "sender": "noreply@glassdoor.com",
+      "subject": "I countered a job offer today, and the HR manager immediately shut it down. They...",
+      "snippet": "Explore real talk from across Glassdoor \ud83c\udf7f",
+      "isUnread": true,
+      "date": "2026-07-23T03:21:22Z",
+      "threadId": "19f8cfdfeaba8188"
+    },
     {
       "sender": "rewards@customer-mail.smile.io",
       "subject": "You've earned 130 Points!",
-      "snippet": "Nice work! You Placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park logo You have 4823 Points!",
+      "snippet": "Nice work! You Placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park logo You have 4823 Poin...",
       "isUnread": true,
       "date": "2026-07-22T22:46:16Z",
       "threadId": "19f8c021f1f6e853"
@@ -12,7 +20,7 @@
     {
       "sender": "orders@2501halsted.com",
       "subject": "Order 73642HAL confirmed",
-      "snippet": "Order 73642HAL Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has be",
+      "snippet": "Order 73642HAL Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has...",
       "isUnread": true,
       "date": "2026-07-22T22:46:13Z",
       "threadId": "19f8c0210ae06e51"
@@ -20,7 +28,7 @@
     {
       "sender": "reply@email.livenation.com",
       "subject": "Your Upcoming Concert Lineup: Mt. Joy, Tedeschi Trucks Band, Young the Giant",
-      "snippet": "Check Out Events in Your Area Happening Soon JUST FOR YOU Mt. Joy Mt. Joy Sat, Oct 3 Mt. Joy 2026: Celebrating 10 Years ",
+      "snippet": "Check Out Events in Your Area Happening Soon JUST FOR YOU Mt. Joy Mt. Joy Sat, Oct 3 Mt. Joy 2026: Celebrating 10 Yea...",
       "isUnread": true,
       "date": "2026-07-22T22:39:29Z",
       "threadId": "19f8bfc0183d55d2"
@@ -28,7 +36,7 @@
     {
       "sender": "mail@fandiem.com",
       "subject": "Win an Amazon River Expedition Aboard Wonder Summit!",
-      "snippet": "Your donation helps MAPS and Pachamama Alliance advance pathways to healing and create a more sustainable future for all",
+      "snippet": "Your donation helps MAPS and Pachamama Alliance advance pathways to healing and create a more sustainable future for...",
       "isUnread": true,
       "date": "2026-07-22T22:25:39Z",
       "threadId": "19f8bef41e48796f"
@@ -36,7 +44,7 @@
     {
       "sender": "rtr@account.renttherunway.com",
       "subject": "We're waiting on your returns",
-      "snippet": "Be sure to drop them off as soon as possible. Rent The Runway Hi there, it's time to return! Please return your shipment",
+      "snippet": "Be sure to drop them off as soon as possible. Rent The Runway Hi there, it's time to return! Please return your shipm...",
       "isUnread": true,
       "date": "2026-07-22T21:12:15Z",
       "threadId": "19f8bac0b1c8ff9f"
@@ -44,7 +52,7 @@
     {
       "sender": "rtr@account.renttherunway.com",
       "subject": "Your Shipment is Confirmed",
-      "snippet": "Great choices. Rent The Runway Your shipment is confirmed Order Number 66587053 Shipping Address Emily Quayle 2345 N Lin",
+      "snippet": "Great choices. Rent The Runway Your shipment is confirmed Order Number 66587053 Shipping Address Emily Quayle 2345 N...",
       "isUnread": true,
       "date": "2026-07-22T19:33:00Z",
       "threadId": "19f8b512a66ad197"
@@ -52,7 +60,7 @@
     {
       "sender": "rtr@account.renttherunway.com",
       "subject": "Your order is on the way!",
-      "snippet": "Tracking info inside | Rent the Runway gives you access to thousands of designer styles for less than the price of one. ",
+      "snippet": "Tracking info inside | Rent the Runway gives you access to thousands of designer styles for less than the price of on...",
       "isUnread": true,
       "date": "2026-07-22T19:29:24Z",
       "threadId": "19f8b4de39a75cfc"
@@ -60,7 +68,7 @@
     {
       "sender": "cfainstitute@mail.cfainstitute.org",
       "subject": "Renew by 31 July to maintain your charter",
-      "snippet": "31 July is approaching quickly. Your 2026–2027 CFA ® Charterholder membership renewal will become past due on 31 July. R",
+      "snippet": "31 July is approaching quickly. Your 2026\u20132027 CFA \u00ae Charterholder membership renewal will become past due on 31 July...",
       "isUnread": true,
       "date": "2026-07-22T18:46:48Z",
       "threadId": "19f8b26e5316fb28"
@@ -68,18 +76,10 @@
     {
       "sender": "rtr@hello.renttherunway.com",
       "subject": "Important Update: Order #66576418",
-      "snippet": "Rent The Runway Hello, The Lena Embroidered Blouse in size 36 from your latest shipment Order #66576418 isn't available ",
+      "snippet": "Rent The Runway Hello, The Lena Embroidered Blouse in size 36 from your latest shipment Order #66576418 isn't availab...",
       "isUnread": true,
       "date": "2026-07-22T18:25:31Z",
       "threadId": "19f8b136643c85de"
-    },
-    {
-      "sender": "noreply@uber.com",
-      "subject": "New device sign-in",
-      "snippet": "Your Uber account has been signed into from a new device.",
-      "isUnread": true,
-      "date": "2026-07-22T15:10:06Z",
-      "threadId": "19f8a607c3542ed3"
     }
   ]
 }
