@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-22T21:10:29Z",
+  "updated": "2026-07-22T22:46:16Z",
   "messages": [
+    {
+      "sender": "rewards@customer-mail.smile.io",
+      "subject": "You've earned 130 Points!",
+      "snippet": "Nice work! You Placed an order and earned 130 Points. Chicago Cannabis Company - Lincoln Park logo You have 4823 Points!",
+      "isUnread": true,
+      "date": "2026-07-22T22:46:16Z",
+      "threadId": "19f8c021f1f6e853"
+    },
+    {
+      "sender": "orders@2501halsted.com",
+      "subject": "Order 73642HAL confirmed",
+      "snippet": "Order 73642HAL Thank you for your order! We're getting your order ready to be shipped. We will notify you when it has be",
+      "isUnread": true,
+      "date": "2026-07-22T22:46:13Z",
+      "threadId": "19f8c0210ae06e51"
+    },
+    {
+      "sender": "reply@email.livenation.com",
+      "subject": "Your Upcoming Concert Lineup: Mt. Joy, Tedeschi Trucks Band, Young the Giant",
+      "snippet": "Check Out Events in Your Area Happening Soon JUST FOR YOU Mt. Joy Mt. Joy Sat, Oct 3 Mt. Joy 2026: Celebrating 10 Years ",
+      "isUnread": true,
+      "date": "2026-07-22T22:39:29Z",
+      "threadId": "19f8bfc0183d55d2"
+    },
+    {
+      "sender": "mail@fandiem.com",
+      "subject": "Win an Amazon River Expedition Aboard Wonder Summit!",
+      "snippet": "Your donation helps MAPS and Pachamama Alliance advance pathways to healing and create a more sustainable future for all",
+      "isUnread": true,
+      "date": "2026-07-22T22:25:39Z",
+      "threadId": "19f8bef41e48796f"
+    },
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "We're waiting on your returns",
+      "snippet": "Be sure to drop them off as soon as possible. Rent The Runway Hi there, it's time to return! Please return your shipment",
+      "isUnread": true,
+      "date": "2026-07-22T21:12:15Z",
+      "threadId": "19f8bac0b1c8ff9f"
+    },
     {
       "sender": "rtr@account.renttherunway.com",
       "subject": "Your Shipment is Confirmed",
@@ -40,46 +80,6 @@
       "isUnread": true,
       "date": "2026-07-22T15:10:06Z",
       "threadId": "19f8a607c3542ed3"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Stir-fry your lettuce; ragù your green beans",
-      "snippet": "Classic and clever summer comforts. View in browser|nytimes.com Ad Ad Cooking July 22, 2026 Ad Good morning! Today we ha",
-      "isUnread": true,
-      "date": "2026-07-22T15:02:38Z",
-      "threadId": "19f8a5ef358edc0b"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "New In",
-      "snippet": "Essentials, Casablanca and more.",
-      "isUnread": true,
-      "date": "2026-07-22T15:04:24Z",
-      "threadId": "19f8a5b47e41148a"
-    },
-    {
-      "sender": "info@analuisa.com",
-      "subject": "$100 OR LESS",
-      "snippet": "Really good jewelry. Even better prices.",
-      "isUnread": true,
-      "date": "2026-07-22T14:10:49Z",
-      "threadId": "19f8a36c0b64be9a"
-    },
-    {
-      "sender": "venmo@email.venmo.com",
-      "subject": "When the Taco Bell craving hits, we’ll be ready",
-      "snippet": "Check out with Venmo and get your get your food fast.",
-      "isUnread": true,
-      "date": "2026-07-22T14:12:30Z",
-      "threadId": "19f8a2bc28c96f28"
-    },
-    {
-      "sender": "loyalty@loyalty.ms.aa.com",
-      "subject": "Fly to Down Under from $699* round trip",
-      "snippet": "Book your next adventure and explore breathtaking wonders",
-      "isUnread": true,
-      "date": "2026-07-22T13:57:10Z",
-      "threadId": "19f8a1dbaa4e17c1"
     }
   ]
 }
