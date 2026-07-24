@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-24T01:08:39Z",
+  "updated": "2026-07-24T13:03:36Z",
   "messages": [
+    {
+      "sender": "editorpicks@nytimes.com",
+      "subject": "Opinion: Who will win the midterms?",
+      "snippet": "Six pollsters and pundits make educated guesses. View in browser|nytimes.com Ad Ad July 24, 2026 With the midterm electi",
+      "isUnread": true,
+      "date": "2026-07-24T12:01:05Z",
+      "threadId": "19f9400321273c87"
+    },
+    {
+      "sender": "notifications@united.com",
+      "subject": "What to know about your trip to New York",
+      "snippet": "United Airlines MileagePlus # XXXXX105 Flight itinerary Destination: New York Reservation number: H1MZXG Departs: July 2",
+      "isUnread": true,
+      "date": "2026-07-24T11:01:41Z",
+      "threadId": "19f93c9ca23f2f16"
+    },
+    {
+      "sender": "news@execsum.co",
+      "subject": "Japan Takes the Socialist Route",
+      "snippet": "Stocks tumbled yesterday as markets got double whammied by surging oil prices and a disappointing start to 'Mag 7' earni",
+      "isUnread": true,
+      "date": "2026-07-24T10:46:23Z",
+      "threadId": "19f93bbc74db7067"
+    },
+    {
+      "sender": "nytdirect@nytimes.com",
+      "subject": "The Morning: A big day for math",
+      "snippet": "Plus, tariffs and killer whales. View in browser|nytimes.com Ad Ad July 24, 2026 Ad Author Headshot By Sam Sifton Good m",
+      "isUnread": true,
+      "date": "2026-07-24T10:33:36Z",
+      "threadId": "19f93b0290603ef7"
+    },
+    {
+      "sender": "no-reply@email.claude.com",
+      "subject": "Fable 5 has moved to usage credits",
+      "snippet": "Claim your one-time usage credit before August 2.",
+      "isUnread": true,
+      "date": "2026-07-24T06:20:09Z",
+      "threadId": "19f92c8058979de5"
+    },
+    {
+      "sender": "venmo@venmo.com",
+      "subject": "Upcoming changes to Venmo",
+      "snippet": "We're making some updates to Venmo and the Venmo User Agreement effective August 24, 2026. Hi Emily, We're making some u",
+      "isUnread": true,
+      "date": "2026-07-24T02:38:36Z",
+      "threadId": "19f91fd3189adda3"
+    },
     {
       "sender": "donotreply@gopassport.com",
       "subject": "Parking Receipt - ParkChicago",
@@ -32,54 +80,6 @@
       "isUnread": true,
       "date": "2026-07-23T21:49:05Z",
       "threadId": "19f90f642b26a001"
-    },
-    {
-      "sender": "info@analuisa.com",
-      "subject": "Hot Date, Tonight?",
-      "snippet": "We'll help you get dressed.",
-      "isUnread": true,
-      "date": "2026-07-23T21:11:22Z",
-      "threadId": "19f90d19760d4a44"
-    },
-    {
-      "sender": "rtr@account.renttherunway.com",
-      "subject": "We're waiting on your returns",
-      "snippet": "Be sure to drop them off today Rent The Runway Send back your items, Emily Your items were due by Wednesday, July 22nd W",
-      "isUnread": false,
-      "date": "2026-07-23T21:03:40Z",
-      "threadId": "19f90af607081ebc"
-    },
-    {
-      "sender": "editorpicks@nytimes.com",
-      "subject": "A new mile world record was a dream. Josh Kerr made it reality.",
-      "snippet": "From The Athletic, a New York Times company. View in browser|nytimes.com Ad Ad July 23, 2026 Henry Nicholls/Agence Franc",
-      "isUnread": true,
-      "date": "2026-07-23T21:01:40Z",
-      "threadId": "19f90c948447917b"
-    },
-    {
-      "sender": "no-reply@rentcafe.com",
-      "subject": "Office Hours Notice",
-      "snippet": "the-apartments-at-lincoln-common Dear Residents, Our Leasing & Management Office will be closing at 3pm today for a Team",
-      "isUnread": false,
-      "date": "2026-07-23T19:46:23Z",
-      "threadId": "19f9083c892f0ee6"
-    },
-    {
-      "sender": "hello@sweetgreen.com",
-      "subject": "Your order is complete. See you soon.",
-      "snippet": "Your pickup order is complete.",
-      "isUnread": true,
-      "date": "2026-07-23T17:47:49Z",
-      "threadId": "19f90173fe4125b0"
-    },
-    {
-      "sender": "hello@sweetgreen.com",
-      "subject": "Your order has been received",
-      "snippet": "Your pickup order has been received.",
-      "isUnread": true,
-      "date": "2026-07-23T17:30:14Z",
-      "threadId": "19f900723dd9a0e4"
     }
   ]
 }
