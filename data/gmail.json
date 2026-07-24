@@ -1,6 +1,70 @@
 {
-  "updated": "2026-07-23T17:56:15Z",
+  "updated": "2026-07-24T01:08:39Z",
   "messages": [
+    {
+      "sender": "donotreply@gopassport.com",
+      "subject": "Parking Receipt - ParkChicago",
+      "snippet": "Thanks for paying for parking with ParkChicago ® Below is a receipt of your parking stay details: Session Number: 810310",
+      "isUnread": true,
+      "date": "2026-07-24T00:07:11Z",
+      "threadId": "19f91728fa7471d2"
+    },
+    {
+      "sender": "revolve@bm.revolve.com",
+      "subject": "Notice of Policy Updates",
+      "snippet": "We've updated our Terms of Service and Privacy Policy",
+      "isUnread": true,
+      "date": "2026-07-23T22:20:17Z",
+      "threadId": "19f9110b35d3799a"
+    },
+    {
+      "sender": "solidcore@solidcore.co",
+      "subject": "This August, run stronger.",
+      "snippet": "Your August muscle focus calendar is here, built around the muscles that power your run.",
+      "isUnread": true,
+      "date": "2026-07-23T21:52:09Z",
+      "threadId": "19f90f6ee0d30f3a"
+    },
+    {
+      "sender": "Sphere@email1.msg.com",
+      "subject": "There's No Place Like Sphere This Summer",
+      "snippet": "The Wizard of Oz at Sphere Sphere The Wizard of OZ at Sphere The Wizard of Oz at Sphere Make your Vegas trip unforgettab",
+      "isUnread": true,
+      "date": "2026-07-23T21:49:05Z",
+      "threadId": "19f90f642b26a001"
+    },
+    {
+      "sender": "info@analuisa.com",
+      "subject": "Hot Date, Tonight?",
+      "snippet": "We'll help you get dressed.",
+      "isUnread": true,
+      "date": "2026-07-23T21:11:22Z",
+      "threadId": "19f90d19760d4a44"
+    },
+    {
+      "sender": "rtr@account.renttherunway.com",
+      "subject": "We're waiting on your returns",
+      "snippet": "Be sure to drop them off today Rent The Runway Send back your items, Emily Your items were due by Wednesday, July 22nd W",
+      "isUnread": false,
+      "date": "2026-07-23T21:03:40Z",
+      "threadId": "19f90af607081ebc"
+    },
+    {
+      "sender": "editorpicks@nytimes.com",
+      "subject": "A new mile world record was a dream. Josh Kerr made it reality.",
+      "snippet": "From The Athletic, a New York Times company. View in browser|nytimes.com Ad Ad July 23, 2026 Henry Nicholls/Agence Franc",
+      "isUnread": true,
+      "date": "2026-07-23T21:01:40Z",
+      "threadId": "19f90c948447917b"
+    },
+    {
+      "sender": "no-reply@rentcafe.com",
+      "subject": "Office Hours Notice",
+      "snippet": "the-apartments-at-lincoln-common Dear Residents, Our Leasing & Management Office will be closing at 3pm today for a Team",
+      "isUnread": false,
+      "date": "2026-07-23T19:46:23Z",
+      "threadId": "19f9083c892f0ee6"
+    },
     {
       "sender": "hello@sweetgreen.com",
       "subject": "Your order is complete. See you soon.",
@@ -16,70 +80,6 @@
       "isUnread": true,
       "date": "2026-07-23T17:30:14Z",
       "threadId": "19f900723dd9a0e4"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "The Veggie: Let me not cook",
-      "snippet": "No- and low-cook recipes for sweaty season. View in browser|nytimes.com Ad Ad The Veggie July 23, 2026 Ad Cold tofu sala",
-      "isUnread": true,
-      "date": "2026-07-23T17:03:54Z",
-      "threadId": "19f8ff7acba50cd7"
-    },
-    {
-      "sender": "mcinfo@ups.com",
-      "subject": "UPS Update: Package Scheduled for Delivery Tomorrow",
-      "snippet": "UPS Hi Emily, Your package is arriving tomorrow. From RTR DFW OUTBOUND 2 Estimated Delivery Friday 07/24/2026 between 10",
-      "isUnread": true,
-      "date": "2026-07-23T16:21:02Z",
-      "threadId": "19f8fc7d05db7ea8"
-    },
-    {
-      "sender": "nytdirect@nytimes.com",
-      "subject": "Charred shrimp in a bright, herby, funky sauce",
-      "snippet": "This fresh take on chimichurri has miso for depth and coconut sugar for sweetness. View in browser|nytimes.com Ad Ad Coo",
-      "isUnread": true,
-      "date": "2026-07-23T15:01:31Z",
-      "threadId": "19f8f8b24ba9181d"
-    },
-    {
-      "sender": "admin@my-take.com",
-      "subject": "Help Shape Future Mountain Experiences",
-      "snippet": "Hello, Big Bear, Blue Mountain, Palisades Tahoe, Steamboat, Stratton, and Winter Park ski resorts are working together t",
-      "isUnread": true,
-      "date": "2026-07-23T15:06:03Z",
-      "threadId": "19f8f83241a9f6cc"
-    },
-    {
-      "sender": "newsletter@kith.com",
-      "subject": "Shop Sunglasses",
-      "snippet": "Discover signature handmade frames from Kith.",
-      "isUnread": true,
-      "date": "2026-07-23T15:01:33Z",
-      "threadId": "19f8f7f03630c58b"
-    },
-    {
-      "sender": "no-reply@blvd.co",
-      "subject": "Your upcoming appointment with ESTE Aesthetics on Jul 23, 2026",
-      "snippet": "Your appointment is booked! You are scheduled for an appointment at ESTE Aesthetics on Thu, Jul 23, 2026 at 6:00pm CDT. ",
-      "isUnread": true,
-      "date": "2026-07-23T14:17:46Z",
-      "threadId": "19f8f56ec095550e"
-    },
-    {
-      "sender": "no-reply@m.ouraring.com",
-      "subject": "A clearer view of blood pressure",
-      "snippet": "From nighttime trends to cuff readings, plus on demand medical guidance",
-      "isUnread": true,
-      "date": "2026-07-23T13:13:24Z",
-      "threadId": "19f8f1c02e1d0edd"
-    },
-    {
-      "sender": "noreply@uber.com",
-      "subject": "New flavors await",
-      "snippet": "Give these restaurants a try",
-      "isUnread": true,
-      "date": "2026-07-23T13:06:36Z",
-      "threadId": "19f8f15c3e3eb896"
     }
   ]
 }
